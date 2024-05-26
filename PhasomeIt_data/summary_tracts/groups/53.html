@@ -1,0 +1,41 @@
+<!doctype html>
+        <html lang="en">
+        <head>
+          <meta charset="utf-8"><title>Gene group 53</title>
+<style media="screen" type="text/css">table tr {vertical-align:top}table tr:nth-child(odd) td{ background-color:#f4f4f4 }table tr:nth-child(even) td{ background-color:#dddddd }table tr:target td{ transition:background-color 1s ease-in; -webkit-transition:background-color 1s ease-in; -moz-transition:background-color 1s ease-in; background-color: yellow; }</style>
+<script type="text/javascript">function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function colouredText(canvas, col0, col1, text, x, y) {
+  if (col0 != col1) {
+    var oddText = "";
+    var evenText = "";
+    for( var i = 0; i < text.length; ++i) {
+      if (i % 2 == 0) {
+        oddText += text[i];
+        evenText += " ";
+      } else {
+        oddText += " ";
+        evenText += text[i];
+      }
+    }
+    canvas.fillStyle = col0;
+    canvas.fillText(oddText, x, y);
+    canvas.fillStyle = col1;
+    canvas.fillText(evenText, x, y);
+  } else {
+    canvas.fillStyle = col0;
+    canvas.fillText(text, x, y);
+  }
+}
+</script></head><body><H1>Gene group 53</H1><a href="index.html">[Back to Gene Group Index]</a><p>Created: 2024-01-18 11:41:56 (GMT)</p><hr /><table><thead><tr><th>#Group</th><th>Name</th><th>Likely Function</th><th>#PV in gene</th><th>#Total PV</th><th>#Total Genes</th><th>N. meningitidis<br/><a href="../strains/0.html">MC58</a></th><th>N. meningitidis<br/><a href="../strains/1.html">N222.2</a></th><th>Unknown sp.<br/><a href="../strains/2.html">27509.gbk</a></th><th>Unknown sp.<br/><a href="../strains/3.html">27553.gbk</a></th><th>Unknown sp.<br/><a href="../strains/4.html">28262.gbk</a></th><th>Unknown sp.<br/><a href="../strains/5.html">28269.gbk</a></th><th>Unknown sp.<br/><a href="../strains/6.html">28287.gbk</a></th><th>Unknown sp.<br/><a href="../strains/7.html">53930.gbk</a></th><th>Unknown sp.<br/><a href="../strains/8.html">53948.gbk</a></th><th>Unknown sp.<br/><a href="../strains/9.html">53951.gbk</a></th></tr></thead><tbody><tr><td>53</td><td>surA</td><td>Chaperone SurA</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td><div style="background-color:#00b000"><a href="#JJDFEL_03635">JJ.._03635</a></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><hr /><H2>Annotated functions</H2><table><thead><tr><th>Function</th><th>#Occuring</th><th>score</th></tr></thead><tbody><tr><td>Chaperone SurA</td><td>1</td><td>0.29</td></tr></tbody></table><hr /><H2>27509.gbk</H2><p id="JJDFEL_03635"><b>27509.gbk : JJDFEL_03635</b> <a href="../strains/2.html#JJDFEL_03635">[tract entry]</a> <a href="#top">[top]</a></p><p><div style="margin-left: 50px">Function: Chaperone SurA</div><div style="font-family: monospace; white-space: pre; margin-left: 50px">          +0    MKIKALMIAAALLAAADVHAAPQKAKTASAKAAKAAKAAKAAKAAKA<span style="background-color:#0033dd;color:white;">AKVAKVAKVAKVAKVAKVAKVAKVAKVAKV</span>AKVAKVAATAQKEAAPAQQQGGI<br />          +100  RFSDGIAAVADNEVITRRRLAEAVAEAKANLPKDAQISESELSRQVLMQLVNQSLIVQAGKRRNIQASEAEIDAVVAQNPALKNLSPAQRRELADNIIAE<br />          +200  KVRQQAVMQNSRVGEAEVDRFIEQAQKQGITLPEGAPLRQYRAQHILIKADSENAAVGAESTIRKIYGEARSGTDFSSLARQYSQDASAGNGGDLGWFAD<br />          +300  GVMVPAFEEAVHALKPGQVGAPVRTQFGWHIIKLNEVRDAGTPQERIRNSVRQYIFQQKAEQATVNLLRDLHSGAYVDIR<br /></div></p><p>No BLAST hits</p><hr /></body></html>
