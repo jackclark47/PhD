@@ -1,0 +1,3197 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	IIDPKELI_00657	CDS	COG1281	26	910	-	[O] Disulfide bond chaperones of the HSP33
+2
+	IIDPKELI_00658	CDS	COG0791	1155	1910	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	IIDPKELI_00659	CDS	ROG2685	1929	2147	+	NA
+3
+	IIDPKELI_00660	CDS	COG1380	2292	2636	+	[R] Putative effector of murein hydrolase LrgA
+	IIDPKELI_00661	CDS	COG1346	2636	3328	+	[M] Putative effector of murein hydrolase 
+	IIDPKELI_00662	CDS	COG1364	3395	4615	+	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+4
+	IIDPKELI_00663	CDS	COG0038	4675	6111	+	[P] Chloride channel protein EriC  
+5
+	IIDPKELI_00664	CDS	COG1643	6266	7657	+	[L] HrpA-like helicases    
+6
+	IIDPKELI_00665	CDS	ROG2184	7758	8885	+	NA
+7
+	IIDPKELI_00666	CDS	COG2194	9066	10640	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+8
+	IIDPKELI_00667	CDS	COG1643	10742	13939	+	[L] HrpA-like helicases    
+	IIDPKELI_00668	CDS	ROG5978	13998	15605	+	NA
+	IIDPKELI_00669	CDS	COG2425	15596	17056	+	[R] Uncharacterized protein containing a von Willebrand
+9
+	IIDPKELI_00670	CDS	COG3039	17404	17883	-	[L] Transposase and inactivated derivatives, IS5 family
+10
+	IIDPKELI_00671	CDS	ROG6185	18115	18327	+	NA
+11
+	IIDPKELI_00672	CDS	ROG0059	18439	18708	+	NA
+12
+	IIDPKELI_00673	CDS	NA	18869	19318	-	NA
+13
+	IIDPKELI_01724	CDS	ROG4749	112	471	+	NA
+14
+	IIDPKELI_01725	CDS	ROG4729	1000	1539	-	NA
+15
+	IIDPKELI_01726	CDS	NA	1896	4013	-	NA
+16
+	IIDPKELI_01671	CDS	COG2608	365	577	-	[P] Copper chaperone    
+17
+	IIDPKELI_01672	CDS	COG1696	1206	2642	+	[M] Predicted membrane protein involved in D-alanine
+	IIDPKELI_01673	CDS	COG2845	2653	3636	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01674	CDS	ROG0823	3633	4826	+	NA
+18
+	IIDPKELI_01663	CDS	NA	268	405	-	NA
+	IIDPKELI_01664	CDS	COG0632	405	989	-	[L] Holliday junction resolvasome, DNA-binding subunit 
+19
+	IIDPKELI_01665	CDS	COG3212	1071	1397	-	[S] Predicted membrane protein   
+	IIDPKELI_01666	CDS	COG0797	1459	2178	-	[M] Lipoproteins     
+20
+	IIDPKELI_01667	CDS	COG0219	2308	2772	-	[J] Predicted rRNA methylase (SpoU class) 
+21
+	IIDPKELI_01668	CDS	COG1040	2837	3397	-	[R] Predicted amidophosphoribosyltransferases    
+22
+	IIDPKELI_01669	CDS	COG0596	3468	4304	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	IIDPKELI_01670	CDS	COG0500	4306	5094	+	[QR] SAM-dependent methyltransferases    
+23
+	IIDPKELI_01775	CDS	COG2262	148	1326	+	[R] GTPases     
+24
+	IIDPKELI_01776	CDS	NA	1605	1958	-	NA
+	IIDPKELI_01777	CDS	NA	1971	2540	-	NA
+25
+	IIDPKELI_01778	CDS	NA	3144	3413	-	NA
+26
+	IIDPKELI_01483	CDS	COG2893	211	648	+	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+	IIDPKELI_01484	CDS	COG1925	717	986	+	[G] Phosphotransferase system, HPr-related proteins  
+	IIDPKELI_01485	CDS	COG1080	986	2761	+	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+27
+	IIDPKELI_01486	CDS	COG3842	3481	4419	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+	IIDPKELI_01487	CDS	NA	4428	5303	-	NA
+28
+	IIDPKELI_01488	tRNA	NA	5492	5568	-	NA
+29
+	IIDPKELI_01489	CDS	NA	5910	7811	+	NA
+30
+	IIDPKELI_01317	CDS	COG0790	772	2178	-	[R] FOG: TPR repeat, SEL1 subfamily 
+31
+	IIDPKELI_01318	CDS	COG3562	2545	3804	-	[M] Capsule polysaccharide export protein  
+	IIDPKELI_01319	CDS	COG3563	3941	5989	-	[M] Capsule polysaccharide export protein  
+32
+	IIDPKELI_01320	CDS	COG1898	6151	6690	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	IIDPKELI_01321	CDS	COG1209	6745	7620	-	[M] dTDP-glucose pyrophosphorylase    
+	IIDPKELI_01322	CDS	COG1088	7833	8894	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	IIDPKELI_01323	CDS	COG1087	8990	9676	-	[M] UDP-glucose 4-epimerase    
+33
+	IIDPKELI_01591	CDS	COG0469	375	1847	+	[G] Pyruvate kinase    
+34
+	IIDPKELI_01592	CDS	COG2067	1972	3555	+	[I] Long-chain fatty acid transport protein 
+35
+	IIDPKELI_01593	CDS	NA	3922	4215	-	NA
+36
+	IIDPKELI_01594	CDS	COG1513	4739	4936	-	[P] Cyanate lyase    
+	IIDPKELI_01595	CDS	COG2032	4947	5963	-	[P] Cu/Zn superoxide dismutase   
+37
+	IIDPKELI_01596	CDS	COG0786	6062	6796	-	[E] Na+/glutamate symporter    
+38
+	IIDPKELI_01257	CDS	COG0254	239	454	-	[J] Ribosomal protein L31   
+39
+	IIDPKELI_01258	CDS	COG1208	692	1072	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+40
+	IIDPKELI_01259	CDS	COG1999	1289	1777	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+	IIDPKELI_01260	CDS	COG0824	1774	2157	-	[R] Predicted thioesterase    
+	IIDPKELI_01261	CDS	ROG5664	2157	2519	-	NA
+41
+	IIDPKELI_01262	CDS	COG2853	2644	3471	-	[M] Surface lipoprotein    
+	IIDPKELI_01263	CDS	COG3113	3468	3746	-	[R] Predicted NTP binding protein (contains STAS
+	IIDPKELI_01264	CDS	COG2854	3797	4387	-	[Q] ABC-type transport system involved in resistance
+	IIDPKELI_01265	CDS	COG1463	4424	4918	-	[Q] ABC-type transport system involved in resistance
+	IIDPKELI_01266	CDS	COG0767	4969	5745	-	[Q] ABC-type transport system involved in resistance
+	IIDPKELI_01267	CDS	COG1127	5793	6593	-	[Q] ABC-type transport system involved in resistance
+42
+	IIDPKELI_01268	CDS	COG2207	6766	7683	+	[K] AraC-type DNA-binding domain-containing proteins  
+43
+	IIDPKELI_01269	CDS	NA	7892	8281	+	NA
+44
+	IIDPKELI_01270	CDS	NA	8525	9967	+	NA
+45
+	IIDPKELI_01009	CDS	NA	146	313	+	NA
+46
+	IIDPKELI_01010	CDS	NA	755	1072	+	NA
+47
+	IIDPKELI_01011	CDS	NA	1317	2036	+	NA
+48
+	IIDPKELI_01012	CDS	COG1419	2083	2601	-	[N] Flagellar GTP-binding protein   
+	IIDPKELI_01013	CDS	ROG4307	2608	3672	-	NA
+49
+	IIDPKELI_01014	CDS	COG0016	3849	4907	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+	IIDPKELI_01015	CDS	COG0292	5187	5546	-	[J] Ribosomal protein L20   
+	IIDPKELI_01016	CDS	COG0291	5559	5756	-	[J] Ribosomal protein L35   
+	IIDPKELI_01017	CDS	COG0290	5903	6307	-	[J] Translation initiation factor 3 (IF-3) 
+	IIDPKELI_01018	CDS	COG0441	6442	8355	-	[J] Threonyl-tRNA synthetase    
+	IIDPKELI_01019	tRNA	NA	8409	8485	-	NA
+50
+	IIDPKELI_01020	CDS	COG0343	8664	9779	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	IIDPKELI_01021	CDS	COG0276	9789	10871	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	IIDPKELI_01022	CDS	COG2010	11063	11464	+	[C] Cytochrome c, mono- and diheme variants
+51
+	IIDPKELI_01023	CDS	COG3263	11527	11817	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+	IIDPKELI_01024	CDS	COG3263	11970	12290	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+52
+	IIDPKELI_01025	CDS	NA	12473	12772	-	NA
+53
+	IIDPKELI_01026	CDS	NA	12826	13212	+	NA
+			NA				NA
+54
+	IIDPKELI_01158	CDS	COG0057	257	1261	-	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+55
+	IIDPKELI_01159	CDS	COG0249	1705	4299	+	[L] Mismatch repair ATPase (MutS family) 
+56
+	IIDPKELI_01160	CDS	COG0454	4422	4913	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	IIDPKELI_01161	CDS	COG1196	4917	5312	-	[D] Chromosome segregation ATPases   
+	IIDPKELI_01162	CDS	COG0008	5333	6727	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+57
+	IIDPKELI_01163	CDS	COG1434	6843	7499	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_01164	CDS	COG1393	7496	7849	-	[P] Arsenate reductase and related proteins, glutaredoxin
+58
+	IIDPKELI_01165	CDS	COG0526	7973	8455	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+59
+	IIDPKELI_01166	CDS	COG2884	8651	9301	+	[D] Predicted ATPase involved in cell division
+	IIDPKELI_01167	CDS	COG2177	9298	10215	+	[D] Cell division protein   
+60
+	IIDPKELI_01168	CDS	COG5007	10305	10553	+	[K] Predicted transcriptional regulator, BolA superfamily 
+61
+	IIDPKELI_01169	CDS	NA	10620	11297	-	NA
+62
+	IIDPKELI_01675	CDS	NA	1233	1391	-	NA
+63
+	IIDPKELI_01676	CDS	NA	1548	1967	-	NA
+	IIDPKELI_01677	CDS	ROG6864	2025	2390	-	NA
+	IIDPKELI_01678	CDS	NA	2372	2917	-	NA
+64
+	IIDPKELI_01679	CDS	NA	4228	4476	-	NA
+65
+	IIDPKELI_01498	CDS	NA	265	984	-	NA
+66
+	IIDPKELI_01499	CDS	ROG3990	1014	1400	+	NA
+67
+	IIDPKELI_01500	CDS	COG2870	1642	2148	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+68
+	IIDPKELI_01501	tRNA	NA	2284	2359	-	NA
+	IIDPKELI_01502	tRNA	NA	2387	2463	-	NA
+	IIDPKELI_01503	tRNA	NA	2488	2565	-	NA
+69
+	IIDPKELI_01504	CDS	COG0190	2788	3642	+	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+70
+	IIDPKELI_01505	CDS	COG1714	3704	4285	-	[S] Predicted membrane protein/domain   
+71
+	IIDPKELI_01506	CDS	COG0136	4462	5577	+	[E] Aspartate-semialdehyde dehydrogenase    
+72
+	IIDPKELI_01507	CDS	COG3545	5670	6200	-	[R] Predicted esterase of the alpha/beta hydrolase
+	IIDPKELI_01508	CDS	COG1215	6210	6554	-	[M] Glycosyltransferases, probably involved in cell wall
+	IIDPKELI_01509	CDS	COG0708	6541	7320	-	[L] Exonuclease III    
+73
+	IIDPKELI_01510	CDS	COG0215	7491	7823	-	[J] Cysteinyl-tRNA synthetase    
+74
+	IIDPKELI_01779	CDS	COG1093	551	895	-	[J] Translation initiation factor 2, alpha subunit
+	IIDPKELI_01780	CDS	NA	933	1256	-	NA
+	IIDPKELI_01781	CDS	NA	1259	1447	-	NA
+75
+	IIDPKELI_01782	CDS	NA	1958	2329	-	NA
+	IIDPKELI_01783	CDS	NA	2343	2468	-	NA
+76
+	IIDPKELI_01784	CDS	COG4443	2709	2915	-	[S] Uncharacterized protein conserved in bacteria 
+77
+	IIDPKELI_01111	CDS	NA	1142	3910	+	NA
+78
+	IIDPKELI_01112	CDS	COG0527	5550	6767	-	[E] Aspartokinases     
+79
+	IIDPKELI_01113	CDS	COG0689	6969	7697	-	[J] RNase PH    
+80
+	IIDPKELI_01114	CDS	COG0589	7779	8243	-	[T] Universal stress protein UspA and related
+81
+	IIDPKELI_01115	CDS	COG1179	8460	9236	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+82
+	IIDPKELI_01116	CDS	NA	9374	9901	+	NA
+83
+	IIDPKELI_01117	CDS	COG1354	10072	10926	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_01118	CDS	COG1488	10967	12175	+	[H] Nicotinic acid phosphoribosyltransferase   
+84
+	IIDPKELI_00607	CDS	COG0192	290	1459	-	[H] S-adenosylmethionine synthetase    
+85
+	IIDPKELI_00608	CDS	COG1560	1805	2701	+	[M] Lauroyl/myristoyl acyltransferase    
+86
+	IIDPKELI_00609	CDS	COG0533	2745	3809	-	[O] Metal-dependent proteases with possible chaperone activity
+87
+	IIDPKELI_00610	CDS	COG0755	3926	5113	-	[O] ABC-type transport system involved in cytochrome
+	IIDPKELI_00611	CDS	COG1333	5106	7058	-	[O] ResB protein required for cytochrome c
+88
+	IIDPKELI_00612	CDS	COG2863	7335	7958	-	[C] Cytochrome c553    
+89
+	IIDPKELI_00613	CDS	COG0218	8164	8793	+	[R] Predicted GTPase    
+90
+	IIDPKELI_00614	CDS	COG5009	8914	11310	-	[M] Membrane carboxypeptidase/penicillin-binding protein   
+91
+	IIDPKELI_00615	CDS	COG4972	11462	12577	+	[NU] Tfp pilus assembly protein, ATPase PilM
+	IIDPKELI_00616	CDS	COG3166	12580	13179	+	[NU] Tfp pilus assembly protein PilN 
+	IIDPKELI_00617	CDS	COG3167	13180	13827	+	[NU] Tfp pilus assembly protein PilO 
+	IIDPKELI_00618	CDS	COG3168	13845	14390	+	[NU] Tfp pilus assembly protein PilP 
+	IIDPKELI_00619	CDS	COG4796	14409	16694	+	[U] Type II secretory pathway, component HofQ
+92
+	IIDPKELI_00620	CDS	COG0703	17872	18384	+	[E] Shikimate kinase    
+	IIDPKELI_00621	CDS	COG0337	18464	19543	+	[E] 3-dehydroquinate synthetase    
+93
+	IIDPKELI_01680	CDS	COG1451	264	956	-	[R] Predicted metal-dependent hydrolase   
+94
+	IIDPKELI_01681	CDS	NA	1064	2257	-	NA
+95
+	IIDPKELI_01682	CDS	COG1540	2386	3123	-	[R] Uncharacterized proteins, homologs of lactam utilization
+	IIDPKELI_01683	CDS	COG1984	3110	4039	-	[E] Allophanate hydrolase subunit 2  
+	IIDPKELI_01684	CDS	COG2049	4036	4683	-	[E] Allophanate hydrolase subunit 1  
+96
+	IIDPKELI_01830	CDS	COG2895	1406	2692	-	[P] GTPases - Sulfate adenylate transferase subunit
+	IIDPKELI_01831	CDS	COG0175	2731	2943	-	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+97
+	IIDPKELI_00763	CDS	NA	329	586	-	NA
+98
+	IIDPKELI_00764	CDS	NA	853	1044	+	NA
+99
+	IIDPKELI_00765	CDS	COG0722	1253	2308	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+	IIDPKELI_00766	CDS	COG0262	2376	2864	+	[H] Dihydrofolate reductase    
+100
+	IIDPKELI_00767	CDS	COG2954	3214	3690	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00768	CDS	COG1981	3702	4127	-	[S] Predicted membrane protein   
+101
+	IIDPKELI_00769	CDS	NA	4244	4489	+	NA
+102
+	IIDPKELI_00770	CDS	COG3468	6198	8057	+	[MU] Type V secretory pathway, adhesin AidA
+103
+	IIDPKELI_00771	CDS	ROG3350	8332	9765	+	NA
+104
+	IIDPKELI_00772	CDS	COG4255	9966	10934	-	[S] Uncharacterized protein conserved in bacteria 
+105
+	IIDPKELI_00773	CDS	COG0739	11011	12303	+	[M] Membrane proteins related to metalloendopeptidases 
+106
+	IIDPKELI_00774	CDS	COG1738	13242	13928	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_00775	CDS	COG0780	14005	14478	-	[R] Enzyme related to GTP cyclohydrolase I
+107
+	IIDPKELI_00776	CDS	ROG4749	14741	15100	+	NA
+	IIDPKELI_00777	CDS	COG1566	15144	16316	+	[V] Multidrug resistance efflux pump  
+	IIDPKELI_00778	CDS	NA	16375	16857	+	NA
+108
+	IIDPKELI_00502	CDS	COG0316	48	368	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_00503	CDS	COG0822	455	841	-	[C] NifU homolog involved in Fe-S cluster
+109
+	IIDPKELI_00504	CDS	NA	907	1035	-	NA
+110
+	IIDPKELI_00505	CDS	COG1104	1102	2316	-	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+	IIDPKELI_00506	CDS	COG1959	2345	2791	-	[K] Predicted transcriptional regulator   
+111
+	IIDPKELI_00507	CDS	COG1304	3082	4254	+	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+112
+	IIDPKELI_00508	CDS	COG3421	4398	7178	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00509	CDS	COG2189	7168	8541	-	[L] Adenine specific DNA methylase Mod 
+	IIDPKELI_00510	CDS	COG2189	8874	9338	-	[L] Adenine specific DNA methylase Mod 
+113
+	IIDPKELI_00511	CDS	COG0130	9555	10499	-	[J] Pseudouridine synthase    
+	IIDPKELI_00512	CDS	COG0858	10511	10882	-	[J] Ribosome-binding factor A   
+114
+	IIDPKELI_00513	CDS	COG1219	11072	12316	+	[O] ATP-dependent protease Clp, ATPase subunit 
+115
+	IIDPKELI_00514	CDS	COG4992	12381	13574	-	[E] Ornithine/acetylornithine aminotransferase    
+116
+	IIDPKELI_00515	CDS	NA	13978	14478	+	NA
+117
+	IIDPKELI_00516	CDS	ROG2194	14563	15117	+	NA
+118
+	IIDPKELI_00517	CDS	COG0513	15606	16994	-	[LKJ] Superfamily II DNA and RNA helicases
+119
+	IIDPKELI_00518	CDS	COG1092	17323	18270	+	[R] Predicted SAM-dependent methyltransferases   
+120
+	IIDPKELI_00519	CDS	COG0526	18323	18655	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+121
+	IIDPKELI_00520	CDS	COG2846	18957	19430	+	[D] Regulator of cell morphogenesis and NO
+122
+	IIDPKELI_00521	CDS	COG0171	19500	20291	-	[H] NAD synthase    
+123
+	IIDPKELI_00522	CDS	COG1570	20518	21873	+	[L] Exonuclease VII, large subunit  
+124
+	IIDPKELI_00523	CDS	NA	22084	22575	-	NA
+	IIDPKELI_00524	CDS	NA	22591	22764	-	NA
+125
+	IIDPKELI_01918	CDS	NA	387	869	-	NA
+126
+	IIDPKELI_01919	CDS	NA	1002	1490	-	NA
+127
+	IIDPKELI_01531	CDS	COG4942	62	1759	+	[D] Membrane-bound metallopeptidase    
+	IIDPKELI_01532	CDS	COG0793	1886	3370	+	[M] Periplasmic protease    
+128
+	IIDPKELI_01533	CDS	COG0556	3627	5726	+	[L] Helicase subunit of the DNA excision
+	IIDPKELI_01534	CDS	COG2357	5772	7040	+	[S] Uncharacterized protein conserved in bacteria 
+129
+	IIDPKELI_01715	CDS	COG2274	80	331	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+130
+	IIDPKELI_01716	CDS	NA	1309	1530	+	NA
+131
+	IIDPKELI_01717	CDS	COG2931	1996	2280	+	[Q] RTX toxins and related Ca2+-binding proteins
+	IIDPKELI_01718	CDS	ROG4851	2322	2816	+	NA
+	IIDPKELI_01719	CDS	COG2931	2818	3342	+	[Q] RTX toxins and related Ca2+-binding proteins
+132
+	IIDPKELI_01720	CDS	ROG1519	3636	4151	+	NA
+133
+	IIDPKELI_00551	CDS	COG1012	81	215	+	[C] NAD-dependent aldehyde dehydrogenases   
+134
+	IIDPKELI_00552	CDS	ROG1544	263	697	-	NA
+135
+	IIDPKELI_00553	CDS	COG0144	1454	2710	-	[J] tRNA and rRNA cytosine-C5-methylases  
+136
+	IIDPKELI_00554	CDS	NA	3058	3399	-	NA
+137
+	IIDPKELI_00555	CDS	COG3782	3602	4459	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00556	CDS	COG0565	4520	5335	-	[J] rRNA methylase    
+138
+	IIDPKELI_00557	CDS	NA	5399	5569	+	NA
+	IIDPKELI_00558	CDS	COG0483	5579	6364	+	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+139
+	IIDPKELI_00559	CDS	COG1629	6634	8178	+	[P] Outer membrane receptor proteins, mostly Fe
+	IIDPKELI_00560	CDS	COG1629	8259	8729	+	[P] Outer membrane receptor proteins, mostly Fe
+140
+	IIDPKELI_00561	CDS	COG5339	8853	10403	+	[S] Uncharacterized protein conserved in bacteria 
+141
+	IIDPKELI_00562	CDS	COG1249	10764	12551	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	IIDPKELI_00563	CDS	COG0508	12628	14211	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	IIDPKELI_00564	CDS	COG2609	14361	17024	-	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+142
+	IIDPKELI_00565	CDS	COG0442	17718	19430	+	[J] Prolyl-tRNA synthetase    
+143
+	IIDPKELI_00566	CDS	COG0179	19493	20149	+	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+144
+	IIDPKELI_00567	CDS	COG0816	20159	20614	-	[L] Predicted endonuclease involved in recombination (possible
+	IIDPKELI_00568	CDS	COG1678	20607	21155	-	[K] Putative transcriptional regulator   
+	IIDPKELI_00569	CDS	COG3045	21157	21717	-	[S] Uncharacterized protein conserved in bacteria 
+145
+	IIDPKELI_01229	CDS	COG2217	4	255	+	[P] Cation transport ATPase   
+146
+	IIDPKELI_01230	CDS	COG0543	1026	1802	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+147
+	IIDPKELI_01231	CDS	ROG3520	1990	2772	-	NA
+	IIDPKELI_01232	CDS	COG0498	2831	4240	-	[E] Threonine synthase    
+148
+	IIDPKELI_01233	CDS	ROG6903	4313	4684	-	NA
+149
+	IIDPKELI_01234	CDS	ROG2138	4936	6405	-	NA
+150
+	IIDPKELI_01235	CDS	COG0583	6661	7575	+	[K] Transcriptional regulator    
+151
+	IIDPKELI_01236	CDS	ROG2552	7847	8539	-	NA
+152
+	IIDPKELI_01237	CDS	NA	8564	8785	+	NA
+153
+	IIDPKELI_01238	CDS	NA	9265	9735	-	NA
+154
+	IIDPKELI_01343	CDS	COG0583	438	1367	-	[K] Transcriptional regulator    
+155
+	IIDPKELI_01344	CDS	COG0327	1498	2247	+	[S] Uncharacterized conserved protein   
+156
+	IIDPKELI_01345	CDS	COG0723	2370	2951	+	[C] Rieske Fe-S protein   
+	IIDPKELI_01346	CDS	COG1290	2970	4319	+	[C] Cytochrome b subunit of the bc
+	IIDPKELI_01347	CDS	COG2857	4334	5122	+	[C] Cytochrome c1    
+157
+	IIDPKELI_01348	CDS	COG1322	5461	7245	+	[S] Uncharacterized protein conserved in bacteria 
+158
+	IIDPKELI_01349	CDS	COG0491	7452	8084	-	[R] Zn-dependent hydrolases, including glyoxylases  
+159
+	IIDPKELI_01350	CDS	COG1793	8176	9000	+	[L] ATP-dependent DNA ligase   
+160
+	IIDPKELI_01351	CDS	NA	9279	9419	-	NA
+			NA				NA
+161
+	IIDPKELI_00283	CDS	NA	110	928	+	NA
+162
+	IIDPKELI_00284	CDS	COG0586	1092	1736	+	[S] Uncharacterized membrane-associated protein   
+	IIDPKELI_00285	CDS	COG0488	1755	3665	+	[R] ATPase components of ABC transporters with
+	IIDPKELI_00286	CDS	NA	3686	4051	+	NA
+163
+	IIDPKELI_00287	CDS	COG0147	4163	5638	+	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	IIDPKELI_00288	CDS	ROG7587	5635	6180	+	NA
+	IIDPKELI_00289	CDS	COG0026	6177	7313	+	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+	IIDPKELI_00290	CDS	COG0454	7360	7842	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+164
+	IIDPKELI_00291	CDS	COG1613	7948	9003	+	[P] ABC-type sulfate transport system, periplasmic component
+	IIDPKELI_00292	CDS	NA	9000	9194	+	NA
+165
+	IIDPKELI_00293	CDS	COG2840	9585	10190	+	[S] Uncharacterized protein conserved in bacteria 
+166
+	IIDPKELI_00295	CDS	COG2801	10932	11681	-	[L] Transposase and inactivated derivatives  
+	IIDPKELI_00296	CDS	NA	11686	12096	-	NA
+	IIDPKELI_00297	CDS	ROG6087	12093	12425	-	NA
+167
+	IIDPKELI_00298	CDS	COG3926	12534	13037	-	[R] Putative secretion activating protein  
+168
+	IIDPKELI_00299	CDS	COG0306	13127	13609	-	[P] Phosphate/sulphate permeases    
+	IIDPKELI_00300	CDS	NA	13606	14574	-	NA
+169
+	IIDPKELI_00301	CDS	NA	14808	15053	-	NA
+	IIDPKELI_00302	CDS	COG1476	15082	15459	-	[K] Predicted transcriptional regulators   
+170
+	IIDPKELI_00303	CDS	COG3177	15764	16054	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_00304	CDS	ROG3037	16099	16974	+	NA
+171
+	IIDPKELI_00305	CDS	COG0582	17286	17858	+	[L] Integrase     
+172
+	IIDPKELI_00306	CDS	ROG0535	17938	18141	+	NA
+	IIDPKELI_00307	CDS	NA	18188	18469	+	NA
+	IIDPKELI_00308	CDS	COG1476	18481	18693	+	[K] Predicted transcriptional regulators   
+173
+	IIDPKELI_00309	CDS	COG3039	18924	19883	-	[L] Transposase and inactivated derivatives, IS5 family
+174
+	IIDPKELI_00310	CDS	ROG0799	20070	20252	+	NA
+175
+	IIDPKELI_00311	CDS	COG0042	20314	21315	-	[J] tRNA-dihydrouridine synthase    
+176
+	IIDPKELI_00312	CDS	COG0247	21392	25225	-	[C] Fe-S oxidoreductase    
+177
+	IIDPKELI_00313	CDS	COG0277	25750	27441	+	[C] FAD/FMN-containing dehydrogenases    
+178
+	IIDPKELI_00314	CDS	ROG0608	27736	28107	+	NA
+179
+	IIDPKELI_00315	CDS	COG2128	28262	28810	+	[S] Uncharacterized conserved protein   
+180
+	IIDPKELI_00316	CDS	NA	28857	29336	-	NA
+181
+	IIDPKELI_01057	CDS	NA	7	486	+	NA
+182
+	IIDPKELI_01058	CDS	COG0760	2053	3177	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	IIDPKELI_01059	CDS	COG1452	3282	5690	-	[M] Organic solvent tolerance protein OstA 
+183
+	IIDPKELI_01060	CDS	COG3178	5760	6764	+	[R] Predicted phosphotransferase related to Ser/Thr protein
+184
+	IIDPKELI_01061	CDS	COG1651	6821	7519	-	[O] Protein-disulfide isomerase    
+185
+	IIDPKELI_01062	CDS	NA	7546	7737	+	NA
+	IIDPKELI_01063	CDS	COG0728	7737	9275	+	[R] Uncharacterized membrane protein, putative virulence factor
+186
+	IIDPKELI_01064	CDS	COG0429	9408	10364	+	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+	IIDPKELI_01065	CDS	COG0134	10413	11195	+	[E] Indole-3-glycerol phosphate synthase   
+187
+	IIDPKELI_01066	CDS	COG0514	11260	13560	+	[L] Superfamily II DNA helicase  
+188
+	IIDPKELI_01815	CDS	COG3039	247	585	+	[L] Transposase and inactivated derivatives, IS5 family
+189
+	IIDPKELI_01816	CDS	COG0546	689	1246	+	[R] Predicted phosphatases    
+190
+	IIDPKELI_01817	CDS	COG0761	1333	2301	-	[IM] Penicillin tolerance protein   
+	IIDPKELI_01818	CDS	COG0597	2330	2920	-	[MU] Lipoprotein signal peptidase   
+			NA				NA
+191
+	IIDPKELI_01619	CDS	COG0758	23	223	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	IIDPKELI_01620	CDS	COG2922	249	710	+	[S] Uncharacterized protein conserved in bacteria 
+192
+	IIDPKELI_01621	CDS	COG0550	789	3095	+	[L] Topoisomerase IA    
+193
+	IIDPKELI_01622	CDS	NA	3168	3863	-	NA
+	IIDPKELI_01623	CDS	NA	3883	4434	-	NA
+194
+	IIDPKELI_01624	CDS	COG2932	4553	4930	+	[K] Predicted transcriptional regulator   
+195
+	IIDPKELI_01625	CDS	COG0742	5019	5588	+	[L] N6-adenine-specific methylase    
+196
+	IIDPKELI_01626	CDS	COG1145	5711	5962	+	[C] Ferredoxin     
+197
+	IIDPKELI_01627	tRNA	NA	6059	6142	+	NA
+	IIDPKELI_01628	tRNA	NA	6173	6246	+	NA
+	IIDPKELI_01629	tRNA	NA	6256	6330	+	NA
+198
+	IIDPKELI_01839	CDS	ROG1609	165	488	+	NA
+199
+	IIDPKELI_01840	CDS	NA	602	2779	+	NA
+200
+	IIDPKELI_01809	CDS	COG0644	305	1369	-	[C] Dehydrogenases (flavoproteins)    
+201
+	IIDPKELI_01810	CDS	NA	1675	3048	-	NA
+			NA				NA
+202
+	IIDPKELI_01845	CDS	COG0042	181	1191	+	[J] tRNA-dihydrouridine synthase    
+	IIDPKELI_01846	CDS	COG2901	1221	1460	+	[KL] Factor for inversion stimulation Fis, transcriptional
+	IIDPKELI_01847	CDS	COG0817	1463	1999	+	[L] Holliday junction resolvasome, endonuclease subunit 
+203
+	IIDPKELI_01848	CDS	NA	1977	2240	-	NA
+			NA				NA
+204
+	IIDPKELI_00998	CDS	COG1757	29	985	+	[C] Na+/H+ antiporter    
+205
+	IIDPKELI_00999	CDS	COG4535	1114	1938	-	[P] Putative Mg2+ and Co2+ transporter CorC
+	IIDPKELI_01000	CDS	COG0319	1940	2455	-	[R] Predicted metal-dependent hydrolase   
+206
+	IIDPKELI_01001	CDS	COG0181	2574	3509	+	[H] Porphobilinogen deaminase    
+207
+	IIDPKELI_01002	CDS	COG1448	3913	5106	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+208
+	IIDPKELI_01003	CDS	ROG5235	5188	5685	-	NA
+209
+	IIDPKELI_01004	CDS	COG4391	5801	6004	+	[S] Uncharacterized protein conserved in bacteria 
+210
+	IIDPKELI_01005	CDS	COG1620	6172	7758	-	[C] L-lactate permease    
+211
+	IIDPKELI_01006	CDS	COG2908	8014	8748	-	[S] Uncharacterized protein conserved in bacteria 
+212
+	IIDPKELI_01007	CDS	COG1196	8998	12483	+	[D] Chromosome segregation ATPases   
+213
+	IIDPKELI_01008	CDS	NA	12834	13880	-	NA
+214
+	IIDPKELI_01575	CDS	COG0445	65	1960	-	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+215
+	IIDPKELI_01576	CDS	COG1115	2285	3712	-	[E] Na+/alanine symporter    
+216
+	IIDPKELI_01577	CDS	COG1995	3872	4864	+	[H] Pyridoxal phosphate biosynthesis protein  
+217
+	IIDPKELI_01578	CDS	NA	5907	6842	-	NA
+218
+	IIDPKELI_01916	CDS	NA	435	647	-	NA
+219
+	IIDPKELI_01917	CDS	NA	724	1083	-	NA
+220
+	IIDPKELI_01860	CDS	COG1755	149	658	-	[S] Uncharacterized protein conserved in bacteria 
+221
+	IIDPKELI_01861	CDS	NA	990	1322	-	NA
+222
+	IIDPKELI_01862	CDS	NA	1612	2448	+	NA
+			NA				NA
+223
+	IIDPKELI_01446	CDS	COG0736	146	523	-	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+224
+	IIDPKELI_01447	CDS	ROG1450	723	1490	-	NA
+	IIDPKELI_01448	CDS	ROG1324	1500	2279	-	NA
+	IIDPKELI_01449	CDS	COG0854	2326	3054	-	[H] Pyridoxal phosphate biosynthesis protein  
+	IIDPKELI_01450	CDS	COG1381	3078	3872	-	[L] Recombinational DNA repair protein (RecF pathway)
+	IIDPKELI_01451	CDS	COG0077	3903	4991	-	[E] Prephenate dehydratase    
+225
+	IIDPKELI_01452	CDS	NA	5069	6301	-	NA
+226
+	IIDPKELI_01453	CDS	COG0697	6821	7675	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+227
+	IIDPKELI_01388	CDS	COG0489	646	1773	-	[D] ATPases involved in chromosome partitioning 
+228
+	IIDPKELI_01389	tRNA	NA	1936	2011	+	NA
+229
+	IIDPKELI_01390	CDS	COG0526	2090	2599	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+230
+	IIDPKELI_01391	CDS	COG1846	2942	3382	+	[K] Transcriptional regulators    
+	IIDPKELI_01392	CDS	COG1853	3497	3997	+	[R] Conserved protein/domain typically associated with flavoprotein
+	IIDPKELI_01393	CDS	COG1208	4015	4710	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+231
+	IIDPKELI_01394	CDS	COG2510	4941	5372	-	[S] Predicted membrane protein   
+232
+	IIDPKELI_01395	CDS	COG2759	5547	7223	+	[F] Formyltetrahydrofolate synthetase    
+233
+	IIDPKELI_01396	CDS	NA	7336	8427	+	NA
+234
+	IIDPKELI_01597	CDS	NA	162	278	-	NA
+235
+	IIDPKELI_01598	CDS	COG2932	309	1028	+	[K] Predicted transcriptional regulator   
+	IIDPKELI_01599	CDS	NA	1032	1220	+	NA
+236
+	IIDPKELI_01600	CDS	COG1190	1297	2808	-	[J] Lysyl-tRNA synthetase (class II)  
+237
+	IIDPKELI_01601	CDS	NA	2963	4216	-	NA
+238
+	IIDPKELI_01602	CDS	NA	4674	6470	+	NA
+239
+	IIDPKELI_00984	CDS	COG1368	646	2064	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+240
+	IIDPKELI_00985	CDS	COG0765	2827	3573	-	[E] ABC-type amino acid transport system, permease
+241
+	IIDPKELI_00986	CDS	COG1525	3752	4423	-	[L] Micrococcal nuclease (thermonuclease) homologs  
+242
+	IIDPKELI_00987	CDS	COG0120	4492	5163	-	[G] Ribose 5-phosphate isomerase   
+	IIDPKELI_00988	CDS	COG0245	5240	5722	-	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+	IIDPKELI_00989	CDS	COG1211	5754	6443	-	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	IIDPKELI_00990	CDS	COG0847	6440	7201	-	[L] DNA polymerase III, epsilon subunit and
+243
+	IIDPKELI_00991	CDS	ROG1295	7332	8642	-	NA
+	IIDPKELI_00992	CDS	COG3197	8632	8817	-	[P] Uncharacterized protein, possibly involved in nitrogen
+	IIDPKELI_00993	CDS	NA	8817	9116	-	NA
+244
+	IIDPKELI_00994	CDS	COG0282	9467	10663	+	[C] Acetate kinase    
+245
+	IIDPKELI_00995	CDS	COG4232	11299	13104	-	[OC] Thiol:disulfide interchange protein   
+246
+	IIDPKELI_00996	CDS	ROG0139	13231	13701	+	NA
+247
+	IIDPKELI_00997	CDS	NA	13772	14476	-	NA
+248
+	IIDPKELI_01914	CDS	COG3210	253	1227	+	[U] Large exoproteins involved in heme utilization
+	IIDPKELI_01915	CDS	NA	1243	1674	+	NA
+249
+	IIDPKELI_01827	CDS	COG1171	76	747	+	[E] Threonine dehydratase    
+250
+	IIDPKELI_01828	CDS	COG1118	804	1877	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	IIDPKELI_01829	CDS	COG4208	1874	2734	-	[P] ABC-type sulfate transport system, permease component
+251
+	IIDPKELI_01876	CDS	COG2337	193	516	-	[T] Growth inhibitor    
+	IIDPKELI_01877	CDS	COG2336	504	743	-	[T] Growth regulator    
+252
+	IIDPKELI_01878	CDS	COG0101	866	1663	-	[J] Pseudouridylate synthase    
+253
+	IIDPKELI_01929	CDS	COG1187	13	759	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+254
+	IIDPKELI_01930	CDS	NA	828	1556	-	NA
+255
+	IIDPKELI_01700	CDS	NA	202	447	+	NA
+256
+	IIDPKELI_01701	CDS	COG1686	1027	2196	+	[M] D-alanyl-D-alanine carboxypeptidase    
+257
+	IIDPKELI_01702	CDS	COG1825	2321	2893	-	[J] Ribosomal protein L25 (general stress protein
+	IIDPKELI_01703	CDS	COG0462	2960	3943	-	[FE] Phosphoribosylpyrophosphate synthetase    
+258
+	IIDPKELI_01704	tRNA	NA	4111	4186	-	NA
+	IIDPKELI_01705	tRNA	NA	4195	4270	-	NA
+	IIDPKELI_01706	CDS	COG1947	4278	4859	-	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+259
+	IIDPKELI_01765	CDS	ROG7329	509	706	-	NA
+	IIDPKELI_01766	CDS	ROG5769	703	969	-	NA
+	IIDPKELI_01767	CDS	NA	981	1319	-	NA
+	IIDPKELI_01768	CDS	NA	1316	1534	-	NA
+260
+	IIDPKELI_01769	CDS	COG3422	1547	1717	+	[S] Uncharacterized conserved protein   
+261
+	IIDPKELI_01770	CDS	ROG7758	1762	1944	-	NA
+	IIDPKELI_01771	CDS	NA	1964	2383	-	NA
+	IIDPKELI_01772	CDS	ROG6087	2355	2591	-	NA
+	IIDPKELI_01773	CDS	NA	2594	2758	-	NA
+262
+	IIDPKELI_01774	CDS	NA	2964	3506	-	NA
+263
+	IIDPKELI_00779	CDS	COG4230	158	3763	-	[C] Delta 1-pyrroline-5-carboxylate dehydrogenase   
+264
+	IIDPKELI_00780	CDS	COG0591	4014	5540	-	[ER] Na+/proline symporter    
+265
+	IIDPKELI_00781	CDS	COG2960	6024	6344	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00782	CDS	COG0606	6358	7854	+	[O] Predicted ATPase with chaperone activity 
+266
+	IIDPKELI_00783	CDS	COG3087	7960	8823	+	[D] Cell division protein   
+	IIDPKELI_00784	CDS	COG1651	8826	9470	+	[O] Protein-disulfide isomerase    
+	IIDPKELI_00785	CDS	COG1968	9503	10324	+	[V] Uncharacterized bacitracin resistance protein  
+267
+	IIDPKELI_00786	tRNA	NA	10606	10681	-	NA
+	IIDPKELI_00787	tRNA	NA	10689	10765	-	NA
+268
+	IIDPKELI_00788	CDS	COG1565	10897	12045	-	[S] Uncharacterized conserved protein   
+269
+	IIDPKELI_00789	CDS	COG2001	12393	12848	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00790	CDS	COG0275	12845	13831	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	IIDPKELI_00791	CDS	COG3116	13828	14091	+	[D] Cell division protein   
+	IIDPKELI_00792	CDS	COG0768	14152	15897	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	IIDPKELI_00793	CDS	COG0769	15922	17400	+	[M] UDP-N-acetylmuramyl tripeptide synthase   
+270
+	IIDPKELI_00794	CDS	NA	17325	17798	-	NA
+271
+	IIDPKELI_01889	CDS	COG0488	9	1520	+	[R] ATPase components of ABC transporters with
+272
+	IIDPKELI_01890	CDS	NA	1580	2065	-	NA
+273
+	IIDPKELI_01980	tRNA	NA	188	264	+	NA
+	IIDPKELI_01981	tRNA	NA	270	345	+	NA
+274
+	IIDPKELI_01096	CDS	COG0564	177	836	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+	IIDPKELI_01097	CDS	COG0669	862	1374	-	[H] Phosphopantetheine adenylyltransferase    
+275
+	IIDPKELI_01098	CDS	COG0670	1498	2181	-	[R] Integral membrane protein, interacts with FtsH
+276
+	IIDPKELI_01099	CDS	COG2924	2338	2604	-	[CO] Fe-S cluster protector protein  
+277
+	IIDPKELI_01100	CDS	COG1576	2677	3183	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_01101	CDS	COG0799	3201	3587	-	[S] Uncharacterized homolog of plant Iojap protein
+	IIDPKELI_01102	CDS	COG1057	3646	4239	-	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	IIDPKELI_01103	CDS	ROG1631	4236	4835	-	NA
+	IIDPKELI_01104	CDS	COG1178	4864	6405	-	[P] ABC-type Fe3+ transport system, permease component
+278
+	IIDPKELI_01105	CDS	COG2610	6798	8183	+	[GE] H+/gluconate symporter and related permeases 
+	IIDPKELI_01106	CDS	COG3265	8203	8721	+	[G] Gluconate kinase    
+279
+	IIDPKELI_01107	CDS	COG2334	9060	9977	-	[R] Putative homoserine kinase type II (protein
+	IIDPKELI_01108	CDS	COG2227	10014	10730	-	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+280
+	IIDPKELI_01109	CDS	COG0814	10894	12135	+	[E] Amino acid permeases   
+281
+	IIDPKELI_01110	CDS	NA	12501	12710	-	NA
+282
+	IIDPKELI_01203	CDS	COG0024	360	1139	+	[J] Methionine aminopeptidase    
+283
+	IIDPKELI_01204	CDS	ROG2700	1294	1593	+	NA
+284
+	IIDPKELI_01205	CDS	ROG7884	1831	2205	+	NA
+	IIDPKELI_01206	CDS	NA	2235	2381	+	NA
+285
+	IIDPKELI_01207	CDS	COG0579	2392	3858	-	[R] Predicted dehydrogenase    
+286
+	IIDPKELI_01208	CDS	COG1670	4396	4986	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	IIDPKELI_01209	CDS	COG0212	5047	5628	-	[H] 5-formyltetrahydrofolate cyclo-ligase    
+287
+	IIDPKELI_01210	CDS	ROG2210	5706	5939	+	NA
+288
+	IIDPKELI_01211	CDS	COG0052	6112	6840	+	[J] Ribosomal protein S2   
+	IIDPKELI_01212	CDS	COG0264	6969	7823	+	[J] Translation elongation factor Ts  
+	IIDPKELI_01213	CDS	COG0528	7878	8786	+	[F] Uridylate kinase    
+289
+	IIDPKELI_01214	CDS	NA	9425	10387	+	NA
+290
+	IIDPKELI_01906	CDS	COG0457	24	764	+	[R] FOG: TPR repeat   
+	IIDPKELI_01907	CDS	COG3017	904	1485	+	[M] Outer membrane lipoprotein involved in outer
+291
+	IIDPKELI_01027	CDS	COG1091	206	1081	-	[M] dTDP-4-dehydrorhamnose reductase    
+292
+	IIDPKELI_01028	CDS	COG0152	1280	2143	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	IIDPKELI_01029	CDS	COG1185	2380	4500	+	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+293
+	IIDPKELI_01030	CDS	COG2836	4573	5241	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_01031	CDS	NA	5255	5551	-	NA
+294
+	IIDPKELI_01032	CDS	COG0253	5689	6540	+	[E] Diaminopimelate epimerase    
+	IIDPKELI_01033	CDS	ROG1809	6537	7142	+	NA
+295
+	IIDPKELI_01034	CDS	COG0031	7336	8268	+	[E] Cysteine synthase    
+296
+	IIDPKELI_01035	CDS	COG0697	8731	9636	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+297
+	IIDPKELI_01036	CDS	COG0681	10050	11069	-	[U] Signal peptidase I   
+	IIDPKELI_01037	CDS	COG0481	11214	13007	-	[M] Membrane GTPase LepA   
+298
+	IIDPKELI_01038	CDS	COG0775	13149	13850	-	[F] Nucleoside phosphorylase    
+299
+	IIDPKELI_01431	CDS	NA	709	1143	+	NA
+300
+	IIDPKELI_01432	CDS	COG0414	1332	2168	-	[H] Panthothenate synthetase    
+	IIDPKELI_01433	CDS	COG0413	2291	3082	-	[H] Ketopantoate hydroxymethyltransferase    
+301
+	IIDPKELI_01434	tRNA	NA	3224	3299	-	NA
+302
+	IIDPKELI_01435	CDS	COG0421	3465	4256	+	[E] Spermidine synthase    
+	IIDPKELI_01436	CDS	COG2945	4269	4952	+	[R] Predicted hydrolase of the alpha/beta superfamily
+303
+	IIDPKELI_01437	CDS	COG0564	5030	5953	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+304
+	IIDPKELI_01438	CDS	ROG0367	6117	6986	+	NA
+	IIDPKELI_01439	CDS	NA	7029	7472	+	NA
+305
+	IIDPKELI_01440	CDS	NA	7549	7977	+	NA
+			NA				NA
+306
+	IIDPKELI_01630	CDS	NA	291	2435	+	NA
+307
+	IIDPKELI_01631	CDS	NA	2522	5266	+	NA
+308
+	IIDPKELI_01454	CDS	COG0665	413	2032	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+309
+	IIDPKELI_01455	CDS	COG3536	2152	2520	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01456	CDS	COG2226	2563	3300	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+310
+	IIDPKELI_01457	CDS	NA	3520	3999	+	NA
+311
+	IIDPKELI_01458	CDS	COG0801	4126	4620	-	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	IIDPKELI_01459	CDS	COG3094	4630	5004	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01460	CDS	NA	5058	5624	-	NA
+312
+	IIDPKELI_01461	CDS	COG1923	5709	6002	-	[R] Uncharacterized host factor I protein 
+313
+	IIDPKELI_01462	CDS	COG1686	6131	7069	-	[M] D-alanyl-D-alanine carboxypeptidase    
+314
+	IIDPKELI_01463	CDS	NA	7390	7830	+	NA
+315
+	IIDPKELI_01219	CDS	COG1989	41	901	-	[NOU] Type II secretory pathway, prepilin signal
+	IIDPKELI_01220	CDS	COG1459	975	2207	-	[NU] Type II secretory pathway, component PulF
+316
+	IIDPKELI_01221	CDS	COG0166	2717	4360	+	[G] Glucose-6-phosphate isomerase    
+317
+	IIDPKELI_01222	CDS	COG2171	4527	5348	+	[E] Tetrahydrodipicolinate N-succinyltransferase    
+318
+	IIDPKELI_01223	CDS	COG0623	5503	6288	+	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+319
+	IIDPKELI_01224	CDS	COG0115	6473	7471	-	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+320
+	IIDPKELI_01225	CDS	COG5416	7781	8095	+	[S] Uncharacterized integral membrane protein  
+	IIDPKELI_01226	CDS	COG2956	8106	9275	+	[G] Predicted N-acetylglucosaminyl transferase   
+	IIDPKELI_01227	CDS	COG0346	9300	9716	+	[E] Lactoylglutathione lyase and related lyases 
+321
+	IIDPKELI_01228	CDS	NA	9889	10161	-	NA
+322
+	IIDPKELI_01738	CDS	COG0142	325	1299	-	[H] Geranylgeranyl pyrophosphate synthase   
+323
+	IIDPKELI_01739	CDS	COG0261	1523	1831	+	[J] Ribosomal protein L21   
+	IIDPKELI_01740	CDS	COG0211	1856	2128	+	[J] Ribosomal protein L27   
+324
+	IIDPKELI_01741	CDS	COG0654	2516	3700	+	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+325
+	IIDPKELI_01849	CDS	NA	145	423	-	NA
+	IIDPKELI_01850	CDS	COG4214	430	648	-	[G] ABC-type xylose transport system, permease component
+326
+	IIDPKELI_01851	CDS	NA	722	919	-	NA
+	IIDPKELI_01852	CDS	NA	924	1214	-	NA
+	IIDPKELI_01853	CDS	COG2946	1259	2602	-	[L] Putative phage replication protein RstA 
+			NA				NA
+327
+	IIDPKELI_01371	CDS	COG2256	19	471	+	[L] ATPase related to the helicase subunit
+328
+	IIDPKELI_01372	CDS	COG0610	585	3590	+	[V] Type I site-specific restriction-modification system, R
+	IIDPKELI_01373	CDS	COG0732	3717	4910	+	[V] Restriction endonuclease S subunits  
+	IIDPKELI_01374	CDS	COG0286	4958	6559	+	[V] Type I restriction-modification system methyltransferase subunit
+329
+	IIDPKELI_01375	CDS	COG0108	6867	8204	-	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+330
+	IIDPKELI_01376	CDS	NA	8426	9082	-	NA
+			NA				NA
+331
+	IIDPKELI_01685	CDS	COG0577	1	186	+	[V] ABC-type antimicrobial peptide transport system, permease
+332
+	IIDPKELI_01686	CDS	COG1651	599	1381	-	[O] Protein-disulfide isomerase    
+333
+	IIDPKELI_01687	CDS	COG1198	1520	3709	+	[L] Primosomal protein N' (replication factor Y)
+334
+	IIDPKELI_01688	CDS	NA	3755	4828	-	NA
+335
+	IIDPKELI_01441	CDS	COG1971	508	1074	+	[S] Predicted membrane protein   
+336
+	IIDPKELI_01442	CDS	COG0339	1518	3554	-	[E] Zn-dependent oligopeptidases    
+337
+	IIDPKELI_01443	CDS	COG0668	3642	4514	-	[M] Small-conductance mechanosensitive channel   
+338
+	IIDPKELI_01444	CDS	COG0187	4784	7174	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+339
+	IIDPKELI_01445	CDS	NA	7652	8173	-	NA
+340
+	IIDPKELI_01652	CDS	NA	127	390	+	NA
+341
+	IIDPKELI_01653	CDS	COG0583	479	1390	-	[K] Transcriptional regulator    
+342
+	IIDPKELI_01654	CDS	COG2259	1498	1896	+	[S] Predicted membrane protein   
+	IIDPKELI_01655	CDS	COG3560	1945	2550	+	[R] Predicted oxidoreductase related to nitroreductase 
+343
+	IIDPKELI_01656	CDS	COG1629	2736	4847	+	[P] Outer membrane receptor proteins, mostly Fe
+344
+	IIDPKELI_01841	CDS	ROG3577	69	731	+	NA
+345
+	IIDPKELI_01842	CDS	COG2022	1494	2282	-	[H] Uncharacterized enzyme of thiazole biosynthesis 
+	IIDPKELI_01843	CDS	COG2104	2496	2690	-	[H] Sulfur transfer protein involved in thiamine
+346
+	IIDPKELI_01908	CDS	NA	448	963	+	NA
+	IIDPKELI_01909	CDS	NA	1003	1191	+	NA
+	IIDPKELI_01910	CDS	ROG2039	1191	1703	+	NA
+347
+	IIDPKELI_01689	CDS	COG0121	297	1139	+	[R] Predicted glutamine amidotransferase   
+	IIDPKELI_01690	CDS	COG1327	1168	1632	+	[K] Predicted transcriptional regulator, consists of a
+	IIDPKELI_01691	CDS	COG0117	1665	2774	+	[H] Pyrimidine deaminase    
+348
+	IIDPKELI_01692	CDS	COG2244	2969	4387	+	[R] Membrane protein involved in the export
+349
+	IIDPKELI_01940	CDS	ROG5189	239	502	-	NA
+	IIDPKELI_01941	CDS	NA	521	1153	-	NA
+350
+	IIDPKELI_00414	CDS	COG0007	541	1992	-	[H] Uroporphyrinogen-III methylase    
+351
+	IIDPKELI_00415	CDS	COG3658	2443	3099	-	[C] Cytochrome b    
+352
+	IIDPKELI_00416	CDS	COG0063	3164	4054	+	[G] Predicted sugar kinase   
+353
+	IIDPKELI_00417	CDS	COG1217	4324	6135	+	[T] Predicted membrane GTPase involved in stress
+354
+	IIDPKELI_00418	tRNA	NA	6700	6790	-	NA
+	IIDPKELI_00419	tRNA	NA	6829	6915	-	NA
+	IIDPKELI_00420	tRNA	NA	6951	7037	-	NA
+355
+	IIDPKELI_00421	CDS	COG0557	7126	9501	+	[K] Exoribonuclease R    
+356
+	IIDPKELI_00422	CDS	COG0516	9840	11303	-	[F] IMP dehydrogenase/GMP reductase   
+357
+	IIDPKELI_00423	CDS	COG2844	11444	14002	-	[O] UTP:GlnB (protein PII) uridylyltransferase  
+	IIDPKELI_00424	CDS	COG1396	14051	14371	-	[K] Predicted transcriptional regulators   
+358
+	IIDPKELI_00425	CDS	COG2193	14695	15168	-	[P] Bacterioferritin (cytochrome b1)   
+	IIDPKELI_00426	CDS	COG2193	15196	15660	-	[P] Bacterioferritin (cytochrome b1)   
+359
+	IIDPKELI_00427	CDS	COG0320	16124	17107	-	[H] Lipoate synthase    
+	IIDPKELI_00428	CDS	COG0321	17100	17723	-	[H] Lipoate-protein ligase B   
+	IIDPKELI_00429	CDS	COG2921	17725	18000	-	[S] Uncharacterized conserved protein   
+360
+	IIDPKELI_00430	CDS	COG0628	18185	19255	+	[R] Predicted permease    
+361
+	IIDPKELI_00431	CDS	COG0330	19452	20399	-	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+	IIDPKELI_00432	CDS	ROG1281	20414	20821	-	NA
+362
+	IIDPKELI_00433	CDS	COG0692	20902	21561	+	[L] Uracil DNA glycosylase   
+363
+	IIDPKELI_00434	CDS	ROG0867	22069	22584	-	NA
+364
+	IIDPKELI_00435	CDS	NA	23050	24579	-	NA
+365
+	IIDPKELI_00843	CDS	COG0312	263	1594	-	[R] Predicted Zn-dependent proteases and their inactivated
+366
+	IIDPKELI_00844	CDS	COG3028	1748	2254	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00845	CDS	NA	2301	3017	+	NA
+367
+	IIDPKELI_00846	CDS	COG0608	3086	4786	+	[L] Single-stranded DNA-specific exonuclease   
+368
+	IIDPKELI_00847	CDS	COG0617	5141	6502	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+369
+	IIDPKELI_00848	CDS	COG2960	6675	6998	+	[S] Uncharacterized protein conserved in bacteria 
+370
+	IIDPKELI_00849	CDS	COG1702	7109	8062	-	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+371
+	IIDPKELI_00850	CDS	COG0438	8201	9223	-	[M] Glycosyltransferase     
+372
+	IIDPKELI_00851	CDS	COG3471	9592	10296	+	[S] Predicted periplasmic/secreted protein   
+373
+	IIDPKELI_00852	CDS	COG0717	10360	10926	-	[F] Deoxycytidine deaminase    
+374
+	IIDPKELI_00853	CDS	COG4642	10992	11408	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00854	CDS	COG2974	11460	12359	-	[L] DNA recombination-dependent growth factor C 
+	IIDPKELI_00855	CDS	COG1160	12390	14000	-	[R] Predicted GTPases    
+	IIDPKELI_00856	CDS	COG2976	14001	14630	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00857	CDS	COG0124	14631	15926	-	[J] Histidyl-tRNA synthetase    
+375
+	IIDPKELI_00255	CDS	NA	73	948	+	NA
+376
+	IIDPKELI_00256	CDS	COG0008	858	2579	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+377
+	IIDPKELI_00257	CDS	COG1349	2658	3431	-	[KG] Transcriptional regulators of sugar metabolism 
+	IIDPKELI_00258	CDS	COG2431	3474	4376	-	[S] Predicted membrane protein   
+378
+	IIDPKELI_00259	CDS	COG1802	4525	5241	-	[K] Transcriptional regulators    
+379
+	IIDPKELI_00260	CDS	COG1765	5810	6232	-	[O] Predicted redox protein, regulator of disulfide
+380
+	IIDPKELI_00261	CDS	ROG1438	6350	7018	-	NA
+	IIDPKELI_00262	CDS	COG0299	7037	7759	-	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	IIDPKELI_00263	CDS	COG0545	7770	8576	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+381
+	IIDPKELI_00264	CDS	COG2927	8835	9275	-	[L] DNA polymerase III, chi subunit 
+	IIDPKELI_00265	CDS	COG0260	9338	10744	-	[E] Leucyl aminopeptidase    
+382
+	IIDPKELI_00266	CDS	COG0795	10914	12029	+	[R] Predicted permeases    
+	IIDPKELI_00267	CDS	COG0795	12026	13096	+	[R] Predicted permeases    
+383
+	IIDPKELI_00268	CDS	COG1049	13406	15991	+	[C] Aconitase B    
+384
+	IIDPKELI_00269	CDS	COG0078	16133	17128	+	[E] Ornithine carbamoyltransferase    
+385
+	IIDPKELI_00270	CDS	COG0059	17352	18365	-	[EH] Ketol-acid reductoisomerase    
+386
+	IIDPKELI_00271	CDS	COG1359	18445	18738	-	[S] Uncharacterized conserved protein   
+387
+	IIDPKELI_00272	CDS	COG0440	18805	19296	-	[E] Acetolactate synthase, small (regulatory) subunit 
+	IIDPKELI_00273	CDS	COG0028	19307	21034	-	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+388
+	IIDPKELI_00274	tRNA	NA	21743	21827	-	NA
+389
+	IIDPKELI_00275	CDS	COG1999	22103	22756	+	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+390
+	IIDPKELI_00276	CDS	COG0040	22835	23488	+	[E] ATP phosphoribosyltransferase    
+391
+	IIDPKELI_00277	CDS	COG3680	23592	24491	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00278	CDS	COG0141	24488	25777	+	[E] Histidinol dehydrogenase    
+	IIDPKELI_00279	CDS	COG0079	25823	26920	+	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	IIDPKELI_00280	CDS	COG0131	26917	27834	+	[E] Imidazoleglycerol-phosphate dehydratase    
+392
+	IIDPKELI_00281	CDS	COG2084	27929	28798	+	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+393
+	IIDPKELI_00282	CDS	COG1846	29077	29439	+	[K] Transcriptional regulators    
+394
+	IIDPKELI_01785	CDS	COG0708	1110	1880	-	[L] Exonuclease III    
+	IIDPKELI_01786	CDS	COG0640	1940	2221	-	[K] Predicted transcriptional regulators   
+395
+	IIDPKELI_01787	CDS	COG0157	2627	3331	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+396
+	IIDPKELI_00458	CDS	COG0741	364	987	+	[M] Soluble lytic murein transglycosylase and related
+397
+	IIDPKELI_00459	CDS	ROG2472	1095	2480	+	NA
+	IIDPKELI_00460	CDS	COG0629	2484	3008	+	[L] Single-stranded DNA-binding protein   
+398
+	IIDPKELI_00461	CDS	COG0697	3533	4456	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+399
+	IIDPKELI_00462	CDS	COG0114	4521	5909	-	[C] Fumarase     
+	IIDPKELI_00463	CDS	COG0021	6050	8029	-	[G] Transketolase     
+400
+	IIDPKELI_00464	CDS	COG0348	8557	10053	+	[C] Polyferredoxin     
+	IIDPKELI_00465	CDS	COG3198	10056	10604	+	[S] Uncharacterized protein conserved in bacteria 
+401
+	IIDPKELI_00466	CDS	COG2070	10946	12121	-	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+402
+	IIDPKELI_00467	tRNA	NA	12681	12755	-	NA
+	IIDPKELI_00468	tRNA	NA	12773	12849	-	NA
+403
+	IIDPKELI_00469	CDS	COG0847	12967	14352	+	[L] DNA polymerase III, epsilon subunit and
+404
+	IIDPKELI_00470	CDS	COG0543	14562	15341	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+405
+	IIDPKELI_00471	CDS	COG4773	15615	17474	+	[P] Outer membrane receptor for ferric coprogen
+	IIDPKELI_00472	CDS	COG4773	17510	18703	+	[P] Outer membrane receptor for ferric coprogen
+406
+	IIDPKELI_00473	CDS	COG0389	18847	19905	+	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+407
+	IIDPKELI_00474	CDS	COG0210	19973	21988	-	[L] Superfamily I DNA and RNA helicases
+	IIDPKELI_00475	CDS	COG0710	22008	22772	-	[E] 3-dehydroquinate dehydratase    
+408
+	IIDPKELI_00476	CDS	NA	23026	24072	+	NA
+			NA				NA
+409
+	IIDPKELI_01239	CDS	COG0415	119	838	+	[L] Deoxyribodipyrimidine photolyase    
+410
+	IIDPKELI_01240	CDS	NA	901	1287	+	NA
+	IIDPKELI_01241	CDS	COG1199	1337	3487	+	[KL] Rad3-related DNA helicases   
+	IIDPKELI_01242	CDS	COG2979	3523	4137	+	[S] Uncharacterized protein conserved in bacteria 
+411
+	IIDPKELI_01243	CDS	COG1835	4429	6297	-	[I] Predicted acyltransferases    
+	IIDPKELI_01244	CDS	COG0015	6378	7748	-	[F] Adenylosuccinate lyase    
+	IIDPKELI_01245	CDS	COG1611	7820	8452	-	[R] Predicted Rossmann fold nucleotide-binding protein 
+412
+	IIDPKELI_01246	CDS	NA	9526	10185	-	NA
+413
+	IIDPKELI_01949	CDS	NA	202	318	+	NA
+	IIDPKELI_01950	CDS	NA	360	629	+	NA
+414
+	IIDPKELI_01903	CDS	COG4969	557	928	-	[NU] Tfp pilus assembly protein, major pilin
+	IIDPKELI_01904	CDS	COG4969	1087	1536	-	[NU] Tfp pilus assembly protein, major pilin
+415
+	IIDPKELI_01792	CDS	COG2823	63	671	-	[R] Predicted periplasmic or secreted lipoprotein 
+	IIDPKELI_01793	CDS	COG0279	735	1328	-	[G] Phosphoheptose isomerase    
+	IIDPKELI_01794	CDS	COG0792	1333	1680	-	[L] Predicted endonuclease distantly related to archaeal
+416
+	IIDPKELI_01795	CDS	COG0313	1726	2601	+	[R] Predicted methyltransferases    
+417
+	IIDPKELI_01796	CDS	NA	2636	3040	-	NA
+418
+	IIDPKELI_01569	CDS	COG1197	111	3509	+	[LK] Transcription-repair coupling factor (superfamily II helicase)
+	IIDPKELI_01570	CDS	COG0853	3658	4041	+	[H] Aspartate 1-decarboxylase    
+	IIDPKELI_01571	CDS	COG2877	4063	4905	+	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	IIDPKELI_01572	CDS	ROG0291	4920	5360	+	NA
+	IIDPKELI_01573	CDS	COG0148	5408	6694	+	[G] Enolase     
+	IIDPKELI_01574	CDS	COG2919	6708	6986	+	[D] Septum formation initiator   
+			NA				NA
+419
+	IIDPKELI_01858	CDS	NA	118	1287	+	NA
+	IIDPKELI_01859	CDS	COG1210	1335	2198	+	[M] UDP-glucose pyrophosphorylase    
+420
+	IIDPKELI_01129	CDS	COG0505	610	1743	+	[EF] Carbamoylphosphate synthase small subunit  
+	IIDPKELI_01130	CDS	COG0346	1789	1926	+	[E] Lactoylglutathione lyase and related lyases 
+421
+	IIDPKELI_01131	CDS	COG2852	2487	2876	+	[S] Uncharacterized protein conserved in bacteria 
+422
+	IIDPKELI_01132	CDS	COG4915	3724	4335	+	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+	IIDPKELI_01133	CDS	COG0458	4375	7590	+	[EF] Carbamoylphosphate synthase large subunit (split gene
+423
+	IIDPKELI_01134	CDS	COG0583	7818	8717	-	[K] Transcriptional regulator    
+424
+	IIDPKELI_01135	CDS	COG2249	8956	9534	+	[R] Putative NADPH-quinone reductase (modulator of drug
+425
+	IIDPKELI_01136	CDS	COG0809	10008	11048	-	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+426
+	IIDPKELI_01137	CDS	COG0511	11404	11856	+	[I] Biotin carboxyl carrier protein  
+427
+	IIDPKELI_01138	CDS	NA	12012	12206	-	NA
+428
+	IIDPKELI_01866	CDS	COG0155	230	1999	-	[P] Sulfite reductase, beta subunit (hemoprotein) 
+	IIDPKELI_01867	CDS	COG0369	2026	2457	-	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+429
+	IIDPKELI_01871	CDS	COG0541	35	517	+	[U] Signal recognition particle GTPase  
+430
+	IIDPKELI_01872	CDS	COG1651	848	1543	-	[O] Protein-disulfide isomerase    
+431
+	IIDPKELI_01873	CDS	NA	1714	2256	-	NA
+432
+	IIDPKELI_01927	CDS	NA	23	763	+	NA
+433
+	IIDPKELI_01928	CDS	NA	1237	1407	+	NA
+434
+	IIDPKELI_01657	CDS	COG0815	177	887	+	[M] Apolipoprotein N-acyltransferase    
+435
+	IIDPKELI_01658	CDS	COG0568	1151	2014	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+436
+	IIDPKELI_01659	CDS	COG1561	2498	3382	+	[S] Uncharacterized stress-induced protein   
+437
+	IIDPKELI_01660	CDS	COG1714	3466	4032	-	[S] Predicted membrane protein/domain   
+	IIDPKELI_01661	CDS	COG0392	4057	4476	-	[S] Predicted integral membrane protein  
+438
+	IIDPKELI_01662	CDS	COG1466	4597	5268	-	[L] DNA polymerase III, delta subunit 
+439
+	IIDPKELI_01869	CDS	NA	305	1438	-	NA
+440
+	IIDPKELI_01870	CDS	NA	1817	2098	-	NA
+			NA				NA
+441
+	IIDPKELI_01397	CDS	COG1126	56	313	+	[E] ABC-type polar amino acid transport system,
+442
+	IIDPKELI_01398	CDS	ROG5664	386	745	+	NA
+	IIDPKELI_01399	CDS	ROG5135	750	1196	+	NA
+	IIDPKELI_01400	CDS	COG0285	1227	2501	+	[H] Folylpolyglutamate synthase    
+	IIDPKELI_01401	CDS	ROG2101	2514	3512	+	NA
+	IIDPKELI_01402	CDS	COG1286	3505	4002	+	[R] Uncharacterized membrane protein, required for colicin
+	IIDPKELI_01403	CDS	COG0034	4210	5754	+	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	IIDPKELI_01404	CDS	COG0782	5854	6345	+	[K] Transcription elongation factor   
+	IIDPKELI_01405	CDS	COG0135	6404	7030	+	[E] Phosphoribosylanthranilate isomerase    
+443
+	IIDPKELI_01406	CDS	NA	7736	8749	-	NA
+444
+	IIDPKELI_00346	CDS	COG1044	60	1022	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	IIDPKELI_00347	CDS	COG0764	1056	1505	+	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+445
+	IIDPKELI_00348	CDS	ROG0283	1670	2392	+	NA
+	IIDPKELI_00349	CDS	COG1043	2435	3211	+	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+446
+	IIDPKELI_00350	CDS	COG1115	3568	4959	+	[E] Na+/alanine symporter    
+447
+	IIDPKELI_00351	CDS	COG0665	5038	6294	+	[E] Glycine/D-amino acid oxidases (deaminating)  
+448
+	IIDPKELI_00352	CDS	COG0428	6475	7284	+	[P] Predicted divalent heavy-metal cations transporter 
+449
+	IIDPKELI_00353	CDS	COG0525	7381	10218	+	[J] Valyl-tRNA synthetase    
+450
+	IIDPKELI_00354	CDS	COG0583	10548	11468	-	[K] Transcriptional regulator    
+	IIDPKELI_00355	CDS	COG0851	11472	11735	-	[D] Septum formation topological specificity factor 
+	IIDPKELI_00356	CDS	COG2894	11739	12554	-	[D] Septum formation inhibitor-activating ATPase  
+	IIDPKELI_00357	CDS	COG0850	12583	13296	-	[D] Septum formation inhibitor   
+	IIDPKELI_00358	CDS	NA	13337	13492	-	NA
+	IIDPKELI_00359	CDS	COG0203	13443	13811	-	[J] Ribosomal protein L17   
+	IIDPKELI_00360	CDS	COG0202	13835	14821	-	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	IIDPKELI_00361	CDS	COG0522	14847	15467	-	[J] Ribosomal protein S4 and related proteins
+	IIDPKELI_00362	CDS	COG0099	15902	16264	-	[J] Ribosomal protein S13   
+	IIDPKELI_00363	CDS	COG0361	16464	16682	-	[J] Translation initiation factor 1 (IF-1) 
+	IIDPKELI_00364	CDS	COG0201	16687	17811	-	[U] Preprotein translocase subunit SecY  
+451
+	IIDPKELI_00365	CDS	NA	18236	18403	-	NA
+	IIDPKELI_00366	CDS	COG1841	18445	18630	-	[J] Ribosomal protein L30/L7E   
+	IIDPKELI_00367	CDS	COG0098	18623	19141	-	[J] Ribosomal protein S5   
+	IIDPKELI_00368	CDS	COG0256	19160	19513	-	[J] Ribosomal protein L18   
+	IIDPKELI_00369	CDS	COG0097	19527	20060	-	[J] Ribosomal protein L6P/L9E   
+	IIDPKELI_00370	CDS	COG0096	20074	20466	-	[J] Ribosomal protein S8   
+	IIDPKELI_00371	CDS	COG0199	20482	20787	-	[J] Ribosomal protein S14   
+	IIDPKELI_00372	CDS	COG0094	20790	21329	-	[J] Ribosomal protein L5   
+	IIDPKELI_00373	CDS	COG0198	21339	21662	-	[J] Ribosomal protein L24   
+	IIDPKELI_00374	CDS	COG0093	21674	22042	-	[J] Ribosomal protein L14   
+	IIDPKELI_00375	CDS	COG0186	22264	22527	-	[J] Ribosomal protein S17   
+	IIDPKELI_00376	CDS	COG0255	22527	22718	-	[J] Ribosomal protein L29   
+452
+	IIDPKELI_00377	CDS	NA	22721	23188	+	NA
+453
+	IIDPKELI_00378	CDS	COG0092	23118	23810	-	[J] Ribosomal protein S3   
+	IIDPKELI_00379	CDS	COG0091	23820	24149	-	[J] Ribosomal protein L22   
+	IIDPKELI_00380	CDS	COG0185	24158	24436	-	[J] Ribosomal protein S19   
+	IIDPKELI_00381	CDS	COG0090	24443	25276	-	[J] Ribosomal protein L2   
+	IIDPKELI_00382	CDS	COG0089	25282	25596	-	[J] Ribosomal protein L23   
+	IIDPKELI_00383	CDS	COG0088	25593	26213	-	[J] Ribosomal protein L4   
+	IIDPKELI_00384	CDS	COG0087	26213	26857	-	[J] Ribosomal protein L3   
+454
+	IIDPKELI_01732	CDS	COG0174	319	1737	+	[E] Glutamine synthetase    
+455
+	IIDPKELI_01733	CDS	NA	1893	3176	+	NA
+	IIDPKELI_01734	CDS	COG2827	3173	3448	+	[L] Predicted endonuclease containing a URI domain
+			NA				NA
+			NA				NA
+456
+	IIDPKELI_01474	CDS	NA	37	1056	+	NA
+457
+	IIDPKELI_01475	CDS	NA	1148	1444	+	NA
+458
+	IIDPKELI_01476	CDS	NA	2257	2415	+	NA
+459
+	IIDPKELI_01477	CDS	NA	2811	2984	-	NA
+460
+	IIDPKELI_01478	CDS	ROG8351	3141	3335	-	NA
+461
+	IIDPKELI_01479	CDS	ROG1998	3397	3627	+	NA
+462
+	IIDPKELI_01480	CDS	COG5346	4010	4441	-	[S] Predicted membrane protein   
+	IIDPKELI_01481	CDS	NA	4438	4593	-	NA
+463
+	IIDPKELI_01482	CDS	NA	4724	6070	+	NA
+464
+	IIDPKELI_01824	CDS	COG2999	192	833	+	[O] Glutaredoxin 2    
+465
+	IIDPKELI_01825	CDS	NA	1170	1673	+	NA
+466
+	IIDPKELI_01826	CDS	NA	1809	2609	+	NA
+			NA				NA
+467
+	IIDPKELI_01735	CDS	COG2369	440	1765	-	[S] Uncharacterized protein, homolog of phage Mu
+	IIDPKELI_01736	CDS	COG4383	1752	3320	-	[S] Mu-like prophage protein gp29  
+	IIDPKELI_01737	CDS	ROG3592	3320	3754	-	NA
+468
+	IIDPKELI_01632	CDS	COG4388	406	1467	+	[R] Mu-like prophage I protein  
+	IIDPKELI_01633	CDS	COG4397	1467	2375	+	[R] Mu-like prophage major head subunit gpT
+469
+	IIDPKELI_01634	CDS	ROG7158	2440	2838	+	NA
+	IIDPKELI_01635	CDS	COG4387	2838	3260	+	[S] Mu-like prophage protein gp36  
+	IIDPKELI_01636	CDS	COG5003	3250	3900	+	[R] Mu-like prophage protein gp37  
+	IIDPKELI_01637	CDS	NA	3897	4094	+	NA
+	IIDPKELI_01638	CDS	COG4386	4097	5506	+	[R] Mu-like prophage tail sheath protein gpL
+470
+	IIDPKELI_01639	CDS	ROG6530	5571	5948	+	NA
+471
+	IIDPKELI_01712	CDS	NA	332	1036	+	NA
+472
+	IIDPKELI_01713	CDS	ROG4307	1835	2884	-	NA
+473
+	IIDPKELI_01714	CDS	NA	2967	4121	-	NA
+474
+	IIDPKELI_00057	CDS	COG5008	68	1198	+	[NU] Tfp pilus assembly protein, ATPase PilU
+	IIDPKELI_00058	CDS	COG2812	1232	2209	+	[L] DNA polymerase III, gamma/tau subunits 
+	IIDPKELI_00059	CDS	COG3215	2213	2563	+	[NU] Tfp pilus assembly protein PilZ 
+	IIDPKELI_00060	CDS	COG0084	2568	3347	+	[L] Mg-dependent DNase    
+475
+	IIDPKELI_00061	CDS	COG0278	3688	3999	+	[O] Glutaredoxin-related protein    
+	IIDPKELI_00062	CDS	NA	3999	4115	+	NA
+	IIDPKELI_00063	CDS	COG0035	4105	4731	+	[F] Uracil phosphoribosyltransferase    
+	IIDPKELI_00064	CDS	COG4390	4754	5074	+	[S] Uncharacterized protein conserved in bacteria 
+476
+	IIDPKELI_00065	CDS	ROG6427	5325	5744	+	NA
+	IIDPKELI_00066	CDS	COG1587	5765	6526	+	[H] Uroporphyrinogen-III synthase    
+	IIDPKELI_00067	CDS	COG2959	6541	7875	+	[H] Uncharacterized enzyme of heme biosynthesis 
+	IIDPKELI_00068	CDS	COG3071	7872	9089	+	[H] Uncharacterized enzyme of heme biosynthesis 
+477
+	IIDPKELI_00069	CDS	COG0407	9164	10228	+	[H] Uroporphyrinogen-III decarboxylase    
+	IIDPKELI_00070	CDS	COG1066	10406	11785	+	[O] Predicted ATP-dependent serine protease  
+478
+	IIDPKELI_00071	CDS	COG3439	12061	12540	-	[S] Uncharacterized conserved protein   
+479
+	IIDPKELI_00072	CDS	COG0607	12665	13024	-	[P] Rhodanese-related sulfurtransferase    
+	IIDPKELI_00073	CDS	COG1074	13063	16677	-	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+480
+	IIDPKELI_00074	CDS	COG2837	16910	17998	-	[P] Predicted iron-dependent peroxidase   
+481
+	IIDPKELI_00075	CDS	COG0834	18106	18930	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	IIDPKELI_00076	CDS	COG0765	18920	19636	+	[E] ABC-type amino acid transport system, permease
+	IIDPKELI_00077	CDS	COG1126	19646	20401	+	[E] ABC-type polar amino acid transport system,
+482
+	IIDPKELI_00078	CDS	COG1109	20421	21803	-	[G] Phosphomannomutase     
+483
+	IIDPKELI_00079	CDS	COG0652	21970	22479	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+484
+	IIDPKELI_00080	CDS	COG0471	22598	24013	-	[P] Di- and tricarboxylate transporters  
+485
+	IIDPKELI_00081	CDS	ROG5597	24244	24606	-	NA
+	IIDPKELI_00082	CDS	NA	24603	24809	-	NA
+	IIDPKELI_00083	CDS	COG0193	24870	25448	-	[J] Peptidyl-tRNA hydrolase    
+	IIDPKELI_00084	CDS	COG2914	25501	25779	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00085	CDS	COG2867	25772	26209	-	[I] Oligoketide cyclase/lipid transport protein  
+486
+	IIDPKELI_00086	CDS	COG0465	26424	28391	-	[O] ATP-dependent Zn proteases   
+	IIDPKELI_00087	CDS	COG0293	28455	29075	-	[J] 23S rRNA methylase   
+487
+	IIDPKELI_00088	CDS	COG1534	29185	29469	+	[J] Predicted RNA-binding protein containing KH domain,
+488
+	IIDPKELI_00089	CDS	COG0113	29652	30653	+	[H] Delta-aminolevulinic acid dehydratase   
+489
+	IIDPKELI_00090	CDS	COG0626	30716	31873	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+490
+	IIDPKELI_00091	CDS	COG1469	32065	32838	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_00092	CDS	NA	32850	33023	+	NA
+	IIDPKELI_00093	CDS	COG0778	33038	33703	+	[C] Nitroreductase     
+491
+	IIDPKELI_00094	CDS	COG1187	33758	34516	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+	IIDPKELI_00095	CDS	COG0061	34541	35431	-	[G] Predicted sugar kinase   
+	IIDPKELI_00096	CDS	COG3165	35451	36017	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00097	CDS	COG0451	36077	36844	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	IIDPKELI_00098	CDS	COG1309	36899	37543	-	[K] Transcriptional regulator    
+	IIDPKELI_00099	CDS	COG0812	37561	38601	-	[M] UDP-N-acetylmuramate dehydrogenase    
+492
+	IIDPKELI_00100	CDS	COG0534	38780	40159	-	[V] Na+-driven multidrug efflux pump  
+493
+	IIDPKELI_00101	CDS	COG3705	40494	41645	+	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+	IIDPKELI_00102	CDS	COG0104	41749	43047	+	[F] Adenylosuccinate synthase    
+494
+	IIDPKELI_00103	CDS	ROG7813	45040	45432	+	NA
+495
+	IIDPKELI_00104	CDS	ROG4167	45546	46106	+	NA
+496
+	IIDPKELI_00105	CDS	COG0501	46407	47246	-	[O] Zn-dependent protease with chaperone function 
+497
+	IIDPKELI_00106	CDS	COG0563	47461	48108	+	[F] Adenylate kinase and related kinases 
+498
+	IIDPKELI_00107	CDS	COG0284	48634	49374	+	[F] Orotidine-5'-phosphate decarboxylase    
+499
+	IIDPKELI_00108	CDS	COG2870	49429	50400	+	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	IIDPKELI_00109	CDS	COG0270	50437	51672	+	[L] Site-specific DNA methylase   
+	IIDPKELI_00110	CDS	COG3440	51674	52705	+	[V] Predicted restriction endonuclease   
+500
+	IIDPKELI_00111	CDS	COG0451	52834	53838	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	IIDPKELI_00112	CDS	COG0286	53911	55455	+	[V] Type I restriction-modification system methyltransferase subunit
+	IIDPKELI_00113	CDS	COG3943	55452	56462	+	[R] Virulence protein    
+	IIDPKELI_00114	CDS	COG0732	56628	57224	+	[V] Restriction endonuclease S subunits  
+			NA				NA
+			NA				NA
+501
+	IIDPKELI_01693	CDS	NA	155	355	-	NA
+	IIDPKELI_01694	CDS	ROG0722	307	933	-	NA
+502
+	IIDPKELI_01695	CDS	ROG5024	1066	1311	+	NA
+503
+	IIDPKELI_01696	CDS	NA	1340	1567	-	NA
+	IIDPKELI_01697	CDS	COG2850	1576	2730	-	[S] Uncharacterized conserved protein   
+504
+	IIDPKELI_01698	CDS	NA	2984	3277	+	NA
+	IIDPKELI_01699	CDS	COG0002	3274	4317	+	[E] Acetylglutamate semialdehyde dehydrogenase   
+505
+	IIDPKELI_00689	CDS	COG1894	268	1569	+	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	IIDPKELI_00690	CDS	NA	1569	2006	+	NA
+506
+	IIDPKELI_00691	CDS	COG1034	2296	4557	+	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+	IIDPKELI_00692	CDS	COG1005	4560	5636	+	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	IIDPKELI_00693	CDS	COG1143	5717	6196	+	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	IIDPKELI_00694	CDS	COG0839	6208	6879	+	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	IIDPKELI_00695	CDS	COG0713	6876	7181	+	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+507
+	IIDPKELI_00696	CDS	COG0679	7476	8348	+	[R] Predicted permeases    
+	IIDPKELI_00697	CDS	COG1009	8349	10373	+	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+508
+	IIDPKELI_00698	CDS	COG3886	10557	11720	+	[L] Predicted HKD family nuclease  
+509
+	IIDPKELI_00699	CDS	COG1008	11830	13326	+	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+	IIDPKELI_00700	CDS	COG1007	13336	14781	+	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+510
+	IIDPKELI_00701	CDS	ROG0831	14893	15192	+	NA
+511
+	IIDPKELI_00702	CDS	COG0142	15301	16197	-	[H] Geranylgeranyl pyrophosphate synthase   
+	IIDPKELI_00703	CDS	COG1722	16181	16405	-	[L] Exonuclease VII small subunit  
+512
+	IIDPKELI_00704	CDS	COG1162	16652	17575	-	[R] Predicted GTPases    
+	IIDPKELI_00705	CDS	COG1132	17580	19271	-	[V] ABC-type multidrug transport system, ATPase and
+513
+	IIDPKELI_01892	CDS	ROG3350	709	1440	+	NA
+514
+	IIDPKELI_01893	CDS	COG3655	1386	1496	-	[K] Predicted transcriptional regulator   
+	IIDPKELI_01894	CDS	NA	1493	1837	-	NA
+515
+	IIDPKELI_00223	CDS	ROG8102	298	585	+	NA
+	IIDPKELI_00224	CDS	ROG8102	807	1268	+	NA
+516
+	IIDPKELI_00225	CDS	COG0616	1319	2419	-	[OU] Periplasmic serine proteases (ClpP class) 
+	IIDPKELI_00226	tRNA	NA	2475	2564	-	NA
+	IIDPKELI_00227	tRNA	NA	2667	2740	-	NA
+	IIDPKELI_00228	tRNA	NA	2766	2841	-	NA
+	IIDPKELI_00229	tRNA	NA	2863	2938	-	NA
+	IIDPKELI_00230	tRNA	NA	2962	3037	-	NA
+	IIDPKELI_00231	tRNA	NA	3063	3138	-	NA
+517
+	IIDPKELI_00232	CDS	COG0558	3218	3781	-	[I] Phosphatidylglycerophosphate synthase    
+518
+	IIDPKELI_00233	CDS	NA	4008	4310	-	NA
+519
+	IIDPKELI_00234	CDS	COG0599	4642	4977	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+520
+	IIDPKELI_00235	CDS	COG2207	5106	6011	+	[K] AraC-type DNA-binding domain-containing proteins  
+521
+	IIDPKELI_00236	CDS	NA	6073	6561	-	NA
+522
+	IIDPKELI_00237	CDS	COG0697	6747	7610	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+523
+	IIDPKELI_00238	CDS	COG0687	7651	8781	-	[E] Spermidine/putrescine-binding periplasmic protein   
+524
+	IIDPKELI_00239	CDS	COG0013	8953	11616	+	[J] Alanyl-tRNA synthetase    
+	IIDPKELI_00240	CDS	ROG7666	11678	12409	+	NA
+525
+	IIDPKELI_00241	CDS	COG1002	12716	13609	+	[V] Type II restriction enzyme, methylase subunits
+	IIDPKELI_00242	CDS	COG1002	13709	15715	+	[V] Type II restriction enzyme, methylase subunits
+526
+	IIDPKELI_00243	CDS	COG0588	16528	17211	-	[G] Phosphoglycerate mutase 1   
+527
+	IIDPKELI_00244	CDS	COG0188	17513	19810	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	IIDPKELI_00245	CDS	ROG6755	19830	21347	+	NA
+	IIDPKELI_00246	CDS	COG2204	21399	21866	+	[T] Response regulator containing CheY-like receiver, AAA-type
+528
+	IIDPKELI_00247	CDS	ROG2973	21970	22722	+	NA
+529
+	IIDPKELI_00248	CDS	ROG0736	23855	24061	-	NA
+530
+	IIDPKELI_00249	CDS	COG0626	24156	25325	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+531
+	IIDPKELI_00250	CDS	NA	25624	26385	-	NA
+532
+	IIDPKELI_00251	CDS	ROG2396	26485	26736	+	NA
+	IIDPKELI_00252	CDS	COG0834	26788	27594	+	[ET] ABC-type amino acid transport/signal transduction systems,
+533
+	IIDPKELI_00253	CDS	COG1951	27901	29424	+	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+534
+	IIDPKELI_00254	CDS	NA	29503	30054	-	NA
+			NA				NA
+535
+	IIDPKELI_01603	CDS	NA	51	1043	+	NA
+	IIDPKELI_01604	CDS	COG4206	1071	3497	+	[H] Outer membrane cobalamin receptor protein 
+536
+	IIDPKELI_01605	CDS	COG0459	4105	5739	-	[O] Chaperonin GroEL (HSP60 family)  
+	IIDPKELI_01606	CDS	COG0234	5832	6122	-	[O] Co-chaperonin GroES (HSP10)   
+537
+	IIDPKELI_01899	CDS	COG0329	227	715	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+538
+	IIDPKELI_01900	CDS	NA	766	1248	-	NA
+	IIDPKELI_01901	CDS	NA	1264	1728	-	NA
+			NA				NA
+539
+	IIDPKELI_01647	CDS	COG0560	22	855	-	[E] Phosphoserine phosphatase    
+540
+	IIDPKELI_01648	CDS	COG3288	1145	2686	+	[C] NAD/NADP transhydrogenase alpha subunit  
+	IIDPKELI_01649	CDS	COG3686	2690	3073	+	[S] Predicted membrane protein   
+541
+	IIDPKELI_01650	CDS	COG1282	3139	4524	+	[C] NAD/NADP transhydrogenase beta subunit  
+542
+	IIDPKELI_01651	CDS	NA	4732	5199	-	NA
+543
+	IIDPKELI_01079	CDS	NA	279	599	+	NA
+	IIDPKELI_01080	CDS	NA	606	1370	+	NA
+544
+	IIDPKELI_01081	CDS	COG0564	2090	3082	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+545
+	IIDPKELI_01082	CDS	COG0763	3130	4302	+	[M] Lipid A disaccharide synthetase  
+546
+	IIDPKELI_01083	CDS	NA	4557	4967	+	NA
+547
+	IIDPKELI_01084	CDS	COG0289	5231	6040	-	[E] Dihydrodipicolinate reductase    
+	IIDPKELI_01085	CDS	COG2913	6050	6427	-	[J] Small protein A (tmRNA-binding)  
+548
+	IIDPKELI_01086	CDS	COG0735	6454	7080	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	IIDPKELI_01087	CDS	COG2360	7150	7875	+	[O] Leu/Phe-tRNA-protein transferase    
+549
+	IIDPKELI_01088	CDS	COG0057	8129	9160	-	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+550
+	IIDPKELI_01089	CDS	COG2878	9361	10200	-	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+551
+	IIDPKELI_01090	CDS	COG0475	10349	12325	+	[P] Kef-type K+ transport systems, membrane components
+552
+	IIDPKELI_01091	tRNA	NA	12395	12470	+	NA
+	IIDPKELI_01092	tRNA	NA	12503	12579	+	NA
+	IIDPKELI_01093	tRNA	NA	12619	12694	+	NA
+	IIDPKELI_01094	tRNA	NA	12727	12803	+	NA
+553
+	IIDPKELI_01095	CDS	NA	12930	13157	-	NA
+			NA				NA
+			NA				NA
+554
+	IIDPKELI_01933	CDS	NA	110	577	+	NA
+	IIDPKELI_01934	CDS	NA	581	991	+	NA
+555
+	IIDPKELI_01935	CDS	NA	1127	1243	+	NA
+556
+	IIDPKELI_01805	CDS	COG4111	240	1178	-	[R] Uncharacterized conserved protein   
+557
+	IIDPKELI_01806	CDS	COG0379	1485	2597	+	[H] Quinolinate synthase    
+558
+	IIDPKELI_01807	CDS	NA	2785	3273	-	NA
+			NA				NA
+559
+	IIDPKELI_00570	CDS	COG0110	94	729	-	[R] Acetyltransferase (isoleucine patch superfamily)  
+560
+	IIDPKELI_00571	CDS	ROG6398	810	3923	-	NA
+561
+	IIDPKELI_00572	CDS	COG2089	4075	5124	-	[M] Sialic acid synthase   
+	IIDPKELI_00573	CDS	COG1083	5125	5811	-	[M] CMP-N-acetylneuraminic acid synthetase   
+	IIDPKELI_00574	CDS	ROG3014	5815	6948	-	NA
+562
+	IIDPKELI_00575	CDS	COG1596	7083	8258	+	[M] Periplasmic protein involved in polysaccharide export
+	IIDPKELI_00576	CDS	COG3524	8273	9436	+	[M] Capsule polysaccharide export protein  
+	IIDPKELI_00577	CDS	COG1682	9436	10233	+	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+	IIDPKELI_00578	CDS	COG1134	10230	10880	+	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+563
+	IIDPKELI_00579	CDS	COG2183	10945	13218	+	[K] Transcriptional accessory protein   
+	IIDPKELI_00580	CDS	COG0270	13249	14079	+	[L] Site-specific DNA methylase   
+	IIDPKELI_00581	CDS	COG3392	14244	14588	+	[L] Adenine-specific DNA methylase   
+	IIDPKELI_00582	CDS	COG1087	14646	15287	+	[M] UDP-glucose 4-epimerase    
+	IIDPKELI_00583	CDS	COG1088	15288	16328	+	[M] dTDP-D-glucose 4,6-dehydratase    
+	IIDPKELI_00584	CDS	COG1209	16434	17300	+	[M] dTDP-glucose pyrophosphorylase    
+	IIDPKELI_00585	CDS	COG1898	17339	17911	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+564
+	IIDPKELI_00586	CDS	COG1297	17954	19972	-	[S] Predicted membrane protein   
+565
+	IIDPKELI_00587	CDS	NA	20168	21289	-	NA
+566
+	IIDPKELI_01192	CDS	COG0738	776	1999	-	[G] Fucose permease    
+567
+	IIDPKELI_01193	CDS	COG1238	2589	3002	+	[S] Predicted membrane protein   
+	IIDPKELI_01194	CDS	COG0177	3048	3677	+	[L] Predicted EndoIII-related endonuclease   
+568
+	IIDPKELI_01195	CDS	COG0265	3815	5314	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	IIDPKELI_01196	CDS	COG1757	5345	7036	+	[C] Na+/H+ antiporter    
+	IIDPKELI_01197	CDS	COG1472	7093	8178	+	[G] Beta-glucosidase-related glycosidases    
+569
+	IIDPKELI_01198	tRNA	NA	8259	8335	+	NA
+570
+	IIDPKELI_01199	CDS	COG0602	8670	9308	-	[O] Organic radical activating enzymes  
+	IIDPKELI_01200	CDS	COG3759	9305	9676	-	[S] Predicted membrane protein   
+571
+	IIDPKELI_01201	CDS	NA	9926	10282	-	NA
+572
+	IIDPKELI_01202	CDS	COG0720	10391	10537	-	[H] 6-pyruvoyl-tetrahydropterin synthase    
+573
+	IIDPKELI_01247	CDS	COG0106	65	649	+	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+	IIDPKELI_01248	CDS	COG0107	662	1429	+	[E] Imidazoleglycerol-phosphate synthase    
+	IIDPKELI_01249	CDS	COG0139	1460	1855	+	[E] Phosphoribosyl-AMP cyclohydrolase    
+574
+	IIDPKELI_01250	CDS	COG4108	1962	3557	+	[J] Peptide chain release factor RF-3 
+575
+	IIDPKELI_01251	CDS	COG0663	3932	4462	-	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+	IIDPKELI_01252	CDS	NA	4503	5138	-	NA
+576
+	IIDPKELI_01253	CDS	COG0687	5698	6834	-	[E] Spermidine/putrescine-binding periplasmic protein   
+577
+	IIDPKELI_01254	CDS	COG2834	7107	7730	-	[M] Outer membrane lipoprotein-sorting protein  
+578
+	IIDPKELI_01255	CDS	COG2833	8160	8987	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01256	CDS	COG1230	9033	9998	+	[P] Co/Zn/Cd efflux system component  
+579
+	IIDPKELI_01333	CDS	NA	271	840	+	NA
+580
+	IIDPKELI_01334	CDS	COG3419	966	1100	-	[NU] Tfp pilus assembly protein, tip-associated adhesin
+581
+	IIDPKELI_01335	CDS	COG0552	1984	3249	-	[U] Signal recognition particle GTPase  
+582
+	IIDPKELI_01336	CDS	COG0229	3395	4963	+	[O] Conserved domain frequently associated with peptide
+583
+	IIDPKELI_01337	CDS	COG1546	5065	5550	-	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+	IIDPKELI_01338	CDS	COG0668	5576	6424	-	[M] Small-conductance mechanosensitive channel   
+584
+	IIDPKELI_01339	CDS	COG4143	6518	7519	-	[H] ABC-type thiamine transport system, periplasmic component
+585
+	IIDPKELI_01340	CDS	COG1011	7578	8309	+	[R] Predicted hydrolase (HAD superfamily)  
+	IIDPKELI_01341	CDS	COG4851	8285	8557	+	[R] Protein involved in sex pheromone biosynthesis
+586
+	IIDPKELI_01342	CDS	NA	8545	9177	-	NA
+587
+	IIDPKELI_01557	CDS	COG0796	830	1642	-	[M] Glutamate racemase    
+588
+	IIDPKELI_01558	CDS	COG0802	1837	2298	+	[R] Predicted ATPase or kinase  
+	IIDPKELI_01559	CDS	COG0860	2295	3545	+	[M] N-acetylmuramoyl-L-alanine amidase    
+589
+	IIDPKELI_01560	CDS	COG3177	3622	4443	+	[S] Uncharacterized conserved protein   
+590
+	IIDPKELI_01561	CDS	COG0116	4744	5886	-	[L] Predicted N6-adenine-specific DNA methylase  
+	IIDPKELI_01562	CDS	ROG0930	5935	6357	-	NA
+	IIDPKELI_01563	CDS	COG1051	6350	7159	-	[F] ADP-ribose pyrophosphatase    
+			NA				NA
+			NA				NA
+591
+	IIDPKELI_01802	CDS	COG3104	339	1796	+	[E] Dipeptide/tripeptide permease    
+592
+	IIDPKELI_01803	CDS	NA	2217	2813	+	NA
+593
+	IIDPKELI_01804	CDS	NA	2706	3257	-	NA
+594
+	IIDPKELI_01819	CDS	COG0438	284	1408	-	[M] Glycosyltransferase     
+595
+	IIDPKELI_01820	CDS	NA	1636	1767	-	NA
+	IIDPKELI_01821	CDS	COG0477	1764	2981	-	[GEPR] Permeases of the major facilitator superfamily
+			NA				NA
+596
+	IIDPKELI_01039	tRNA	NA	224	298	-	NA
+	IIDPKELI_01040	tRNA	NA	316	392	-	NA
+597
+	IIDPKELI_01041	CDS	COG0497	502	2175	-	[L] ATPase involved in DNA repair 
+598
+	IIDPKELI_01042	CDS	COG1386	2359	2961	-	[K] Predicted transcriptional regulator containing the HTH
+	IIDPKELI_01043	CDS	COG1161	3062	4003	-	[R] Predicted GTPases    
+599
+	IIDPKELI_01044	CDS	COG1660	4084	4938	-	[R] Predicted P-loop-containing kinase   
+	IIDPKELI_01045	CDS	COG1493	4919	5881	-	[T] Serine kinase of the HPr protein,
+	IIDPKELI_01046	CDS	COG1762	5883	6332	-	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+600
+	IIDPKELI_01047	CDS	COG0382	6517	7407	-	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+	IIDPKELI_01048	CDS	COG3161	7437	7922	-	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+601
+	IIDPKELI_01049	CDS	NA	8370	8813	-	NA
+602
+	IIDPKELI_01050	CDS	COG0132	9414	10061	-	[H] Dethiobiotin synthetase    
+	IIDPKELI_01051	CDS	COG0161	10058	11359	-	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+603
+	IIDPKELI_01052	CDS	NA	11573	11812	-	NA
+604
+	IIDPKELI_01053	CDS	COG3030	12072	12557	-	[R] Protein affecting phage T7 exclusion by
+605
+	IIDPKELI_01054	CDS	NA	12888	13196	-	NA
+	IIDPKELI_01055	CDS	COG0776	13180	13482	-	[L] Bacterial nucleoid DNA-binding protein  
+	IIDPKELI_01056	CDS	COG0072	13556	13885	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+606
+	IIDPKELI_01747	CDS	COG4968	92	481	-	[NU] Tfp pilus assembly protein PilE 
+607
+	IIDPKELI_01748	CDS	COG0845	707	1885	+	[M] Membrane-fusion protein    
+608
+	IIDPKELI_01749	CDS	NA	1939	2226	-	NA
+	IIDPKELI_01750	CDS	NA	2239	3342	-	NA
+	IIDPKELI_01751	CDS	NA	3303	3683	-	NA
+609
+	IIDPKELI_01937	CDS	COG1076	285	785	+	[O] DnaJ-domain-containing proteins 1   
+610
+	IIDPKELI_01938	CDS	NA	799	1368	-	NA
+611
+	IIDPKELI_00828	tRNA	NA	99	174	+	NA
+612
+	IIDPKELI_00829	CDS	COG0690	289	567	+	[U] Preprotein translocase subunit SecE  
+	IIDPKELI_00830	CDS	COG0250	569	1105	+	[K] Transcription antiterminator    
+	IIDPKELI_00831	CDS	COG0080	1206	1640	+	[J] Ribosomal protein L11   
+	IIDPKELI_00832	CDS	COG0081	1640	2335	+	[J] Ribosomal protein L1   
+	IIDPKELI_00833	CDS	COG0244	2565	3065	+	[J] Ribosomal protein L10   
+	IIDPKELI_00834	CDS	COG0222	3123	3494	+	[J] Ribosomal protein L7/L12   
+	IIDPKELI_00835	CDS	COG0085	3685	7863	+	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	IIDPKELI_00836	CDS	COG0086	8020	12195	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+613
+	IIDPKELI_00837	CDS	NA	12309	12434	-	NA
+614
+	IIDPKELI_00838	CDS	NA	12487	12744	+	NA
+	IIDPKELI_00839	CDS	ROG3350	12741	12890	+	NA
+615
+	IIDPKELI_00840	CDS	COG0048	13069	13440	+	[J] Ribosomal protein S12   
+	IIDPKELI_00841	CDS	COG0049	13558	14028	+	[J] Ribosomal protein S7   
+	IIDPKELI_00842	CDS	COG0480	14047	16152	+	[J] Translation elongation factors (GTPases)  
+			NA				NA
+616
+	IIDPKELI_01149	CDS	COG0616	865	1851	-	[OU] Periplasmic serine proteases (ClpP class) 
+	IIDPKELI_01150	CDS	COG1058	1891	2691	-	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+617
+	IIDPKELI_01151	CDS	COG0137	2816	4159	+	[E] Argininosuccinate synthase    
+618
+	IIDPKELI_01152	CDS	NA	4234	4383	+	NA
+619
+	IIDPKELI_01153	CDS	ROG4687	4628	4843	+	NA
+620
+	IIDPKELI_01154	CDS	NA	4918	6198	-	NA
+621
+	IIDPKELI_01155	CDS	COG3633	6310	7539	-	[E] Na+/serine symporter    
+622
+	IIDPKELI_01156	CDS	COG0729	8068	9915	+	[M] Outer membrane protein   
+623
+	IIDPKELI_01157	CDS	NA	9951	10436	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+624
+	IIDPKELI_00525	CDS	COG0129	15	1874	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+625
+	IIDPKELI_00526	CDS	COG2843	2520	3086	+	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+626
+	IIDPKELI_00527	CDS	COG0502	3233	4285	-	[H] Biotin synthase and related enzymes 
+627
+	IIDPKELI_00528	CDS	COG0773	4492	5868	-	[M] UDP-N-acetylmuramate-alanine ligase    
+	IIDPKELI_00529	CDS	ROG0685	5930	6235	-	NA
+	IIDPKELI_00530	CDS	NA	6247	6612	-	NA
+628
+	IIDPKELI_00531	CDS	NA	6861	7058	-	NA
+	IIDPKELI_00532	CDS	COG0566	7068	7853	-	[J] rRNA methylases    
+	IIDPKELI_00533	CDS	COG0037	7904	9214	-	[D] Predicted ATPase of the PP-loop superfamily
+	IIDPKELI_00534	CDS	COG0825	9282	10241	-	[I] Acetyl-CoA carboxylase alpha subunit  
+629
+	IIDPKELI_00535	CDS	COG1188	10452	10853	+	[J] Ribosome-associated heat shock protein implicated in
+630
+	IIDPKELI_00536	CDS	COG2975	10921	11118	-	[S] Uncharacterized protein conserved in bacteria 
+631
+	IIDPKELI_00537	CDS	NA	11331	11918	+	NA
+632
+	IIDPKELI_00538	CDS	COG0633	12205	12546	-	[C] Ferredoxin     
+	IIDPKELI_00539	CDS	COG3779	12602	13360	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00540	CDS	ROG4368	13399	14046	-	NA
+633
+	IIDPKELI_00541	CDS	COG0443	14122	15984	-	[O] Molecular chaperone    
+634
+	IIDPKELI_00542	CDS	COG1562	16155	17027	+	[I] Phytoene/squalene synthetase    
+635
+	IIDPKELI_00543	CDS	NA	17189	17317	+	NA
+636
+	IIDPKELI_00544	CDS	COG2907	17425	18738	+	[R] Predicted NAD/FAD-binding protein   
+637
+	IIDPKELI_00545	CDS	COG3967	18822	19541	+	[M] Short-chain dehydrogenase involved in D-alanine esterification
+638
+	IIDPKELI_00546	CDS	COG1462	19706	20377	+	[M] Uncharacterized protein involved in formation of
+	IIDPKELI_00547	CDS	COG4259	20387	20755	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00548	CDS	COG4380	20752	21399	+	[S] Uncharacterized protein conserved in bacteria 
+639
+	IIDPKELI_00549	CDS	COG4178	21841	22185	+	[R] ABC-type uncharacterized transport system, permease and
+	IIDPKELI_00550	CDS	COG4178	22151	23083	+	[R] ABC-type uncharacterized transport system, permease and
+640
+	IIDPKELI_01874	CDS	COG0233	497	1054	-	[J] Ribosome recycling factor   
+641
+	IIDPKELI_01875	CDS	NA	1234	2277	-	NA
+642
+	IIDPKELI_00747	CDS	ROG7899	206	688	+	NA
+643
+	IIDPKELI_00748	CDS	COG2233	740	1975	-	[F] Xanthine/uracil permeases    
+644
+	IIDPKELI_00749	CDS	COG1674	2174	4612	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+645
+	IIDPKELI_00750	CDS	COG0544	4821	6131	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+	IIDPKELI_00751	CDS	COG0740	6227	6841	+	[OU] Protease subunit of ATP-dependent Clp proteases
+646
+	IIDPKELI_00752	CDS	COG0821	6898	8163	-	[I] Enzyme involved in the deoxyxylulose pathway
+	IIDPKELI_00753	CDS	COG3063	8179	8940	-	[NU] Tfp pilus assembly protein PilF 
+	IIDPKELI_00754	CDS	COG0820	8943	10037	-	[R] Predicted Fe-S-cluster redox enzyme  
+	IIDPKELI_00755	CDS	COG0105	10181	10606	-	[F] Nucleoside diphosphate kinase   
+647
+	IIDPKELI_00756	CDS	COG1485	10665	11816	-	[R] Predicted ATPase    
+648
+	IIDPKELI_00757	CDS	COG0627	12207	13034	-	[R] Predicted esterase    
+	IIDPKELI_00758	CDS	COG1062	13043	14179	-	[C] Zn-dependent alcohol dehydrogenases, class III 
+649
+	IIDPKELI_00759	CDS	COG0789	14486	14893	+	[K] Predicted transcriptional regulators   
+650
+	IIDPKELI_00760	CDS	COG0776	15244	15558	-	[L] Bacterial nucleoid DNA-binding protein  
+	IIDPKELI_00761	CDS	COG0539	15569	17254	-	[J] Ribosomal protein S1   
+	IIDPKELI_00762	CDS	COG0283	17409	18065	-	[F] Cytidylate kinase    
+			NA				NA
+651
+	IIDPKELI_00637	CDS	COG0443	156	2084	-	[O] Molecular chaperone    
+652
+	IIDPKELI_00638	CDS	NA	2292	2564	-	NA
+653
+	IIDPKELI_00639	CDS	COG2932	2752	3438	+	[K] Predicted transcriptional regulator   
+654
+	IIDPKELI_00640	CDS	COG0316	3570	3908	+	[S] Uncharacterized conserved protein   
+655
+	IIDPKELI_00641	CDS	NA	4068	4532	+	NA
+	IIDPKELI_00642	CDS	COG0661	4567	6078	+	[R] Predicted unusual protein kinase  
+656
+	IIDPKELI_00643	CDS	COG1045	6435	7253	-	[E] Serine acetyltransferase    
+657
+	IIDPKELI_00644	CDS	COG0576	7437	8015	+	[O] Molecular chaperone GrpE (heat shock protein)
+658
+	IIDPKELI_00645	CDS	COG2991	8292	8507	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00646	CDS	COG1477	8533	9588	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	IIDPKELI_00647	CDS	COG2871	9741	10958	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+	IIDPKELI_00648	CDS	COG2209	10972	11565	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+	IIDPKELI_00649	CDS	COG1347	11569	12195	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+	IIDPKELI_00650	CDS	COG2869	12195	12971	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+	IIDPKELI_00651	CDS	COG1805	12964	14196	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+	IIDPKELI_00652	CDS	COG1726	14199	15542	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+659
+	IIDPKELI_00653	CDS	COG1055	15890	17311	-	[P] Na+/H+ antiporter NhaD and related arsenite
+660
+	IIDPKELI_00654	CDS	COG2832	17669	18028	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00655	CDS	COG3310	18025	18621	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00656	CDS	COG1522	18677	19159	-	[K] Transcriptional regulators    
+			NA				NA
+661
+	IIDPKELI_01856	CDS	COG0421	214	1698	-	[E] Spermidine synthase    
+	IIDPKELI_01857	CDS	ROG3165	1688	2308	-	NA
+			NA				NA
+662
+	IIDPKELI_01511	CDS	COG1289	251	2401	-	[S] Predicted membrane protein   
+663
+	IIDPKELI_01512	CDS	COG5008	2687	3913	-	[NU] Tfp pilus assembly protein, ATPase PilU
+	IIDPKELI_01513	CDS	COG2805	4076	5119	-	[NU] Tfp pilus assembly protein, pilus retraction
+664
+	IIDPKELI_01514	CDS	COG0325	5239	5925	+	[R] Predicted enzyme with a TIM-barrel fold
+	IIDPKELI_01515	CDS	NA	5925	6332	+	NA
+	IIDPKELI_01516	CDS	COG0345	6381	7172	+	[E] Pyrroline-5-carboxylate reductase    
+665
+	IIDPKELI_01517	CDS	COG1734	7319	7735	+	[T] DnaK suppressor protein   
+			NA				NA
+			NA				NA
+666
+	IIDPKELI_00899	CDS	COG0103	396	788	-	[J] Ribosomal protein S9   
+	IIDPKELI_00900	CDS	COG0102	798	1229	-	[J] Ribosomal protein L13   
+667
+	IIDPKELI_00901	CDS	COG3027	1592	1897	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00902	CDS	ROG1660	1908	2237	-	NA
+	IIDPKELI_00903	CDS	COG0240	2292	3281	-	[C] Glycerol-3-phosphate dehydrogenase    
+668
+	IIDPKELI_00904	CDS	COG2352	3404	6106	-	[C] Phosphoenolpyruvate carboxylase    
+669
+	IIDPKELI_00905	CDS	COG0476	6149	7042	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+670
+	IIDPKELI_00906	CDS	COG2900	7442	7666	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00907	CDS	COG2056	7667	9055	-	[R] Predicted permease    
+671
+	IIDPKELI_00908	CDS	COG2890	9141	10412	-	[J] Methylase of polypeptide chain release factors
+672
+	IIDPKELI_00909	CDS	COG0312	10477	11919	-	[R] Predicted Zn-dependent proteases and their inactivated
+673
+	IIDPKELI_00910	CDS	COG1457	12360	13586	+	[F] Purine-cytosine permease and related proteins 
+	IIDPKELI_00911	CDS	COG3380	13583	14683	+	[R] Predicted NAD/FAD-dependent oxidoreductase   
+674
+	IIDPKELI_00912	CDS	NA	14680	15060	-	NA
+675
+	IIDPKELI_01742	CDS	COG2274	150	431	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+676
+	IIDPKELI_01743	CDS	COG1295	452	1708	-	[S] Predicted membrane protein   
+	IIDPKELI_01744	CDS	NA	1693	2118	-	NA
+677
+	IIDPKELI_01745	CDS	COG0603	2223	2882	+	[R] Predicted PP-loop superfamily ATPase  
+	IIDPKELI_01746	CDS	ROG0407	2910	3428	+	NA
+			NA				NA
+			NA				NA
+678
+	IIDPKELI_01931	CDS	COG4181	516	1211	-	[Q] Predicted ABC-type transport system involved in
+	IIDPKELI_01932	CDS	COG4591	1204	1446	-	[M] ABC-type transport system, involved in lipoprotein
+679
+	IIDPKELI_01924	CDS	COG3514	191	493	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01925	CDS	COG2929	465	752	-	[S] Uncharacterized protein conserved in bacteria 
+680
+	IIDPKELI_01926	CDS	NA	832	1437	+	NA
+681
+	IIDPKELI_01579	CDS	COG2825	143	643	-	[M] Outer membrane protein   
+	IIDPKELI_01580	CDS	COG4775	709	3102	-	[M] Outer membrane protein/protective antigen OMA87 
+	IIDPKELI_01581	CDS	COG0750	3159	4499	-	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	IIDPKELI_01582	CDS	COG0743	4534	5769	-	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+	IIDPKELI_01583	CDS	COG0575	5774	6571	-	[I] CDP-diglyceride synthetase    
+	IIDPKELI_01584	CDS	COG0020	6574	6942	-	[I] Undecaprenyl pyrophosphate synthase   
+682
+	IIDPKELI_01884	CDS	ROG8476	133	753	+	NA
+683
+	IIDPKELI_01885	CDS	NA	867	2012	+	NA
+684
+	IIDPKELI_00811	CDS	COG0548	99	1409	-	[E] Acetylglutamate kinase    
+	IIDPKELI_00812	CDS	ROG0195	1406	1840	-	NA
+685
+	IIDPKELI_00813	CDS	COG0461	1914	2555	-	[F] Orotate phosphoribosyltransferase    
+	IIDPKELI_00814	CDS	COG1573	2617	3354	-	[L] Uracil-DNA glycosylase    
+	IIDPKELI_00815	CDS	COG0456	3348	3788	-	[R] Acetyltransferases     
+	IIDPKELI_00816	CDS	COG1214	3785	4462	-	[O] Inactive homolog of metal-dependent proteases, putative
+686
+	IIDPKELI_00817	CDS	ROG6301	4601	5422	-	NA
+687
+	IIDPKELI_00818	CDS	COG0191	5580	6644	-	[G] Fructose/tagatose bisphosphate aldolase   
+688
+	IIDPKELI_00819	CDS	COG4973	6838	7755	+	[L] Site-specific recombinase XerC   
+689
+	IIDPKELI_00820	CDS	COG1154	7840	9753	+	[HI] Deoxyxylulose-5-phosphate synthase    
+690
+	IIDPKELI_00821	CDS	COG0621	9838	11166	-	[J] 2-methylthioadenine synthetase    
+691
+	IIDPKELI_00822	CDS	ROG3741	11552	11935	+	NA
+692
+	IIDPKELI_00823	CDS	COG0001	11999	13282	+	[H] Glutamate-1-semialdehyde aminotransferase    
+693
+	IIDPKELI_00824	CDS	ROG1617	13498	13770	-	NA
+	IIDPKELI_00825	CDS	COG1949	13781	14344	-	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+	IIDPKELI_00826	CDS	COG2264	14362	15249	-	[J] Ribosomal protein L11 methylase  
+694
+	IIDPKELI_00827	CDS	COG0439	15510	16535	-	[I] Biotin carboxylase    
+695
+	IIDPKELI_01585	CDS	COG0118	192	830	-	[E] Glutamine amidotransferase    
+	IIDPKELI_01586	CDS	COG0280	961	2463	-	[C] Phosphotransacetylase     
+696
+	IIDPKELI_01587	CDS	COG1118	2648	3706	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	IIDPKELI_01588	CDS	COG1178	3727	5256	-	[P] ABC-type Fe3+ transport system, permease component
+	IIDPKELI_01589	CDS	COG1840	5312	6307	-	[P] ABC-type Fe3+ transport system, periplasmic component
+697
+	IIDPKELI_01590	CDS	ROG5235	6559	6906	-	NA
+698
+	IIDPKELI_01548	CDS	ROG7174	634	1989	+	NA
+	IIDPKELI_01549	CDS	COG2017	1993	3003	+	[G] Galactose mutarotase and related enzymes 
+	IIDPKELI_01550	CDS	COG1554	3237	5495	+	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	IIDPKELI_01551	CDS	COG0637	5508	6173	+	[R] Predicted phosphatase/phosphohexomutase    
+699
+	IIDPKELI_01552	CDS	NA	6351	7289	-	NA
+			NA				NA
+700
+	IIDPKELI_00001	CDS	COG1994	189	827	-	[R] Zn-dependent proteases    
+701
+	IIDPKELI_00002	CDS	COG0810	1082	1924	+	[M] Periplasmic protein TonB, links inner and
+	IIDPKELI_00003	CDS	COG0811	1990	2652	+	[U] Biopolymer transport proteins   
+	IIDPKELI_00004	CDS	COG0848	2673	3107	+	[U] Biopolymer transport protein   
+702
+	IIDPKELI_00005	CDS	COG3453	3794	4222	-	[S] Uncharacterized protein conserved in bacteria 
+703
+	IIDPKELI_00006	CDS	COG3975	4287	6035	-	[R] Predicted protease with the C-terminal PDZ
+704
+	IIDPKELI_00007	CDS	COG3278	6362	7795	+	[O] Cbb3-type cytochrome oxidase, subunit 1 
+	IIDPKELI_00008	CDS	COG2993	7822	8433	+	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	IIDPKELI_00009	CDS	COG4736	8438	8608	+	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	IIDPKELI_00010	CDS	COG2010	8632	9729	+	[C] Cytochrome c, mono- and diheme variants
+705
+	IIDPKELI_00011	CDS	COG3182	10165	11574	+	[S] Uncharacterized iron-regulated membrane protein  
+706
+	IIDPKELI_00012	CDS	COG1330	11676	14885	+	[L] Exonuclease V gamma subunit  
+707
+	IIDPKELI_00013	CDS	COG2978	14953	16521	-	[H] Putative p-aminobenzoyl-glutamate transporter   
+708
+	IIDPKELI_00014	CDS	NA	16855	17067	+	NA
+709
+	IIDPKELI_00015	CDS	COG1309	17346	17978	-	[K] Transcriptional regulator    
+710
+	IIDPKELI_00016	CDS	COG0845	18382	19620	+	[M] Membrane-fusion protein    
+	IIDPKELI_00017	CDS	COG0841	19632	22835	+	[V] Cation/multidrug efflux pump   
+	IIDPKELI_00018	CDS	COG1538	22890	24293	+	[MU] Outer membrane protein   
+711
+	IIDPKELI_00019	CDS	NA	24497	24754	+	NA
+712
+	IIDPKELI_00020	CDS	COG1620	24661	24888	-	[C] L-lactate permease    
+713
+	IIDPKELI_00021	CDS	COG2186	25495	26274	+	[K] Transcriptional regulators    
+714
+	IIDPKELI_00022	CDS	NA	26460	26717	-	NA
+	IIDPKELI_00023	CDS	NA	26761	27129	-	NA
+715
+	IIDPKELI_00024	CDS	COG0334	27277	28611	-	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+716
+	IIDPKELI_00025	CDS	COG0207	28995	29789	+	[F] Thymidylate synthase    
+	IIDPKELI_00026	CDS	COG3540	29798	30079	+	[P] Phosphodiesterase/alkaline phosphatase D   
+	IIDPKELI_00027	CDS	COG1477	30060	30458	+	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+717
+	IIDPKELI_00028	CDS	COG0733	30631	31968	-	[R] Na+-dependent transporters of the SNF family
+718
+	IIDPKELI_00029	CDS	COG0438	32355	33419	-	[M] Glycosyltransferase     
+	IIDPKELI_00030	CDS	COG1215	33420	34178	-	[M] Glycosyltransferases, probably involved in cell wall
+719
+	IIDPKELI_00031	tRNA	NA	34253	34328	-	NA
+	IIDPKELI_00032	CDS	COG0304	34382	35518	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	IIDPKELI_00033	CDS	COG3676	35463	36059	-	[L] Transposase and inactivated derivatives  
+720
+	IIDPKELI_00034	CDS	ROG0199	36253	36675	+	NA
+721
+	IIDPKELI_00035	CDS	COG4648	36973	37407	+	[S] Predicted membrane protein   
+	IIDPKELI_00036	CDS	COG4899	37414	37929	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00037	CDS	COG0043	37949	39427	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+722
+	IIDPKELI_00038	CDS	COG2982	39492	41606	-	[M] Uncharacterized protein involved in outer membrane
+723
+	IIDPKELI_00039	CDS	COG2876	41697	42590	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+724
+	IIDPKELI_00040	CDS	COG0294	42730	43584	+	[H] Dihydropteroate synthase and related enzymes 
+	IIDPKELI_00041	CDS	COG1109	43714	45048	+	[G] Phosphomannomutase     
+725
+	IIDPKELI_00042	CDS	COG0586	45237	45920	+	[S] Uncharacterized membrane-associated protein   
+726
+	IIDPKELI_00043	CDS	COG0252	45987	46979	+	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	IIDPKELI_00044	CDS	COG0084	46987	47757	+	[L] Mg-dependent DNase    
+	IIDPKELI_00045	CDS	COG0216	47861	48937	+	[J] Protein chain release factor A 
+727
+	IIDPKELI_00046	CDS	COG1052	49023	50060	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+728
+	IIDPKELI_00047	CDS	COG0172	50138	51433	-	[J] Seryl-tRNA synthetase    
+729
+	IIDPKELI_00048	CDS	COG0494	51515	52123	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	IIDPKELI_00049	CDS	COG0187	52190	54175	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+730
+	IIDPKELI_00050	CDS	NA	54249	54653	-	NA
+731
+	IIDPKELI_00051	CDS	COG0082	54745	55845	-	[E] Chorismate synthase    
+732
+	IIDPKELI_00052	CDS	COG2265	55988	57076	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	IIDPKELI_00053	CDS	COG1448	57097	58290	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+733
+	IIDPKELI_00054	tRNA	NA	58355	58430	-	NA
+734
+	IIDPKELI_00055	CDS	COG3245	58715	59554	+	[C] Cytochrome c5    
+735
+	IIDPKELI_00056	CDS	NA	60020	62446	-	NA
+736
+	IIDPKELI_01880	CDS	COG4974	60	779	+	[L] Site-specific recombinase XerD   
+737
+	IIDPKELI_01881	CDS	COG2906	951	1151	+	[P] Bacterioferritin-associated ferredoxin    
+738
+	IIDPKELI_01882	CDS	NA	1317	1550	+	NA
+739
+	IIDPKELI_01271	CDS	NA	87	398	+	NA
+740
+	IIDPKELI_01272	CDS	COG2346	690	1283	-	[R] Truncated hemoglobins    
+741
+	IIDPKELI_01273	CDS	COG2890	1416	2327	+	[J] Methylase of polypeptide chain release factors
+742
+	IIDPKELI_01274	CDS	COG2849	2608	3345	+	[S] Uncharacterized protein conserved in bacteria 
+743
+	IIDPKELI_01275	CDS	COG3830	3471	3743	+	[T] ACT domain-containing protein   
+	IIDPKELI_01276	CDS	COG2848	3758	5113	+	[S] Uncharacterized conserved protein   
+744
+	IIDPKELI_01277	CDS	COG0787	5177	6235	-	[M] Alanine racemase    
+745
+	IIDPKELI_01278	CDS	COG1522	6560	7024	+	[K] Transcriptional regulators    
+746
+	IIDPKELI_01279	CDS	NA	7541	7753	-	NA
+747
+	IIDPKELI_01280	CDS	COG1495	7783	8271	+	[O] Disulfide bond formation protein DsbB 
+748
+	IIDPKELI_01281	CDS	COG0217	8330	9058	-	[S] Uncharacterized conserved protein   
+749
+	IIDPKELI_01282	CDS	NA	9580	10134	-	NA
+			NA				NA
+750
+	IIDPKELI_01752	CDS	COG0164	93	677	+	[L] Ribonuclease HII    
+751
+	IIDPKELI_01753	CDS	COG1192	1350	2123	-	[D] ATPases involved in chromosome partitioning 
+	IIDPKELI_01754	CDS	COG0357	2222	2845	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+752
+	IIDPKELI_01755	CDS	ROG1318	2941	3243	-	NA
+	IIDPKELI_01756	CDS	NA	3219	3413	-	NA
+753
+	IIDPKELI_01757	tRNA	NA	3520	3595	+	NA
+754
+	IIDPKELI_00385	CDS	COG3306	305	1147	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	IIDPKELI_00386	CDS	NA	1189	1284	-	NA
+	IIDPKELI_00387	CDS	COG3306	1296	2123	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	IIDPKELI_00388	CDS	COG1215	2165	3211	-	[M] Glycosyltransferases, probably involved in cell wall
+	IIDPKELI_00389	CDS	COG0751	3228	5291	-	[J] Glycyl-tRNA synthetase, beta subunit  
+	IIDPKELI_00390	CDS	COG3171	5312	5722	-	[S] Uncharacterized protein conserved in bacteria 
+755
+	IIDPKELI_00391	CDS	COG0752	5799	6704	-	[J] Glycyl-tRNA synthetase, alpha subunit  
+756
+	IIDPKELI_00392	CDS	COG0355	7109	7531	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	IIDPKELI_00393	CDS	COG0055	7542	8939	-	[C] F0F1-type ATP synthase, beta subunit 
+	IIDPKELI_00394	CDS	COG0224	8977	9852	-	[C] F0F1-type ATP synthase, gamma subunit 
+	IIDPKELI_00395	CDS	COG0056	9877	11424	-	[C] F0F1-type ATP synthase, alpha subunit 
+	IIDPKELI_00396	CDS	COG0712	11435	11968	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	IIDPKELI_00397	CDS	COG0711	11973	12443	-	[C] F0F1-type ATP synthase, subunit b 
+	IIDPKELI_00398	CDS	COG0636	12514	12750	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	IIDPKELI_00399	CDS	COG0356	12807	13673	-	[C] F0F1-type ATP synthase, subunit a 
+	IIDPKELI_00400	CDS	COG3312	13663	14016	-	[C] F0F1-type ATP synthase, subunit I 
+757
+	IIDPKELI_00401	CDS	COG2913	14384	14722	-	[J] Small protein A (tmRNA-binding)  
+758
+	IIDPKELI_00402	CDS	COG1475	14858	15718	-	[K] Predicted transcriptional regulators   
+759
+	IIDPKELI_00403	CDS	COG0163	15876	16445	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+760
+	IIDPKELI_00404	CDS	COG1464	16507	17370	-	[P] ABC-type metal ion transport system, periplasmic
+	IIDPKELI_00405	CDS	COG2011	17529	18215	-	[P] ABC-type metal ion transport system, permease
+	IIDPKELI_00406	CDS	COG1135	18217	18954	-	[P] ABC-type metal ion transport system, ATPase
+761
+	IIDPKELI_00407	CDS	COG0741	19485	21332	+	[M] Soluble lytic murein transglycosylase and related
+762
+	IIDPKELI_00408	CDS	COG0828	21621	21833	+	[J] Ribosomal protein S21   
+	IIDPKELI_00409	CDS	COG1610	21965	22411	+	[S] Uncharacterized conserved protein   
+763
+	IIDPKELI_00410	CDS	COG2969	22610	23002	-	[R] Stringent starvation protein B  
+	IIDPKELI_00411	CDS	COG0625	23074	23676	-	[O] Glutathione S-transferase    
+764
+	IIDPKELI_00412	CDS	COG1807	23796	25457	-	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+765
+	IIDPKELI_00413	CDS	COG4300	25603	26232	-	[P] Predicted permease, cadmium resistance protein 
+			NA				NA
+			NA				NA
+766
+	IIDPKELI_01912	CDS	COG3468	152	586	+	[MU] Type V secretory pathway, adhesin AidA
+767
+	IIDPKELI_01913	CDS	NA	902	1654	-	NA
+768
+	IIDPKELI_00436	CDS	COG1187	233	793	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+769
+	IIDPKELI_00437	CDS	COG2879	1309	1503	-	[S] Uncharacterized small protein   
+	IIDPKELI_00438	CDS	COG1966	1493	3574	-	[T] Carbon starvation protein, predicted membrane protein
+770
+	IIDPKELI_00439	CDS	NA	4050	4430	+	NA
+771
+	IIDPKELI_00440	CDS	COG1012	5085	6518	+	[C] NAD-dependent aldehyde dehydrogenases   
+772
+	IIDPKELI_00441	CDS	ROG2479	6627	7415	+	NA
+773
+	IIDPKELI_00442	CDS	COG0861	7783	9339	+	[P] Membrane protein TerC, possibly involved in
+	IIDPKELI_00443	CDS	COG0496	9356	10102	+	[R] Predicted acid phosphatase   
+774
+	IIDPKELI_00444	CDS	COG0739	10359	11606	+	[M] Membrane proteins related to metalloendopeptidases 
+775
+	IIDPKELI_00445	CDS	COG1607	11813	12295	-	[I] Acyl-CoA hydrolase    
+776
+	IIDPKELI_00446	CDS	NA	12448	12609	-	NA
+777
+	IIDPKELI_00447	CDS	COG2137	12683	13111	-	[R] Uncharacterized protein conserved in bacteria 
+778
+	IIDPKELI_00448	CDS	COG0546	13201	13908	-	[R] Predicted phosphatases    
+779
+	IIDPKELI_00449	CDS	COG0334	14315	15580	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+780
+	IIDPKELI_00450	CDS	COG5266	15638	16444	-	[P] ABC-type Co2+ transport system, periplasmic component
+781
+	IIDPKELI_00451	CDS	COG1942	16789	16998	+	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+782
+	IIDPKELI_00452	CDS	COG0436	17087	18301	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+783
+	IIDPKELI_00453	CDS	COG0542	18388	20967	-	[O] ATPases with chaperone activity, ATP-binding subunit
+784
+	IIDPKELI_00454	CDS	COG0180	21228	22238	+	[J] Tryptophanyl-tRNA synthetase    
+	IIDPKELI_00455	CDS	NA	22244	22585	+	NA
+785
+	IIDPKELI_00456	CDS	ROG8404	22904	23248	+	NA
+786
+	IIDPKELI_00457	CDS	NA	23457	24560	-	NA
+787
+	IIDPKELI_01464	CDS	COG3676	28	312	+	[L] Transposase and inactivated derivatives  
+788
+	IIDPKELI_01465	CDS	ROG1815	383	985	-	NA
+	IIDPKELI_01466	CDS	COG0151	1019	2290	-	[F] Phosphoribosylamine-glycine ligase    
+789
+	IIDPKELI_01467	CDS	NA	2448	2765	+	NA
+790
+	IIDPKELI_01468	CDS	COG1739	2817	3428	-	[S] Uncharacterized conserved protein   
+791
+	IIDPKELI_01469	CDS	COG2025	3491	4426	-	[C] Electron transfer flavoprotein, alpha subunit 
+	IIDPKELI_01470	CDS	COG2086	4437	5186	-	[C] Electron transfer flavoprotein, beta subunit 
+792
+	IIDPKELI_01471	CDS	COG0859	5412	6380	-	[M] ADP-heptose:LPS heptosyltransferase    
+	IIDPKELI_01472	CDS	COG1335	6417	7052	-	[Q] Amidases related to nicotinamidase  
+793
+	IIDPKELI_01473	CDS	NA	7166	7846	+	NA
+794
+	IIDPKELI_01959	CDS	COG0267	210	365	-	[J] Ribosomal protein L33   
+	IIDPKELI_01960	CDS	COG0227	397	630	-	[J] Ribosomal protein L28   
+			NA				NA
+795
+	IIDPKELI_01921	CDS	NA	471	749	+	NA
+796
+	IIDPKELI_01922	CDS	NA	1032	1490	+	NA
+797
+	IIDPKELI_00622	CDS	NA	369	473	+	NA
+798
+	IIDPKELI_00623	CDS	COG3512	1786	2094	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00624	CDS	COG1518	2105	3019	-	[L] Uncharacterized protein predicted to be involved
+	IIDPKELI_00625	CDS	COG3513	3085	6333	-	[S] Uncharacterized protein conserved in bacteria 
+799
+	IIDPKELI_00626	CDS	COG0587	6611	10045	-	[L] DNA polymerase III, alpha subunit 
+800
+	IIDPKELI_00627	CDS	COG2501	10358	10816	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_00628	CDS	NA	10794	10997	+	NA
+801
+	IIDPKELI_00629	CDS	COG0613	11443	12279	+	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+802
+	IIDPKELI_00630	CDS	COG3977	12331	13623	-	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+	IIDPKELI_00631	CDS	COG1086	13679	15589	-	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+	IIDPKELI_00632	CDS	COG0399	15637	16842	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+803
+	IIDPKELI_00633	CDS	NA	17041	17235	-	NA
+	IIDPKELI_00634	CDS	COG1011	17283	17969	-	[R] Predicted hydrolase (HAD superfamily)  
+	IIDPKELI_00635	CDS	COG2148	17956	19533	-	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	IIDPKELI_00636	CDS	COG0438	19526	20032	-	[M] Glycosyltransferase     
+804
+	IIDPKELI_00969	CDS	COG0855	282	2339	-	[P] Polyphosphate kinase    
+805
+	IIDPKELI_00970	CDS	ROG6161	2508	2951	-	NA
+	IIDPKELI_00971	CDS	COG2913	2958	3473	-	[J] Small protein A (tmRNA-binding)  
+806
+	IIDPKELI_00972	CDS	COG0495	3734	6370	+	[J] Leucyl-tRNA synthetase    
+807
+	IIDPKELI_00973	CDS	COG0338	6605	7417	+	[L] Site-specific DNA methylase   
+	IIDPKELI_00974	CDS	COG0863	7410	8210	+	[L] DNA modification methylase   
+	IIDPKELI_00975	CDS	NA	8215	8769	+	NA
+808
+	IIDPKELI_00976	CDS	COG2944	9644	9955	-	[K] Predicted transcriptional regulator   
+	IIDPKELI_00977	CDS	COG4737	10017	10319	-	[S] Uncharacterized protein conserved in bacteria 
+809
+	IIDPKELI_00978	tRNA	NA	11135	11220	-	NA
+	IIDPKELI_00979	CDS	COG1314	11234	11584	-	[U] Preprotein translocase subunit SecG  
+	IIDPKELI_00980	CDS	COG0149	11591	12364	-	[G] Triosephosphate isomerase    
+810
+	IIDPKELI_00981	CDS	COG1956	12548	13051	+	[T] GAF domain-containing protein   
+811
+	IIDPKELI_00982	CDS	COG2518	13153	13809	+	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+812
+	IIDPKELI_00983	CDS	NA	13888	14211	+	NA
+813
+	IIDPKELI_01377	CDS	NA	2	271	+	NA
+814
+	IIDPKELI_01378	CDS	ROG7602	373	897	-	NA
+815
+	IIDPKELI_01379	CDS	NA	1052	3223	+	NA
+	IIDPKELI_01380	CDS	COG4228	3223	4554	+	[R] Mu-like prophage DNA circulation protein 
+	IIDPKELI_01381	CDS	COG4379	4544	5689	+	[R] Mu-like prophage tail protein gpP 
+	IIDPKELI_01382	CDS	COG4384	5686	6354	+	[S] Mu-like prophage protein gp45  
+	IIDPKELI_01383	CDS	COG4381	6454	6801	+	[S] Mu-like prophage protein gp46  
+	IIDPKELI_01384	CDS	COG3299	6815	7258	+	[S] Uncharacterized homolog of phage Mu protein
+	IIDPKELI_01385	CDS	COG3299	7258	7869	+	[S] Uncharacterized homolog of phage Mu protein
+	IIDPKELI_01386	CDS	COG3778	7866	8426	+	[S] Uncharacterized protein conserved in bacteria 
+816
+	IIDPKELI_01387	CDS	NA	8704	9042	-	NA
+817
+	IIDPKELI_01170	CDS	COG2027	146	1672	-	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+818
+	IIDPKELI_01171	CDS	COG0431	1720	2286	+	[R] Predicted flavoprotein    
+819
+	IIDPKELI_01172	CDS	COG2851	3043	4356	+	[C] H+/citrate symporter    
+820
+	IIDPKELI_01173	CDS	COG0745	4577	4708	+	[TK] Response regulators consisting of a CheY-like
+	IIDPKELI_01174	CDS	COG2205	4708	5997	+	[T] Osmosensitive K+ channel histidine kinase 
+821
+	IIDPKELI_01175	CDS	COG1530	6032	7525	-	[J] Ribonucleases G and E  
+822
+	IIDPKELI_01176	CDS	COG0695	7738	7995	+	[O] Glutaredoxin and related proteins  
+	IIDPKELI_01177	CDS	COG1952	8016	8459	+	[U] Preprotein translocase subunit SecB  
+823
+	IIDPKELI_01178	CDS	COG1200	8545	10587	+	[LK] RecG-like helicase    
+824
+	IIDPKELI_01758	CDS	ROG3350	490	2007	+	NA
+825
+	IIDPKELI_01759	CDS	NA	2066	3466	-	NA
+826
+	IIDPKELI_01727	CDS	NA	731	1087	-	NA
+827
+	IIDPKELI_01728	CDS	NA	1728	2129	-	NA
+	IIDPKELI_01729	CDS	NA	2133	2585	-	NA
+828
+	IIDPKELI_01730	CDS	NA	2943	3260	-	NA
+829
+	IIDPKELI_01731	CDS	NA	3278	3451	+	NA
+830
+	IIDPKELI_01797	CDS	COG2707	24	218	+	[S] Predicted membrane protein   
+	IIDPKELI_01798	tRNA	NA	238	309	+	NA
+831
+	IIDPKELI_01799	CDS	COG2804	707	2383	+	[NU] Type II secretory pathway, ATPase PulE/Tfp
+832
+	IIDPKELI_01800	CDS	COG3024	2468	2677	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01801	CDS	COG0237	2670	3302	-	[H] Dephospho-CoA kinase    
+833
+	IIDPKELI_01832	CDS	NA	241	489	-	NA
+834
+	IIDPKELI_01833	CDS	NA	806	1039	-	NA
+	IIDPKELI_01834	CDS	COG0560	1044	1712	-	[E] Phosphoserine phosphatase    
+	IIDPKELI_01835	CDS	ROG3842	1709	2377	-	NA
+835
+	IIDPKELI_01836	CDS	COG4178	2482	2781	-	[R] ABC-type uncharacterized transport system, permease and
+			NA				NA
+836
+	IIDPKELI_00196	CDS	COG2194	31	1311	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+837
+	IIDPKELI_00197	CDS	COG0770	1436	2794	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	IIDPKELI_00198	CDS	NA	2797	2973	+	NA
+838
+	IIDPKELI_00199	CDS	COG0472	3221	4303	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+839
+	IIDPKELI_00200	CDS	COG0790	4418	4690	+	[R] FOG: TPR repeat, SEL1 subfamily 
+840
+	IIDPKELI_00201	CDS	COG0771	4780	6117	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	IIDPKELI_00202	CDS	COG0772	6243	7568	+	[D] Bacterial cell division membrane protein 
+	IIDPKELI_00203	CDS	COG0707	7572	8639	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	IIDPKELI_00204	CDS	COG0773	8794	10203	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	IIDPKELI_00205	CDS	COG1181	10317	11231	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	IIDPKELI_00206	CDS	COG1589	11221	11949	+	[M] Cell division septal protein  
+	IIDPKELI_00207	CDS	COG0849	12035	13279	+	[D] Actin-like ATPase involved in cell division
+	IIDPKELI_00208	CDS	COG0206	13398	14576	+	[D] Cell division GTPase   
+841
+	IIDPKELI_00209	CDS	COG2252	14715	16025	+	[R] Permeases     
+842
+	IIDPKELI_00210	CDS	COG2513	16651	17526	+	[G] PEP phosphonomutase and related enzymes 
+	IIDPKELI_00211	CDS	COG0372	17612	18766	+	[C] Citrate synthase    
+843
+	IIDPKELI_00212	CDS	COG0730	18927	19715	+	[R] Predicted permeases    
+844
+	IIDPKELI_00213	CDS	COG1048	19793	22399	+	[C] Aconitase A    
+845
+	IIDPKELI_00214	CDS	COG2828	23202	24371	+	[S] Uncharacterized protein conserved in bacteria 
+846
+	IIDPKELI_00215	CDS	COG0282	24785	25984	+	[C] Acetate kinase    
+847
+	IIDPKELI_00216	CDS	COG0009	26342	26962	+	[J] Putative translation factor (SUA5)  
+848
+	IIDPKELI_00217	CDS	COG1959	27089	27532	-	[K] Predicted transcriptional regulator   
+849
+	IIDPKELI_00218	CDS	ROG1736	27706	28074	+	NA
+	IIDPKELI_00219	CDS	COG3213	28119	29273	+	[P] Uncharacterized protein involved in response to
+850
+	IIDPKELI_00220	CDS	COG0287	29330	30202	-	[E] Prephenate dehydrogenase    
+851
+	IIDPKELI_00221	CDS	COG0388	30287	31099	+	[R] Predicted amidohydrolase    
+	IIDPKELI_00222	CDS	NA	31089	31577	+	NA
+			NA				NA
+852
+	IIDPKELI_01524	CDS	COG0277	297	1664	+	[C] FAD/FMN-containing dehydrogenases    
+853
+	IIDPKELI_01525	CDS	COG3468	1845	3788	-	[MU] Type V secretory pathway, adhesin AidA
+	IIDPKELI_01526	CDS	NA	3778	3873	-	NA
+854
+	IIDPKELI_01527	CDS	COG0691	4246	4692	-	[O] tmRNA-binding protein    
+855
+	IIDPKELI_01528	CDS	COG0859	4747	5757	-	[M] ADP-heptose:LPS heptosyltransferase    
+856
+	IIDPKELI_01529	tRNA	NA	5888	5963	-	NA
+857
+	IIDPKELI_01530	CDS	COG0350	6154	6906	-	[L] Methylated DNA-protein cysteine methyltransferase  
+			NA				NA
+858
+	IIDPKELI_01553	CDS	COG1158	1260	2519	-	[K] Transcription termination factor   
+	IIDPKELI_01554	CDS	COG0574	2739	5123	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+859
+	IIDPKELI_01555	CDS	COG1806	5535	6356	+	[S] Uncharacterized protein conserved in bacteria 
+860
+	IIDPKELI_01556	CDS	NA	6595	7146	-	NA
+861
+	IIDPKELI_01423	CDS	COG0644	331	1992	+	[C] Dehydrogenases (flavoproteins)    
+862
+	IIDPKELI_01424	CDS	COG4314	2080	2574	-	[C] Predicted lipoprotein involved in nitrous oxide
+863
+	IIDPKELI_01425	CDS	COG1131	2791	3411	-	[V] ABC-type multidrug transport system, ATPase component
+	IIDPKELI_01426	CDS	COG3420	3469	4488	-	[P] Nitrous oxidase accessory protein  
+	IIDPKELI_01427	CDS	COG3901	4557	5078	-	[K] Regulator of nitric oxide reductase transcription
+864
+	IIDPKELI_01428	CDS	COG0373	5406	6653	-	[H] Glutamyl-tRNA reductase    
+865
+	IIDPKELI_01429	CDS	COG0509	6800	7186	-	[E] Glycine cleavage system H protein (lipoate-binding)
+	IIDPKELI_01430	CDS	COG0404	7347	8447	-	[E] Glycine cleavage system T protein (aminomethyltransferase)
+866
+	IIDPKELI_01290	CDS	NA	43	504	+	NA
+867
+	IIDPKELI_01291	CDS	COG0766	594	1847	-	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+868
+	IIDPKELI_01292	tRNA	NA	2067	2142	-	NA
+869
+	IIDPKELI_01293	CDS	COG0861	2211	3185	-	[P] Membrane protein TerC, possibly involved in
+	IIDPKELI_01294	CDS	COG3399	3218	3667	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01295	CDS	COG1519	3708	4979	-	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+870
+	IIDPKELI_01296	CDS	COG0362	5042	6490	-	[G] 6-phosphogluconate dehydrogenase    
+871
+	IIDPKELI_01297	CDS	COG0774	7430	8353	-	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+872
+	IIDPKELI_01298	CDS	COG4969	8846	9184	-	[NU] Tfp pilus assembly protein, major pilin
+	IIDPKELI_01299	CDS	COG4969	9376	9696	-	[NU] Tfp pilus assembly protein, major pilin
+873
+	IIDPKELI_01895	CDS	COG4137	106	912	-	[R] ABC-type uncharacterized transport system, permease component
+874
+	IIDPKELI_01896	CDS	NA	1145	1990	-	NA
+875
+	IIDPKELI_01721	CDS	COG0038	29	811	+	[P] Chloride channel protein EriC  
+876
+	IIDPKELI_01722	CDS	COG0138	972	2552	+	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+877
+	IIDPKELI_01723	CDS	NA	3165	4121	+	NA
+878
+	IIDPKELI_00943	CDS	COG2032	492	1052	-	[P] Cu/Zn superoxide dismutase   
+879
+	IIDPKELI_00944	CDS	NA	1208	1306	-	NA
+880
+	IIDPKELI_00945	CDS	COG1194	1469	2509	-	[L] A/G-specific DNA glycosylase   
+881
+	IIDPKELI_00946	CDS	COG1063	2672	2854	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+	IIDPKELI_00947	CDS	COG1063	3012	3617	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+882
+	IIDPKELI_00948	CDS	COG0800	3874	4512	-	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+	IIDPKELI_00949	CDS	COG0129	4693	6528	-	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+883
+	IIDPKELI_00950	CDS	COG0364	7044	8489	+	[G] Glucose-6-phosphate 1-dehydrogenase    
+	IIDPKELI_00951	CDS	COG0363	8769	9464	+	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+	IIDPKELI_00952	CDS	COG0837	9445	10431	+	[G] Glucokinase     
+	IIDPKELI_00953	CDS	COG1737	10481	11329	+	[K] Transcriptional regulators    
+	IIDPKELI_00954	CDS	COG0166	11450	13096	+	[G] Glucose-6-phosphate isomerase    
+884
+	IIDPKELI_00955	CDS	ROG2573	13239	13661	+	NA
+885
+	IIDPKELI_00956	CDS	NA	14192	14647	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+886
+	IIDPKELI_01490	CDS	COG0749	179	2971	-	[L] DNA polymerase I - 3'-5' exonuclease
+	IIDPKELI_01491	CDS	COG1854	3117	3623	-	[T] LuxS protein involved in autoinducer AI2
+	IIDPKELI_01492	CDS	COG4316	3645	4064	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01493	CDS	COG1965	4097	4420	-	[P] Protein implicated in iron transport, frataxin
+887
+	IIDPKELI_01494	CDS	COG5567	4491	4661	+	[N] Predicted small periplasmic lipoprotein  
+	IIDPKELI_01495	CDS	COG0019	4672	5916	+	[E] Diaminopimelate decarboxylase    
+888
+	IIDPKELI_01496	CDS	NA	5952	6044	-	NA
+	IIDPKELI_01497	CDS	COG0733	6041	7576	-	[R] Na+-dependent transporters of the SNF family
+889
+	IIDPKELI_00115	CDS	NA	297	551	+	NA
+	IIDPKELI_00116	CDS	COG2233	566	1813	+	[F] Xanthine/uracil permeases    
+	IIDPKELI_00117	CDS	COG2233	1767	1958	+	[F] Xanthine/uracil permeases    
+890
+	IIDPKELI_00118	CDS	COG0566	2020	2772	-	[J] rRNA methylases    
+891
+	IIDPKELI_00119	CDS	COG2839	2838	3326	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00120	CDS	COG0590	3331	4050	-	[FJ] Cytosine/adenosine deaminases    
+	IIDPKELI_00121	CDS	COG0324	4054	4995	-	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+892
+	IIDPKELI_00122	CDS	NA	5349	5627	+	NA
+	IIDPKELI_00123	CDS	COG4394	5640	6797	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00124	CDS	COG0231	6840	7400	+	[J] Translation elongation factor P (EF-P)/translation initiation
+893
+	IIDPKELI_00125	CDS	ROG0077	7450	8286	-	NA
+894
+	IIDPKELI_00126	CDS	COG0500	8403	8984	-	[QR] SAM-dependent methyltransferases    
+	IIDPKELI_00127	CDS	COG2021	8981	10120	-	[E] Homoserine acetyltransferase    
+895
+	IIDPKELI_00128	CDS	COG0053	10270	10470	+	[P] Predicted Co/Zn/Cd cation transporters  
+896
+	IIDPKELI_00129	CDS	COG0257	10682	10807	-	[J] Ribosomal protein L36   
+	IIDPKELI_00130	CDS	COG0254	10807	11082	-	[J] Ribosomal protein L31   
+897
+	IIDPKELI_00131	CDS	COG0685	11282	12160	+	[E] 5,10-methylenetetrahydrofolate reductase    
+	IIDPKELI_00132	CDS	COG0620	12298	14574	+	[E] Methionine synthase II (cobalamin-independent)  
+898
+	IIDPKELI_00133	CDS	COG0678	14853	15590	+	[O] Peroxiredoxin     
+899
+	IIDPKELI_00134	CDS	COG1249	15773	17242	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	IIDPKELI_00135	CDS	COG2009	17521	17898	+	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	IIDPKELI_00136	CDS	COG2142	17892	18233	+	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+	IIDPKELI_00137	CDS	COG1053	18236	19999	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	IIDPKELI_00138	CDS	COG0479	20120	20827	+	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	IIDPKELI_00139	CDS	COG2938	20831	21079	+	[S] Uncharacterized conserved protein   
+900
+	IIDPKELI_00140	CDS	COG0372	21191	22474	+	[C] Citrate synthase    
+	IIDPKELI_00141	CDS	COG0567	22679	25507	+	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	IIDPKELI_00142	CDS	COG0508	25607	26788	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	IIDPKELI_00143	CDS	COG1249	27153	28586	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+901
+	IIDPKELI_00144	CDS	ROG6018	28681	28968	+	NA
+902
+	IIDPKELI_00145	CDS	COG0045	29067	30233	+	[C] Succinyl-CoA synthetase, beta subunit  
+	IIDPKELI_00146	CDS	COG0074	30244	31134	+	[C] Succinyl-CoA synthetase, alpha subunit  
+903
+	IIDPKELI_00147	CDS	COG1943	31230	31697	-	[L] Transposase and inactivated derivatives  
+	IIDPKELI_00148	CDS	COG1943	31669	31812	-	[L] Transposase and inactivated derivatives  
+904
+	IIDPKELI_00149	CDS	COG0270	32098	33300	-	[L] Site-specific DNA methylase   
+	IIDPKELI_00150	CDS	COG3183	33313	34497	-	[V] Predicted restriction endonuclease   
+	IIDPKELI_00151	CDS	COG0178	34539	37388	-	[L] Excinuclease ATPase subunit   
+905
+	IIDPKELI_00152	CDS	COG0688	37543	38340	+	[I] Phosphatidylserine decarboxylase    
+906
+	IIDPKELI_00153	CDS	COG1629	39563	41839	-	[P] Outer membrane receptor proteins, mostly Fe
+907
+	IIDPKELI_00154	CDS	COG0512	42261	42851	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+	IIDPKELI_00155	CDS	COG0547	42914	43972	+	[E] Anthranilate phosphoribosyltransferase    
+			NA				NA
+908
+	IIDPKELI_01535	CDS	COG3039	1063	1347	-	[L] Transposase and inactivated derivatives, IS5 family
+909
+	IIDPKELI_01536	CDS	COG0504	1596	3230	-	[F] CTP synthase (UTP-ammonia lyase)  
+910
+	IIDPKELI_01537	CDS	COG0318	3342	5012	-	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+911
+	IIDPKELI_01538	CDS	COG0482	5083	6186	-	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+912
+	IIDPKELI_01539	CDS	COG2847	6312	6785	-	[S] Uncharacterized protein conserved in bacteria 
+913
+	IIDPKELI_01540	CDS	NA	7078	7311	-	NA
+914
+	IIDPKELI_01709	CDS	COG4607	393	1358	-	[P] ABC-type enterochelin transport system, periplasmic component
+915
+	IIDPKELI_01710	CDS	COG2207	1594	2550	+	[K] AraC-type DNA-binding domain-containing proteins  
+916
+	IIDPKELI_01711	CDS	NA	2664	4679	-	NA
+917
+	IIDPKELI_01811	CDS	COG3039	63	299	+	[L] Transposase and inactivated derivatives, IS5 family
+918
+	IIDPKELI_01812	CDS	COG3012	768	1043	+	[S] Uncharacterized protein conserved in bacteria 
+919
+	IIDPKELI_01813	CDS	COG0483	1262	2056	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+920
+	IIDPKELI_01814	CDS	NA	2265	2990	+	NA
+921
+	IIDPKELI_00931	CDS	COG1115	38	673	+	[E] Na+/alanine symporter    
+922
+	IIDPKELI_00932	CDS	COG1272	737	1363	-	[R] Predicted membrane protein, hemolysin III homolog
+923
+	IIDPKELI_00933	CDS	ROG1033	1506	2846	+	NA
+924
+	IIDPKELI_00934	CDS	ROG0645	2920	4314	+	NA
+925
+	IIDPKELI_00935	CDS	COG0532	4525	7413	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+	IIDPKELI_00936	CDS	COG0195	7426	8928	-	[K] Transcription elongation factor   
+	IIDPKELI_00937	CDS	COG0779	8956	9387	-	[S] Uncharacterized protein conserved in bacteria 
+926
+	IIDPKELI_00938	CDS	COG1932	9752	10858	+	[HE] Phosphoserine aminotransferase    
+927
+	IIDPKELI_00939	CDS	COG2194	11136	12770	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+928
+	IIDPKELI_00940	CDS	COG0778	12846	13403	+	[C] Nitroreductase     
+	IIDPKELI_00941	CDS	NA	13421	13630	+	NA
+929
+	IIDPKELI_00942	CDS	NA	13604	14410	-	NA
+930
+	IIDPKELI_01139	CDS	COG0351	530	1336	+	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+931
+	IIDPKELI_01140	CDS	COG3615	1386	2240	-	[P] Uncharacterized protein/domain, possibly involved in tellurite
+932
+	IIDPKELI_01141	CDS	COG0328	2369	2806	+	[L] Ribonuclease HI    
+933
+	IIDPKELI_01142	CDS	COG0537	4172	4576	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	IIDPKELI_01143	CDS	COG1619	4616	5800	+	[V] Uncharacterized proteins, homologs of microcin C7
+934
+	IIDPKELI_01144	CDS	COG0386	5863	6396	-	[O] Glutathione peroxidase    
+935
+	IIDPKELI_01145	CDS	COG3256	6575	8830	-	[P] Nitric oxide reductase large subunit 
+936
+	IIDPKELI_01146	CDS	COG2132	9343	9903	+	[Q] Putative multicopper oxidases   
+	IIDPKELI_01147	CDS	COG2132	9873	10502	+	[Q] Putative multicopper oxidases   
+937
+	IIDPKELI_01148	CDS	COG1262	10682	11437	+	[S] Uncharacterized conserved protein   
+938
+	IIDPKELI_00858	CDS	NA	432	938	+	NA
+939
+	IIDPKELI_00859	CDS	COG3468	1089	2270	-	[MU] Type V secretory pathway, adhesin AidA
+	IIDPKELI_00860	CDS	COG3468	2449	5562	-	[MU] Type V secretory pathway, adhesin AidA
+940
+	IIDPKELI_00861	CDS	COG0491	5869	6627	-	[R] Zn-dependent hydrolases, including glyoxylases  
+941
+	IIDPKELI_00862	CDS	COG0046	6722	10684	-	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+942
+	IIDPKELI_00863	CDS	COG0347	11148	11486	+	[E] Nitrogen regulatory protein PII  
+943
+	IIDPKELI_00864	CDS	COG4604	11545	12303	-	[P] ABC-type enterochelin transport system, ATPase component
+944
+	IIDPKELI_00865	CDS	ROG0917	12387	13013	-	NA
+	IIDPKELI_00866	CDS	COG4605	13058	14032	-	[P] ABC-type enterochelin transport system, permease component
+	IIDPKELI_00867	CDS	COG4606	14022	14564	-	[P] ABC-type enterochelin transport system, permease component
+	IIDPKELI_00868	CDS	COG4606	14536	14991	-	[P] ABC-type enterochelin transport system, permease component
+	IIDPKELI_00869	CDS	COG4607	15155	15919	-	[P] ABC-type enterochelin transport system, periplasmic component
+			NA				NA
+945
+	IIDPKELI_01067	CDS	COG0545	340	669	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+946
+	IIDPKELI_01068	CDS	COG3205	747	965	-	[S] Predicted membrane protein   
+947
+	IIDPKELI_01069	CDS	COG1052	1087	2040	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+948
+	IIDPKELI_01070	CDS	COG0143	2115	4172	-	[J] Methionyl-tRNA synthetase    
+	IIDPKELI_01071	CDS	COG0449	4287	6125	-	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+949
+	IIDPKELI_01072	CDS	ROG1231	6407	6925	+	NA
+950
+	IIDPKELI_01073	CDS	COG2821	7343	8668	-	[M] Membrane-bound lytic murein transglycosylase  
+951
+	IIDPKELI_01074	CDS	COG0672	8880	9719	+	[P] High-affinity Fe2+/Pb2+ permease   
+	IIDPKELI_01075	CDS	COG2822	9716	10882	+	[P] Predicted periplasmic lipoprotein involved in iron
+	IIDPKELI_01076	CDS	COG2837	11146	12411	+	[P] Predicted iron-dependent peroxidase   
+952
+	IIDPKELI_01077	CDS	COG2824	12483	12812	-	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+	IIDPKELI_01078	CDS	COG1207	12889	13095	-	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+953
+	IIDPKELI_01541	CDS	COG0658	25	1983	+	[R] Predicted membrane metal-binding protein  
+954
+	IIDPKELI_01542	CDS	COG4105	2041	2811	-	[R] DNA uptake lipoprotein   
+955
+	IIDPKELI_01543	CDS	COG0564	2843	3967	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+956
+	IIDPKELI_01544	CDS	COG0385	4120	5067	-	[R] Predicted Na+-dependent transporter   
+957
+	IIDPKELI_01545	CDS	NA	5144	5335	-	NA
+958
+	IIDPKELI_01546	CDS	COG1496	5634	6413	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_01547	CDS	COG2980	6465	6944	+	[M] Rare lipoprotein B   
+			NA				NA
+959
+	IIDPKELI_01863	CDS	COG0790	78	884	+	[R] FOG: TPR repeat, SEL1 subfamily 
+960
+	IIDPKELI_01864	CDS	NA	1006	1722	+	NA
+961
+	IIDPKELI_00913	CDS	NA	344	1378	+	NA
+962
+	IIDPKELI_00914	CDS	COG2917	2333	2863	+	[D] Intracellular septation protein A  
+	IIDPKELI_00915	CDS	COG2350	2866	3156	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00916	CDS	COG0271	3156	3434	+	[T] Stress-induced morphogen (activity unknown)  
+	IIDPKELI_00917	CDS	COG0760	3483	4349	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+963
+	IIDPKELI_00918	CDS	ROG5493	4420	5178	+	NA
+964
+	IIDPKELI_00919	CDS	COG1490	5252	5743	+	[J] D-Tyr-tRNAtyr deacylase    
+	IIDPKELI_00920	CDS	COG0042	5774	6784	+	[J] tRNA-dihydrouridine synthase    
+965
+	IIDPKELI_00921	CDS	COG0008	6854	7741	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+966
+	IIDPKELI_00922	CDS	COG0176	8202	9257	-	[G] Transaldolase     
+967
+	IIDPKELI_00923	CDS	COG0794	9354	10328	+	[M] Predicted sugar phosphate isomerase involved in
+	IIDPKELI_00924	CDS	COG1778	10546	11082	+	[R] Low specificity phosphatase (HAD superfamily) 
+	IIDPKELI_00925	CDS	COG3117	11079	11660	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00926	CDS	COG1934	11641	12171	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00927	CDS	COG1137	12245	12979	+	[R] ABC-type (unclassified) transport system, ATPase component
+968
+	IIDPKELI_00928	tRNA	NA	13170	13245	+	NA
+969
+	IIDPKELI_00929	CDS	COG0744	13570	14271	-	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	IIDPKELI_00930	CDS	COG0169	14274	15083	-	[E] Shikimate 5-dehydrogenase    
+970
+	IIDPKELI_01612	CDS	NA	275	2521	+	NA
+	IIDPKELI_01613	CDS	COG4771	2518	5349	+	[P] Outer membrane receptor for ferrienterochelin and
+971
+	IIDPKELI_01215	CDS	COG3468	1851	6503	+	[MU] Type V secretory pathway, adhesin AidA
+972
+	IIDPKELI_01216	CDS	COG0133	6682	7884	-	[E] Tryptophan synthase beta chain  
+973
+	IIDPKELI_01217	CDS	COG3663	7967	8656	-	[L] G:T/U mismatch-specific DNA glycosylase  
+974
+	IIDPKELI_01218	CDS	NA	8853	9632	+	NA
+975
+	IIDPKELI_01518	CDS	COG0317	136	2349	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+976
+	IIDPKELI_01519	CDS	COG3155	2744	3199	-	[Q] Uncharacterized protein involved in an early
+977
+	IIDPKELI_01520	CDS	ROG3774	3593	4996	-	NA
+978
+	IIDPKELI_01521	CDS	COG1566	5065	6492	-	[V] Multidrug resistance efflux pump  
+979
+	IIDPKELI_01522	CDS	COG2244	6728	7081	+	[R] Membrane protein involved in the export
+	IIDPKELI_01523	CDS	NA	7072	7584	+	NA
+980
+	IIDPKELI_00883	CDS	NA	216	917	+	NA
+981
+	IIDPKELI_00884	CDS	COG2204	1107	2384	-	[T] Response regulator containing CheY-like receiver, AAA-type
+	IIDPKELI_00885	CDS	COG5000	2377	4497	-	[T] Signal transduction histidine kinase involved in
+	IIDPKELI_00886	CDS	ROG0119	4497	5096	-	NA
+	IIDPKELI_00887	CDS	COG0144	5062	6321	-	[J] tRNA and rRNA cytosine-C5-methylases  
+	IIDPKELI_00888	CDS	COG0223	6400	7326	-	[J] Methionyl-tRNA formyltransferase    
+	IIDPKELI_00889	CDS	COG0242	7413	7916	-	[J] N-formylmethionyl-tRNA deformylase    
+982
+	IIDPKELI_00890	CDS	COG1652	8100	9317	+	[S] Uncharacterized protein containing LysM domain 
+983
+	IIDPKELI_00891	CDS	COG4094	9380	10039	-	[S] Predicted membrane protein   
+984
+	IIDPKELI_00892	CDS	COG1781	10110	10568	-	[F] Aspartate carbamoyltransferase, regulatory subunit  
+	IIDPKELI_00893	CDS	COG0540	10578	11498	-	[F] Aspartate carbamoyltransferase, catalytic chain  
+985
+	IIDPKELI_00894	CDS	COG0454	11736	12578	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	IIDPKELI_00895	CDS	NA	12575	12733	+	NA
+986
+	IIDPKELI_00896	CDS	ROG2021	12860	13534	+	NA
+987
+	IIDPKELI_00897	CDS	COG3271	14142	14531	+	[R] Predicted double-glycine peptidase   
+988
+	IIDPKELI_00898	CDS	NA	14808	15326	-	NA
+989
+	IIDPKELI_01886	CDS	NA	56	685	+	NA
+	IIDPKELI_01887	CDS	COG2834	666	1121	+	[M] Outer membrane lipoprotein-sorting protein  
+990
+	IIDPKELI_01888	CDS	NA	1342	1701	+	NA
+991
+	IIDPKELI_00795	CDS	COG0452	269	1453	+	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+992
+	IIDPKELI_00796	CDS	COG0317	1520	3676	-	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+	IIDPKELI_00797	CDS	COG1758	3769	3975	-	[K] DNA-directed RNA polymerase, subunit K/omega 
+	IIDPKELI_00798	CDS	COG0194	4034	4651	-	[F] Guanylate kinase    
+993
+	IIDPKELI_00799	CDS	COG0503	4812	5378	+	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+994
+	IIDPKELI_00800	CDS	COG0561	5424	6212	-	[R] Predicted hydrolases of the HAD superfamily
+995
+	IIDPKELI_00801	CDS	COG0826	6537	7892	+	[O] Collagenase and related proteases  
+996
+	IIDPKELI_00802	CDS	ROG2025	8026	8502	+	NA
+997
+	IIDPKELI_00803	CDS	NA	9033	9641	-	NA
+998
+	IIDPKELI_00804	CDS	COG3230	9835	10464	-	[P] Heme oxygenase    
+999
+	IIDPKELI_00805	CDS	COG2995	10803	12263	+	[S] Uncharacterized paraquat-inducible protein A  
+	IIDPKELI_00806	CDS	COG3008	12256	13917	+	[R] Paraquat-inducible protein B   
+	IIDPKELI_00807	CDS	COG3009	13917	14435	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00808	CDS	COG2818	14439	14990	+	[L] 3-methyladenine DNA glycosylase   
+	IIDPKELI_00809	CDS	COG2755	14998	15621	+	[E] Lysophospholipase L1 and related esterases 
+1000
+	IIDPKELI_00810	CDS	NA	15896	16255	+	NA
+1001
+	IIDPKELI_00674	CDS	COG0718	825	1160	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00675	CDS	COG2812	1240	3363	-	[L] DNA polymerase III, gamma/tau subunits 
+	IIDPKELI_00676	CDS	COG0323	3458	5434	-	[L] DNA mismatch repair enzyme (predicted ATPase)
+1002
+	IIDPKELI_00677	CDS	ROG0681	5577	5762	+	NA
+	IIDPKELI_00678	CDS	COG4122	5773	6441	+	[R] Predicted O-methyltransferase    
+	IIDPKELI_00679	CDS	COG1729	6441	7157	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00680	CDS	COG0041	7205	7690	+	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+1003
+	IIDPKELI_00681	CDS	COG1139	7873	9327	-	[C] Uncharacterized conserved protein containing a ferredoxin-like
+	IIDPKELI_00682	CDS	COG1556	9324	10025	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_00683	CDS	COG0247	10022	10801	-	[C] Fe-S oxidoreductase    
+1004
+	IIDPKELI_00684	CDS	COG0477	10983	12491	+	[GEPR] Permeases of the major facilitator superfamily
+	IIDPKELI_00685	CDS	COG1502	12552	14129	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+1005
+	IIDPKELI_00686	CDS	COG0791	14337	14870	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+1006
+	IIDPKELI_00687	CDS	COG0128	14913	16214	-	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+1007
+	IIDPKELI_00688	CDS	NA	16606	17082	+	NA
+			NA				NA
+1008
+	IIDPKELI_01179	CDS	COG3039	58	294	+	[L] Transposase and inactivated derivatives, IS5 family
+1009
+	IIDPKELI_01180	tRNA	NA	490	579	-	NA
+	IIDPKELI_01181	tRNA	NA	657	747	-	NA
+1010
+	IIDPKELI_01182	CDS	COG3022	830	1609	-	[S] Uncharacterized protein conserved in bacteria 
+1011
+	IIDPKELI_01183	CDS	COG0436	1772	2959	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+1012
+	IIDPKELI_01184	CDS	COG0756	3036	3488	-	[F] dUTPase     
+1013
+	IIDPKELI_01185	CDS	COG1296	3600	4112	+	[E] Predicted branched-chain amino acid permease (azaleucine
+1014
+	IIDPKELI_01186	CDS	COG4969	6047	6520	-	[NU] Tfp pilus assembly protein, major pilin
+	IIDPKELI_01187	CDS	COG4726	6525	7118	-	[NU] Tfp pilus assembly protein PilX 
+	IIDPKELI_01188	CDS	COG4966	7097	8050	-	[NU] Tfp pilus assembly protein PilW 
+	IIDPKELI_01189	CDS	COG4967	8047	8700	-	[NU] Tfp pilus assembly protein PilV 
+	IIDPKELI_01190	CDS	COG4970	8697	9365	-	[NU] Tfp pilus assembly protein FimT 
+1015
+	IIDPKELI_01191	CDS	COG0305	9667	10845	-	[L] Replicative DNA helicase   
+1016
+	IIDPKELI_00957	CDS	COG0633	44	334	-	[C] Ferredoxin     
+1017
+	IIDPKELI_00958	CDS	COG0208	532	1686	-	[F] Ribonucleotide reductase, beta subunit  
+	IIDPKELI_00959	CDS	ROG2400	1726	2913	-	NA
+	IIDPKELI_00960	CDS	COG0270	2910	3920	-	[L] Site-specific DNA methylase   
+	IIDPKELI_00961	CDS	COG0209	3978	6257	-	[F] Ribonucleotide reductase, alpha subunit  
+1018
+	IIDPKELI_00962	CDS	COG4430	6771	7097	+	[S] Uncharacterized protein conserved in bacteria 
+1019
+	IIDPKELI_00963	CDS	COG0204	7409	8176	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	IIDPKELI_00964	CDS	COG0266	8264	9091	-	[L] Formamidopyrimidine-DNA glycosylase    
+	IIDPKELI_00965	CDS	COG0500	9143	9808	-	[QR] SAM-dependent methyltransferases    
+1020
+	IIDPKELI_00966	CDS	COG1388	9987	11963	+	[M] FOG: LysM repeat   
+1021
+	IIDPKELI_00967	CDS	COG1187	12031	12723	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+1022
+	IIDPKELI_00968	CDS	NA	13577	14668	+	NA
+1023
+	IIDPKELI_01283	CDS	NA	86	574	+	NA
+1024
+	IIDPKELI_01284	CDS	COG3241	588	1139	-	[C] Azurin     
+1025
+	IIDPKELI_01285	CDS	ROG1178	1420	1842	-	NA
+1026
+	IIDPKELI_01286	CDS	COG0653	1973	4723	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	IIDPKELI_01287	CDS	COG0358	4867	6639	+	[L] DNA primase (bacterial type)  
+	IIDPKELI_01288	CDS	COG0568	6826	8754	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+1027
+	IIDPKELI_01289	CDS	COG3039	8901	9806	+	[L] Transposase and inactivated derivatives, IS5 family
+1028
+	IIDPKELI_01360	CDS	COG3637	715	1389	+	[M] Opacity protein and related surface antigens
+1029
+	IIDPKELI_01361	CDS	COG1607	3236	3682	+	[I] Acyl-CoA hydrolase    
+1030
+	IIDPKELI_01362	CDS	COG4221	3733	4554	-	[R] Short-chain alcohol dehydrogenase of unknown specificity
+1031
+	IIDPKELI_01363	CDS	COG3909	4673	5131	+	[C] Cytochrome c556    
+1032
+	IIDPKELI_01364	CDS	NA	5295	6410	-	NA
+1033
+	IIDPKELI_01365	CDS	NA	6844	9069	+	NA
+1034
+	IIDPKELI_01947	CDS	ROG3486	216	644	-	NA
+	IIDPKELI_01948	CDS	COG4382	625	1059	-	[S] Mu-like prophage protein gp16  
+1035
+	IIDPKELI_01640	CDS	ROG5118	374	796	-	NA
+1036
+	IIDPKELI_01641	CDS	COG1595	1231	1818	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	IIDPKELI_01642	CDS	COG3219	1840	2586	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01643	CDS	COG3220	2576	3418	-	[S] Uncharacterized protein conserved in bacteria 
+1037
+	IIDPKELI_01644	CDS	COG3767	3534	3842	-	[S] Uncharacterized low-complexity protein   
+1038
+	IIDPKELI_01645	CDS	COG2259	3916	4365	-	[S] Predicted membrane protein   
+1039
+	IIDPKELI_01646	CDS	NA	4707	5600	+	NA
+			NA				NA
+1040
+	IIDPKELI_00870	CDS	COG0014	48	431	+	[E] Gamma-glutamyl phosphate reductase   
+1041
+	IIDPKELI_00871	CDS	COG1674	656	3688	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+1042
+	IIDPKELI_00872	CDS	COG3235	3853	4533	+	[S] Predicted membrane protein   
+	IIDPKELI_00873	CDS	COG0239	4562	4921	+	[D] Integral membrane protein possibly involved in
+1043
+	IIDPKELI_00874	CDS	COG0494	5577	6113	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	IIDPKELI_00875	CDS	COG1539	6147	6503	-	[H] Dihydroneopterin aldolase    
+1044
+	IIDPKELI_00876	CDS	COG0344	6559	7161	+	[S] Predicted membrane protein   
+1045
+	IIDPKELI_00877	CDS	COG2961	7238	8083	+	[R] Protein involved in catabolism of external
+1046
+	IIDPKELI_00878	CDS	COG0158	8478	9452	+	[G] Fructose-1,6-bisphosphatase     
+1047
+	IIDPKELI_00879	CDS	COG2841	9611	9829	-	[S] Uncharacterized protein conserved in bacteria 
+1048
+	IIDPKELI_00880	CDS	COG0405	10603	12378	+	[E] Gamma-glutamyltransferase     
+1049
+	IIDPKELI_00881	CDS	COG0112	12859	14109	+	[E] Glycine/serine hydroxymethyltransferase    
+1050
+	IIDPKELI_00882	CDS	NA	14237	14896	+	NA
+1051
+	IIDPKELI_01352	CDS	NA	303	488	+	NA
+1052
+	IIDPKELI_01353	CDS	COG0322	795	2681	-	[L] Nuclease subunit of the excinuclease complex
+1053
+	IIDPKELI_01354	CDS	COG2217	2736	4898	-	[P] Cation transport ATPase   
+1054
+	IIDPKELI_01355	CDS	COG0492	5037	5987	+	[O] Thioredoxin reductase    
+1055
+	IIDPKELI_01356	CDS	COG0360	6143	6511	+	[J] Ribosomal protein S6   
+	IIDPKELI_01357	CDS	COG0238	6821	7051	+	[J] Ribosomal protein S18   
+	IIDPKELI_01358	CDS	COG0359	7068	7520	+	[J] Ribosomal protein L9   
+1056
+	IIDPKELI_01359	CDS	NA	8487	9293	-	NA
+1057
+	IIDPKELI_01324	CDS	COG1391	356	3046	-	[OT] Glutamine synthetase adenylyltransferase   
+1058
+	IIDPKELI_01325	CDS	ROG5505	3244	3456	-	NA
+1059
+	IIDPKELI_01326	CDS	COG4304	3593	4066	-	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01327	CDS	NA	4119	4400	-	NA
+1060
+	IIDPKELI_01328	CDS	NA	4487	4810	-	NA
+1061
+	IIDPKELI_01329	CDS	COG0167	5144	6151	-	[F] Dihydroorotate dehydrogenase    
+1062
+	IIDPKELI_01330	CDS	COG0236	6383	6619	+	[IQ] Acyl carrier protein   
+	IIDPKELI_01331	CDS	COG0304	6775	8022	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+1063
+	IIDPKELI_01332	CDS	NA	8264	9217	-	NA
+1064
+	IIDPKELI_00706	CDS	COG0807	640	1233	-	[H] GTP cyclohydrolase II   
+	IIDPKELI_00707	CDS	NA	1226	1900	-	NA
+1065
+	IIDPKELI_00708	tRNA	NA	2054	2138	+	NA
+1066
+	IIDPKELI_00709	CDS	COG0150	2658	3692	+	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+1067
+	IIDPKELI_00710	CDS	COG2197	4166	4822	-	[TK] Response regulator containing a CheY-like receiver
+	IIDPKELI_00711	CDS	COG3850	4819	6591	-	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+1068
+	IIDPKELI_00712	CDS	COG0746	6833	7411	+	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+1069
+	IIDPKELI_00713	CDS	COG0307	7487	8191	+	[H] Riboflavin synthase alpha chain  
+	IIDPKELI_00714	CDS	COG2607	8199	9062	+	[R] Predicted ATPase (AAA+ superfamily)  
+1070
+	IIDPKELI_00715	CDS	COG3678	9075	9509	-	[UNTP] P pilus assembly/Cpx signaling pathway, periplasmic
+1071
+	IIDPKELI_00716	CDS	COG0036	9820	10548	+	[G] Pentose-5-phosphate-3-epimerase     
+1072
+	IIDPKELI_00717	CDS	COG2255	10571	11602	-	[L] Holliday junction resolvasome, helicase subunit 
+1073
+	IIDPKELI_00718	CDS	NA	11684	11992	-	NA
+1074
+	IIDPKELI_00719	CDS	COG0617	12215	13468	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+	IIDPKELI_00720	CDS	COG0488	13540	15168	-	[R] ATPase components of ABC transporters with
+1075
+	IIDPKELI_00721	CDS	COG1393	15318	15692	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	IIDPKELI_00722	CDS	COG0760	15752	17290	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	IIDPKELI_00723	CDS	COG0353	17357	17974	+	[L] Recombinational DNA repair protein (RecF pathway)
+1076
+	IIDPKELI_00724	CDS	NA	18030	18308	-	NA
+1077
+	IIDPKELI_01607	CDS	COG1278	69	272	-	[K] Cold shock proteins   
+1078
+	IIDPKELI_01608	CDS	COG2127	479	817	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_01609	CDS	COG0542	819	3110	+	[O] ATPases with chaperone activity, ATP-binding subunit
+1079
+	IIDPKELI_01610	CDS	COG0610	3150	6248	-	[V] Type I site-specific restriction-modification system, R
+	IIDPKELI_01611	CDS	COG0732	6327	6695	-	[V] Restriction endonuclease S subunits  
+1080
+	IIDPKELI_00725	CDS	COG1028	204	950	-	[IQR] Dehydrogenases with different specificities (related to
+	IIDPKELI_00726	CDS	COG0519	1012	2577	-	[F] GMP synthase, PP-ATPase domain/subunit  
+	IIDPKELI_00727	CDS	COG1132	2677	4542	-	[V] ABC-type multidrug transport system, ATPase and
+	IIDPKELI_00728	CDS	COG0331	4681	5607	-	[I] (acyl-carrier-protein) S-malonyltransferase    
+	IIDPKELI_00729	CDS	COG3326	5633	6004	-	[S] Predicted membrane protein   
+	IIDPKELI_00730	CDS	COG0332	6051	7013	-	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	IIDPKELI_00731	CDS	NA	7040	7243	-	NA
+	IIDPKELI_00732	CDS	NA	7263	7679	-	NA
+	IIDPKELI_00733	CDS	NA	7706	7900	-	NA
+1081
+	IIDPKELI_00734	CDS	COG0416	8100	9155	-	[I] Fatty acid/phospholipid biosynthesis enzyme  
+1082
+	IIDPKELI_00735	CDS	COG2236	9243	9770	-	[R] Predicted phosphoribosyltransferases    
+1083
+	IIDPKELI_00736	CDS	COG0333	9945	10124	-	[J] Ribosomal protein L32   
+	IIDPKELI_00737	CDS	COG1399	10158	10661	-	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+1084
+	IIDPKELI_00738	CDS	COG0424	10809	11399	+	[D] Nucleotide-binding protein implicated in inhibition of
+1085
+	IIDPKELI_00739	CDS	COG0313	11458	12171	+	[R] Predicted methyltransferases    
+1086
+	IIDPKELI_00740	CDS	COG0706	12252	13889	-	[U] Preprotein translocase subunit YidC  
+	IIDPKELI_00741	CDS	COG0759	14061	14282	-	[S] Uncharacterized conserved protein   
+	IIDPKELI_00742	CDS	COG0594	14347	14712	-	[J] RNase P protein component  
+	IIDPKELI_00743	CDS	ROG4984	14715	14849	-	NA
+1087
+	IIDPKELI_00744	CDS	COG0593	15141	16697	+	[L] ATPase involved in DNA replication initiation
+	IIDPKELI_00745	CDS	COG0592	16932	18035	+	[L] DNA polymerase sliding clamp subunit (PCNA
+1088
+	IIDPKELI_00746	CDS	NA	18272	18547	-	NA
+1089
+	IIDPKELI_01300	CDS	NA	438	623	+	NA
+1090
+	IIDPKELI_01301	CDS	ROG1633	823	1722	-	NA
+1091
+	IIDPKELI_01302	CDS	COG3093	1766	2017	+	[R] Plasmid maintenance system antidote protein 
+	IIDPKELI_01303	CDS	NA	2019	3995	+	NA
+	IIDPKELI_01304	CDS	COG2842	4031	4945	+	[R] Uncharacterized ATPase, putative transposase  
+1092
+	IIDPKELI_01305	CDS	NA	5035	5301	+	NA
+1093
+	IIDPKELI_01306	CDS	NA	5410	5583	+	NA
+	IIDPKELI_01307	CDS	COG2071	5576	5743	+	[R] Predicted glutamine amidotransferases   
+	IIDPKELI_01308	CDS	NA	5728	5829	+	NA
+	IIDPKELI_01309	CDS	COG4396	5853	6371	+	[R] Mu-like prophage host-nuclease inhibitor protein Gam
+1094
+	IIDPKELI_01310	CDS	NA	6532	6747	-	NA
+	IIDPKELI_01311	CDS	COG3561	6751	7359	-	[K] Phage anti-repressor protein   
+1095
+	IIDPKELI_01312	CDS	NA	7491	7691	-	NA
+1096
+	IIDPKELI_01313	CDS	ROG4158	7892	8077	-	NA
+1097
+	IIDPKELI_01314	CDS	NA	8350	8517	-	NA
+1098
+	IIDPKELI_01315	CDS	NA	9040	9231	+	NA
+	IIDPKELI_01316	CDS	ROG5596	9228	9644	+	NA
+1099
+	IIDPKELI_01788	CDS	COG1451	519	1211	-	[R] Predicted metal-dependent hydrolase   
+	IIDPKELI_01789	CDS	COG0204	1208	1951	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	IIDPKELI_01790	CDS	COG0241	1980	2543	-	[E] Histidinol phosphatase and related phosphatases 
+1100
+	IIDPKELI_01791	CDS	COG0438	2819	3178	-	[M] Glycosyltransferase     
+1101
+	IIDPKELI_00588	CDS	COG0687	1139	2281	-	[E] Spermidine/putrescine-binding periplasmic protein   
+1102
+	IIDPKELI_00589	CDS	COG0268	2584	2847	+	[J] Ribosomal protein S20   
+1103
+	IIDPKELI_00590	CDS	COG2829	3077	4156	+	[M] Outer membrane phospholipase A  
+1104
+	IIDPKELI_00591	CDS	COG2928	4299	5000	+	[S] Uncharacterized conserved protein   
+1105
+	IIDPKELI_00592	CDS	COG0173	5058	6866	+	[J] Aspartyl-tRNA synthetase    
+1106
+	IIDPKELI_00593	CDS	ROG6169	7017	7301	+	NA
+1107
+	IIDPKELI_00594	CDS	COG1166	7468	9360	+	[E] Arginine decarboxylase (spermidine biosynthesis)  
+	IIDPKELI_00595	CDS	COG0010	9459	10382	+	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+1108
+	IIDPKELI_00596	CDS	COG0471	10580	12046	+	[P] Di- and tricarboxylate transporters  
+1109
+	IIDPKELI_00597	CDS	COG1376	12253	13287	-	[S] Uncharacterized protein conserved in bacteria 
+1110
+	IIDPKELI_00598	CDS	COG0156	13552	14694	+	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+	IIDPKELI_00599	CDS	COG2830	14704	15351	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00600	CDS	COG0500	15339	16121	+	[QR] SAM-dependent methyltransferases    
+1111
+	IIDPKELI_00601	CDS	NA	16341	17777	+	NA
+	IIDPKELI_00602	CDS	NA	17780	18877	+	NA
+	IIDPKELI_00603	CDS	COG2229	18889	19425	+	[R] Predicted GTPase    
+	IIDPKELI_00604	CDS	NA	19427	20071	+	NA
+	IIDPKELI_00605	CDS	COG2018	20094	20453	+	[R] Uncharacterized distant relative of homeotic protein
+1112
+	IIDPKELI_00606	tRNA	NA	20546	20621	+	NA
+1113
+	IIDPKELI_01707	CDS	COG0060	628	3417	-	[J] Isoleucyl-tRNA synthetase    
+	IIDPKELI_01708	CDS	COG0196	3558	4478	-	[H] FAD synthase    
+1114
+	IIDPKELI_01564	CDS	NA	509	850	+	NA
+1115
+	IIDPKELI_01565	CDS	NA	4014	4175	+	NA
+1116
+	IIDPKELI_01566	CDS	COG2831	4408	6150	-	[U] Hemolysin activation/secretion protein   
+	IIDPKELI_01567	CDS	COG2274	6211	6459	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+1117
+	IIDPKELI_01568	CDS	COG0306	6558	6725	-	[P] Phosphate/sulphate permeases    
+			NA				NA
+1118
+	IIDPKELI_01119	CDS	NA	170	487	-	NA
+	IIDPKELI_01120	CDS	NA	490	1758	-	NA
+	IIDPKELI_01121	CDS	NA	1762	2703	-	NA
+1119
+	IIDPKELI_01122	CDS	COG2377	2822	3922	-	[O] Predicted molecular chaperone distantly related to
+1120
+	IIDPKELI_01123	CDS	COG0306	4247	5821	+	[P] Phosphate/sulphate permeases    
+1121
+	IIDPKELI_01124	CDS	COG0635	6174	7595	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+1122
+	IIDPKELI_01125	CDS	COG0664	7800	8534	+	[T] cAMP-binding proteins - catabolite gene activator
+1123
+	IIDPKELI_01126	CDS	COG0583	8647	9597	-	[K] Transcriptional regulator    
+1124
+	IIDPKELI_01127	CDS	COG2885	9961	10689	+	[M] Outer membrane protein and related peptidoglycan-associated
+1125
+	IIDPKELI_01128	CDS	NA	11512	12180	-	NA
+1126
+	IIDPKELI_01407	CDS	ROG5301	911	1270	+	NA
+1127
+	IIDPKELI_01408	CDS	COG2095	1224	1877	-	[U] Multiple antibiotic transporter   
+1128
+	IIDPKELI_01409	CDS	COG0721	2028	2318	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	IIDPKELI_01410	CDS	COG0154	2381	3826	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	IIDPKELI_01411	CDS	COG2990	3823	4755	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_01412	CDS	COG0064	4798	6228	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+1129
+	IIDPKELI_01413	CDS	COG0543	6320	7330	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+1130
+	IIDPKELI_01414	CDS	NA	7459	8091	-	NA
+1131
+	IIDPKELI_01822	CDS	COG0162	67	1362	-	[J] Tyrosyl-tRNA synthetase    
+1132
+	IIDPKELI_01823	CDS	NA	1425	3041	-	NA
+1133
+	IIDPKELI_01415	CDS	NA	76	282	+	NA
+1134
+	IIDPKELI_01416	CDS	COG3737	494	889	-	[S] Uncharacterized conserved protein   
+1135
+	IIDPKELI_01417	CDS	COG0460	1062	2369	+	[E] Homoserine dehydrogenase    
+	IIDPKELI_01418	CDS	NA	2362	2796	+	NA
+1136
+	IIDPKELI_01419	CDS	COG0776	2855	3124	-	[L] Bacterial nucleoid DNA-binding protein  
+	IIDPKELI_01420	CDS	COG0466	3306	5768	-	[O] ATP-dependent Lon protease, bacterial type 
+1137
+	IIDPKELI_01421	CDS	COG2264	6019	7122	+	[J] Ribosomal protein L11 methylase  
+1138
+	IIDPKELI_01422	CDS	NA	7194	8519	-	NA
+1139
+	IIDPKELI_01366	CDS	ROG4768	46	1365	+	NA
+1140
+	IIDPKELI_01367	CDS	COG2951	1566	2675	+	[M] Membrane-bound lytic murein transglycosylase B 
+1141
+	IIDPKELI_01368	CDS	COG4389	3088	5094	-	[L] Site-specific recombinase    
+1142
+	IIDPKELI_01369	CDS	COG1292	5383	7410	+	[M] Choline-glycine betaine transporter   
+1143
+	IIDPKELI_01370	CDS	NA	7501	9054	-	NA
+1144
+	IIDPKELI_01954	CDS	NA	88	195	-	NA
+1145
+	IIDPKELI_01955	CDS	NA	640	1065	+	NA
+1146
+	IIDPKELI_01837	CDS	NA	280	840	+	NA
+1147
+	IIDPKELI_01838	CDS	NA	952	2754	+	NA
+1148
+	IIDPKELI_00477	CDS	COG4797	25	1449	+	[R] Predicted regulatory domain of a methyltransferase
+1149
+	IIDPKELI_00478	CDS	NA	1531	2628	+	NA
+1150
+	IIDPKELI_00479	CDS	COG1929	2742	3857	+	[G] Glycerate kinase    
+1151
+	IIDPKELI_00480	CDS	COG0394	3982	4437	+	[T] Protein-tyrosine-phosphatase     
+	IIDPKELI_00481	CDS	COG0735	4508	4984	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	IIDPKELI_00482	CDS	COG0523	4972	5898	+	[R] Putative GTPases (G3E family)  
+	IIDPKELI_00483	CDS	COG0652	5963	6517	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+1152
+	IIDPKELI_00484	CDS	COG0037	6756	7715	-	[D] Predicted ATPase of the PP-loop superfamily
+1153
+	IIDPKELI_00485	CDS	COG0354	7808	8674	-	[R] Predicted aminomethyltransferase related to GcvT 
+	IIDPKELI_00486	CDS	COG0251	8706	9068	-	[J] Putative translation initiation inhibitor, yjgF family
+1154
+	IIDPKELI_00487	CDS	COG2606	9143	9622	+	[S] Uncharacterized conserved protein   
+	IIDPKELI_00488	CDS	COG3671	9644	10366	+	[S] Predicted membrane protein   
+	IIDPKELI_00489	CDS	ROG3253	10368	11243	+	NA
+1155
+	IIDPKELI_00490	CDS	COG1027	11315	12712	-	[E] Aspartate ammonia-lyase    
+1156
+	IIDPKELI_00491	CDS	COG2353	13142	13705	-	[S] Uncharacterized conserved protein   
+1157
+	IIDPKELI_00492	CDS	COG0473	13868	14938	-	[CE] Isocitrate/isopropylmalate dehydrogenase    
+	IIDPKELI_00493	CDS	NA	14972	15703	-	NA
+	IIDPKELI_00494	CDS	COG0270	15719	16990	-	[L] Site-specific DNA methylase   
+1158
+	IIDPKELI_00495	CDS	COG0066	17159	17920	-	[E] 3-isopropylmalate dehydratase small subunit  
+	IIDPKELI_00496	CDS	ROG7969	17862	18116	-	NA
+1159
+	IIDPKELI_00497	CDS	COG0065	18213	19622	-	[E] 3-isopropylmalate dehydratase large subunit  
+1160
+	IIDPKELI_00498	CDS	ROG0062	19882	21231	+	NA
+1161
+	IIDPKELI_00499	CDS	COG2003	21354	22031	+	[L] DNA repair proteins   
+1162
+	IIDPKELI_00500	CDS	COG1636	22104	22829	+	[S] Uncharacterized protein conserved in bacteria 
+1163
+	IIDPKELI_00501	CDS	NA	23438	23695	-	NA
+1164
+	IIDPKELI_01760	CDS	COG0838	277	633	+	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+	IIDPKELI_01761	CDS	COG0377	624	1106	+	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	IIDPKELI_01762	CDS	COG0852	1119	1712	+	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	IIDPKELI_01763	CDS	COG0649	1702	2958	+	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+	IIDPKELI_01764	CDS	COG1905	2958	3431	+	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+1165
+	IIDPKELI_00156	CDS	COG4859	842	1165	+	[S] Uncharacterized protein conserved in bacteria 
+	IIDPKELI_00157	CDS	COG0054	1213	1689	+	[H] Riboflavin synthase beta-chain   
+	IIDPKELI_00158	CDS	COG0781	1767	2192	+	[K] Transcription termination factor   
+1166
+	IIDPKELI_00159	CDS	COG0418	2558	3592	-	[F] Dihydroorotase     
+1167
+	IIDPKELI_00160	CDS	COG0425	3955	4179	-	[O] Predicted redox protein, regulator of disulfide
+1168
+	IIDPKELI_00161	CDS	ROG0846	4288	4899	+	NA
+1169
+	IIDPKELI_00162	CDS	COG0777	4959	5831	-	[I] Acetyl-CoA carboxylase beta subunit  
+	IIDPKELI_00163	CDS	COG0159	5868	6653	-	[E] Tryptophan synthase alpha chain  
+1170
+	IIDPKELI_00164	tRNA	NA	6956	7048	-	NA
+1171
+	IIDPKELI_00165	CDS	NA	7205	7468	-	NA
+	IIDPKELI_00166	CDS	ROG1448	7423	7824	-	NA
+	IIDPKELI_00167	CDS	COG1212	7847	8608	-	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	IIDPKELI_00168	CDS	COG2835	8605	8787	-	[S] Uncharacterized conserved protein   
+1172
+	IIDPKELI_00169	CDS	COG3184	8856	9443	-	[S] Uncharacterized protein conserved in bacteria 
+1173
+	IIDPKELI_00170	CDS	COG1663	9643	10677	-	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+1174
+	IIDPKELI_00171	CDS	COG0281	11224	12504	-	[C] Malic enzyme    
+1175
+	IIDPKELI_00172	CDS	COG0125	12726	13346	-	[F] Thymidylate kinase    
+	IIDPKELI_00173	CDS	COG1559	13406	14401	-	[R] Predicted periplasmic solute-binding protein  
+1176
+	IIDPKELI_00174	CDS	COG3023	14485	15057	+	[V] Negative regulator of beta-lactamase expression 
+1177
+	IIDPKELI_00175	CDS	ROG0612	15251	16537	+	NA
+1178
+	IIDPKELI_00176	CDS	COG0272	16685	19210	+	[L] NAD-dependent DNA ligase (contains BRCT domain
+	IIDPKELI_00177	CDS	COG0635	19267	20442	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+1179
+	IIDPKELI_00178	CDS	COG3637	21028	21552	+	[M] Opacity protein and related surface antigens
+1180
+	IIDPKELI_00179	CDS	COG0251	21688	22077	+	[J] Putative translation initiation inhibitor, yjgF family
+1181
+	IIDPKELI_00180	CDS	ROG0146	22155	22985	+	NA
+	IIDPKELI_00181	CDS	COG0168	23000	24457	+	[P] Trk-type K+ transport systems, membrane components
+1182
+	IIDPKELI_00182	CDS	NA	24498	24887	-	NA
+1183
+	IIDPKELI_00183	CDS	NA	25035	25424	-	NA
+1184
+	IIDPKELI_00184	CDS	NA	25525	25923	-	NA
+1185
+	IIDPKELI_00185	CDS	NA	26144	26533	-	NA
+1186
+	IIDPKELI_00186	CDS	NA	26859	27101	-	NA
+1187
+	IIDPKELI_00187	CDS	NA	27259	27678	-	NA
+	IIDPKELI_00188	CDS	ROG1168	27705	29597	-	NA
+1188
+	IIDPKELI_00189	tRNA	NA	29910	29986	-	NA
+1189
+	IIDPKELI_00190	CDS	COG1051	30197	30655	+	[F] ADP-ribose pyrophosphatase    
+	IIDPKELI_00191	CDS	COG0221	30757	31290	+	[C] Inorganic pyrophosphatase    
+1190
+	IIDPKELI_00192	CDS	ROG2059	31398	31631	+	NA
+	IIDPKELI_00193	CDS	COG0127	31624	32223	+	[F] Xanthosine triphosphate pyrophosphatase   
+	IIDPKELI_00194	CDS	COG1210	32251	33120	+	[M] UDP-glucose pyrophosphorylase    
+	IIDPKELI_00195	CDS	COG0165	33139	34515	+	[E] Argininosuccinate lyase    
+1191
+	IIDPKELI_01943	CDS	NA	126	347	-	NA
+1192
+	IIDPKELI_01944	CDS	NA	492	995	+	NA
+1193
+	IIDPKELI_01614	CDS	COG0119	429	2222	+	[E] Isopropylmalate/homocitrate/citramalate synthases    
+1194
+	IIDPKELI_01615	CDS	COG3318	2422	3084	+	[R] Predicted metal-binding protein related to the
+1195
+	IIDPKELI_01616	CDS	COG0682	3167	4018	-	[M] Prolipoprotein diacylglyceryltransferase    
+1196
+	IIDPKELI_01617	CDS	COG2866	4089	5219	-	[E] Predicted carboxypeptidase    
+1197
+	IIDPKELI_01618	CDS	NA	5389	6285	+	NA
+			NA				NA
+1198
+	IIDPKELI_00317	CDS	COG0004	2	586	+	[P] Ammonia permease    
+1199
+	IIDPKELI_00318	CDS	COG0665	831	2126	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+	IIDPKELI_00319	CDS	COG1177	2252	3139	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	IIDPKELI_00320	CDS	COG1176	3139	4104	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	IIDPKELI_00321	CDS	COG3842	4120	5244	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+1200
+	IIDPKELI_00322	CDS	COG0184	5626	5895	-	[J] Ribosomal protein S15P/S13E   
+1201
+	IIDPKELI_00323	CDS	COG0341	6118	7053	-	[U] Preprotein translocase subunit SecF  
+	IIDPKELI_00324	CDS	COG0342	7057	8910	-	[U] Preprotein translocase subunit SecD  
+	IIDPKELI_00325	CDS	COG1862	9122	9388	-	[U] Preprotein translocase subunit YajC  
+1202
+	IIDPKELI_00326	CDS	COG0123	9468	10625	+	[BQ] Deacetylases, including yeast histone deacetylase and
+1203
+	IIDPKELI_00327	CDS	COG1063	10988	12052	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+1204
+	IIDPKELI_00328	CDS	COG0140	12193	12516	+	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+	IIDPKELI_00329	CDS	COG0537	12588	12911	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	IIDPKELI_00330	CDS	COG1826	12958	13161	+	[U] Sec-independent protein secretion pathway components 
+	IIDPKELI_00331	CDS	COG1826	13165	13851	+	[U] Sec-independent protein secretion pathway components 
+	IIDPKELI_00332	CDS	COG0805	13865	14635	+	[U] Sec-independent protein secretion pathway component TatC
+1205
+	IIDPKELI_00333	CDS	COG0424	14688	15293	+	[D] Nucleotide-binding protein implicated in inhibition of
+	IIDPKELI_00334	CDS	COG3308	15309	15662	+	[S] Predicted membrane protein   
+	IIDPKELI_00335	CDS	COG3307	15652	17466	+	[M] Lipid A core - O-antigen ligase
+1206
+	IIDPKELI_00336	CDS	COG0745	17656	18333	+	[TK] Response regulators consisting of a CheY-like
+	IIDPKELI_00337	CDS	COG2205	18346	19752	+	[T] Osmosensitive K+ channel histidine kinase 
+1207
+	IIDPKELI_00338	CDS	COG1042	19870	22296	+	[C] Acyl-CoA synthetase (NDP forming)  
+	IIDPKELI_00339	CDS	COG0228	22341	22586	+	[J] Ribosomal protein S16   
+	IIDPKELI_00340	CDS	COG0806	22602	23111	+	[J] RimM protein, required for 16S rRNA
+	IIDPKELI_00341	CDS	COG0336	23111	23860	+	[J] tRNA-(guanine-N1)-methyltransferase     
+	IIDPKELI_00342	CDS	COG0335	23876	24241	+	[J] Ribosomal protein L19   
+1208
+	IIDPKELI_00343	CDS	COG1121	24532	25287	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	IIDPKELI_00344	CDS	COG1108	25322	26197	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	IIDPKELI_00345	CDS	COG0803	26274	27188	+	[P] ABC-type metal ion transport system, periplasmic

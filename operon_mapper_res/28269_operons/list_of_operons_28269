@@ -1,0 +1,3112 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	JGOLCEMA_00986	CDS	COG1765	441	863	-	[O] Predicted redox protein, regulator of disulfide
+2
+	JGOLCEMA_00987	CDS	ROG1438	981	1649	-	NA
+	JGOLCEMA_00988	CDS	COG0299	1668	2390	-	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	JGOLCEMA_00989	CDS	COG0545	2401	3219	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+3
+	JGOLCEMA_00990	CDS	COG2927	3478	3918	-	[L] DNA polymerase III, chi subunit 
+	JGOLCEMA_00991	CDS	COG0260	3981	5387	-	[E] Leucyl aminopeptidase    
+4
+	JGOLCEMA_00992	CDS	COG0795	5558	6673	+	[R] Predicted permeases    
+	JGOLCEMA_00993	CDS	COG0795	6670	7740	+	[R] Predicted permeases    
+5
+	JGOLCEMA_00994	CDS	COG1049	8051	10636	+	[C] Aconitase B    
+6
+	JGOLCEMA_00995	CDS	COG0078	10778	11773	+	[E] Ornithine carbamoyltransferase    
+7
+	JGOLCEMA_00996	CDS	COG0059	11997	13010	-	[EH] Ketol-acid reductoisomerase    
+8
+	JGOLCEMA_00997	CDS	COG1359	13090	13383	-	[S] Uncharacterized conserved protein   
+9
+	JGOLCEMA_00998	CDS	COG0440	13450	13941	-	[E] Acetolactate synthase, small (regulatory) subunit 
+	JGOLCEMA_00999	CDS	COG0028	13952	15679	-	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+10
+	JGOLCEMA_01000	tRNA	NA	16389	16473	-	NA
+11
+	JGOLCEMA_01001	CDS	COG1999	16750	17403	+	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+12
+	JGOLCEMA_01002	CDS	COG0040	17482	18135	+	[E] ATP phosphoribosyltransferase    
+13
+	JGOLCEMA_01003	CDS	COG3680	18239	19138	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01004	CDS	COG0141	19135	20424	+	[E] Histidinol dehydrogenase    
+	JGOLCEMA_01005	CDS	COG0079	20470	21567	+	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	JGOLCEMA_01006	CDS	COG0131	21564	22481	+	[E] Imidazoleglycerol-phosphate dehydratase    
+14
+	JGOLCEMA_01007	CDS	COG2084	22576	23445	+	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+15
+	JGOLCEMA_01008	CDS	COG1846	23723	24085	+	[K] Transcriptional regulators    
+			NA				NA
+16
+	JGOLCEMA_01886	CDS	COG1093	543	887	-	[J] Translation initiation factor 2, alpha subunit
+	JGOLCEMA_01887	CDS	NA	925	1248	-	NA
+	JGOLCEMA_01888	CDS	NA	1251	1439	-	NA
+17
+	JGOLCEMA_01889	CDS	NA	1950	2321	-	NA
+	JGOLCEMA_01890	CDS	NA	2335	2460	-	NA
+18
+	JGOLCEMA_01891	CDS	COG4443	2701	2907	-	[S] Uncharacterized protein conserved in bacteria 
+19
+	JGOLCEMA_00606	CDS	COG3213	86	1159	+	[P] Uncharacterized protein involved in response to
+20
+	JGOLCEMA_00607	CDS	COG1198	1205	3394	-	[L] Primosomal protein N' (replication factor Y)
+21
+	JGOLCEMA_00608	CDS	COG1651	3533	4315	+	[O] Protein-disulfide isomerase    
+22
+	JGOLCEMA_00609	CDS	COG0577	4633	6567	-	[V] ABC-type antimicrobial peptide transport system, permease
+	JGOLCEMA_00610	CDS	COG0845	6633	7811	-	[M] Membrane-fusion protein    
+23
+	JGOLCEMA_00611	CDS	COG4968	8037	8426	+	[NU] Tfp pilus assembly protein PilE 
+24
+	JGOLCEMA_00612	CDS	COG1064	8710	9756	+	[R] Zn-dependent alcohol dehydrogenases   
+25
+	JGOLCEMA_00613	CDS	COG1196	9921	13406	-	[D] Chromosome segregation ATPases   
+26
+	JGOLCEMA_00614	CDS	COG2908	13656	14378	+	[S] Uncharacterized protein conserved in bacteria 
+27
+	JGOLCEMA_00615	CDS	COG1620	14647	16233	+	[C] L-lactate permease    
+28
+	JGOLCEMA_00616	CDS	COG4391	16402	16605	-	[S] Uncharacterized protein conserved in bacteria 
+29
+	JGOLCEMA_00617	CDS	ROG5235	16721	17218	+	NA
+30
+	JGOLCEMA_00618	CDS	COG1448	17300	18493	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+31
+	JGOLCEMA_00619	CDS	COG0181	18897	19832	-	[H] Porphobilinogen deaminase    
+32
+	JGOLCEMA_00620	CDS	COG0319	19951	20466	+	[R] Predicted metal-dependent hydrolase   
+	JGOLCEMA_00621	CDS	COG4535	20468	21292	+	[P] Putative Mg2+ and Co2+ transporter CorC
+33
+	JGOLCEMA_00622	CDS	COG1757	21435	22814	-	[C] Na+/H+ antiporter    
+34
+	JGOLCEMA_00623	CDS	COG0738	23105	24328	-	[G] Fucose permease    
+35
+	JGOLCEMA_00624	CDS	COG1238	24918	25331	+	[S] Predicted membrane protein   
+	JGOLCEMA_00625	CDS	COG0177	25377	26006	+	[L] Predicted EndoIII-related endonuclease   
+36
+	JGOLCEMA_00626	CDS	COG0265	26144	27643	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+	JGOLCEMA_00627	CDS	COG1757	27674	29365	+	[C] Na+/H+ antiporter    
+	JGOLCEMA_00628	CDS	COG1472	29422	30507	+	[G] Beta-glucosidase-related glycosidases    
+37
+	JGOLCEMA_00629	tRNA	NA	30588	30664	+	NA
+38
+	JGOLCEMA_00630	CDS	COG0602	30999	31637	-	[O] Organic radical activating enzymes  
+	JGOLCEMA_00631	CDS	COG3759	31634	32005	-	[S] Predicted membrane protein   
+39
+	JGOLCEMA_00632	CDS	NA	32255	32611	-	NA
+40
+	JGOLCEMA_00633	CDS	COG0720	32720	33142	-	[H] 6-pyruvoyl-tetrahydropterin synthase    
+	JGOLCEMA_00634	CDS	ROG0407	33149	33667	-	NA
+	JGOLCEMA_00635	CDS	COG0603	33695	34354	-	[R] Predicted PP-loop superfamily ATPase  
+41
+	JGOLCEMA_00636	CDS	NA	34459	34884	+	NA
+	JGOLCEMA_00637	CDS	COG1295	34869	36125	+	[S] Predicted membrane protein   
+42
+	JGOLCEMA_00638	CDS	COG2274	36146	36427	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+43
+	JGOLCEMA_00639	CDS	NA	36639	37097	-	NA
+44
+	JGOLCEMA_00640	CDS	NA	37380	37658	-	NA
+			NA				NA
+45
+	JGOLCEMA_01219	CDS	COG0438	60	596	+	[M] Glycosyltransferase     
+	JGOLCEMA_01220	CDS	COG0438	616	1779	+	[M] Glycosyltransferase     
+	JGOLCEMA_01221	CDS	COG2148	1772	3349	+	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	JGOLCEMA_01222	CDS	COG1011	3336	4022	+	[R] Predicted hydrolase (HAD superfamily)  
+	JGOLCEMA_01223	CDS	NA	4070	4264	+	NA
+46
+	JGOLCEMA_01224	CDS	COG0399	4388	5563	+	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	JGOLCEMA_01225	CDS	COG1086	5611	7521	+	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+	JGOLCEMA_01226	CDS	COG3977	7577	8869	+	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+47
+	JGOLCEMA_01227	CDS	COG0613	8921	9757	-	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+48
+	JGOLCEMA_01228	CDS	NA	10153	10356	-	NA
+	JGOLCEMA_01229	CDS	COG2501	10334	10792	-	[S] Uncharacterized conserved protein   
+49
+	JGOLCEMA_01230	CDS	COG0587	11105	14539	+	[L] DNA polymerase III, alpha subunit 
+50
+	JGOLCEMA_01231	CDS	COG3513	14817	18065	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01232	CDS	COG1518	18131	19045	+	[L] Uncharacterized protein predicted to be involved
+	JGOLCEMA_01233	CDS	COG3512	19056	19364	+	[S] Uncharacterized protein conserved in bacteria 
+51
+	JGOLCEMA_01234	CDS	NA	20941	21045	-	NA
+52
+	JGOLCEMA_01399	tRNA	NA	93	168	+	NA
+53
+	JGOLCEMA_01400	CDS	COG0690	283	561	+	[U] Preprotein translocase subunit SecE  
+	JGOLCEMA_01401	CDS	COG0250	563	1099	+	[K] Transcription antiterminator    
+	JGOLCEMA_01402	CDS	COG0080	1200	1634	+	[J] Ribosomal protein L11   
+	JGOLCEMA_01403	CDS	COG0081	1634	2329	+	[J] Ribosomal protein L1   
+	JGOLCEMA_01404	CDS	COG0244	2559	3059	+	[J] Ribosomal protein L10   
+	JGOLCEMA_01405	CDS	COG0222	3117	3488	+	[J] Ribosomal protein L7/L12   
+	JGOLCEMA_01406	CDS	COG0085	3679	7857	+	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	JGOLCEMA_01407	CDS	COG0086	8014	12189	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+54
+	JGOLCEMA_01408	CDS	NA	12303	12428	-	NA
+55
+	JGOLCEMA_01409	CDS	NA	12480	12737	+	NA
+	JGOLCEMA_01410	CDS	ROG3350	12734	12883	+	NA
+56
+	JGOLCEMA_01411	CDS	COG0048	13062	13433	+	[J] Ribosomal protein S12   
+	JGOLCEMA_01412	CDS	COG0049	13551	14021	+	[J] Ribosomal protein S7   
+	JGOLCEMA_01413	CDS	COG0480	14040	16145	+	[J] Translation elongation factors (GTPases)  
+57
+	JGOLCEMA_01641	CDS	NA	34	318	-	NA
+58
+	JGOLCEMA_01642	CDS	NA	644	886	-	NA
+59
+	JGOLCEMA_01643	CDS	NA	1044	1463	-	NA
+60
+	JGOLCEMA_01644	CDS	NA	1764	2225	-	NA
+	JGOLCEMA_01645	CDS	ROG1168	2236	4635	-	NA
+61
+	JGOLCEMA_01646	tRNA	NA	4948	5024	-	NA
+62
+	JGOLCEMA_01647	CDS	COG1051	5235	5693	+	[F] ADP-ribose pyrophosphatase    
+	JGOLCEMA_01648	CDS	COG0221	5795	6328	+	[C] Inorganic pyrophosphatase    
+63
+	JGOLCEMA_01649	CDS	ROG3926	6436	6669	+	NA
+	JGOLCEMA_01650	CDS	COG0127	6662	7261	+	[F] Xanthosine triphosphate pyrophosphatase   
+	JGOLCEMA_01651	CDS	COG1210	7289	8158	+	[M] UDP-glucose pyrophosphorylase    
+	JGOLCEMA_01652	CDS	COG0165	8177	9553	+	[E] Argininosuccinate lyase    
+	JGOLCEMA_01653	CDS	ROG5235	9610	10080	+	NA
+64
+	JGOLCEMA_01827	CDS	COG4992	203	1396	+	[E] Ornithine/acetylornithine aminotransferase    
+65
+	JGOLCEMA_01828	CDS	COG1219	1461	2705	-	[O] ATP-dependent protease Clp, ATPase subunit 
+66
+	JGOLCEMA_01829	CDS	COG0858	2895	3266	+	[J] Ribosome-binding factor A   
+	JGOLCEMA_01830	CDS	COG0130	3278	4222	+	[J] Pseudouridine synthase    
+			NA				NA
+67
+	JGOLCEMA_01277	CDS	COG3203	91	1251	+	[M] Outer membrane protein (porin)  
+68
+	JGOLCEMA_01278	CDS	COG0006	2060	3856	-	[E] Xaa-Pro aminopeptidase    
+69
+	JGOLCEMA_01279	CDS	NA	4314	5567	+	NA
+70
+	JGOLCEMA_01280	CDS	COG1190	5722	7233	+	[J] Lysyl-tRNA synthetase (class II)  
+71
+	JGOLCEMA_01281	CDS	NA	7310	7498	-	NA
+	JGOLCEMA_01282	CDS	COG2932	7502	8221	-	[K] Predicted transcriptional regulator   
+72
+	JGOLCEMA_01283	CDS	NA	8252	8368	+	NA
+73
+	JGOLCEMA_01284	CDS	COG3177	8410	9537	-	[S] Uncharacterized conserved protein   
+74
+	JGOLCEMA_01285	CDS	COG0644	9864	10928	-	[C] Dehydrogenases (flavoproteins)    
+75
+	JGOLCEMA_01286	CDS	COG0513	11233	12606	-	[LKJ] Superfamily II DNA and RNA helicases
+76
+	JGOLCEMA_01287	CDS	COG0042	12973	13983	+	[J] tRNA-dihydrouridine synthase    
+	JGOLCEMA_01288	CDS	COG2901	14014	14253	+	[KL] Factor for inversion stimulation Fis, transcriptional
+	JGOLCEMA_01289	CDS	COG0817	14256	14792	+	[L] Holliday junction resolvasome, endonuclease subunit 
+	JGOLCEMA_01290	CDS	COG1560	14831	15730	+	[M] Lauroyl/myristoyl acyltransferase    
+77
+	JGOLCEMA_01291	CDS	NA	16198	16332	+	NA
+78
+	JGOLCEMA_01292	CDS	COG3298	16449	17243	+	[L] Predicted 3'-5' exonuclease related to the
+79
+	JGOLCEMA_01293	CDS	COG0308	17455	20058	+	[E] Aminopeptidase N    
+80
+	JGOLCEMA_01565	CDS	COG1080	298	2073	-	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+	JGOLCEMA_01566	CDS	COG1925	2073	2342	-	[G] Phosphotransferase system, HPr-related proteins  
+	JGOLCEMA_01567	CDS	COG2893	2411	2848	-	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+81
+	JGOLCEMA_01568	CDS	COG0634	2929	3492	-	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+82
+	JGOLCEMA_01569	CDS	COG1793	3561	4385	-	[L] ATP-dependent DNA ligase   
+83
+	JGOLCEMA_01570	CDS	COG0491	4477	5109	+	[R] Zn-dependent hydrolases, including glyoxylases  
+84
+	JGOLCEMA_01571	CDS	COG1322	5177	6967	-	[S] Uncharacterized protein conserved in bacteria 
+85
+	JGOLCEMA_01572	CDS	COG2857	7306	8094	-	[C] Cytochrome c1    
+	JGOLCEMA_01573	CDS	COG1290	8109	9458	-	[C] Cytochrome b subunit of the bc
+	JGOLCEMA_01574	CDS	COG0723	9477	10058	-	[C] Rieske Fe-S protein   
+86
+	JGOLCEMA_01575	CDS	COG0327	10181	10930	-	[S] Uncharacterized conserved protein   
+87
+	JGOLCEMA_01576	CDS	NA	11061	11990	+	NA
+88
+	JGOLCEMA_01861	CDS	NA	131	505	-	NA
+89
+	JGOLCEMA_01862	CDS	NA	678	1034	-	NA
+90
+	JGOLCEMA_01863	CDS	NA	2080	2532	-	NA
+91
+	JGOLCEMA_01864	CDS	NA	2890	3207	-	NA
+92
+	JGOLCEMA_01865	CDS	NA	3225	3398	+	NA
+93
+	JGOLCEMA_01509	CDS	COG1183	440	1186	+	[I] Phosphatidylserine synthase    
+	JGOLCEMA_01510	CDS	COG0730	1187	1993	+	[R] Predicted permeases    
+94
+	JGOLCEMA_01511	CDS	COG0359	2960	3412	-	[J] Ribosomal protein L9   
+	JGOLCEMA_01512	CDS	COG0238	3429	3659	-	[J] Ribosomal protein S18   
+	JGOLCEMA_01513	CDS	COG0360	3969	4337	-	[J] Ribosomal protein S6   
+95
+	JGOLCEMA_01514	CDS	COG0492	4493	5443	-	[O] Thioredoxin reductase    
+96
+	JGOLCEMA_01515	CDS	COG2217	5582	7744	+	[P] Cation transport ATPase   
+97
+	JGOLCEMA_01516	CDS	COG0322	7799	9685	+	[L] Nuclease subunit of the excinuclease complex
+98
+	JGOLCEMA_01517	CDS	COG0790	9959	11362	+	[R] FOG: TPR repeat, SEL1 subfamily 
+99
+	JGOLCEMA_01518	CDS	NA	11484	12200	+	NA
+100
+	JGOLCEMA_00272	CDS	COG5008	71	1201	+	[NU] Tfp pilus assembly protein, ATPase PilU
+	JGOLCEMA_00273	CDS	COG2812	1235	2212	+	[L] DNA polymerase III, gamma/tau subunits 
+	JGOLCEMA_00274	CDS	COG3215	2216	2566	+	[NU] Tfp pilus assembly protein PilZ 
+	JGOLCEMA_00275	CDS	COG0084	2571	3350	+	[L] Mg-dependent DNase    
+101
+	JGOLCEMA_00276	CDS	COG0278	3691	4002	+	[O] Glutaredoxin-related protein    
+	JGOLCEMA_00277	CDS	NA	4002	4118	+	NA
+	JGOLCEMA_00278	CDS	COG0035	4108	4734	+	[F] Uracil phosphoribosyltransferase    
+	JGOLCEMA_00279	CDS	COG4390	4757	5077	+	[S] Uncharacterized protein conserved in bacteria 
+102
+	JGOLCEMA_00280	CDS	ROG6427	5328	5747	+	NA
+	JGOLCEMA_00281	CDS	COG1587	5768	6529	+	[H] Uroporphyrinogen-III synthase    
+	JGOLCEMA_00282	CDS	COG2959	6544	7878	+	[H] Uncharacterized enzyme of heme biosynthesis 
+	JGOLCEMA_00283	CDS	COG3071	7875	9092	+	[H] Uncharacterized enzyme of heme biosynthesis 
+103
+	JGOLCEMA_00284	CDS	COG0407	9167	10231	+	[H] Uroporphyrinogen-III decarboxylase    
+	JGOLCEMA_00285	CDS	COG1066	10321	11787	+	[O] Predicted ATP-dependent serine protease  
+104
+	JGOLCEMA_00286	CDS	COG3439	12063	12542	-	[S] Uncharacterized conserved protein   
+105
+	JGOLCEMA_00287	CDS	COG0607	12667	13026	-	[P] Rhodanese-related sulfurtransferase    
+	JGOLCEMA_00288	CDS	COG1074	13065	16679	-	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+106
+	JGOLCEMA_00289	CDS	COG2837	16912	18000	-	[P] Predicted iron-dependent peroxidase   
+107
+	JGOLCEMA_00290	CDS	COG0834	18108	18932	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	JGOLCEMA_00291	CDS	COG0765	18922	19638	+	[E] ABC-type amino acid transport system, permease
+	JGOLCEMA_00292	CDS	COG1126	19648	20403	+	[E] ABC-type polar amino acid transport system,
+108
+	JGOLCEMA_00293	CDS	COG1109	20423	21805	-	[G] Phosphomannomutase     
+109
+	JGOLCEMA_00294	CDS	COG0652	21972	22481	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+110
+	JGOLCEMA_00295	CDS	COG0471	22600	24015	-	[P] Di- and tricarboxylate transporters  
+111
+	JGOLCEMA_00296	CDS	ROG5597	24246	24608	-	NA
+	JGOLCEMA_00297	CDS	NA	24605	24811	-	NA
+	JGOLCEMA_00298	CDS	COG0193	24872	25450	-	[J] Peptidyl-tRNA hydrolase    
+	JGOLCEMA_00299	CDS	COG2914	25503	25781	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00300	CDS	COG2867	25774	26211	-	[I] Oligoketide cyclase/lipid transport protein  
+112
+	JGOLCEMA_00301	CDS	COG0465	26426	28393	-	[O] ATP-dependent Zn proteases   
+	JGOLCEMA_00302	CDS	COG0293	28457	29077	-	[J] 23S rRNA methylase   
+113
+	JGOLCEMA_00303	CDS	COG1534	29187	29471	+	[J] Predicted RNA-binding protein containing KH domain,
+114
+	JGOLCEMA_00304	CDS	COG0113	29654	30655	+	[H] Delta-aminolevulinic acid dehydratase   
+115
+	JGOLCEMA_00305	CDS	COG0626	30718	31875	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+116
+	JGOLCEMA_00306	CDS	COG1469	32067	32840	+	[S] Uncharacterized conserved protein   
+117
+	JGOLCEMA_00307	CDS	COG0778	33040	33705	+	[C] Nitroreductase     
+118
+	JGOLCEMA_00308	CDS	COG1187	33760	34518	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+	JGOLCEMA_00309	CDS	COG0061	34543	35433	-	[G] Predicted sugar kinase   
+	JGOLCEMA_00310	CDS	COG3165	35453	36019	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00311	CDS	COG0451	36079	36846	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	JGOLCEMA_00312	CDS	COG1309	36901	37545	-	[K] Transcriptional regulator    
+	JGOLCEMA_00313	CDS	COG0812	37563	38603	-	[M] UDP-N-acetylmuramate dehydrogenase    
+119
+	JGOLCEMA_00314	CDS	COG0534	38782	40161	-	[V] Na+-driven multidrug efflux pump  
+120
+	JGOLCEMA_00315	CDS	COG3705	40496	41647	+	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+	JGOLCEMA_00316	CDS	COG0104	41751	43049	+	[F] Adenylosuccinate synthase    
+121
+	JGOLCEMA_00317	CDS	ROG7813	45046	45438	+	NA
+122
+	JGOLCEMA_00318	CDS	ROG4167	45552	46112	+	NA
+123
+	JGOLCEMA_00319	CDS	COG0501	46413	47252	-	[O] Zn-dependent protease with chaperone function 
+124
+	JGOLCEMA_00320	CDS	COG0563	47467	48114	+	[F] Adenylate kinase and related kinases 
+125
+	JGOLCEMA_00321	CDS	COG0284	48640	49380	+	[F] Orotidine-5'-phosphate decarboxylase    
+126
+	JGOLCEMA_00322	CDS	COG2870	49435	50406	+	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	JGOLCEMA_00323	CDS	COG0270	50443	51678	+	[L] Site-specific DNA methylase   
+	JGOLCEMA_00324	CDS	COG3440	51680	52711	+	[V] Predicted restriction endonuclease   
+127
+	JGOLCEMA_00325	CDS	COG0451	52840	53844	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	JGOLCEMA_00326	CDS	COG0286	53917	55461	+	[V] Type I restriction-modification system methyltransferase subunit
+	JGOLCEMA_00327	CDS	COG3943	55458	56468	+	[R] Virulence protein    
+	JGOLCEMA_00328	CDS	COG0732	56634	57125	+	[V] Restriction endonuclease S subunits  
+128
+	JGOLCEMA_00780	CDS	COG0103	172	564	-	[J] Ribosomal protein S9   
+	JGOLCEMA_00781	CDS	COG0102	574	1005	-	[J] Ribosomal protein L13   
+129
+	JGOLCEMA_00782	CDS	COG3027	1368	1673	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00783	CDS	ROG1660	1684	2013	-	NA
+	JGOLCEMA_00784	CDS	COG0240	2068	3057	-	[C] Glycerol-3-phosphate dehydrogenase    
+130
+	JGOLCEMA_00785	CDS	COG2352	3180	5882	-	[C] Phosphoenolpyruvate carboxylase    
+131
+	JGOLCEMA_00786	CDS	COG0476	5925	6818	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+132
+	JGOLCEMA_00787	CDS	COG2900	7218	7442	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00788	CDS	COG2056	7443	8831	-	[R] Predicted permease    
+133
+	JGOLCEMA_00789	CDS	COG2890	8917	10188	-	[J] Methylase of polypeptide chain release factors
+134
+	JGOLCEMA_00790	CDS	COG0312	10253	11737	-	[R] Predicted Zn-dependent proteases and their inactivated
+135
+	JGOLCEMA_00791	CDS	COG1457	12085	13308	+	[F] Purine-cytosine permease and related proteins 
+	JGOLCEMA_00792	CDS	COG3380	13305	14405	+	[R] Predicted NAD/FAD-dependent oxidoreductase   
+	JGOLCEMA_00793	CDS	COG0352	14426	15043	+	[H] Thiamine monophosphate synthase   
+	JGOLCEMA_00794	CDS	COG2104	15466	15660	+	[H] Sulfur transfer protein involved in thiamine
+	JGOLCEMA_00795	CDS	COG2022	15874	16662	+	[H] Uncharacterized enzyme of thiazole biosynthesis 
+136
+	JGOLCEMA_00796	CDS	ROG1248	17425	18249	-	NA
+137
+	JGOLCEMA_00797	CDS	COG0340	18362	20140	-	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+	JGOLCEMA_00798	CDS	COG2870	20137	20643	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+138
+	JGOLCEMA_00799	tRNA	NA	20778	20853	-	NA
+	JGOLCEMA_00800	tRNA	NA	20881	20957	-	NA
+	JGOLCEMA_00801	tRNA	NA	20982	21059	-	NA
+139
+	JGOLCEMA_00802	CDS	COG0190	21282	22136	+	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+140
+	JGOLCEMA_00803	CDS	COG1714	22198	22779	-	[S] Predicted membrane protein/domain   
+141
+	JGOLCEMA_00804	CDS	COG0136	23109	24224	+	[E] Aspartate-semialdehyde dehydrogenase    
+142
+	JGOLCEMA_00805	CDS	COG3545	24317	24847	-	[R] Predicted esterase of the alpha/beta hydrolase
+	JGOLCEMA_00806	CDS	COG1215	24857	25201	-	[M] Glycosyltransferases, probably involved in cell wall
+	JGOLCEMA_00807	CDS	COG0708	25188	25967	-	[L] Exonuclease III    
+143
+	JGOLCEMA_00808	CDS	COG0215	26050	28149	-	[J] Cysteinyl-tRNA synthetase    
+	JGOLCEMA_00809	CDS	ROG4307	28159	29208	-	NA
+144
+	JGOLCEMA_00810	CDS	COG0536	29291	30445	-	[R] Predicted GTPase    
+145
+	JGOLCEMA_01841	CDS	ROG7158	126	524	+	NA
+	JGOLCEMA_01842	CDS	COG4387	524	946	+	[S] Mu-like prophage protein gp36  
+	JGOLCEMA_01843	CDS	COG5003	936	1586	+	[R] Mu-like prophage protein gp37  
+	JGOLCEMA_01844	CDS	NA	1583	1780	+	NA
+	JGOLCEMA_01845	CDS	COG4386	1783	3192	+	[R] Mu-like prophage tail sheath protein gpL
+146
+	JGOLCEMA_01846	CDS	ROG6530	3257	3634	+	NA
+	JGOLCEMA_01847	CDS	NA	3638	4003	+	NA
+	JGOLCEMA_01848	CDS	NA	3943	4212	+	NA
+147
+	JGOLCEMA_01354	CDS	COG0782	1131	1607	-	[K] Transcription elongation factor   
+148
+	JGOLCEMA_01355	CDS	COG0128	1999	3300	+	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+149
+	JGOLCEMA_01356	CDS	COG0791	3343	3876	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+150
+	JGOLCEMA_01357	CDS	COG1502	4084	5661	-	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+	JGOLCEMA_01358	CDS	COG0477	5722	7230	-	[GEPR] Permeases of the major facilitator superfamily
+151
+	JGOLCEMA_01359	CDS	COG0247	7412	8191	+	[C] Fe-S oxidoreductase    
+	JGOLCEMA_01360	CDS	COG1556	8188	8889	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01361	CDS	COG1139	8886	10340	+	[C] Uncharacterized conserved protein containing a ferredoxin-like
+152
+	JGOLCEMA_01362	CDS	COG0041	10523	11008	-	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+	JGOLCEMA_01363	CDS	COG1729	11056	11772	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01364	CDS	COG4122	11772	12440	-	[R] Predicted O-methyltransferase    
+	JGOLCEMA_01365	CDS	ROG0681	12451	12636	-	NA
+153
+	JGOLCEMA_01366	CDS	COG0323	12780	14756	+	[L] DNA mismatch repair enzyme (predicted ATPase)
+	JGOLCEMA_01367	CDS	COG2812	14851	16980	+	[L] DNA polymerase III, gamma/tau subunits 
+	JGOLCEMA_01368	CDS	COG0718	17060	17395	+	[S] Uncharacterized protein conserved in bacteria 
+154
+	JGOLCEMA_01294	CDS	COG4968	174	623	+	[NU] Tfp pilus assembly protein PilE 
+155
+	JGOLCEMA_01295	CDS	ROG6185	1165	1377	-	NA
+156
+	JGOLCEMA_01296	CDS	COG3039	1609	2088	+	[L] Transposase and inactivated derivatives, IS5 family
+157
+	JGOLCEMA_01297	CDS	COG2425	2436	3896	-	[R] Uncharacterized protein containing a von Willebrand
+	JGOLCEMA_01298	CDS	ROG5978	3887	5494	-	NA
+	JGOLCEMA_01299	CDS	COG1643	5553	8819	-	[L] HrpA-like helicases    
+158
+	JGOLCEMA_01300	CDS	COG2194	8921	10495	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+159
+	JGOLCEMA_01301	CDS	ROG2184	10676	11803	-	NA
+160
+	JGOLCEMA_01302	CDS	COG1643	11904	13295	-	[L] HrpA-like helicases    
+161
+	JGOLCEMA_01303	CDS	COG0038	13485	14894	-	[P] Chloride channel protein EriC  
+162
+	JGOLCEMA_01304	CDS	COG1364	14954	16174	-	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	JGOLCEMA_01305	CDS	COG1346	16241	16933	-	[M] Putative effector of murein hydrolase 
+	JGOLCEMA_01306	CDS	COG1380	16933	17277	-	[R] Putative effector of murein hydrolase LrgA
+163
+	JGOLCEMA_01307	CDS	ROG2685	17422	17640	-	NA
+	JGOLCEMA_01308	CDS	COG0791	17659	18414	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+164
+	JGOLCEMA_01309	CDS	NA	18659	19543	+	NA
+165
+	JGOLCEMA_01911	CDS	COG4969	694	1065	-	[NU] Tfp pilus assembly protein, major pilin
+	JGOLCEMA_01912	CDS	COG4969	1224	1673	-	[NU] Tfp pilus assembly protein, major pilin
+166
+	JGOLCEMA_01123	CDS	COG0548	318	1214	-	[E] Acetylglutamate kinase    
+167
+	JGOLCEMA_01124	CDS	COG2866	1384	2514	+	[E] Predicted carboxypeptidase    
+168
+	JGOLCEMA_01125	CDS	COG0682	2585	3436	+	[M] Prolipoprotein diacylglyceryltransferase    
+169
+	JGOLCEMA_01126	CDS	COG3318	3519	4181	-	[R] Predicted metal-binding protein related to the
+170
+	JGOLCEMA_01127	CDS	COG0119	4276	6069	-	[E] Isopropylmalate/homocitrate/citramalate synthases    
+171
+	JGOLCEMA_01128	CDS	COG0263	6315	7424	+	[E] Glutamate 5-kinase    
+	JGOLCEMA_01129	CDS	COG0014	7437	8699	+	[E] Gamma-glutamyl phosphate reductase   
+172
+	JGOLCEMA_01130	CDS	COG1674	8924	11956	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+173
+	JGOLCEMA_01131	CDS	COG3235	12121	12801	+	[S] Predicted membrane protein   
+	JGOLCEMA_01132	CDS	COG0239	12830	13189	+	[D] Integral membrane protein possibly involved in
+174
+	JGOLCEMA_01133	CDS	COG0494	13845	14381	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	JGOLCEMA_01134	CDS	COG1539	14415	14771	-	[H] Dihydroneopterin aldolase    
+175
+	JGOLCEMA_01135	CDS	COG0344	14827	15429	+	[S] Predicted membrane protein   
+176
+	JGOLCEMA_01136	CDS	COG2961	15506	16351	+	[R] Protein involved in catabolism of external
+177
+	JGOLCEMA_01137	CDS	COG0158	16746	17720	+	[G] Fructose-1,6-bisphosphatase     
+178
+	JGOLCEMA_01138	CDS	COG2841	17879	18097	-	[S] Uncharacterized protein conserved in bacteria 
+179
+	JGOLCEMA_01139	CDS	COG0405	18871	20646	+	[E] Gamma-glutamyltransferase     
+180
+	JGOLCEMA_01140	CDS	NA	21127	22377	+	NA
+			NA				NA
+			NA				NA
+181
+	JGOLCEMA_01918	CDS	NA	218	334	-	NA
+182
+	JGOLCEMA_01919	CDS	NA	470	880	-	NA
+	JGOLCEMA_01920	CDS	NA	884	1351	-	NA
+183
+	JGOLCEMA_01055	CDS	COG2027	140	1666	-	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+184
+	JGOLCEMA_01056	CDS	COG0431	1714	2280	+	[R] Predicted flavoprotein    
+185
+	JGOLCEMA_01057	CDS	COG2851	3036	4349	+	[C] H+/citrate symporter    
+186
+	JGOLCEMA_01058	CDS	COG0745	4570	4701	+	[TK] Response regulators consisting of a CheY-like
+	JGOLCEMA_01059	CDS	COG2205	4701	5990	+	[T] Osmosensitive K+ channel histidine kinase 
+187
+	JGOLCEMA_01060	CDS	COG1530	6025	7518	-	[J] Ribonucleases G and E  
+188
+	JGOLCEMA_01061	CDS	COG0695	7731	7988	+	[O] Glutaredoxin and related proteins  
+	JGOLCEMA_01062	CDS	COG1952	8009	8452	+	[U] Preprotein translocase subunit SecB  
+189
+	JGOLCEMA_01063	CDS	COG1200	8538	10580	+	[LK] RecG-like helicase    
+190
+	JGOLCEMA_01064	CDS	COG0002	11839	12882	-	[E] Acetylglutamate semialdehyde dehydrogenase   
+	JGOLCEMA_01065	CDS	NA	12879	13160	-	NA
+191
+	JGOLCEMA_01066	CDS	COG2850	13414	14568	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01067	CDS	NA	14577	14804	+	NA
+192
+	JGOLCEMA_01068	CDS	ROG5024	14833	15078	-	NA
+193
+	JGOLCEMA_01069	CDS	ROG0722	15211	15837	+	NA
+	JGOLCEMA_01070	CDS	NA	15789	15989	+	NA
+194
+	JGOLCEMA_01071	CDS	COG0306	16752	16919	+	[P] Phosphate/sulphate permeases    
+195
+	JGOLCEMA_01072	CDS	COG2274	17018	17266	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	JGOLCEMA_01073	CDS	COG2831	17327	19069	+	[U] Hemolysin activation/secretion protein   
+196
+	JGOLCEMA_01074	CDS	NA	22643	22984	-	NA
+197
+	JGOLCEMA_00491	CDS	COG0304	256	1467	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	JGOLCEMA_00492	tRNA	NA	1521	1596	+	NA
+198
+	JGOLCEMA_00493	CDS	COG1215	1671	2429	+	[M] Glycosyltransferases, probably involved in cell wall
+	JGOLCEMA_00494	CDS	COG0438	2430	3494	+	[M] Glycosyltransferase     
+199
+	JGOLCEMA_00495	CDS	COG0733	3881	5218	+	[R] Na+-dependent transporters of the SNF family
+200
+	JGOLCEMA_00496	CDS	COG1477	5390	5788	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	JGOLCEMA_00497	CDS	COG3540	5769	6050	-	[P] Phosphodiesterase/alkaline phosphatase D   
+	JGOLCEMA_00498	CDS	COG0207	6059	6853	-	[F] Thymidylate synthase    
+201
+	JGOLCEMA_00499	CDS	COG0334	7237	8571	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+202
+	JGOLCEMA_00500	CDS	NA	8719	9087	+	NA
+	JGOLCEMA_00501	CDS	NA	9131	9388	+	NA
+203
+	JGOLCEMA_00502	CDS	COG2186	9574	10353	-	[K] Transcriptional regulators    
+204
+	JGOLCEMA_00503	CDS	COG1620	10960	11187	+	[C] L-lactate permease    
+205
+	JGOLCEMA_00504	CDS	COG1538	11555	12958	-	[MU] Outer membrane protein   
+	JGOLCEMA_00505	CDS	COG0841	13013	16216	-	[V] Cation/multidrug efflux pump   
+	JGOLCEMA_00506	CDS	COG0845	16228	17466	-	[M] Membrane-fusion protein    
+206
+	JGOLCEMA_00507	CDS	COG1309	17870	18502	+	[K] Transcriptional regulator    
+207
+	JGOLCEMA_00508	CDS	NA	18781	18993	-	NA
+208
+	JGOLCEMA_00509	CDS	COG2978	19327	20895	+	[H] Putative p-aminobenzoyl-glutamate transporter   
+209
+	JGOLCEMA_00510	CDS	COG1330	20926	24171	-	[L] Exonuclease V gamma subunit  
+210
+	JGOLCEMA_00511	CDS	COG3182	24272	25681	-	[S] Uncharacterized iron-regulated membrane protein  
+211
+	JGOLCEMA_00512	CDS	COG2010	26117	27214	-	[C] Cytochrome c, mono- and diheme variants
+	JGOLCEMA_00513	CDS	COG4736	27238	27408	-	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	JGOLCEMA_00514	CDS	COG2993	27413	28024	-	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	JGOLCEMA_00515	CDS	COG3278	28051	29484	-	[O] Cbb3-type cytochrome oxidase, subunit 1 
+212
+	JGOLCEMA_00516	CDS	COG3975	29811	31559	+	[R] Predicted protease with the C-terminal PDZ
+213
+	JGOLCEMA_00517	CDS	COG3453	31624	32052	+	[S] Uncharacterized protein conserved in bacteria 
+214
+	JGOLCEMA_00518	CDS	COG0848	32739	33173	-	[U] Biopolymer transport protein   
+	JGOLCEMA_00519	CDS	COG0811	33176	33838	-	[U] Biopolymer transport proteins   
+	JGOLCEMA_00520	CDS	COG0810	33904	34746	-	[M] Periplasmic protein TonB, links inner and
+215
+	JGOLCEMA_00521	CDS	COG1994	35001	35639	+	[R] Zn-dependent proteases    
+216
+	JGOLCEMA_00522	CDS	COG2217	36091	36891	-	[P] Cation transport ATPase   
+217
+	JGOLCEMA_00523	CDS	NA	37027	37530	-	NA
+218
+	JGOLCEMA_00524	CDS	COG2999	37867	38508	-	[O] Glutaredoxin 2    
+219
+	JGOLCEMA_00525	CDS	NA	38836	41049	+	NA
+			NA				NA
+220
+	JGOLCEMA_01765	CDS	COG0708	1283	2053	-	[L] Exonuclease III    
+	JGOLCEMA_01766	CDS	COG0640	2113	2394	-	[K] Predicted transcriptional regulators   
+221
+	JGOLCEMA_01767	CDS	COG0157	2800	3681	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+222
+	JGOLCEMA_01768	CDS	COG4111	3757	4695	-	[R] Uncharacterized conserved protein   
+223
+	JGOLCEMA_01769	CDS	COG0379	5002	6114	+	[H] Quinolinate synthase    
+224
+	JGOLCEMA_01770	CDS	NA	6302	6790	-	NA
+225
+	JGOLCEMA_01903	CDS	COG3421	47	541	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01904	CDS	COG2189	531	1904	-	[L] Adenine specific DNA methylase Mod 
+226
+	JGOLCEMA_00001	CDS	COG3039	61	444	+	[L] Transposase and inactivated derivatives, IS5 family
+227
+	JGOLCEMA_00002	CDS	COG0087	630	1274	+	[J] Ribosomal protein L3   
+	JGOLCEMA_00003	CDS	COG0088	1274	1894	+	[J] Ribosomal protein L4   
+	JGOLCEMA_00004	CDS	COG0089	1891	2205	+	[J] Ribosomal protein L23   
+	JGOLCEMA_00005	CDS	COG0090	2211	3044	+	[J] Ribosomal protein L2   
+	JGOLCEMA_00006	CDS	COG0185	3051	3329	+	[J] Ribosomal protein S19   
+	JGOLCEMA_00007	CDS	COG0091	3338	3667	+	[J] Ribosomal protein L22   
+	JGOLCEMA_00008	CDS	COG0092	3677	4369	+	[J] Ribosomal protein S3   
+228
+	JGOLCEMA_00009	CDS	NA	4299	4766	-	NA
+229
+	JGOLCEMA_00010	CDS	COG0255	4769	4960	+	[J] Ribosomal protein L29   
+	JGOLCEMA_00011	CDS	COG0186	4960	5223	+	[J] Ribosomal protein S17   
+	JGOLCEMA_00012	CDS	COG0093	5445	5813	+	[J] Ribosomal protein L14   
+	JGOLCEMA_00013	CDS	COG0198	5825	6148	+	[J] Ribosomal protein L24   
+	JGOLCEMA_00014	CDS	COG0094	6158	6697	+	[J] Ribosomal protein L5   
+	JGOLCEMA_00015	CDS	COG0199	6700	7005	+	[J] Ribosomal protein S14   
+	JGOLCEMA_00016	CDS	COG0096	7021	7413	+	[J] Ribosomal protein S8   
+	JGOLCEMA_00017	CDS	COG0097	7427	7960	+	[J] Ribosomal protein L6P/L9E   
+	JGOLCEMA_00018	CDS	COG0256	7974	8327	+	[J] Ribosomal protein L18   
+	JGOLCEMA_00019	CDS	COG0098	8346	8864	+	[J] Ribosomal protein S5   
+	JGOLCEMA_00020	CDS	COG1841	8857	9042	+	[J] Ribosomal protein L30/L7E   
+	JGOLCEMA_00021	CDS	NA	9084	9251	+	NA
+230
+	JGOLCEMA_00022	CDS	COG0201	9676	10800	+	[U] Preprotein translocase subunit SecY  
+	JGOLCEMA_00023	CDS	COG0361	10805	11023	+	[J] Translation initiation factor 1 (IF-1) 
+	JGOLCEMA_00024	CDS	COG0099	11223	11585	+	[J] Ribosomal protein S13   
+	JGOLCEMA_00025	CDS	COG0522	12020	12640	+	[J] Ribosomal protein S4 and related proteins
+	JGOLCEMA_00026	CDS	COG0202	12666	13652	+	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	JGOLCEMA_00027	CDS	COG0203	13676	14044	+	[J] Ribosomal protein L17   
+	JGOLCEMA_00028	CDS	NA	13995	14150	+	NA
+	JGOLCEMA_00029	CDS	COG0850	14191	14904	+	[D] Septum formation inhibitor   
+	JGOLCEMA_00030	CDS	COG2894	14933	15748	+	[D] Septum formation inhibitor-activating ATPase  
+	JGOLCEMA_00031	CDS	COG0851	15752	16015	+	[D] Septum formation topological specificity factor 
+	JGOLCEMA_00032	CDS	COG0583	16019	16939	+	[K] Transcriptional regulator    
+231
+	JGOLCEMA_00033	CDS	COG0525	17269	20106	-	[J] Valyl-tRNA synthetase    
+232
+	JGOLCEMA_00034	CDS	COG0428	20203	21012	-	[P] Predicted divalent heavy-metal cations transporter 
+233
+	JGOLCEMA_00035	CDS	COG0665	21193	22449	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+234
+	JGOLCEMA_00036	CDS	COG1115	22528	23919	-	[E] Na+/alanine symporter    
+235
+	JGOLCEMA_00037	CDS	COG1043	24276	25052	-	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+	JGOLCEMA_00038	CDS	ROG0283	25095	25817	-	NA
+236
+	JGOLCEMA_00039	CDS	COG0764	25982	26431	-	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+	JGOLCEMA_00040	CDS	COG1044	26465	27511	-	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	JGOLCEMA_00041	CDS	COG2825	27544	28044	-	[M] Outer membrane protein   
+	JGOLCEMA_00042	CDS	COG4775	28110	30503	-	[M] Outer membrane protein/protective antigen OMA87 
+	JGOLCEMA_00043	CDS	COG0750	30560	31900	-	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	JGOLCEMA_00044	CDS	COG0743	31935	33170	-	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+	JGOLCEMA_00045	CDS	COG0575	33175	33972	-	[I] CDP-diglyceride synthetase    
+	JGOLCEMA_00046	CDS	COG0020	33975	34721	-	[I] Undecaprenyl pyrophosphate synthase   
+	JGOLCEMA_00047	CDS	COG0233	34777	35334	-	[J] Ribosome recycling factor   
+237
+	JGOLCEMA_00048	CDS	COG1289	35514	36641	-	[S] Predicted membrane protein   
+238
+	JGOLCEMA_00049	tRNA	NA	36715	36790	-	NA
+239
+	JGOLCEMA_00050	CDS	NA	36897	37091	+	NA
+	JGOLCEMA_00051	CDS	ROG1318	37067	37369	+	NA
+240
+	JGOLCEMA_00052	CDS	COG0357	37465	38088	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+	JGOLCEMA_00053	CDS	COG1192	38187	38960	+	[D] ATPases involved in chromosome partitioning 
+241
+	JGOLCEMA_00054	CDS	COG0164	39634	40218	-	[L] Ribonuclease HII    
+	JGOLCEMA_00055	CDS	COG0445	40286	42181	-	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+242
+	JGOLCEMA_00056	CDS	COG1115	42506	43933	-	[E] Na+/alanine symporter    
+243
+	JGOLCEMA_00057	CDS	COG1995	44093	45085	+	[H] Pyridoxal phosphate biosynthesis protein  
+244
+	JGOLCEMA_00058	CDS	COG1530	45931	48687	-	[J] Ribonucleases G and E  
+245
+	JGOLCEMA_00059	CDS	COG0564	49182	50174	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+246
+	JGOLCEMA_00060	CDS	COG0763	50240	51394	+	[M] Lipid A disaccharide synthetase  
+247
+	JGOLCEMA_00061	CDS	COG3792	51597	51986	-	[S] Uncharacterized protein conserved in bacteria 
+248
+	JGOLCEMA_00062	CDS	NA	52209	52619	+	NA
+249
+	JGOLCEMA_00063	CDS	COG0289	52879	53688	-	[E] Dihydrodipicolinate reductase    
+	JGOLCEMA_00064	CDS	COG2913	53698	54075	-	[J] Small protein A (tmRNA-binding)  
+250
+	JGOLCEMA_00065	CDS	COG0735	54102	54728	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	JGOLCEMA_00066	CDS	COG2360	54798	55523	+	[O] Leu/Phe-tRNA-protein transferase    
+251
+	JGOLCEMA_00067	CDS	COG0057	55777	56808	-	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+252
+	JGOLCEMA_00068	CDS	COG2878	57008	57847	-	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+253
+	JGOLCEMA_00069	CDS	COG0475	57996	59972	+	[P] Kef-type K+ transport systems, membrane components
+254
+	JGOLCEMA_00070	tRNA	NA	60042	60117	+	NA
+	JGOLCEMA_00071	tRNA	NA	60150	60226	+	NA
+	JGOLCEMA_00072	tRNA	NA	60266	60341	+	NA
+	JGOLCEMA_00073	tRNA	NA	60374	60450	+	NA
+255
+	JGOLCEMA_00074	CDS	NA	60577	60774	-	NA
+256
+	JGOLCEMA_00075	CDS	COG1760	61192	62646	-	[E] L-serine deaminase    
+	JGOLCEMA_00076	CDS	COG0187	62676	65066	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+257
+	JGOLCEMA_00077	CDS	COG0668	65336	66208	+	[M] Small-conductance mechanosensitive channel   
+258
+	JGOLCEMA_00078	CDS	COG0339	66296	68332	+	[E] Zn-dependent oligopeptidases    
+259
+	JGOLCEMA_00079	CDS	COG1971	68776	69342	-	[S] Predicted membrane protein   
+260
+	JGOLCEMA_00080	CDS	COG0753	70232	71746	-	[P] Catalase     
+261
+	JGOLCEMA_00081	CDS	NA	72094	72945	+	NA
+262
+	JGOLCEMA_01096	CDS	COG1755	143	652	-	[S] Uncharacterized protein conserved in bacteria 
+263
+	JGOLCEMA_01097	CDS	NA	984	1316	-	NA
+264
+	JGOLCEMA_01098	CDS	COG0555	1606	2442	+	[O] ABC-type sulfate transport system, permease component
+	JGOLCEMA_01099	CDS	COG4208	2694	3554	+	[P] ABC-type sulfate transport system, permease component
+	JGOLCEMA_01100	CDS	COG1118	3551	4624	+	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+265
+	JGOLCEMA_01101	CDS	COG1171	4681	6207	-	[E] Threonine dehydratase    
+266
+	JGOLCEMA_01102	CDS	COG1686	6355	7524	+	[M] D-alanyl-D-alanine carboxypeptidase    
+267
+	JGOLCEMA_01103	CDS	COG1825	7649	8221	-	[J] Ribosomal protein L25 (general stress protein
+	JGOLCEMA_01104	CDS	COG0462	8288	9271	-	[FE] Phosphoribosylpyrophosphate synthetase    
+268
+	JGOLCEMA_01105	tRNA	NA	9438	9513	-	NA
+	JGOLCEMA_01106	tRNA	NA	9522	9597	-	NA
+	JGOLCEMA_01107	tRNA	NA	9610	9685	-	NA
+	JGOLCEMA_01108	CDS	COG1947	9693	10538	-	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+	JGOLCEMA_01109	CDS	COG3017	10548	11129	-	[M] Outer membrane lipoprotein involved in outer
+	JGOLCEMA_01110	CDS	COG0457	11269	13113	-	[R] FOG: TPR repeat   
+269
+	JGOLCEMA_01111	CDS	COG0414	13278	14114	-	[H] Panthothenate synthetase    
+	JGOLCEMA_01112	CDS	COG0413	14237	15028	-	[H] Ketopantoate hydroxymethyltransferase    
+270
+	JGOLCEMA_01113	tRNA	NA	15170	15245	-	NA
+	JGOLCEMA_01114	tRNA	NA	15280	15355	-	NA
+271
+	JGOLCEMA_01115	CDS	COG0421	15521	16312	+	[E] Spermidine synthase    
+	JGOLCEMA_01116	CDS	COG2945	16367	17008	+	[R] Predicted hydrolase of the alpha/beta superfamily
+272
+	JGOLCEMA_01117	CDS	COG0564	17086	18009	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+273
+	JGOLCEMA_01118	CDS	ROG0367	18173	19042	+	NA
+	JGOLCEMA_01119	CDS	NA	19085	19528	+	NA
+274
+	JGOLCEMA_01120	CDS	NA	19605	20033	+	NA
+275
+	JGOLCEMA_01121	CDS	COG3676	20681	21181	-	[L] Transposase and inactivated derivatives  
+276
+	JGOLCEMA_01122	CDS	NA	21488	21736	+	NA
+277
+	JGOLCEMA_00871	CDS	NA	303	692	+	NA
+278
+	JGOLCEMA_00872	CDS	COG0168	733	2190	-	[P] Trk-type K+ transport systems, membrane components
+	JGOLCEMA_00873	CDS	ROG0146	2205	3035	-	NA
+279
+	JGOLCEMA_00874	CDS	COG0251	3113	3502	-	[J] Putative translation initiation inhibitor, yjgF family
+280
+	JGOLCEMA_00875	CDS	COG3637	3638	4162	-	[M] Opacity protein and related surface antigens
+281
+	JGOLCEMA_00876	CDS	COG0635	4747	5922	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+	JGOLCEMA_00877	CDS	COG0272	5979	8504	-	[L] NAD-dependent DNA ligase (contains BRCT domain
+282
+	JGOLCEMA_00878	CDS	ROG0612	8652	9938	-	NA
+283
+	JGOLCEMA_00879	CDS	COG3023	10132	10704	-	[V] Negative regulator of beta-lactamase expression 
+284
+	JGOLCEMA_00880	CDS	COG1559	10788	11783	+	[R] Predicted periplasmic solute-binding protein  
+	JGOLCEMA_00881	CDS	COG0125	11843	12463	+	[F] Thymidylate kinase    
+285
+	JGOLCEMA_00882	CDS	COG0281	12685	13965	+	[C] Malic enzyme    
+286
+	JGOLCEMA_00883	CDS	COG1663	14512	15546	+	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+287
+	JGOLCEMA_00884	CDS	COG3184	15746	16333	+	[S] Uncharacterized protein conserved in bacteria 
+288
+	JGOLCEMA_00885	CDS	COG2835	16402	16584	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00886	CDS	COG1212	16581	17342	+	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	JGOLCEMA_00887	CDS	ROG1448	17365	17766	+	NA
+	JGOLCEMA_00888	CDS	NA	17721	17984	+	NA
+289
+	JGOLCEMA_00889	tRNA	NA	18141	18233	+	NA
+290
+	JGOLCEMA_00890	CDS	COG0159	18536	19321	+	[E] Tryptophan synthase alpha chain  
+	JGOLCEMA_00891	CDS	COG0777	19358	20230	+	[I] Acetyl-CoA carboxylase beta subunit  
+291
+	JGOLCEMA_00892	CDS	ROG0846	20290	20901	-	NA
+292
+	JGOLCEMA_00893	CDS	COG0425	21010	21234	+	[O] Predicted redox protein, regulator of disulfide
+293
+	JGOLCEMA_00894	CDS	COG0418	21597	22631	+	[F] Dihydroorotase     
+294
+	JGOLCEMA_00895	CDS	COG0781	22997	23422	-	[K] Transcription termination factor   
+	JGOLCEMA_00896	CDS	COG0054	23500	23976	-	[H] Riboflavin synthase beta-chain   
+	JGOLCEMA_00897	CDS	COG4859	24024	24347	-	[S] Uncharacterized protein conserved in bacteria 
+295
+	JGOLCEMA_00898	CDS	COG0571	24514	25233	+	[K] dsRNA-specific ribonuclease    
+	JGOLCEMA_00899	CDS	COG1159	25191	26204	+	[R] GTPase     
+296
+	JGOLCEMA_01859	CDS	ROG3350	235	1752	+	NA
+297
+	JGOLCEMA_01860	CDS	NA	1811	3592	-	NA
+298
+	JGOLCEMA_01823	CDS	COG0422	678	2579	-	[H] Thiamine biosynthesis protein ThiC  
+299
+	JGOLCEMA_01824	tRNA	NA	2921	2997	+	NA
+300
+	JGOLCEMA_01825	CDS	NA	3186	4061	+	NA
+	JGOLCEMA_01826	CDS	COG3842	4070	5008	+	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+301
+	JGOLCEMA_01893	CDS	NA	1191	1349	-	NA
+302
+	JGOLCEMA_01894	CDS	NA	1506	1925	-	NA
+	JGOLCEMA_01895	CDS	ROG6864	1983	2348	-	NA
+	JGOLCEMA_01896	CDS	NA	2330	2875	-	NA
+303
+	JGOLCEMA_01727	CDS	COG1734	119	535	-	[T] DnaK suppressor protein   
+304
+	JGOLCEMA_01728	CDS	COG0345	682	1473	-	[E] Pyrroline-5-carboxylate reductase    
+	JGOLCEMA_01729	CDS	NA	1522	1932	-	NA
+	JGOLCEMA_01730	CDS	COG0325	1932	2618	-	[R] Predicted enzyme with a TIM-barrel fold
+305
+	JGOLCEMA_01731	CDS	COG2805	2738	3781	+	[NU] Tfp pilus assembly protein, pilus retraction
+	JGOLCEMA_01732	CDS	COG5008	3944	5170	+	[NU] Tfp pilus assembly protein, ATPase PilU
+306
+	JGOLCEMA_01733	CDS	COG1289	5456	7606	+	[S] Predicted membrane protein   
+307
+	JGOLCEMA_00641	CDS	COG0415	168	752	+	[L] Deoxyribodipyrimidine photolyase    
+308
+	JGOLCEMA_00642	CDS	NA	815	1162	+	NA
+	JGOLCEMA_00643	CDS	COG1199	1147	3297	+	[KL] Rad3-related DNA helicases   
+	JGOLCEMA_00644	CDS	COG2979	3333	3947	+	[S] Uncharacterized protein conserved in bacteria 
+309
+	JGOLCEMA_00645	CDS	COG1835	4238	6106	-	[I] Predicted acyltransferases    
+	JGOLCEMA_00646	CDS	COG0015	6187	7557	-	[F] Adenylosuccinate lyase    
+	JGOLCEMA_00647	CDS	COG1611	7629	8261	-	[R] Predicted Rossmann fold nucleotide-binding protein 
+310
+	JGOLCEMA_00648	CDS	COG4776	8570	10450	+	[K] Exoribonuclease II    
+311
+	JGOLCEMA_00649	CDS	COG0760	12017	13132	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	JGOLCEMA_00650	CDS	COG1452	13237	15645	-	[M] Organic solvent tolerance protein OstA 
+312
+	JGOLCEMA_00651	CDS	COG3178	15715	16719	+	[R] Predicted phosphotransferase related to Ser/Thr protein
+313
+	JGOLCEMA_00652	CDS	COG1651	16776	17474	-	[O] Protein-disulfide isomerase    
+314
+	JGOLCEMA_00653	CDS	NA	17501	17692	+	NA
+	JGOLCEMA_00654	CDS	COG0728	17692	19230	+	[R] Uncharacterized membrane protein, putative virulence factor
+315
+	JGOLCEMA_00655	CDS	COG0429	19363	20319	+	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+	JGOLCEMA_00656	CDS	COG0134	20370	21152	+	[E] Indole-3-glycerol phosphate synthase   
+316
+	JGOLCEMA_00657	CDS	COG0514	21217	23517	+	[L] Superfamily II DNA helicase  
+317
+	JGOLCEMA_00658	CDS	ROG6744	23660	24085	-	NA
+318
+	JGOLCEMA_00659	CDS	NA	24530	24637	+	NA
+319
+	JGOLCEMA_00660	CDS	COG0500	24823	25611	-	[QR] SAM-dependent methyltransferases    
+	JGOLCEMA_00661	CDS	COG0596	25613	26527	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+320
+	JGOLCEMA_00662	CDS	COG1040	26541	27080	+	[R] Predicted amidophosphoribosyltransferases    
+321
+	JGOLCEMA_00663	CDS	COG0219	27145	27609	+	[J] Predicted rRNA methylase (SpoU class) 
+322
+	JGOLCEMA_00664	CDS	COG0797	27739	28458	+	[M] Lipoproteins     
+	JGOLCEMA_00665	CDS	COG3212	28520	28846	+	[S] Predicted membrane protein   
+323
+	JGOLCEMA_00666	CDS	COG0632	28928	29512	+	[L] Holliday junction resolvasome, DNA-binding subunit 
+	JGOLCEMA_00667	CDS	NA	29512	29649	+	NA
+	JGOLCEMA_00668	CDS	COG1132	29675	31531	+	[V] ABC-type multidrug transport system, ATPase and
+	JGOLCEMA_00669	CDS	COG1162	31536	32459	+	[R] Predicted GTPases    
+324
+	JGOLCEMA_00670	CDS	COG1722	32706	32930	+	[L] Exonuclease VII small subunit  
+	JGOLCEMA_00671	CDS	COG0142	32914	33810	+	[H] Geranylgeranyl pyrophosphate synthase   
+325
+	JGOLCEMA_00672	CDS	ROG0831	33919	34218	-	NA
+326
+	JGOLCEMA_00673	CDS	COG1007	34330	35775	-	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+	JGOLCEMA_00674	CDS	COG1008	35785	37281	-	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+327
+	JGOLCEMA_01776	CDS	COG0234	274	561	+	[O] Co-chaperonin GroES (HSP10)   
+	JGOLCEMA_01777	CDS	COG0459	655	2289	+	[O] Chaperonin GroEL (HSP60 family)  
+328
+	JGOLCEMA_01778	CDS	NA	2756	3016	+	NA
+329
+	JGOLCEMA_01779	CDS	COG4206	2897	5323	-	[H] Outer membrane cobalamin receptor protein 
+	JGOLCEMA_01780	CDS	ROG5488	5351	6379	-	NA
+330
+	JGOLCEMA_01836	CDS	NA	63	575	-	NA
+	JGOLCEMA_01837	CDS	COG2244	566	919	-	[R] Membrane protein involved in the export
+331
+	JGOLCEMA_01838	CDS	COG1566	1155	2582	+	[V] Multidrug resistance efflux pump  
+332
+	JGOLCEMA_01839	CDS	ROG3774	2651	4054	+	NA
+333
+	JGOLCEMA_01840	CDS	NA	4218	4706	-	NA
+334
+	JGOLCEMA_01669	CDS	COG4137	100	906	-	[R] ABC-type uncharacterized transport system, permease component
+335
+	JGOLCEMA_01670	CDS	COG0541	1127	2497	+	[U] Signal recognition particle GTPase  
+336
+	JGOLCEMA_01671	CDS	COG1651	2828	3523	-	[O] Protein-disulfide isomerase    
+337
+	JGOLCEMA_01672	CDS	COG1432	3694	4236	-	[S] Uncharacterized conserved protein   
+338
+	JGOLCEMA_01673	CDS	COG1629	4737	6848	-	[P] Outer membrane receptor proteins, mostly Fe
+339
+	JGOLCEMA_01674	CDS	COG3560	7034	7639	-	[R] Predicted oxidoreductase related to nitroreductase 
+	JGOLCEMA_01675	CDS	COG2259	7688	8086	-	[S] Predicted membrane protein   
+340
+	JGOLCEMA_01676	CDS	COG0583	8194	9105	+	[K] Transcriptional regulator    
+341
+	JGOLCEMA_01677	CDS	NA	9194	9457	-	NA
+342
+	JGOLCEMA_01921	CDS	NA	268	480	-	NA
+343
+	JGOLCEMA_01922	CDS	NA	557	916	-	NA
+344
+	JGOLCEMA_01809	CDS	COG4771	573	3317	-	[P] Outer membrane receptor for ferrienterochelin and
+345
+	JGOLCEMA_01810	CDS	NA	3404	5500	-	NA
+346
+	JGOLCEMA_01797	CDS	COG0443	86	2014	-	[O] Molecular chaperone    
+347
+	JGOLCEMA_01798	CDS	NA	2222	2494	-	NA
+348
+	JGOLCEMA_01799	CDS	COG2932	2682	3368	+	[K] Predicted transcriptional regulator   
+349
+	JGOLCEMA_01800	CDS	COG0316	3500	3838	+	[S] Uncharacterized conserved protein   
+350
+	JGOLCEMA_01801	CDS	NA	3998	4462	+	NA
+	JGOLCEMA_01802	CDS	COG0661	4497	6008	+	[R] Predicted unusual protein kinase  
+351
+	JGOLCEMA_01492	CDS	COG3514	221	523	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01493	CDS	COG2929	495	782	-	[S] Uncharacterized protein conserved in bacteria 
+352
+	JGOLCEMA_01494	CDS	ROG5293	862	1467	+	NA
+	JGOLCEMA_01495	CDS	NA	1446	1742	+	NA
+	JGOLCEMA_01496	CDS	NA	1739	1948	+	NA
+353
+	JGOLCEMA_01497	CDS	COG4178	2058	3200	-	[R] ABC-type uncharacterized transport system, permease and
+354
+	JGOLCEMA_01498	CDS	COG4380	3643	4290	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01499	CDS	COG4259	4287	4655	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01500	CDS	COG1462	4665	5336	-	[M] Uncharacterized protein involved in formation of
+355
+	JGOLCEMA_01501	CDS	COG3967	5501	6220	-	[M] Short-chain dehydrogenase involved in D-alanine esterification
+356
+	JGOLCEMA_01502	CDS	COG2907	6304	7617	-	[R] Predicted NAD/FAD-binding protein   
+357
+	JGOLCEMA_01503	CDS	NA	7725	7853	-	NA
+358
+	JGOLCEMA_01504	CDS	COG1562	8015	8887	-	[I] Phytoene/squalene synthetase    
+359
+	JGOLCEMA_01505	CDS	COG0443	9058	10920	+	[O] Molecular chaperone    
+360
+	JGOLCEMA_01506	CDS	ROG4368	10996	11643	+	NA
+	JGOLCEMA_01507	CDS	COG3779	11682	12440	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01508	CDS	COG0633	12496	12837	+	[C] Ferredoxin     
+			NA				NA
+361
+	JGOLCEMA_01310	CDS	COG3039	52	240	+	[L] Transposase and inactivated derivatives, IS5 family
+362
+	JGOLCEMA_01311	CDS	COG1476	471	683	-	[K] Predicted transcriptional regulators   
+	JGOLCEMA_01312	CDS	NA	695	976	-	NA
+	JGOLCEMA_01313	CDS	ROG0535	1023	1226	-	NA
+363
+	JGOLCEMA_01314	CDS	COG0582	1306	1878	-	[L] Integrase     
+364
+	JGOLCEMA_01315	CDS	ROG3037	2190	3065	-	NA
+	JGOLCEMA_01316	CDS	COG3177	3110	3400	-	[S] Uncharacterized conserved protein   
+365
+	JGOLCEMA_01317	CDS	COG1476	3705	4082	+	[K] Predicted transcriptional regulators   
+	JGOLCEMA_01318	CDS	NA	4111	4356	+	NA
+366
+	JGOLCEMA_01319	CDS	NA	4590	5558	+	NA
+	JGOLCEMA_01320	CDS	COG0306	5555	6037	+	[P] Phosphate/sulphate permeases    
+367
+	JGOLCEMA_01321	CDS	COG3926	6127	6630	+	[R] Putative secretion activating protein  
+368
+	JGOLCEMA_01322	CDS	ROG6087	6739	7071	+	NA
+	JGOLCEMA_01323	CDS	NA	7068	7478	+	NA
+	JGOLCEMA_01324	CDS	COG2801	7483	8232	+	[L] Transposase and inactivated derivatives  
+369
+	JGOLCEMA_01326	CDS	COG2840	8974	9579	-	[S] Uncharacterized protein conserved in bacteria 
+370
+	JGOLCEMA_01327	CDS	NA	9970	10164	-	NA
+	JGOLCEMA_01328	CDS	COG1613	10161	11216	-	[P] ABC-type sulfate transport system, periplasmic component
+371
+	JGOLCEMA_01329	CDS	COG0454	11322	11804	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	JGOLCEMA_01330	CDS	COG0026	11851	12987	-	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+	JGOLCEMA_01331	CDS	ROG7587	12984	13529	-	NA
+	JGOLCEMA_01332	CDS	COG0147	13526	15148	-	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	JGOLCEMA_01333	CDS	NA	15112	15477	-	NA
+	JGOLCEMA_01334	CDS	COG0488	15498	17408	-	[R] ATPase components of ABC transporters with
+	JGOLCEMA_01335	CDS	COG0586	17427	18071	-	[S] Uncharacterized membrane-associated protein   
+372
+	JGOLCEMA_01336	CDS	NA	18234	19052	-	NA
+373
+	JGOLCEMA_01717	CDS	COG1720	181	861	-	[S] Uncharacterized conserved protein   
+374
+	JGOLCEMA_01718	CDS	COG1335	975	1610	+	[Q] Amidases related to nicotinamidase  
+	JGOLCEMA_01719	CDS	COG0859	1647	2615	+	[M] ADP-heptose:LPS heptosyltransferase    
+375
+	JGOLCEMA_01720	CDS	COG2086	2841	3590	+	[C] Electron transfer flavoprotein, beta subunit 
+	JGOLCEMA_01721	CDS	COG2025	3601	4536	+	[C] Electron transfer flavoprotein, alpha subunit 
+376
+	JGOLCEMA_01722	CDS	COG1739	4599	5210	+	[S] Uncharacterized conserved protein   
+377
+	JGOLCEMA_01723	CDS	NA	5262	5579	-	NA
+378
+	JGOLCEMA_01724	CDS	COG0151	5737	7008	+	[F] Phosphoribosylamine-glycine ligase    
+	JGOLCEMA_01725	CDS	ROG1815	7042	7644	+	NA
+379
+	JGOLCEMA_01726	CDS	NA	7715	8272	-	NA
+380
+	JGOLCEMA_01871	CDS	COG2823	386	994	-	[R] Predicted periplasmic or secreted lipoprotein 
+	JGOLCEMA_01872	CDS	COG0279	1058	1651	-	[G] Phosphoheptose isomerase    
+	JGOLCEMA_01873	CDS	COG0792	1656	2003	-	[L] Predicted endonuclease distantly related to archaeal
+381
+	JGOLCEMA_01874	CDS	COG0313	2049	2924	+	[R] Predicted methyltransferases    
+382
+	JGOLCEMA_01875	CDS	NA	2959	3363	-	NA
+			NA				NA
+			NA				NA
+383
+	JGOLCEMA_01817	CDS	COG0347	414	752	+	[E] Nitrogen regulatory protein PII  
+384
+	JGOLCEMA_01818	CDS	COG4604	811	1569	-	[P] ABC-type enterochelin transport system, ATPase component
+385
+	JGOLCEMA_01819	CDS	ROG0917	1653	2279	-	NA
+	JGOLCEMA_01820	CDS	COG4605	2324	3298	-	[P] ABC-type enterochelin transport system, permease component
+	JGOLCEMA_01821	CDS	COG4606	3288	4256	-	[P] ABC-type enterochelin transport system, permease component
+	JGOLCEMA_01822	CDS	COG4607	4420	5184	-	[P] ABC-type enterochelin transport system, periplasmic component
+386
+	JGOLCEMA_01741	CDS	COG0796	408	1220	-	[M] Glutamate racemase    
+387
+	JGOLCEMA_01742	CDS	COG0802	1422	1883	+	[R] Predicted ATPase or kinase  
+	JGOLCEMA_01743	CDS	COG0860	1880	3130	+	[M] N-acetylmuramoyl-L-alanine amidase    
+388
+	JGOLCEMA_01744	CDS	COG3177	3207	4028	+	[S] Uncharacterized conserved protein   
+389
+	JGOLCEMA_01745	CDS	COG0116	4329	5471	-	[L] Predicted N6-adenine-specific DNA methylase  
+	JGOLCEMA_01746	CDS	ROG0930	5520	5942	-	NA
+	JGOLCEMA_01747	CDS	COG0494	5935	6744	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+390
+	JGOLCEMA_01748	CDS	COG0736	6826	7203	-	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+391
+	JGOLCEMA_00842	CDS	COG0004	608	1912	+	[P] Ammonia permease    
+392
+	JGOLCEMA_00843	CDS	COG0665	2157	3452	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+	JGOLCEMA_00844	CDS	COG1177	3578	4465	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	JGOLCEMA_00845	CDS	COG1176	4465	5430	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	JGOLCEMA_00846	CDS	COG3842	5446	6570	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+393
+	JGOLCEMA_00847	CDS	COG0184	6952	7221	-	[J] Ribosomal protein S15P/S13E   
+394
+	JGOLCEMA_00848	CDS	COG0341	7444	8379	-	[U] Preprotein translocase subunit SecF  
+	JGOLCEMA_00849	CDS	COG0342	8383	10236	-	[U] Preprotein translocase subunit SecD  
+	JGOLCEMA_00850	CDS	COG1862	10448	10714	-	[U] Preprotein translocase subunit YajC  
+395
+	JGOLCEMA_00851	CDS	COG0123	10794	11951	+	[BQ] Deacetylases, including yeast histone deacetylase and
+396
+	JGOLCEMA_00852	CDS	COG1063	12314	13378	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+397
+	JGOLCEMA_00853	CDS	COG0140	13519	13842	+	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+	JGOLCEMA_00854	CDS	COG0537	13914	14237	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	JGOLCEMA_00855	CDS	COG1826	14284	14487	+	[U] Sec-independent protein secretion pathway components 
+	JGOLCEMA_00856	CDS	COG1826	14491	15177	+	[U] Sec-independent protein secretion pathway components 
+	JGOLCEMA_00857	CDS	COG0805	15191	15961	+	[U] Sec-independent protein secretion pathway component TatC
+398
+	JGOLCEMA_00858	CDS	COG0424	16014	16622	+	[D] Nucleotide-binding protein implicated in inhibition of
+	JGOLCEMA_00859	CDS	COG3308	16631	16984	+	[S] Predicted membrane protein   
+	JGOLCEMA_00860	CDS	COG3307	16974	18788	+	[M] Lipid A core - O-antigen ligase
+399
+	JGOLCEMA_00861	CDS	COG0745	18978	19655	+	[TK] Response regulators consisting of a CheY-like
+	JGOLCEMA_00862	CDS	COG2205	19668	21074	+	[T] Osmosensitive K+ channel histidine kinase 
+400
+	JGOLCEMA_00863	CDS	COG1042	21192	23618	+	[C] Acyl-CoA synthetase (NDP forming)  
+	JGOLCEMA_00864	CDS	COG0228	23663	23908	+	[J] Ribosomal protein S16   
+	JGOLCEMA_00865	CDS	COG0806	23924	24433	+	[J] RimM protein, required for 16S rRNA
+	JGOLCEMA_00866	CDS	COG0336	24433	25182	+	[J] tRNA-(guanine-N1)-methyltransferase     
+	JGOLCEMA_00867	CDS	COG0335	25198	25563	+	[J] Ribosomal protein L19   
+401
+	JGOLCEMA_00868	CDS	COG1121	25851	26606	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	JGOLCEMA_00869	CDS	COG1108	26642	27517	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	JGOLCEMA_00870	CDS	COG0803	27594	28508	+	[P] ABC-type metal ion transport system, periplasmic
+402
+	JGOLCEMA_01200	CDS	COG0545	378	707	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+403
+	JGOLCEMA_01201	CDS	COG3205	785	1003	-	[S] Predicted membrane protein   
+404
+	JGOLCEMA_01202	CDS	COG1052	1125	2078	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+405
+	JGOLCEMA_01203	CDS	COG0143	2153	4210	-	[J] Methionyl-tRNA synthetase    
+	JGOLCEMA_01204	CDS	COG0449	4325	6163	-	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+406
+	JGOLCEMA_01205	CDS	ROG1231	6445	6963	+	NA
+407
+	JGOLCEMA_01206	CDS	COG2821	7381	8706	-	[M] Membrane-bound lytic murein transglycosylase  
+408
+	JGOLCEMA_01207	CDS	COG0672	8918	9757	+	[P] High-affinity Fe2+/Pb2+ permease   
+	JGOLCEMA_01208	CDS	COG2822	9754	10920	+	[P] Predicted periplasmic lipoprotein involved in iron
+	JGOLCEMA_01209	CDS	COG2837	11184	12449	+	[P] Predicted iron-dependent peroxidase   
+409
+	JGOLCEMA_01210	CDS	COG2824	12521	12850	-	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+	JGOLCEMA_01211	CDS	COG1207	12927	14342	-	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+	JGOLCEMA_01212	CDS	COG4851	14352	14624	-	[R] Protein involved in sex pheromone biosynthesis
+	JGOLCEMA_01213	CDS	COG1011	14600	15331	-	[R] Predicted hydrolase (HAD superfamily)  
+410
+	JGOLCEMA_01214	CDS	COG4143	15390	16391	+	[H] ABC-type thiamine transport system, periplasmic component
+411
+	JGOLCEMA_01215	CDS	COG0668	16485	17333	+	[M] Small-conductance mechanosensitive channel   
+	JGOLCEMA_01216	CDS	COG1546	17359	17844	+	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+412
+	JGOLCEMA_01217	CDS	COG0229	17946	19514	-	[O] Conserved domain frequently associated with peptide
+413
+	JGOLCEMA_01218	CDS	NA	19659	20924	+	NA
+			NA				NA
+			NA				NA
+414
+	JGOLCEMA_00082	CDS	COG0807	646	1239	-	[H] GTP cyclohydrolase II   
+	JGOLCEMA_00083	CDS	NA	1232	1906	-	NA
+415
+	JGOLCEMA_00084	tRNA	NA	2060	2144	+	NA
+416
+	JGOLCEMA_00085	CDS	COG0150	2664	3698	+	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+417
+	JGOLCEMA_00086	CDS	COG2197	4172	4828	-	[TK] Response regulator containing a CheY-like receiver
+	JGOLCEMA_00087	CDS	COG3850	4825	6597	-	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+418
+	JGOLCEMA_00088	CDS	COG0746	6839	7417	+	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+419
+	JGOLCEMA_00089	CDS	COG0307	7493	8197	+	[H] Riboflavin synthase alpha chain  
+	JGOLCEMA_00090	CDS	COG2607	8205	8948	+	[R] Predicted ATPase (AAA+ superfamily)  
+420
+	JGOLCEMA_00091	CDS	COG3678	9082	9516	-	[UNTP] P pilus assembly/Cpx signaling pathway, periplasmic
+421
+	JGOLCEMA_00092	CDS	COG0036	9827	10555	+	[G] Pentose-5-phosphate-3-epimerase     
+422
+	JGOLCEMA_00093	CDS	COG2255	10578	11609	-	[L] Holliday junction resolvasome, helicase subunit 
+423
+	JGOLCEMA_00094	CDS	NA	11691	11999	-	NA
+424
+	JGOLCEMA_00095	CDS	COG0617	12222	13475	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+	JGOLCEMA_00096	CDS	COG0488	13547	15175	-	[R] ATPase components of ABC transporters with
+425
+	JGOLCEMA_00097	CDS	COG1393	15325	15699	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	JGOLCEMA_00098	CDS	COG0760	15759	17297	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	JGOLCEMA_00099	CDS	COG0353	17364	17981	+	[L] Recombinational DNA repair protein (RecF pathway)
+426
+	JGOLCEMA_00100	CDS	NA	18037	18315	-	NA
+427
+	JGOLCEMA_00101	CDS	COG4591	18520	19767	+	[M] ABC-type transport system, involved in lipoprotein
+	JGOLCEMA_00102	CDS	COG4181	19760	20455	+	[Q] Predicted ABC-type transport system involved in
+428
+	JGOLCEMA_00103	CDS	COG0507	20523	22268	+	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+429
+	JGOLCEMA_00104	CDS	COG2264	22340	23443	-	[J] Ribosomal protein L11 methylase  
+430
+	JGOLCEMA_00105	CDS	COG0466	23694	26156	+	[O] ATP-dependent Lon protease, bacterial type 
+	JGOLCEMA_00106	CDS	COG0776	26338	26607	+	[L] Bacterial nucleoid DNA-binding protein  
+431
+	JGOLCEMA_00107	CDS	NA	26666	27100	-	NA
+	JGOLCEMA_00108	CDS	COG0460	27093	28400	-	[E] Homoserine dehydrogenase    
+432
+	JGOLCEMA_00109	CDS	COG3737	28573	28968	+	[S] Uncharacterized conserved protein   
+433
+	JGOLCEMA_00110	CDS	COG0488	29045	30967	+	[R] ATPase components of ABC transporters with
+434
+	JGOLCEMA_00111	CDS	ROG0867	31433	31948	+	NA
+435
+	JGOLCEMA_00112	CDS	COG0692	32456	33115	-	[L] Uracil DNA glycosylase   
+436
+	JGOLCEMA_00113	CDS	ROG1281	33196	33603	+	NA
+	JGOLCEMA_00114	CDS	COG0330	33618	34565	+	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+437
+	JGOLCEMA_00115	CDS	COG0628	34762	35832	-	[R] Predicted permease    
+438
+	JGOLCEMA_00116	CDS	COG2921	36017	36292	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00117	CDS	COG0321	36294	36917	+	[H] Lipoate-protein ligase B   
+	JGOLCEMA_00118	CDS	COG0320	36910	37893	+	[H] Lipoate synthase    
+439
+	JGOLCEMA_00119	CDS	COG2193	38357	38821	+	[P] Bacterioferritin (cytochrome b1)   
+	JGOLCEMA_00120	CDS	COG2193	38849	39322	+	[P] Bacterioferritin (cytochrome b1)   
+440
+	JGOLCEMA_00121	CDS	COG1396	39646	39978	+	[K] Predicted transcriptional regulators   
+	JGOLCEMA_00122	CDS	COG2844	40027	42585	+	[O] UTP:GlnB (protein PII) uridylyltransferase  
+441
+	JGOLCEMA_00123	CDS	COG0516	42726	44189	+	[F] IMP dehydrogenase/GMP reductase   
+442
+	JGOLCEMA_00124	CDS	COG0557	44528	46903	-	[K] Exoribonuclease R    
+443
+	JGOLCEMA_00125	tRNA	NA	46992	47078	+	NA
+	JGOLCEMA_00126	tRNA	NA	47114	47200	+	NA
+	JGOLCEMA_00127	tRNA	NA	47239	47329	+	NA
+444
+	JGOLCEMA_00128	CDS	COG1217	47893	49704	-	[T] Predicted membrane GTPase involved in stress
+445
+	JGOLCEMA_00129	CDS	COG0063	49974	50864	-	[G] Predicted sugar kinase   
+446
+	JGOLCEMA_00130	CDS	COG3658	50929	51585	+	[C] Cytochrome b    
+447
+	JGOLCEMA_00131	CDS	COG0007	52035	53486	+	[H] Uroporphyrinogen-III methylase    
+	JGOLCEMA_00132	CDS	COG0175	53497	54237	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	JGOLCEMA_00133	CDS	COG0175	54275	55198	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	JGOLCEMA_00134	CDS	COG2895	55237	56523	+	[P] GTPases - Sulfate adenylate transferase subunit
+	JGOLCEMA_00135	CDS	COG0369	56520	57293	+	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+	JGOLCEMA_00136	CDS	COG0369	57298	58332	+	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+	JGOLCEMA_00137	CDS	COG0155	58359	60128	+	[P] Sulfite reductase, beta subunit (hemoprotein) 
+448
+	JGOLCEMA_00138	CDS	COG0129	60300	62159	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+449
+	JGOLCEMA_00139	CDS	COG2843	62805	63371	+	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+450
+	JGOLCEMA_00140	CDS	COG0502	63518	64570	-	[H] Biotin synthase and related enzymes 
+451
+	JGOLCEMA_00141	CDS	COG0773	64777	66153	-	[M] UDP-N-acetylmuramate-alanine ligase    
+	JGOLCEMA_00142	CDS	ROG0685	66215	66520	-	NA
+	JGOLCEMA_00143	CDS	NA	66532	66897	-	NA
+452
+	JGOLCEMA_00144	CDS	NA	67146	67343	-	NA
+	JGOLCEMA_00145	CDS	COG0566	67353	68138	-	[J] rRNA methylases    
+	JGOLCEMA_00146	CDS	COG0037	68189	69499	-	[D] Predicted ATPase of the PP-loop superfamily
+	JGOLCEMA_00147	CDS	COG0825	69567	70526	-	[I] Acetyl-CoA carboxylase alpha subunit  
+453
+	JGOLCEMA_00148	CDS	COG1188	70737	71138	+	[J] Ribosome-associated heat shock protein implicated in
+454
+	JGOLCEMA_00149	CDS	COG2975	71206	71403	-	[S] Uncharacterized protein conserved in bacteria 
+455
+	JGOLCEMA_00150	CDS	NA	71616	72203	+	NA
+456
+	JGOLCEMA_01603	CDS	ROG7602	164	688	-	NA
+457
+	JGOLCEMA_01604	CDS	NA	843	3014	+	NA
+	JGOLCEMA_01605	CDS	COG4228	3014	4345	+	[R] Mu-like prophage DNA circulation protein 
+	JGOLCEMA_01606	CDS	COG4379	4335	5480	+	[R] Mu-like prophage tail protein gpP 
+	JGOLCEMA_01607	CDS	COG4384	5477	6145	+	[S] Mu-like prophage protein gp45  
+	JGOLCEMA_01608	CDS	COG4381	6245	6592	+	[S] Mu-like prophage protein gp46  
+	JGOLCEMA_01609	CDS	COG3299	6606	7049	+	[S] Uncharacterized homolog of phage Mu protein
+	JGOLCEMA_01610	CDS	COG3299	7049	7660	+	[S] Uncharacterized homolog of phage Mu protein
+	JGOLCEMA_01611	CDS	COG3778	7657	8217	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01612	CDS	NA	8228	10201	+	NA
+458
+	JGOLCEMA_00706	CDS	COG3161	94	579	-	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+459
+	JGOLCEMA_00707	CDS	NA	1027	1470	-	NA
+460
+	JGOLCEMA_00708	CDS	COG0132	2071	2718	-	[H] Dethiobiotin synthetase    
+	JGOLCEMA_00709	CDS	COG0161	2715	4016	-	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+461
+	JGOLCEMA_00710	CDS	NA	4230	4469	-	NA
+462
+	JGOLCEMA_00711	CDS	COG3030	4729	5214	-	[R] Protein affecting phage T7 exclusion by
+463
+	JGOLCEMA_00712	CDS	NA	5544	5852	-	NA
+	JGOLCEMA_00713	CDS	COG0776	5836	6138	-	[L] Bacterial nucleoid DNA-binding protein  
+	JGOLCEMA_00714	CDS	COG0072	6212	8575	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	JGOLCEMA_00715	CDS	COG1419	8611	9129	-	[N] Flagellar GTP-binding protein   
+	JGOLCEMA_00716	CDS	ROG4307	9136	10200	-	NA
+464
+	JGOLCEMA_00717	CDS	COG0016	10377	11435	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+	JGOLCEMA_00718	CDS	COG0292	11715	12074	-	[J] Ribosomal protein L20   
+	JGOLCEMA_00719	CDS	COG0291	12087	12284	-	[J] Ribosomal protein L35   
+	JGOLCEMA_00720	CDS	COG0290	12431	12835	-	[J] Translation initiation factor 3 (IF-3) 
+	JGOLCEMA_00721	CDS	COG0441	12970	14883	-	[J] Threonyl-tRNA synthetase    
+	JGOLCEMA_00722	tRNA	NA	14937	15013	-	NA
+465
+	JGOLCEMA_00723	CDS	COG0343	15192	16307	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	JGOLCEMA_00724	CDS	COG0276	16317	17399	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	JGOLCEMA_00725	CDS	COG2010	17591	17992	+	[C] Cytochrome c, mono- and diheme variants
+466
+	JGOLCEMA_00726	CDS	COG3263	18055	18345	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+	JGOLCEMA_00727	CDS	COG3263	18498	18818	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+467
+	JGOLCEMA_00728	CDS	NA	19001	19300	-	NA
+468
+	JGOLCEMA_00729	CDS	COG2354	19354	19740	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00730	CDS	COG0815	19773	21347	+	[M] Apolipoprotein N-acyltransferase    
+469
+	JGOLCEMA_00731	CDS	COG0568	21611	22474	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+470
+	JGOLCEMA_00732	CDS	COG1561	22958	23842	+	[S] Uncharacterized stress-induced protein   
+471
+	JGOLCEMA_00733	CDS	COG1714	23926	24492	-	[S] Predicted membrane protein/domain   
+	JGOLCEMA_00734	CDS	COG0392	24517	24936	-	[S] Predicted integral membrane protein  
+472
+	JGOLCEMA_00735	CDS	COG1466	25057	26055	-	[L] DNA polymerase III, delta subunit 
+	JGOLCEMA_00736	CDS	COG2980	26057	26536	-	[M] Rare lipoprotein B   
+	JGOLCEMA_00737	CDS	COG1496	26588	27367	-	[S] Uncharacterized conserved protein   
+473
+	JGOLCEMA_00738	CDS	NA	27658	27849	+	NA
+474
+	JGOLCEMA_00739	CDS	COG0385	27926	28873	+	[R] Predicted Na+-dependent transporter   
+475
+	JGOLCEMA_00740	CDS	COG0564	29026	30096	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+476
+	JGOLCEMA_00741	CDS	COG4105	30149	30952	+	[R] DNA uptake lipoprotein   
+477
+	JGOLCEMA_00742	CDS	COG2333	31010	32239	-	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+	JGOLCEMA_00743	CDS	COG0658	32194	33315	-	[R] Predicted membrane metal-binding protein  
+478
+	JGOLCEMA_01075	CDS	COG4969	263	736	+	[NU] Tfp pilus assembly protein, major pilin
+479
+	JGOLCEMA_01076	CDS	COG4969	1928	2437	+	[NU] Tfp pilus assembly protein, major pilin
+480
+	JGOLCEMA_01077	CDS	COG0774	3173	4096	+	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+481
+	JGOLCEMA_01078	CDS	COG0362	5211	6659	+	[G] 6-phosphogluconate dehydrogenase    
+482
+	JGOLCEMA_01079	CDS	COG1519	6722	7993	+	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+	JGOLCEMA_01080	CDS	COG3399	8034	8483	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01081	CDS	COG0861	8516	9490	+	[P] Membrane protein TerC, possibly involved in
+483
+	JGOLCEMA_01082	tRNA	NA	9559	9634	+	NA
+484
+	JGOLCEMA_01083	CDS	COG0766	9854	11107	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	JGOLCEMA_01084	CDS	COG0126	11188	12366	+	[G] 3-phosphoglycerate kinase    
+485
+	JGOLCEMA_01085	CDS	COG5007	12433	12681	-	[K] Predicted transcriptional regulator, BolA superfamily 
+486
+	JGOLCEMA_01086	CDS	COG2177	12771	13688	-	[D] Cell division protein   
+	JGOLCEMA_01087	CDS	COG2884	13685	14335	-	[D] Predicted ATPase involved in cell division
+487
+	JGOLCEMA_01088	CDS	COG0526	14531	15013	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+488
+	JGOLCEMA_01089	CDS	COG1393	15137	15490	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	JGOLCEMA_01090	CDS	COG1434	15487	16143	+	[S] Uncharacterized conserved protein   
+489
+	JGOLCEMA_01091	CDS	COG0008	16259	17653	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	JGOLCEMA_01092	CDS	COG1196	17674	18069	+	[D] Chromosome segregation ATPases   
+	JGOLCEMA_01093	CDS	COG0454	18073	18564	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+490
+	JGOLCEMA_01094	CDS	COG0249	18687	21281	-	[L] Mismatch repair ATPase (MutS family) 
+491
+	JGOLCEMA_01095	CDS	NA	21725	22729	+	NA
+492
+	JGOLCEMA_01577	CDS	COG0616	840	1826	-	[OU] Periplasmic serine proteases (ClpP class) 
+	JGOLCEMA_01578	CDS	COG1058	1866	2666	-	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+493
+	JGOLCEMA_01579	CDS	COG0137	2791	4134	+	[E] Argininosuccinate synthase    
+494
+	JGOLCEMA_01580	CDS	NA	4209	4358	+	NA
+495
+	JGOLCEMA_01581	CDS	ROG4687	4603	4818	+	NA
+496
+	JGOLCEMA_01582	CDS	COG4851	4895	6220	-	[R] Protein involved in sex pheromone biosynthesis
+497
+	JGOLCEMA_01583	CDS	COG3633	6287	7516	-	[E] Na+/serine symporter    
+498
+	JGOLCEMA_01584	CDS	COG0729	7986	9893	+	[M] Outer membrane protein   
+499
+	JGOLCEMA_01585	CDS	NA	9929	10414	-	NA
+500
+	JGOLCEMA_01661	CDS	COG2249	168	635	+	[R] Putative NADPH-quinone reductase (modulator of drug
+501
+	JGOLCEMA_01662	CDS	COG1282	843	2228	-	[C] NAD/NADP transhydrogenase beta subunit  
+502
+	JGOLCEMA_01663	CDS	COG3686	2294	2677	-	[S] Predicted membrane protein   
+	JGOLCEMA_01664	CDS	COG3288	2681	4222	-	[C] NAD/NADP transhydrogenase alpha subunit  
+503
+	JGOLCEMA_01665	CDS	COG0560	4512	5345	+	[E] Phosphoserine phosphatase    
+504
+	JGOLCEMA_01666	CDS	COG0038	5409	6632	+	[P] Chloride channel protein EriC  
+505
+	JGOLCEMA_01667	CDS	COG0138	6793	8373	+	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+506
+	JGOLCEMA_01668	CDS	NA	8989	9537	-	NA
+507
+	JGOLCEMA_00368	CDS	NA	373	873	+	NA
+508
+	JGOLCEMA_00369	CDS	ROG2194	958	1512	+	NA
+509
+	JGOLCEMA_00370	CDS	COG0513	2001	3389	-	[LKJ] Superfamily II DNA and RNA helicases
+510
+	JGOLCEMA_00371	CDS	COG1092	3718	4665	+	[R] Predicted SAM-dependent methyltransferases   
+511
+	JGOLCEMA_00372	CDS	COG0526	4718	5050	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+512
+	JGOLCEMA_00373	CDS	COG2846	5352	5825	+	[D] Regulator of cell morphogenesis and NO
+513
+	JGOLCEMA_00374	CDS	COG0171	5895	6686	-	[H] NAD synthase    
+514
+	JGOLCEMA_00375	CDS	COG1570	6913	8268	+	[L] Exonuclease VII, large subunit  
+515
+	JGOLCEMA_00376	CDS	COG0477	8879	10420	+	[GEPR] Permeases of the major facilitator superfamily
+516
+	JGOLCEMA_00377	CDS	COG1187	10489	11538	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+517
+	JGOLCEMA_00378	CDS	COG0259	11769	12401	+	[H] Pyridoxamine-phosphate oxidase    
+518
+	JGOLCEMA_00379	CDS	COG0543	12530	13540	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+519
+	JGOLCEMA_00380	CDS	COG0064	13632	15062	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+	JGOLCEMA_00381	CDS	COG2990	15105	16037	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00382	CDS	COG0154	16034	17479	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	JGOLCEMA_00383	CDS	COG0721	17542	17832	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+520
+	JGOLCEMA_00384	CDS	COG2095	17983	18636	+	[U] Multiple antibiotic transporter   
+	JGOLCEMA_00385	CDS	COG1012	18641	19984	+	[C] NAD-dependent aldehyde dehydrogenases   
+521
+	JGOLCEMA_00386	CDS	ROG1544	20032	20466	-	NA
+522
+	JGOLCEMA_00387	CDS	COG0144	21222	22478	-	[J] tRNA and rRNA cytosine-C5-methylases  
+523
+	JGOLCEMA_00388	CDS	NA	22826	23167	-	NA
+524
+	JGOLCEMA_00389	CDS	COG3782	23370	24227	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00390	CDS	COG0565	24288	25103	-	[J] rRNA methylase    
+525
+	JGOLCEMA_00391	CDS	COG0483	25347	26132	+	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+526
+	JGOLCEMA_00392	CDS	COG1629	26402	27946	+	[P] Outer membrane receptor proteins, mostly Fe
+	JGOLCEMA_00393	CDS	COG1629	28027	28497	+	[P] Outer membrane receptor proteins, mostly Fe
+527
+	JGOLCEMA_00394	CDS	COG5339	28621	30171	+	[S] Uncharacterized protein conserved in bacteria 
+528
+	JGOLCEMA_00395	CDS	COG1249	30531	32318	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	JGOLCEMA_00396	CDS	COG0508	32395	33978	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	JGOLCEMA_00397	CDS	COG2609	34128	36791	-	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+529
+	JGOLCEMA_00398	CDS	COG0442	37485	39197	+	[J] Prolyl-tRNA synthetase    
+530
+	JGOLCEMA_00399	CDS	COG0179	39260	39916	+	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+531
+	JGOLCEMA_00400	CDS	COG0816	39926	40381	-	[L] Predicted endonuclease involved in recombination (possible
+	JGOLCEMA_00401	CDS	COG1678	40374	40922	-	[K] Putative transcriptional regulator   
+	JGOLCEMA_00402	CDS	COG3045	40924	41484	-	[S] Uncharacterized protein conserved in bacteria 
+532
+	JGOLCEMA_00403	CDS	COG4942	41812	43602	+	[D] Membrane-bound metallopeptidase    
+	JGOLCEMA_00404	CDS	COG0793	43729	45213	+	[M] Periplasmic protease    
+533
+	JGOLCEMA_00405	CDS	COG0556	45470	47569	+	[L] Helicase subunit of the DNA excision
+	JGOLCEMA_00406	CDS	COG2357	47615	48883	+	[S] Uncharacterized protein conserved in bacteria 
+534
+	JGOLCEMA_01849	CDS	COG2071	62	241	+	[R] Predicted glutamine amidotransferases   
+	JGOLCEMA_01850	CDS	NA	226	327	+	NA
+	JGOLCEMA_01851	CDS	COG4396	351	869	+	[R] Mu-like prophage host-nuclease inhibitor protein Gam
+535
+	JGOLCEMA_01852	CDS	NA	1030	1245	-	NA
+	JGOLCEMA_01853	CDS	COG3561	1249	1857	-	[K] Phage anti-repressor protein   
+536
+	JGOLCEMA_01854	CDS	NA	1989	2189	-	NA
+537
+	JGOLCEMA_01855	CDS	ROG4158	2390	2575	-	NA
+538
+	JGOLCEMA_01856	CDS	NA	2848	3015	-	NA
+539
+	JGOLCEMA_01857	CDS	NA	3538	3729	+	NA
+	JGOLCEMA_01858	CDS	ROG5596	3726	4142	+	NA
+			NA				NA
+540
+	JGOLCEMA_01623	CDS	NA	57	713	+	NA
+541
+	JGOLCEMA_01624	CDS	COG0108	935	2272	+	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+542
+	JGOLCEMA_01625	CDS	COG0286	2580	4181	-	[V] Type I restriction-modification system methyltransferase subunit
+	JGOLCEMA_01626	CDS	COG0732	4229	5422	-	[V] Restriction endonuclease S subunits  
+	JGOLCEMA_01627	CDS	COG0610	5549	8554	-	[V] Type I site-specific restriction-modification system, R
+543
+	JGOLCEMA_01628	CDS	COG2256	8668	9978	-	[L] ATPase related to the helicase subunit
+544
+	JGOLCEMA_01688	CDS	COG0012	584	1675	-	[J] Predicted GTPase, probable translation factor 
+545
+	JGOLCEMA_01689	CDS	COG2759	1788	3464	-	[F] Formyltetrahydrofolate synthetase    
+546
+	JGOLCEMA_01690	CDS	COG2510	3639	4070	+	[S] Predicted membrane protein   
+547
+	JGOLCEMA_01691	CDS	COG1208	4301	4996	-	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+	JGOLCEMA_01692	CDS	COG1853	5014	5514	-	[R] Conserved protein/domain typically associated with flavoprotein
+	JGOLCEMA_01693	CDS	COG1846	5629	6069	-	[K] Transcriptional regulators    
+548
+	JGOLCEMA_01694	CDS	COG0526	6412	6921	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+549
+	JGOLCEMA_01695	tRNA	NA	7000	7075	-	NA
+550
+	JGOLCEMA_01696	CDS	NA	7238	8365	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+551
+	JGOLCEMA_01629	CDS	COG0024	351	1130	+	[J] Methionine aminopeptidase    
+552
+	JGOLCEMA_01630	CDS	ROG2700	1285	1584	+	NA
+553
+	JGOLCEMA_01631	CDS	ROG7884	1822	2196	+	NA
+	JGOLCEMA_01632	CDS	NA	2226	2372	+	NA
+554
+	JGOLCEMA_01633	CDS	COG0579	2383	3849	-	[R] Predicted dehydrogenase    
+555
+	JGOLCEMA_01634	CDS	COG1670	4386	4976	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	JGOLCEMA_01635	CDS	COG0212	5037	5618	-	[H] 5-formyltetrahydrofolate cyclo-ligase    
+556
+	JGOLCEMA_01636	CDS	ROG2210	5696	5929	+	NA
+557
+	JGOLCEMA_01637	CDS	COG0052	6102	6830	+	[J] Ribosomal protein S2   
+	JGOLCEMA_01638	CDS	COG0264	6959	7813	+	[J] Translation elongation factor Ts  
+	JGOLCEMA_01639	CDS	COG0528	7868	8776	+	[F] Uridylate kinase    
+558
+	JGOLCEMA_01640	CDS	NA	9415	10377	+	NA
+559
+	JGOLCEMA_00220	CDS	COG3468	63	2078	+	[MU] Type V secretory pathway, adhesin AidA
+560
+	JGOLCEMA_00221	CDS	COG0277	2259	3626	-	[C] FAD/FMN-containing dehydrogenases    
+561
+	JGOLCEMA_00222	CDS	COG4851	3736	4002	-	[R] Protein involved in sex pheromone biosynthesis
+562
+	JGOLCEMA_00223	CDS	COG1047	4475	4957	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+563
+	JGOLCEMA_00224	CDS	COG1562	5044	5856	+	[I] Phytoene/squalene synthetase    
+564
+	JGOLCEMA_00225	CDS	ROG0139	5927	6397	-	NA
+565
+	JGOLCEMA_00226	CDS	COG4232	6524	8329	+	[OC] Thiol:disulfide interchange protein   
+566
+	JGOLCEMA_00227	CDS	COG0282	8845	10041	-	[C] Acetate kinase    
+567
+	JGOLCEMA_00228	CDS	NA	10392	10691	+	NA
+	JGOLCEMA_00229	CDS	COG3197	10691	10876	+	[P] Uncharacterized protein, possibly involved in nitrogen
+	JGOLCEMA_00230	CDS	ROG1295	10866	12176	+	NA
+568
+	JGOLCEMA_00231	CDS	COG0847	12307	13068	+	[L] DNA polymerase III, epsilon subunit and
+	JGOLCEMA_00232	CDS	COG1211	13065	13754	+	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	JGOLCEMA_00233	CDS	COG0245	13786	14268	+	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+	JGOLCEMA_00234	CDS	COG0120	14345	15016	+	[G] Ribose 5-phosphate isomerase   
+569
+	JGOLCEMA_00235	CDS	COG1525	15085	15756	+	[L] Micrococcal nuclease (thermonuclease) homologs  
+570
+	JGOLCEMA_00236	CDS	COG0765	15935	16681	+	[E] ABC-type amino acid transport system, permease
+571
+	JGOLCEMA_00237	CDS	COG1368	17443	18861	-	[M] Phosphoglycerol transferase and related proteins, alkaline
+572
+	JGOLCEMA_00238	CDS	NA	18986	19540	+	NA
+573
+	JGOLCEMA_00239	CDS	COG0018	19408	21126	-	[J] Arginyl-tRNA synthetase    
+	JGOLCEMA_00240	CDS	COG1488	21218	22426	-	[H] Nicotinic acid phosphoribosyltransferase   
+	JGOLCEMA_00241	CDS	COG1354	22467	23321	-	[S] Uncharacterized conserved protein   
+574
+	JGOLCEMA_00242	CDS	NA	23492	24019	-	NA
+575
+	JGOLCEMA_00243	CDS	COG1179	24157	24933	-	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+576
+	JGOLCEMA_00244	CDS	COG0589	25150	25614	+	[T] Universal stress protein UspA and related
+577
+	JGOLCEMA_00245	CDS	COG0689	25696	26424	+	[J] RNase PH    
+578
+	JGOLCEMA_00246	CDS	COG0527	26626	27843	+	[E] Aspartokinases     
+579
+	JGOLCEMA_00247	CDS	NA	28587	31355	-	NA
+580
+	JGOLCEMA_00248	CDS	COG1187	32576	33136	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+581
+	JGOLCEMA_00249	CDS	NA	33265	33456	+	NA
+582
+	JGOLCEMA_00250	CDS	COG2879	33652	33846	-	[S] Uncharacterized small protein   
+	JGOLCEMA_00251	CDS	COG1966	33836	35917	-	[T] Carbon starvation protein, predicted membrane protein
+583
+	JGOLCEMA_00252	CDS	NA	36393	36773	+	NA
+584
+	JGOLCEMA_00253	CDS	COG1012	37428	38861	+	[C] NAD-dependent aldehyde dehydrogenases   
+585
+	JGOLCEMA_00254	CDS	ROG2479	38970	39758	+	NA
+586
+	JGOLCEMA_00255	CDS	COG0861	40126	41682	+	[P] Membrane protein TerC, possibly involved in
+	JGOLCEMA_00256	CDS	COG0496	41699	42445	+	[R] Predicted acid phosphatase   
+587
+	JGOLCEMA_00257	CDS	COG0739	42701	43948	+	[M] Membrane proteins related to metalloendopeptidases 
+588
+	JGOLCEMA_00258	CDS	COG1607	44155	44637	-	[I] Acyl-CoA hydrolase    
+589
+	JGOLCEMA_00259	CDS	NA	44790	44951	-	NA
+590
+	JGOLCEMA_00260	CDS	COG2137	45025	45486	-	[R] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00261	CDS	COG0546	45543	46250	-	[R] Predicted phosphatases    
+591
+	JGOLCEMA_00262	CDS	COG0334	46657	47922	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+592
+	JGOLCEMA_00263	CDS	COG5266	47980	48786	-	[P] ABC-type Co2+ transport system, periplasmic component
+593
+	JGOLCEMA_00264	CDS	COG1942	49131	49340	+	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+594
+	JGOLCEMA_00265	CDS	COG0436	49429	50643	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+595
+	JGOLCEMA_00266	CDS	COG0542	50730	53309	-	[O] ATPases with chaperone activity, ATP-binding subunit
+596
+	JGOLCEMA_00267	CDS	COG0180	53570	54580	+	[J] Tryptophanyl-tRNA synthetase    
+	JGOLCEMA_00268	CDS	NA	54586	54927	+	NA
+597
+	JGOLCEMA_00269	CDS	ROG6290	55247	55633	+	NA
+598
+	JGOLCEMA_00270	CDS	COG0248	55842	57350	-	[FP] Exopolyphosphatase     
+599
+	JGOLCEMA_00271	CDS	NA	57467	58198	-	NA
+			NA				NA
+			NA				NA
+600
+	JGOLCEMA_01369	CDS	COG0691	498	944	-	[O] tmRNA-binding protein    
+601
+	JGOLCEMA_01370	CDS	COG0859	999	2009	-	[M] ADP-heptose:LPS heptosyltransferase    
+602
+	JGOLCEMA_01371	tRNA	NA	2140	2215	-	NA
+603
+	JGOLCEMA_01372	CDS	COG0350	2405	3157	-	[L] Methylated DNA-protein cysteine methyltransferase  
+604
+	JGOLCEMA_01373	CDS	COG1881	3468	3992	+	[R] Phospholipid-binding protein    
+605
+	JGOLCEMA_01374	CDS	COG0624	4732	5877	-	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+606
+	JGOLCEMA_01375	CDS	ROG8476	5991	6611	-	NA
+	JGOLCEMA_01376	CDS	ROG1082	6645	7154	-	NA
+607
+	JGOLCEMA_01377	CDS	COG3241	7249	7800	-	[C] Azurin     
+608
+	JGOLCEMA_01378	CDS	ROG1178	8081	8503	-	NA
+609
+	JGOLCEMA_01379	CDS	COG0653	8634	11384	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	JGOLCEMA_01380	CDS	COG0358	11528	13300	+	[L] DNA primase (bacterial type)  
+	JGOLCEMA_01381	CDS	COG0568	13487	15415	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+610
+	JGOLCEMA_01382	CDS	COG3039	16101	16556	+	[L] Transposase and inactivated derivatives, IS5 family
+611
+	JGOLCEMA_01897	CDS	COG2946	109	1452	+	[L] Putative phage replication protein RstA 
+	JGOLCEMA_01898	CDS	NA	1497	1787	+	NA
+	JGOLCEMA_01899	CDS	NA	1792	1989	+	NA
+612
+	JGOLCEMA_01900	CDS	COG4214	2063	2281	+	[G] ABC-type xylose transport system, permease component
+	JGOLCEMA_01901	CDS	NA	2288	2566	+	NA
+			NA				NA
+613
+	JGOLCEMA_00572	tRNA	NA	152	227	-	NA
+	JGOLCEMA_00573	tRNA	NA	235	311	-	NA
+614
+	JGOLCEMA_00574	CDS	COG1565	443	1591	-	[S] Uncharacterized conserved protein   
+615
+	JGOLCEMA_00575	CDS	COG2001	1939	2394	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00576	CDS	COG0275	2391	3377	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	JGOLCEMA_00577	CDS	COG3116	3374	3637	+	[D] Cell division protein   
+	JGOLCEMA_00578	CDS	COG0768	3698	5443	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	JGOLCEMA_00579	CDS	COG0769	5468	6946	+	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	JGOLCEMA_00580	CDS	COG2194	6969	8615	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+616
+	JGOLCEMA_00581	CDS	COG0770	8740	10098	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	JGOLCEMA_00582	CDS	NA	10101	10277	+	NA
+617
+	JGOLCEMA_00583	CDS	COG0472	10524	11606	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+618
+	JGOLCEMA_00584	CDS	COG0790	11721	12101	+	[R] FOG: TPR repeat, SEL1 subfamily 
+619
+	JGOLCEMA_00585	CDS	COG0771	12186	13523	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	JGOLCEMA_00586	CDS	COG0772	13649	14974	+	[D] Bacterial cell division membrane protein 
+	JGOLCEMA_00587	CDS	COG0707	14978	16045	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	JGOLCEMA_00588	CDS	COG0773	16200	17609	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	JGOLCEMA_00589	CDS	COG1181	17723	18637	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	JGOLCEMA_00590	CDS	COG1589	18627	19355	+	[M] Cell division septal protein  
+	JGOLCEMA_00591	CDS	COG0849	19441	20685	+	[D] Actin-like ATPase involved in cell division
+	JGOLCEMA_00592	CDS	COG0206	20804	21982	+	[D] Cell division GTPase   
+620
+	JGOLCEMA_00593	CDS	COG2252	22121	23431	+	[R] Permeases     
+621
+	JGOLCEMA_00594	CDS	COG2513	24057	24932	+	[G] PEP phosphonomutase and related enzymes 
+	JGOLCEMA_00595	CDS	COG0372	25018	26172	+	[C] Citrate synthase    
+622
+	JGOLCEMA_00596	CDS	COG0730	26333	27121	+	[R] Predicted permeases    
+623
+	JGOLCEMA_00597	CDS	COG1048	27199	29805	+	[C] Aconitase A    
+624
+	JGOLCEMA_00598	CDS	COG2828	30608	31777	+	[S] Uncharacterized protein conserved in bacteria 
+625
+	JGOLCEMA_00599	CDS	COG0282	32191	33390	+	[C] Acetate kinase    
+626
+	JGOLCEMA_00600	CDS	COG0009	33748	34368	+	[J] Putative translation factor (SUA5)  
+627
+	JGOLCEMA_00601	CDS	COG1959	34495	34938	-	[K] Predicted transcriptional regulator   
+628
+	JGOLCEMA_00602	CDS	ROG1736	35112	35480	+	NA
+	JGOLCEMA_00603	CDS	COG3213	35525	36679	+	[P] Uncharacterized protein involved in response to
+629
+	JGOLCEMA_00604	CDS	COG0287	36736	37608	-	[E] Prephenate dehydrogenase    
+630
+	JGOLCEMA_00605	CDS	NA	37693	38505	+	NA
+631
+	JGOLCEMA_00967	CDS	COG0741	445	1068	+	[M] Soluble lytic murein transglycosylase and related
+632
+	JGOLCEMA_00968	CDS	ROG2472	1176	2561	+	NA
+	JGOLCEMA_00969	CDS	COG0629	2565	3089	+	[L] Single-stranded DNA-binding protein   
+633
+	JGOLCEMA_00970	CDS	COG0697	3614	4537	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+634
+	JGOLCEMA_00971	CDS	COG0114	4602	5990	-	[C] Fumarase     
+	JGOLCEMA_00972	CDS	COG0021	6131	8110	-	[G] Transketolase     
+635
+	JGOLCEMA_00973	CDS	COG0348	8637	10133	+	[C] Polyferredoxin     
+	JGOLCEMA_00974	CDS	COG3198	10136	10684	+	[S] Uncharacterized protein conserved in bacteria 
+636
+	JGOLCEMA_00975	CDS	COG2070	11025	12200	-	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+637
+	JGOLCEMA_00976	tRNA	NA	12759	12833	-	NA
+	JGOLCEMA_00977	tRNA	NA	12851	12927	-	NA
+638
+	JGOLCEMA_00978	CDS	COG0847	13045	14430	+	[L] DNA polymerase III, epsilon subunit and
+639
+	JGOLCEMA_00979	CDS	COG0543	14635	15414	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+640
+	JGOLCEMA_00980	CDS	COG4773	15688	17547	+	[P] Outer membrane receptor for ferric coprogen
+	JGOLCEMA_00981	CDS	COG4773	17583	18776	+	[P] Outer membrane receptor for ferric coprogen
+641
+	JGOLCEMA_00982	CDS	COG0389	18920	19978	+	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+642
+	JGOLCEMA_00983	CDS	COG0210	20046	22061	-	[L] Superfamily I DNA and RNA helicases
+	JGOLCEMA_00984	CDS	COG0710	22081	22845	-	[E] 3-dehydroquinate dehydratase    
+643
+	JGOLCEMA_00985	CDS	NA	23099	24145	+	NA
+644
+	JGOLCEMA_01866	CDS	COG2274	74	325	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+645
+	JGOLCEMA_01867	CDS	NA	1303	1524	+	NA
+646
+	JGOLCEMA_01868	CDS	COG2931	1990	2274	+	[Q] RTX toxins and related Ca2+-binding proteins
+	JGOLCEMA_01869	CDS	ROG4851	2316	2810	+	NA
+	JGOLCEMA_01870	CDS	COG2931	2812	3336	+	[Q] RTX toxins and related Ca2+-binding proteins
+647
+	JGOLCEMA_01457	CDS	ROG0799	696	878	+	NA
+648
+	JGOLCEMA_01458	CDS	COG0042	940	1941	-	[J] tRNA-dihydrouridine synthase    
+649
+	JGOLCEMA_01459	CDS	COG0247	2018	5851	-	[C] Fe-S oxidoreductase    
+650
+	JGOLCEMA_01460	CDS	COG0277	6376	8067	+	[C] FAD/FMN-containing dehydrogenases    
+651
+	JGOLCEMA_01461	CDS	ROG0608	8362	8733	+	NA
+652
+	JGOLCEMA_01462	CDS	COG2128	8888	9436	+	[S] Uncharacterized conserved protein   
+653
+	JGOLCEMA_01463	CDS	COG1960	9570	10661	+	[I] Acyl-CoA dehydrogenases    
+654
+	JGOLCEMA_01464	CDS	COG1773	11135	11305	+	[C] Rubredoxin     
+655
+	JGOLCEMA_01465	CDS	NA	12610	13170	+	NA
+656
+	JGOLCEMA_01466	CDS	NA	13282	15084	+	NA
+657
+	JGOLCEMA_01467	CDS	ROG2573	557	979	-	NA
+658
+	JGOLCEMA_01468	CDS	COG0166	1122	2768	-	[G] Glucose-6-phosphate isomerase    
+	JGOLCEMA_01469	CDS	COG1737	2889	3737	-	[K] Transcriptional regulators    
+	JGOLCEMA_01470	CDS	COG0837	3787	4773	-	[G] Glucokinase     
+	JGOLCEMA_01471	CDS	COG0363	4754	5449	-	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+	JGOLCEMA_01472	CDS	COG0364	5729	7174	-	[G] Glucose-6-phosphate 1-dehydrogenase    
+659
+	JGOLCEMA_01473	CDS	COG0129	7690	9525	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+	JGOLCEMA_01474	CDS	COG0800	9706	10344	+	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+660
+	JGOLCEMA_01475	CDS	COG1063	10601	11206	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+	JGOLCEMA_01476	CDS	COG1063	11364	11546	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+661
+	JGOLCEMA_01477	CDS	COG1194	11709	12749	+	[L] A/G-specific DNA glycosylase   
+662
+	JGOLCEMA_01478	CDS	NA	12912	13010	+	NA
+663
+	JGOLCEMA_01479	CDS	COG2032	13166	13726	+	[P] Cu/Zn superoxide dismutase   
+664
+	JGOLCEMA_01480	CDS	NA	14065	14406	-	NA
+665
+	JGOLCEMA_01705	CDS	NA	92	265	-	NA
+	JGOLCEMA_01706	CDS	COG1608	262	381	-	[R] Predicted archaeal kinase   
+	JGOLCEMA_01707	CDS	NA	374	640	-	NA
+666
+	JGOLCEMA_01708	CDS	COG2842	730	1644	-	[R] Uncharacterized ATPase, putative transposase  
+	JGOLCEMA_01709	CDS	NA	1680	3656	-	NA
+	JGOLCEMA_01710	CDS	COG3093	3658	3909	-	[R] Plasmid maintenance system antidote protein 
+667
+	JGOLCEMA_01711	CDS	ROG1633	3953	4852	+	NA
+668
+	JGOLCEMA_01712	CDS	COG4178	5206	5823	+	[R] ABC-type uncharacterized transport system, permease and
+	JGOLCEMA_01713	CDS	ROG3842	5798	6595	+	NA
+	JGOLCEMA_01714	CDS	COG0560	6592	7260	+	[E] Phosphoserine phosphatase    
+	JGOLCEMA_01715	CDS	NA	7265	7498	+	NA
+669
+	JGOLCEMA_01716	CDS	NA	7815	8063	+	NA
+			NA				NA
+670
+	JGOLCEMA_01034	CDS	COG0778	248	805	-	[C] Nitroreductase     
+671
+	JGOLCEMA_01035	CDS	COG2194	881	2515	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+672
+	JGOLCEMA_01036	CDS	COG1932	2796	3902	-	[HE] Phosphoserine aminotransferase    
+673
+	JGOLCEMA_01037	CDS	COG0779	4267	4698	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01038	CDS	COG0195	4726	6228	+	[K] Transcription elongation factor   
+	JGOLCEMA_01039	CDS	COG0532	6241	9129	+	[J] Translation initiation factor 2 (IF-2; GTPase)
+674
+	JGOLCEMA_01040	CDS	ROG0645	9340	10734	-	NA
+675
+	JGOLCEMA_01041	CDS	ROG1033	10808	12148	-	NA
+676
+	JGOLCEMA_01042	CDS	COG1272	12291	12917	+	[R] Predicted membrane protein, hemolysin III homolog
+677
+	JGOLCEMA_01043	CDS	COG1115	12981	14399	-	[E] Na+/alanine symporter    
+678
+	JGOLCEMA_01044	CDS	COG0217	14726	15454	+	[S] Uncharacterized conserved protein   
+679
+	JGOLCEMA_01045	CDS	COG1495	15513	16001	-	[O] Disulfide bond formation protein DsbB 
+680
+	JGOLCEMA_01046	CDS	NA	16031	16243	+	NA
+681
+	JGOLCEMA_01047	CDS	COG1522	16760	17224	-	[K] Transcriptional regulators    
+682
+	JGOLCEMA_01048	CDS	COG0787	17549	18607	+	[M] Alanine racemase    
+683
+	JGOLCEMA_01049	CDS	COG2848	18671	20026	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01050	CDS	COG3830	20041	20313	-	[T] ACT domain-containing protein   
+684
+	JGOLCEMA_01051	CDS	COG2849	20439	21176	-	[S] Uncharacterized protein conserved in bacteria 
+685
+	JGOLCEMA_01052	CDS	COG2890	21457	22368	-	[J] Methylase of polypeptide chain release factors
+686
+	JGOLCEMA_01053	CDS	COG2346	22501	23094	+	[R] Truncated hemoglobins    
+687
+	JGOLCEMA_01054	CDS	NA	23386	23697	-	NA
+			NA				NA
+			NA				NA
+688
+	JGOLCEMA_01530	CDS	COG0605	1110	1697	-	[P] Superoxide dismutase    
+689
+	JGOLCEMA_01531	CDS	COG0305	1860	3266	+	[L] Replicative DNA helicase   
+690
+	JGOLCEMA_01532	CDS	COG4970	3575	4243	+	[NU] Tfp pilus assembly protein FimT 
+	JGOLCEMA_01533	CDS	COG4967	4240	4893	+	[NU] Tfp pilus assembly protein PilV 
+	JGOLCEMA_01534	CDS	COG4966	4890	5834	+	[NU] Tfp pilus assembly protein PilW 
+	JGOLCEMA_01535	CDS	COG4726	5813	6406	+	[NU] Tfp pilus assembly protein PilX 
+	JGOLCEMA_01536	CDS	COG4969	6411	6884	+	[NU] Tfp pilus assembly protein, major pilin
+691
+	JGOLCEMA_01537	CDS	COG1296	8819	9331	-	[E] Predicted branched-chain amino acid permease (azaleucine
+692
+	JGOLCEMA_01538	CDS	COG0756	9443	9895	+	[F] dUTPase     
+693
+	JGOLCEMA_01539	CDS	COG0436	9972	11159	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+694
+	JGOLCEMA_01540	CDS	COG3022	11322	12101	+	[S] Uncharacterized protein conserved in bacteria 
+695
+	JGOLCEMA_01541	tRNA	NA	12184	12274	+	NA
+	JGOLCEMA_01542	tRNA	NA	12352	12441	+	NA
+			NA				NA
+696
+	JGOLCEMA_01383	CDS	ROG4103	454	813	-	NA
+697
+	JGOLCEMA_01384	CDS	COG2755	984	1625	-	[E] Lysophospholipase L1 and related esterases 
+	JGOLCEMA_01385	CDS	COG2818	1615	2166	-	[L] 3-methyladenine DNA glycosylase   
+	JGOLCEMA_01386	CDS	COG3009	2170	2688	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01387	CDS	COG3008	2688	4349	-	[R] Paraquat-inducible protein B   
+	JGOLCEMA_01388	CDS	COG2995	4342	5802	-	[S] Uncharacterized paraquat-inducible protein A  
+698
+	JGOLCEMA_01389	CDS	COG3230	6140	6769	+	[P] Heme oxygenase    
+699
+	JGOLCEMA_01390	CDS	NA	6963	7571	+	NA
+700
+	JGOLCEMA_01391	CDS	ROG2025	8102	8578	-	NA
+701
+	JGOLCEMA_01392	CDS	COG0826	8712	10067	-	[O] Collagenase and related proteases  
+702
+	JGOLCEMA_01393	CDS	COG0561	10392	11180	+	[R] Predicted hydrolases of the HAD superfamily
+703
+	JGOLCEMA_01394	CDS	COG0503	11226	11792	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+704
+	JGOLCEMA_01395	CDS	COG0194	11953	12570	+	[F] Guanylate kinase    
+	JGOLCEMA_01396	CDS	COG1758	12629	12835	+	[K] DNA-directed RNA polymerase, subunit K/omega 
+	JGOLCEMA_01397	CDS	COG0317	12928	15084	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+705
+	JGOLCEMA_01398	CDS	NA	15151	16335	-	NA
+706
+	JGOLCEMA_01925	CDS	ROG5189	143	406	-	NA
+	JGOLCEMA_01926	CDS	NA	425	1057	-	NA
+707
+	JGOLCEMA_01876	CDS	NA	114	656	+	NA
+708
+	JGOLCEMA_01877	CDS	NA	862	1026	+	NA
+	JGOLCEMA_01878	CDS	ROG6087	1029	1265	+	NA
+	JGOLCEMA_01879	CDS	NA	1237	1656	+	NA
+	JGOLCEMA_01880	CDS	ROG7758	1676	1858	+	NA
+709
+	JGOLCEMA_01881	CDS	COG3422	1903	2073	-	[S] Uncharacterized conserved protein   
+710
+	JGOLCEMA_01882	CDS	NA	2086	2304	+	NA
+	JGOLCEMA_01883	CDS	NA	2301	2639	+	NA
+	JGOLCEMA_01884	CDS	ROG5769	2651	2917	+	NA
+	JGOLCEMA_01885	CDS	ROG7329	2914	3111	+	NA
+			NA				NA
+711
+	JGOLCEMA_01235	tRNA	NA	942	1017	-	NA
+712
+	JGOLCEMA_01236	CDS	COG2018	1110	1469	-	[R] Uncharacterized distant relative of homeotic protein
+	JGOLCEMA_01237	CDS	NA	1492	2136	-	NA
+	JGOLCEMA_01238	CDS	COG2229	2138	2674	-	[R] Predicted GTPase    
+	JGOLCEMA_01239	CDS	NA	2686	3783	-	NA
+	JGOLCEMA_01240	CDS	NA	3786	5222	-	NA
+713
+	JGOLCEMA_01241	CDS	COG0500	5442	6224	-	[QR] SAM-dependent methyltransferases    
+	JGOLCEMA_01242	CDS	COG2830	6212	6859	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01243	CDS	COG0156	6869	8011	-	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+714
+	JGOLCEMA_01244	CDS	COG1376	8276	9310	+	[S] Uncharacterized protein conserved in bacteria 
+715
+	JGOLCEMA_01245	CDS	COG0471	9517	10983	-	[P] Di- and tricarboxylate transporters  
+716
+	JGOLCEMA_01246	CDS	COG0010	11181	12104	-	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+	JGOLCEMA_01247	CDS	COG1166	12203	14095	-	[E] Arginine decarboxylase (spermidine biosynthesis)  
+717
+	JGOLCEMA_01248	CDS	ROG6169	14262	14546	-	NA
+718
+	JGOLCEMA_01249	CDS	COG0173	14697	16505	-	[J] Aspartyl-tRNA synthetase    
+719
+	JGOLCEMA_01250	CDS	COG2928	16563	17264	-	[S] Uncharacterized conserved protein   
+720
+	JGOLCEMA_01251	CDS	COG2829	17407	18546	-	[M] Outer membrane phospholipase A  
+721
+	JGOLCEMA_01252	CDS	COG0268	18715	18978	-	[J] Ribosomal protein S20   
+722
+	JGOLCEMA_01253	CDS	NA	19282	20424	+	NA
+			NA				NA
+723
+	JGOLCEMA_01930	CDS	COG4382	105	539	+	[S] Mu-like prophage protein gp16  
+	JGOLCEMA_01931	CDS	ROG3486	520	948	+	NA
+			NA				NA
+724
+	JGOLCEMA_00925	CDS	ROG0199	254	676	+	NA
+725
+	JGOLCEMA_00926	CDS	COG4648	974	1408	+	[S] Predicted membrane protein   
+	JGOLCEMA_00927	CDS	COG4899	1415	1930	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00928	CDS	COG0043	1950	3428	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+726
+	JGOLCEMA_00929	CDS	COG2982	3493	5607	-	[M] Uncharacterized protein involved in outer membrane
+727
+	JGOLCEMA_00930	CDS	COG2876	5698	6591	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+728
+	JGOLCEMA_00931	CDS	COG0294	6731	7582	+	[H] Dihydropteroate synthase and related enzymes 
+	JGOLCEMA_00932	CDS	COG1109	7712	9046	+	[G] Phosphomannomutase     
+729
+	JGOLCEMA_00933	CDS	COG0586	9235	9918	+	[S] Uncharacterized membrane-associated protein   
+730
+	JGOLCEMA_00934	CDS	COG0252	9985	10977	+	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	JGOLCEMA_00935	CDS	COG0084	10985	11755	+	[L] Mg-dependent DNase    
+	JGOLCEMA_00936	CDS	COG0216	11859	12935	+	[J] Protein chain release factor A 
+731
+	JGOLCEMA_00937	CDS	COG1052	13021	14058	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+732
+	JGOLCEMA_00938	CDS	COG0172	14136	15431	-	[J] Seryl-tRNA synthetase    
+733
+	JGOLCEMA_00939	CDS	COG0494	15597	16121	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	JGOLCEMA_00940	CDS	COG0187	16188	18173	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+734
+	JGOLCEMA_00941	CDS	NA	18247	18651	-	NA
+735
+	JGOLCEMA_00942	CDS	COG0082	18743	19843	-	[E] Chorismate synthase    
+736
+	JGOLCEMA_00943	CDS	COG2265	19986	21074	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	JGOLCEMA_00944	CDS	COG1448	21095	22288	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+737
+	JGOLCEMA_00945	tRNA	NA	22353	22428	-	NA
+738
+	JGOLCEMA_00946	CDS	COG3245	22713	23552	+	[C] Cytochrome c5    
+739
+	JGOLCEMA_00947	CDS	NA	24014	26440	-	NA
+740
+	JGOLCEMA_01141	CDS	COG1045	375	1193	-	[E] Serine acetyltransferase    
+741
+	JGOLCEMA_01142	CDS	COG0576	1377	1955	+	[O] Molecular chaperone GrpE (heat shock protein)
+742
+	JGOLCEMA_01143	CDS	COG2991	2232	2447	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01144	CDS	COG1477	2473	3528	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	JGOLCEMA_01145	CDS	COG2871	3681	4898	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+	JGOLCEMA_01146	CDS	COG2209	4912	5505	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+	JGOLCEMA_01147	CDS	COG1347	5509	6135	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+	JGOLCEMA_01148	CDS	COG2869	6135	6911	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+	JGOLCEMA_01149	CDS	COG1805	6904	8136	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+	JGOLCEMA_01150	CDS	COG1726	8139	9482	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+743
+	JGOLCEMA_01151	CDS	COG1055	9830	11251	-	[P] Na+/H+ antiporter NhaD and related arsenite
+744
+	JGOLCEMA_01152	CDS	COG2832	11609	11968	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01153	CDS	COG3310	11965	12561	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01154	CDS	COG1522	12617	13099	-	[K] Transcriptional regulators    
+745
+	JGOLCEMA_01155	CDS	COG0404	13611	14711	+	[E] Glycine cleavage system T protein (aminomethyltransferase)
+	JGOLCEMA_01156	CDS	COG0509	14873	15259	+	[E] Glycine cleavage system H protein (lipoate-binding)
+746
+	JGOLCEMA_01157	CDS	COG0373	15406	16653	+	[H] Glutamyl-tRNA reductase    
+747
+	JGOLCEMA_01158	CDS	COG3901	16981	17502	+	[K] Regulator of nitric oxide reductase transcription
+	JGOLCEMA_01159	CDS	COG3420	17571	18590	+	[P] Nitrous oxidase accessory protein  
+	JGOLCEMA_01160	CDS	COG1131	18648	19268	+	[V] ABC-type multidrug transport system, ATPase component
+748
+	JGOLCEMA_01161	CDS	COG4314	19485	19979	+	[C] Predicted lipoprotein involved in nitrous oxide
+749
+	JGOLCEMA_01162	CDS	NA	20067	21728	-	NA
+			NA				NA
+750
+	JGOLCEMA_01771	CDS	COG1278	66	269	-	[K] Cold shock proteins   
+751
+	JGOLCEMA_01772	CDS	COG2127	476	814	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01773	CDS	COG0542	816	3107	+	[O] ATPases with chaperone activity, ATP-binding subunit
+752
+	JGOLCEMA_01774	CDS	COG0610	3147	6245	-	[V] Type I site-specific restriction-modification system, R
+	JGOLCEMA_01775	CDS	COG0732	6324	6692	-	[V] Restriction endonuclease S subunits  
+753
+	JGOLCEMA_01811	CDS	COG1738	135	821	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01812	CDS	COG0780	898	1371	-	[R] Enzyme related to GTP cyclohydrolase I
+754
+	JGOLCEMA_01813	CDS	COG1566	1813	2967	+	[V] Multidrug resistance efflux pump  
+	JGOLCEMA_01814	CDS	ROG0893	2991	4517	+	NA
+755
+	JGOLCEMA_01815	CDS	COG0227	4767	5000	+	[J] Ribosomal protein L28   
+	JGOLCEMA_01816	CDS	COG0267	5032	5187	+	[J] Ribosomal protein L33   
+756
+	JGOLCEMA_00329	CDS	ROG7899	205	687	+	NA
+757
+	JGOLCEMA_00330	CDS	COG2233	739	1974	-	[F] Xanthine/uracil permeases    
+758
+	JGOLCEMA_00331	CDS	COG1674	2173	4611	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+759
+	JGOLCEMA_00332	CDS	COG0544	4820	6130	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+	JGOLCEMA_00333	CDS	COG0740	6226	6840	+	[OU] Protease subunit of ATP-dependent Clp proteases
+760
+	JGOLCEMA_00334	CDS	COG0821	6897	8162	-	[I] Enzyme involved in the deoxyxylulose pathway
+	JGOLCEMA_00335	CDS	COG3063	8178	8939	-	[NU] Tfp pilus assembly protein PilF 
+	JGOLCEMA_00336	CDS	COG0820	8942	10036	-	[R] Predicted Fe-S-cluster redox enzyme  
+	JGOLCEMA_00337	CDS	COG0105	10180	10605	-	[F] Nucleoside diphosphate kinase   
+761
+	JGOLCEMA_00338	CDS	COG1485	10664	11815	-	[R] Predicted ATPase    
+762
+	JGOLCEMA_00339	CDS	COG0627	12206	13033	-	[R] Predicted esterase    
+	JGOLCEMA_00340	CDS	COG1062	13042	14178	-	[C] Zn-dependent alcohol dehydrogenases, class III 
+763
+	JGOLCEMA_00341	CDS	COG0789	14485	14892	+	[K] Predicted transcriptional regulators   
+764
+	JGOLCEMA_00342	CDS	COG0776	15243	15557	-	[L] Bacterial nucleoid DNA-binding protein  
+	JGOLCEMA_00343	CDS	COG0539	15568	17253	-	[J] Ribosomal protein S1   
+	JGOLCEMA_00344	CDS	COG0283	17408	18064	-	[F] Cytidylate kinase    
+765
+	JGOLCEMA_00345	CDS	COG0733	18308	19399	-	[R] Na+-dependent transporters of the SNF family
+766
+	JGOLCEMA_00346	CDS	COG1187	20253	20945	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+767
+	JGOLCEMA_00347	CDS	COG1388	21013	22989	-	[M] FOG: LysM repeat   
+768
+	JGOLCEMA_00348	CDS	COG0500	23168	23833	+	[QR] SAM-dependent methyltransferases    
+	JGOLCEMA_00349	CDS	COG0266	23885	24712	+	[L] Formamidopyrimidine-DNA glycosylase    
+	JGOLCEMA_00350	CDS	COG0204	24800	25567	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+769
+	JGOLCEMA_00351	CDS	COG4430	25879	26205	-	[S] Uncharacterized protein conserved in bacteria 
+770
+	JGOLCEMA_00352	CDS	COG0209	26719	28998	+	[F] Ribonucleotide reductase, alpha subunit  
+	JGOLCEMA_00353	CDS	COG0270	29056	30066	+	[L] Site-specific DNA methylase   
+	JGOLCEMA_00354	CDS	ROG2400	30063	31250	+	NA
+	JGOLCEMA_00355	CDS	COG0208	31290	32444	+	[F] Ribonucleotide reductase, beta subunit  
+771
+	JGOLCEMA_00356	CDS	COG0633	32642	32932	+	[C] Ferredoxin     
+772
+	JGOLCEMA_00357	CDS	COG2919	32973	33251	-	[D] Septum formation initiator   
+	JGOLCEMA_00358	CDS	COG0148	33265	34551	-	[G] Enolase     
+	JGOLCEMA_00359	CDS	ROG0291	34599	35039	-	NA
+	JGOLCEMA_00360	CDS	COG2877	35054	35896	-	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	JGOLCEMA_00361	CDS	COG0853	35918	36301	-	[H] Aspartate 1-decarboxylase    
+	JGOLCEMA_00362	CDS	COG1197	36450	40589	-	[LK] Transcription-repair coupling factor (superfamily II helicase)
+773
+	JGOLCEMA_00363	CDS	ROG4768	40774	42201	+	NA
+774
+	JGOLCEMA_00364	CDS	COG2951	42402	43511	+	[M] Membrane-bound lytic murein transglycosylase B 
+775
+	JGOLCEMA_00365	CDS	COG4389	43953	45959	-	[L] Site-specific recombinase    
+776
+	JGOLCEMA_00366	CDS	COG1292	46248	48275	+	[M] Choline-glycine betaine transporter   
+777
+	JGOLCEMA_00367	CDS	NA	48366	49919	-	NA
+778
+	JGOLCEMA_00811	CDS	ROG8102	184	645	+	NA
+779
+	JGOLCEMA_00812	CDS	COG0616	696	1796	-	[OU] Periplasmic serine proteases (ClpP class) 
+	JGOLCEMA_00813	tRNA	NA	1852	1941	-	NA
+	JGOLCEMA_00814	tRNA	NA	2044	2117	-	NA
+	JGOLCEMA_00815	tRNA	NA	2143	2218	-	NA
+	JGOLCEMA_00816	tRNA	NA	2240	2315	-	NA
+	JGOLCEMA_00817	tRNA	NA	2339	2414	-	NA
+	JGOLCEMA_00818	tRNA	NA	2440	2515	-	NA
+780
+	JGOLCEMA_00819	CDS	COG0558	2595	3158	-	[I] Phosphatidylglycerophosphate synthase    
+781
+	JGOLCEMA_00820	CDS	NA	3385	3687	-	NA
+782
+	JGOLCEMA_00821	CDS	COG0599	4019	4354	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+783
+	JGOLCEMA_00822	CDS	COG2207	4483	5388	+	[K] AraC-type DNA-binding domain-containing proteins  
+784
+	JGOLCEMA_00823	CDS	NA	5450	5938	-	NA
+785
+	JGOLCEMA_00824	CDS	COG0697	6124	6987	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+786
+	JGOLCEMA_00825	CDS	COG0687	7028	8158	-	[E] Spermidine/putrescine-binding periplasmic protein   
+787
+	JGOLCEMA_00826	CDS	COG0013	8330	10987	+	[J] Alanyl-tRNA synthetase    
+	JGOLCEMA_00827	CDS	ROG7666	11049	11780	+	NA
+788
+	JGOLCEMA_00828	CDS	COG1002	12087	12980	+	[V] Type II restriction enzyme, methylase subunits
+	JGOLCEMA_00829	CDS	COG1002	13104	15086	+	[V] Type II restriction enzyme, methylase subunits
+789
+	JGOLCEMA_00830	CDS	COG0588	15687	16370	-	[G] Phosphoglycerate mutase 1   
+790
+	JGOLCEMA_00831	CDS	COG0188	16672	18969	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	JGOLCEMA_00832	CDS	COG3852	18990	20507	+	[T] Signal transduction histidine kinase, nitrogen specific
+	JGOLCEMA_00833	CDS	COG2204	20559	21026	+	[T] Response regulator containing CheY-like receiver, AAA-type
+791
+	JGOLCEMA_00834	CDS	ROG2973	21130	21882	+	NA
+792
+	JGOLCEMA_00835	CDS	ROG0736	23015	23221	-	NA
+793
+	JGOLCEMA_00836	CDS	COG0626	23316	24485	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+794
+	JGOLCEMA_00837	CDS	NA	24784	25545	-	NA
+795
+	JGOLCEMA_00838	CDS	ROG2396	25645	25896	+	NA
+	JGOLCEMA_00839	CDS	COG0834	25948	26754	+	[ET] ABC-type amino acid transport/signal transduction systems,
+796
+	JGOLCEMA_00840	CDS	COG1951	27061	28584	+	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+797
+	JGOLCEMA_00841	CDS	COG0569	28682	30094	+	[P] K+ transport systems, NAD-binding component 
+798
+	JGOLCEMA_01596	CDS	COG4230	1038	4643	-	[C] Delta 1-pyrroline-5-carboxylate dehydrogenase   
+799
+	JGOLCEMA_01597	CDS	COG0591	4894	6420	-	[ER] Na+/proline symporter    
+800
+	JGOLCEMA_01598	CDS	COG2960	6904	7224	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01599	CDS	COG0606	7238	8734	+	[O] Predicted ATPase with chaperone activity 
+801
+	JGOLCEMA_01600	CDS	COG3087	8840	9703	+	[D] Cell division protein   
+	JGOLCEMA_01601	CDS	COG1651	9706	10350	+	[O] Protein-disulfide isomerase    
+	JGOLCEMA_01602	CDS	COG1968	10383	11204	+	[V] Uncharacterized bacitracin resistance protein  
+			NA				NA
+			NA				NA
+802
+	JGOLCEMA_00900	CDS	COG1451	257	949	-	[R] Predicted metal-dependent hydrolase   
+803
+	JGOLCEMA_00901	CDS	NA	1057	2250	-	NA
+804
+	JGOLCEMA_00902	CDS	COG1540	2379	3116	-	[R] Uncharacterized proteins, homologs of lactam utilization
+	JGOLCEMA_00903	CDS	COG1984	3103	4032	-	[E] Allophanate hydrolase subunit 2  
+	JGOLCEMA_00904	CDS	COG2049	4029	4676	-	[E] Allophanate hydrolase subunit 1  
+805
+	JGOLCEMA_00905	CDS	COG0210	4860	7067	+	[L] Superfamily I DNA and RNA helicases
+806
+	JGOLCEMA_00906	CDS	ROG4729	7424	7963	+	NA
+807
+	JGOLCEMA_00907	CDS	ROG4749	8492	8851	-	NA
+808
+	JGOLCEMA_00908	CDS	ROG3165	9479	10099	+	NA
+	JGOLCEMA_00909	CDS	COG0421	10089	11573	+	[E] Spermidine synthase    
+809
+	JGOLCEMA_00910	CDS	COG0838	12035	12391	+	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+	JGOLCEMA_00911	CDS	COG0377	12382	12864	+	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	JGOLCEMA_00912	CDS	COG0852	12877	13470	+	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	JGOLCEMA_00913	CDS	COG0649	13460	14716	+	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+	JGOLCEMA_00914	CDS	COG1905	14716	15189	+	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+	JGOLCEMA_00915	CDS	COG1894	15579	16880	+	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	JGOLCEMA_00916	CDS	NA	16880	17317	+	NA
+810
+	JGOLCEMA_00917	CDS	COG1034	17607	19868	+	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+	JGOLCEMA_00918	CDS	COG1005	19871	20947	+	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	JGOLCEMA_00919	CDS	COG1143	21028	21507	+	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	JGOLCEMA_00920	CDS	COG0839	21519	22190	+	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	JGOLCEMA_00921	CDS	COG0713	22187	22492	+	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+811
+	JGOLCEMA_00922	CDS	COG0679	22787	23659	+	[R] Predicted permeases    
+	JGOLCEMA_00923	CDS	COG1009	23660	25684	+	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+812
+	JGOLCEMA_00924	CDS	COG3886	25868	26860	+	[L] Predicted HKD family nuclease  
+			NA				NA
+813
+	JGOLCEMA_01913	CDS	COG3210	97	1236	+	[U] Large exoproteins involved in heme utilization
+	JGOLCEMA_01914	CDS	NA	1252	1683	+	NA
+814
+	JGOLCEMA_01654	CDS	COG0546	39	596	+	[R] Predicted phosphatases    
+815
+	JGOLCEMA_01655	CDS	COG0761	683	1651	-	[IM] Penicillin tolerance protein   
+	JGOLCEMA_01656	CDS	COG0597	1680	2177	-	[MU] Lipoprotein signal peptidase   
+816
+	JGOLCEMA_01657	CDS	COG0060	2764	5553	-	[J] Isoleucyl-tRNA synthetase    
+	JGOLCEMA_01658	CDS	COG0196	5694	6614	-	[H] FAD synthase    
+817
+	JGOLCEMA_01659	CDS	COG0162	6913	8208	-	[J] Tyrosyl-tRNA synthetase    
+818
+	JGOLCEMA_01660	CDS	COG1835	8271	9896	-	[I] Predicted acyltransferases    
+819
+	JGOLCEMA_01429	CDS	COG3468	493	5181	+	[MU] Type V secretory pathway, adhesin AidA
+820
+	JGOLCEMA_01430	CDS	COG0133	5360	6562	-	[E] Tryptophan synthase beta chain  
+821
+	JGOLCEMA_01431	CDS	COG3663	6645	7334	-	[L] G:T/U mismatch-specific DNA glycosylase  
+822
+	JGOLCEMA_01432	CDS	COG0030	7531	8310	+	[J] Dimethyladenosine transferase (rRNA methylation)  
+823
+	JGOLCEMA_01433	CDS	COG1126	8462	9211	+	[E] ABC-type polar amino acid transport system,
+824
+	JGOLCEMA_01434	CDS	ROG5664	9284	9643	+	NA
+	JGOLCEMA_01435	CDS	ROG5135	9648	10094	+	NA
+	JGOLCEMA_01436	CDS	COG0285	10125	11399	+	[H] Folylpolyglutamate synthase    
+	JGOLCEMA_01437	CDS	ROG2101	11412	12410	+	NA
+	JGOLCEMA_01438	CDS	COG1286	12403	12900	+	[R] Uncharacterized membrane protein, required for colicin
+	JGOLCEMA_01439	CDS	COG0034	13108	14652	+	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	JGOLCEMA_01440	CDS	COG0782	14752	15243	+	[K] Transcription elongation factor   
+	JGOLCEMA_01441	CDS	COG0135	15302	15928	+	[E] Phosphoribosylanthranilate isomerase    
+825
+	JGOLCEMA_00744	CDS	COG1028	197	943	-	[IQR] Dehydrogenases with different specificities (related to
+	JGOLCEMA_00745	CDS	COG0519	1005	2570	-	[F] GMP synthase, PP-ATPase domain/subunit  
+	JGOLCEMA_00746	CDS	COG1132	2670	4535	-	[V] ABC-type multidrug transport system, ATPase and
+	JGOLCEMA_00747	CDS	COG0331	4674	5600	-	[I] (acyl-carrier-protein) S-malonyltransferase    
+	JGOLCEMA_00748	CDS	COG3326	5626	5997	-	[S] Predicted membrane protein   
+	JGOLCEMA_00749	CDS	COG0332	6044	7006	-	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	JGOLCEMA_00750	CDS	NA	7033	7236	-	NA
+	JGOLCEMA_00751	CDS	NA	7256	7447	-	NA
+826
+	JGOLCEMA_00752	CDS	NA	7698	7949	-	NA
+827
+	JGOLCEMA_00753	CDS	COG0416	8085	9140	-	[I] Fatty acid/phospholipid biosynthesis enzyme  
+828
+	JGOLCEMA_00754	CDS	COG2236	9228	9755	-	[R] Predicted phosphoribosyltransferases    
+829
+	JGOLCEMA_00755	CDS	COG0333	9930	10109	-	[J] Ribosomal protein L32   
+	JGOLCEMA_00756	CDS	COG1399	10143	10646	-	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+830
+	JGOLCEMA_00757	CDS	COG0424	10794	11384	+	[D] Nucleotide-binding protein implicated in inhibition of
+831
+	JGOLCEMA_00758	CDS	COG0313	11443	12156	+	[R] Predicted methyltransferases    
+832
+	JGOLCEMA_00759	CDS	COG0706	12237	13874	-	[U] Preprotein translocase subunit YidC  
+	JGOLCEMA_00760	CDS	COG0759	14046	14267	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00761	CDS	COG0594	14332	14667	-	[J] RNase P protein component  
+	JGOLCEMA_00762	CDS	ROG4984	14700	14834	-	NA
+833
+	JGOLCEMA_00763	CDS	COG0593	15126	16682	+	[L] ATPase involved in DNA replication initiation
+	JGOLCEMA_00764	CDS	COG0592	16761	17864	+	[L] DNA polymerase sliding clamp subunit (PCNA
+834
+	JGOLCEMA_00765	CDS	COG0855	18127	20184	-	[P] Polyphosphate kinase    
+835
+	JGOLCEMA_00766	CDS	ROG6161	20353	20796	-	NA
+	JGOLCEMA_00767	CDS	COG2913	20803	21318	-	[J] Small protein A (tmRNA-binding)  
+836
+	JGOLCEMA_00768	CDS	COG0495	21579	24215	+	[J] Leucyl-tRNA synthetase    
+837
+	JGOLCEMA_00769	CDS	COG0338	24450	25262	+	[L] Site-specific DNA methylase   
+	JGOLCEMA_00770	CDS	COG0863	25255	26064	+	[L] DNA modification methylase   
+	JGOLCEMA_00771	CDS	NA	26061	26615	+	NA
+838
+	JGOLCEMA_00772	CDS	COG2944	27490	27801	-	[K] Predicted transcriptional regulator   
+	JGOLCEMA_00773	CDS	COG4737	27863	28165	-	[S] Uncharacterized protein conserved in bacteria 
+839
+	JGOLCEMA_00774	tRNA	NA	28981	29066	-	NA
+	JGOLCEMA_00775	CDS	COG1314	29080	29430	-	[U] Preprotein translocase subunit SecG  
+	JGOLCEMA_00776	CDS	COG0149	29437	30210	-	[G] Triosephosphate isomerase    
+840
+	JGOLCEMA_00777	CDS	COG1956	30394	30897	+	[T] GAF domain-containing protein   
+841
+	JGOLCEMA_00778	CDS	COG2518	30999	31655	+	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+842
+	JGOLCEMA_00779	CDS	NA	31734	32057	+	NA
+843
+	JGOLCEMA_00407	CDS	COG0547	447	1505	-	[E] Anthranilate phosphoribosyltransferase    
+	JGOLCEMA_00408	CDS	COG0512	1568	2158	-	[EH] Anthranilate/para-aminobenzoate synthases component II  
+844
+	JGOLCEMA_00409	CDS	NA	2580	4856	+	NA
+845
+	JGOLCEMA_00410	CDS	COG0688	6087	6884	-	[I] Phosphatidylserine decarboxylase    
+846
+	JGOLCEMA_00411	CDS	COG0178	7039	9888	+	[L] Excinuclease ATPase subunit   
+	JGOLCEMA_00412	CDS	COG3183	9930	11114	+	[V] Predicted restriction endonuclease   
+	JGOLCEMA_00413	CDS	COG0270	11127	12329	+	[L] Site-specific DNA methylase   
+847
+	JGOLCEMA_00414	CDS	COG1943	12730	13197	+	[L] Transposase and inactivated derivatives  
+848
+	JGOLCEMA_00415	CDS	COG0074	13293	14183	-	[C] Succinyl-CoA synthetase, alpha subunit  
+	JGOLCEMA_00416	CDS	COG0045	14194	15360	-	[C] Succinyl-CoA synthetase, beta subunit  
+849
+	JGOLCEMA_00417	CDS	ROG6018	15459	15746	-	NA
+850
+	JGOLCEMA_00418	CDS	COG1249	15841	17274	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	JGOLCEMA_00419	CDS	COG0508	17639	18820	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	JGOLCEMA_00420	CDS	COG0567	18920	21748	-	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	JGOLCEMA_00421	CDS	COG0372	21953	23236	-	[C] Citrate synthase    
+851
+	JGOLCEMA_00422	CDS	COG2938	23348	23596	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00423	CDS	COG0479	23600	24307	-	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	JGOLCEMA_00424	CDS	COG1053	24428	26191	-	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	JGOLCEMA_00425	CDS	COG2142	26194	26535	-	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+	JGOLCEMA_00426	CDS	COG2009	26529	26906	-	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	JGOLCEMA_00427	CDS	COG1249	27185	28654	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+852
+	JGOLCEMA_00428	CDS	COG0678	28837	29574	-	[O] Peroxiredoxin     
+853
+	JGOLCEMA_00429	CDS	COG0620	29853	32129	-	[E] Methionine synthase II (cobalamin-independent)  
+	JGOLCEMA_00430	CDS	COG0685	32267	33145	-	[E] 5,10-methylenetetrahydrofolate reductase    
+854
+	JGOLCEMA_00431	CDS	COG0254	33345	33620	+	[J] Ribosomal protein L31   
+	JGOLCEMA_00432	CDS	COG0257	33620	33745	+	[J] Ribosomal protein L36   
+855
+	JGOLCEMA_00433	CDS	COG0053	33957	34157	-	[P] Predicted Co/Zn/Cd cation transporters  
+856
+	JGOLCEMA_00434	CDS	COG2021	34307	35446	+	[E] Homoserine acetyltransferase    
+	JGOLCEMA_00435	CDS	COG0500	35443	36024	+	[QR] SAM-dependent methyltransferases    
+857
+	JGOLCEMA_00436	CDS	ROG0077	36141	36977	+	NA
+858
+	JGOLCEMA_00437	CDS	COG0231	37027	37587	-	[J] Translation elongation factor P (EF-P)/translation initiation
+	JGOLCEMA_00438	CDS	COG4394	37630	38787	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00439	CDS	NA	38800	39078	-	NA
+859
+	JGOLCEMA_00440	CDS	COG0324	39432	40373	+	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+	JGOLCEMA_00441	CDS	COG0590	40377	41096	+	[FJ] Cytosine/adenosine deaminases    
+	JGOLCEMA_00442	CDS	COG2839	41101	41589	+	[S] Uncharacterized protein conserved in bacteria 
+860
+	JGOLCEMA_00443	CDS	COG0566	41655	42407	+	[J] rRNA methylases    
+861
+	JGOLCEMA_00444	CDS	COG2233	42469	42660	-	[F] Xanthine/uracil permeases    
+	JGOLCEMA_00445	CDS	COG2233	42614	43861	-	[F] Xanthine/uracil permeases    
+	JGOLCEMA_00446	CDS	NA	43876	44130	-	NA
+862
+	JGOLCEMA_00447	CDS	COG0329	44168	45043	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+	JGOLCEMA_00448	CDS	COG3317	45121	46248	+	[M] Uncharacterized lipoprotein    
+863
+	JGOLCEMA_00449	CDS	NA	46305	47237	-	NA
+864
+	JGOLCEMA_01803	CDS	NA	988	1422	-	NA
+865
+	JGOLCEMA_01804	CDS	COG3676	1759	2412	+	[L] Transposase and inactivated derivatives  
+866
+	JGOLCEMA_01805	CDS	NA	3099	5324	+	NA
+867
+	JGOLCEMA_01254	CDS	COG3203	583	1572	-	[M] Outer membrane protein (porin)  
+868
+	JGOLCEMA_01255	CDS	COG2337	2817	3140	-	[T] Growth inhibitor    
+	JGOLCEMA_01256	CDS	COG2336	3128	3367	-	[T] Growth regulator    
+869
+	JGOLCEMA_01257	CDS	COG0101	3490	4287	-	[J] Pseudouridylate synthase    
+870
+	JGOLCEMA_01258	CDS	COG1451	5084	5776	-	[R] Predicted metal-dependent hydrolase   
+	JGOLCEMA_01259	CDS	COG0204	5773	6516	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	JGOLCEMA_01260	CDS	COG0241	6546	7109	-	[E] Histidinol phosphatase and related phosphatases 
+871
+	JGOLCEMA_01261	CDS	COG0438	7385	7744	-	[M] Glycosyltransferase     
+	JGOLCEMA_01262	CDS	COG0438	7914	8438	-	[M] Glycosyltransferase     
+872
+	JGOLCEMA_01263	CDS	COG0814	8589	9830	-	[E] Amino acid permeases   
+873
+	JGOLCEMA_01264	CDS	COG2227	9994	10710	+	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+	JGOLCEMA_01265	CDS	COG2334	10747	11664	+	[R] Putative homoserine kinase type II (protein
+874
+	JGOLCEMA_01266	CDS	COG3265	12003	12521	-	[G] Gluconate kinase    
+	JGOLCEMA_01267	CDS	COG2610	12541	13926	-	[GE] H+/gluconate symporter and related permeases 
+875
+	JGOLCEMA_01268	CDS	COG1178	14319	15860	+	[P] ABC-type Fe3+ transport system, permease component
+	JGOLCEMA_01269	CDS	ROG1631	15889	16488	+	NA
+	JGOLCEMA_01270	CDS	COG1057	16485	17078	+	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	JGOLCEMA_01271	CDS	COG0799	17137	17523	+	[S] Uncharacterized homolog of plant Iojap protein
+	JGOLCEMA_01272	CDS	COG1576	17541	18047	+	[S] Uncharacterized conserved protein   
+876
+	JGOLCEMA_01273	CDS	COG2924	18120	18386	+	[CO] Fe-S cluster protector protein  
+877
+	JGOLCEMA_01274	CDS	COG0670	18543	19226	+	[R] Integral membrane protein, interacts with FtsH
+878
+	JGOLCEMA_01275	CDS	COG0669	19350	19862	+	[H] Phosphopantetheine adenylyltransferase    
+	JGOLCEMA_01276	CDS	COG0564	19888	20547	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+879
+	JGOLCEMA_01905	CDS	NA	286	801	-	NA
+880
+	JGOLCEMA_01906	CDS	NA	952	1482	-	NA
+	JGOLCEMA_01907	CDS	NA	1507	1773	-	NA
+881
+	JGOLCEMA_01697	CDS	COG0733	335	1870	+	[R] Na+-dependent transporters of the SNF family
+	JGOLCEMA_01698	CDS	NA	1867	1959	+	NA
+882
+	JGOLCEMA_01699	CDS	COG0019	1995	3239	-	[E] Diaminopimelate decarboxylase    
+	JGOLCEMA_01700	CDS	COG5567	3250	3420	-	[N] Predicted small periplasmic lipoprotein  
+883
+	JGOLCEMA_01701	CDS	COG1965	3491	3814	+	[P] Protein implicated in iron transport, frataxin
+	JGOLCEMA_01702	CDS	COG4316	3845	4264	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01703	CDS	COG1854	4286	4792	+	[T] LuxS protein involved in autoinducer AI2
+	JGOLCEMA_01704	CDS	COG0749	4938	7754	+	[L] DNA polymerase I - 3'-5' exonuclease
+884
+	JGOLCEMA_01442	CDS	ROG8491	247	765	+	NA
+885
+	JGOLCEMA_01443	CDS	COG3271	1042	1734	-	[R] Predicted double-glycine peptidase   
+886
+	JGOLCEMA_01444	CDS	ROG2021	2040	2597	-	NA
+887
+	JGOLCEMA_01445	CDS	NA	2842	3000	-	NA
+	JGOLCEMA_01446	CDS	COG0454	2997	3839	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+888
+	JGOLCEMA_01447	CDS	COG0540	4078	4998	+	[F] Aspartate carbamoyltransferase, catalytic chain  
+	JGOLCEMA_01448	CDS	COG1781	5008	5466	+	[F] Aspartate carbamoyltransferase, regulatory subunit  
+889
+	JGOLCEMA_01449	CDS	COG4094	5537	6196	+	[S] Predicted membrane protein   
+890
+	JGOLCEMA_01450	CDS	COG1652	6259	7476	-	[S] Uncharacterized protein containing LysM domain 
+891
+	JGOLCEMA_01451	CDS	COG0242	7660	8163	+	[J] N-formylmethionyl-tRNA deformylase    
+	JGOLCEMA_01452	CDS	COG0223	8250	9176	+	[J] Methionyl-tRNA formyltransferase    
+	JGOLCEMA_01453	CDS	COG0144	9255	10514	+	[J] tRNA and rRNA cytosine-C5-methylases  
+	JGOLCEMA_01454	CDS	ROG0119	10480	11079	+	NA
+	JGOLCEMA_01455	CDS	COG5000	11079	13199	+	[T] Signal transduction histidine kinase involved in
+	JGOLCEMA_01456	CDS	COG2204	13192	14469	+	[T] Response regulator containing CheY-like receiver, AAA-type
+892
+	JGOLCEMA_01182	CDS	COG0484	373	1494	+	[O] DnaJ-class molecular chaperone with C-terminal Zn
+893
+	JGOLCEMA_01183	CDS	COG1297	1690	3708	+	[S] Predicted membrane protein   
+894
+	JGOLCEMA_01184	CDS	COG1898	3751	4323	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	JGOLCEMA_01185	CDS	COG1209	4566	5228	-	[M] dTDP-glucose pyrophosphorylase    
+	JGOLCEMA_01186	CDS	COG1088	5334	6374	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	JGOLCEMA_01187	CDS	COG1087	6375	7016	-	[M] UDP-glucose 4-epimerase    
+	JGOLCEMA_01188	CDS	COG3392	7074	7418	-	[L] Adenine-specific DNA methylase   
+	JGOLCEMA_01189	CDS	COG0270	7583	8413	-	[L] Site-specific DNA methylase   
+	JGOLCEMA_01190	CDS	COG2183	8444	10717	-	[K] Transcriptional accessory protein   
+895
+	JGOLCEMA_01191	CDS	COG1134	10781	11431	-	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+	JGOLCEMA_01192	CDS	COG1682	11428	12225	-	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+	JGOLCEMA_01193	CDS	COG3524	12225	13388	-	[M] Capsule polysaccharide export protein  
+	JGOLCEMA_01194	CDS	COG1596	13403	14578	-	[M] Periplasmic protein involved in polysaccharide export
+896
+	JGOLCEMA_01195	CDS	ROG3014	14926	15846	+	NA
+	JGOLCEMA_01196	CDS	COG1083	15850	16536	+	[M] CMP-N-acetylneuraminic acid synthetase   
+	JGOLCEMA_01197	CDS	COG2089	16537	17586	+	[M] Sialic acid synthase   
+897
+	JGOLCEMA_01198	CDS	ROG6398	17738	20851	+	NA
+898
+	JGOLCEMA_01199	CDS	COG0110	20932	21567	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+899
+	JGOLCEMA_01749	CDS	COG2838	186	2411	-	[C] Monomeric isocitrate dehydrogenase   
+900
+	JGOLCEMA_01750	CDS	NA	2845	3960	+	NA
+901
+	JGOLCEMA_01751	CDS	COG3909	4124	4582	-	[C] Cytochrome c556    
+902
+	JGOLCEMA_01752	CDS	COG4221	4701	5522	+	[R] Short-chain alcohol dehydrogenase of unknown specificity
+903
+	JGOLCEMA_01753	CDS	NA	5573	6019	-	NA
+904
+	JGOLCEMA_01592	CDS	COG2239	267	1721	-	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+905
+	JGOLCEMA_01593	CDS	COG3468	1953	6425	-	[MU] Type V secretory pathway, adhesin AidA
+906
+	JGOLCEMA_01594	CDS	COG0491	6732	7490	-	[R] Zn-dependent hydrolases, including glyoxylases  
+907
+	JGOLCEMA_01595	CDS	NA	7585	11547	-	NA
+908
+	JGOLCEMA_01009	CDS	COG0665	403	2022	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+909
+	JGOLCEMA_01010	CDS	COG3536	2142	2510	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01011	CDS	COG2226	2553	3290	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+910
+	JGOLCEMA_01012	CDS	NA	3510	3989	+	NA
+911
+	JGOLCEMA_01013	CDS	COG0801	4116	4610	-	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	JGOLCEMA_01014	CDS	COG3094	4620	4994	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01015	CDS	NA	5048	5614	-	NA
+912
+	JGOLCEMA_01016	CDS	COG1923	5699	5992	-	[R] Uncharacterized host factor I protein 
+913
+	JGOLCEMA_01017	CDS	COG1686	6121	7059	-	[M] D-alanyl-D-alanine carboxypeptidase    
+914
+	JGOLCEMA_01018	CDS	COG1225	7380	7820	+	[O] Peroxiredoxin     
+	JGOLCEMA_01019	CDS	COG4974	7872	8747	+	[L] Site-specific recombinase XerD   
+915
+	JGOLCEMA_01020	CDS	COG2906	8919	9119	+	[P] Bacterioferritin-associated ferredoxin    
+916
+	JGOLCEMA_01021	CDS	ROG4471	9285	9518	+	NA
+917
+	JGOLCEMA_01022	CDS	COG1091	10233	11108	-	[M] dTDP-4-dehydrorhamnose reductase    
+918
+	JGOLCEMA_01023	CDS	COG0152	11307	12170	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	JGOLCEMA_01024	CDS	COG1185	12407	14527	+	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+919
+	JGOLCEMA_01025	CDS	COG2836	14600	15268	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01026	CDS	NA	15282	15578	-	NA
+920
+	JGOLCEMA_01027	CDS	COG0253	15716	16567	+	[E] Diaminopimelate epimerase    
+	JGOLCEMA_01028	CDS	ROG1809	16564	17169	+	NA
+921
+	JGOLCEMA_01029	CDS	COG0031	17363	18295	+	[E] Cysteine synthase    
+922
+	JGOLCEMA_01030	CDS	COG0697	18758	19663	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+923
+	JGOLCEMA_01031	CDS	COG0681	20077	21096	-	[U] Signal peptidase I   
+	JGOLCEMA_01032	CDS	COG0481	21241	23034	-	[M] Membrane GTPase LepA   
+924
+	JGOLCEMA_01033	CDS	COG0775	23176	23877	-	[F] Nucleoside phosphorylase    
+925
+	JGOLCEMA_01792	CDS	COG0697	386	1240	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+926
+	JGOLCEMA_01793	CDS	NA	1760	2992	+	NA
+927
+	JGOLCEMA_01794	CDS	COG0077	3070	4158	+	[E] Prephenate dehydratase    
+	JGOLCEMA_01795	CDS	COG1381	4189	4983	+	[L] Recombinational DNA repair protein (RecF pathway)
+	JGOLCEMA_01796	CDS	COG0854	5007	5735	+	[H] Pyridoxal phosphate biosynthesis protein  
+928
+	JGOLCEMA_00948	CDS	COG2244	362	1780	-	[R] Membrane protein involved in the export
+929
+	JGOLCEMA_00949	CDS	COG0117	1975	3084	-	[H] Pyrimidine deaminase    
+	JGOLCEMA_00950	CDS	COG1327	3117	3581	-	[K] Predicted transcriptional regulator, consists of a
+	JGOLCEMA_00951	CDS	COG0121	3610	4452	-	[R] Predicted glutamine amidotransferase   
+930
+	JGOLCEMA_00952	CDS	COG0337	5419	6498	-	[E] 3-dehydroquinate synthetase    
+	JGOLCEMA_00953	CDS	COG0703	6578	7090	-	[E] Shikimate kinase    
+931
+	JGOLCEMA_00954	CDS	COG4796	8268	10553	-	[U] Type II secretory pathway, component HofQ
+	JGOLCEMA_00955	CDS	COG3168	10572	11117	-	[NU] Tfp pilus assembly protein PilP 
+	JGOLCEMA_00956	CDS	COG3167	11135	11782	-	[NU] Tfp pilus assembly protein PilO 
+	JGOLCEMA_00957	CDS	COG3166	11783	12382	-	[NU] Tfp pilus assembly protein PilN 
+	JGOLCEMA_00958	CDS	COG4972	12385	13500	-	[NU] Tfp pilus assembly protein, ATPase PilM
+932
+	JGOLCEMA_00959	CDS	COG5009	13652	16048	+	[M] Membrane carboxypeptidase/penicillin-binding protein   
+933
+	JGOLCEMA_00960	CDS	COG0218	16169	16798	-	[R] Predicted GTPase    
+934
+	JGOLCEMA_00961	CDS	COG2863	17004	17627	+	[C] Cytochrome c553    
+935
+	JGOLCEMA_00962	CDS	COG1333	17904	19856	+	[O] ResB protein required for cytochrome c
+	JGOLCEMA_00963	CDS	COG0755	19849	21036	+	[O] ABC-type transport system involved in cytochrome
+936
+	JGOLCEMA_00964	CDS	COG0533	21153	22217	+	[O] Metal-dependent proteases with possible chaperone activity
+937
+	JGOLCEMA_00965	CDS	COG1560	22261	23157	-	[M] Lauroyl/myristoyl acyltransferase    
+938
+	JGOLCEMA_00966	CDS	NA	23503	24672	+	NA
+			NA				NA
+939
+	JGOLCEMA_01831	CDS	COG3210	90	938	+	[U] Large exoproteins involved in heme utilization
+	JGOLCEMA_01832	CDS	COG3210	948	1976	+	[U] Large exoproteins involved in heme utilization
+940
+	JGOLCEMA_01833	CDS	COG3792	2443	2853	+	[S] Uncharacterized protein conserved in bacteria 
+941
+	JGOLCEMA_01834	CDS	NA	2965	3576	+	NA
+	JGOLCEMA_01835	CDS	NA	3579	4514	+	NA
+942
+	JGOLCEMA_00526	CDS	COG1012	255	1697	-	[C] NAD-dependent aldehyde dehydrogenases   
+943
+	JGOLCEMA_00527	CDS	NA	1941	2330	-	NA
+944
+	JGOLCEMA_00528	CDS	COG2207	2538	3455	-	[K] AraC-type DNA-binding domain-containing proteins  
+945
+	JGOLCEMA_00529	CDS	COG1127	3628	4428	+	[Q] ABC-type transport system involved in resistance
+	JGOLCEMA_00530	CDS	COG0767	4476	5252	+	[Q] ABC-type transport system involved in resistance
+	JGOLCEMA_00531	CDS	COG1463	5303	5797	+	[Q] ABC-type transport system involved in resistance
+	JGOLCEMA_00532	CDS	COG2854	5834	6424	+	[Q] ABC-type transport system involved in resistance
+	JGOLCEMA_00533	CDS	COG3113	6475	6753	+	[R] Predicted NTP binding protein (contains STAS
+	JGOLCEMA_00534	CDS	COG2853	6750	7577	+	[M] Surface lipoprotein    
+946
+	JGOLCEMA_00535	CDS	ROG5664	7702	8064	+	NA
+	JGOLCEMA_00536	CDS	COG0824	8064	8447	+	[R] Predicted thioesterase    
+	JGOLCEMA_00537	CDS	COG1999	8444	8932	+	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+947
+	JGOLCEMA_00538	CDS	COG1208	9149	9529	-	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+948
+	JGOLCEMA_00539	CDS	COG0254	9767	9982	+	[J] Ribosomal protein L31   
+949
+	JGOLCEMA_00540	CDS	COG4300	10298	10927	+	[P] Predicted permease, cadmium resistance protein 
+950
+	JGOLCEMA_00541	CDS	COG1807	11073	12734	+	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+951
+	JGOLCEMA_00542	CDS	COG0625	12851	13456	+	[O] Glutathione S-transferase    
+	JGOLCEMA_00543	CDS	COG2969	13528	13920	+	[R] Stringent starvation protein B  
+952
+	JGOLCEMA_00544	CDS	COG1610	14119	14565	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00545	CDS	COG0828	14697	14909	-	[J] Ribosomal protein S21   
+953
+	JGOLCEMA_00546	CDS	COG0741	15198	17045	-	[M] Soluble lytic murein transglycosylase and related
+954
+	JGOLCEMA_00547	CDS	COG1135	17576	18313	+	[P] ABC-type metal ion transport system, ATPase
+	JGOLCEMA_00548	CDS	COG2011	18315	19001	+	[P] ABC-type metal ion transport system, permease
+	JGOLCEMA_00549	CDS	COG1464	19160	20023	+	[P] ABC-type metal ion transport system, periplasmic
+955
+	JGOLCEMA_00550	CDS	COG0163	20086	20655	-	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+956
+	JGOLCEMA_00551	CDS	COG1475	20813	21673	+	[K] Predicted transcriptional regulators   
+957
+	JGOLCEMA_00552	CDS	COG2913	21809	22147	+	[J] Small protein A (tmRNA-binding)  
+958
+	JGOLCEMA_00553	CDS	COG3312	22515	22868	+	[C] F0F1-type ATP synthase, subunit I 
+	JGOLCEMA_00554	CDS	COG0356	22858	23724	+	[C] F0F1-type ATP synthase, subunit a 
+	JGOLCEMA_00555	CDS	COG0636	23781	24017	+	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	JGOLCEMA_00556	CDS	COG0711	24088	24558	+	[C] F0F1-type ATP synthase, subunit b 
+	JGOLCEMA_00557	CDS	COG0712	24563	25096	+	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	JGOLCEMA_00558	CDS	COG0056	25107	26654	+	[C] F0F1-type ATP synthase, alpha subunit 
+	JGOLCEMA_00559	CDS	COG0224	26679	27554	+	[C] F0F1-type ATP synthase, gamma subunit 
+	JGOLCEMA_00560	CDS	COG0055	27592	28989	+	[C] F0F1-type ATP synthase, beta subunit 
+	JGOLCEMA_00561	CDS	COG0355	29000	29422	+	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+959
+	JGOLCEMA_00562	CDS	COG0752	29827	30732	+	[J] Glycyl-tRNA synthetase, alpha subunit  
+960
+	JGOLCEMA_00563	CDS	COG3171	30809	31219	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00564	CDS	COG0751	31240	33303	+	[J] Glycyl-tRNA synthetase, beta subunit  
+	JGOLCEMA_00565	CDS	COG1215	33320	34366	+	[M] Glycosyltransferases, probably involved in cell wall
+	JGOLCEMA_00566	CDS	COG3306	34408	35235	+	[M] Glycosyltransferase involved in LPS biosynthesis 
+	JGOLCEMA_00567	CDS	NA	35247	35342	+	NA
+	JGOLCEMA_00568	CDS	COG3306	35384	36226	+	[M] Glycosyltransferase involved in LPS biosynthesis 
+961
+	JGOLCEMA_00569	CDS	COG1385	38579	39304	-	[S] Uncharacterized protein conserved in bacteria 
+962
+	JGOLCEMA_00570	CDS	COG0483	39513	40307	+	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+963
+	JGOLCEMA_00571	CDS	NA	40526	40801	-	NA
+			NA				NA
+964
+	JGOLCEMA_01754	CDS	COG0382	112	1002	+	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+965
+	JGOLCEMA_01755	CDS	COG1762	1187	1636	+	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+	JGOLCEMA_01756	CDS	COG1493	1638	2600	+	[T] Serine kinase of the HPr protein,
+	JGOLCEMA_01757	CDS	COG1660	2581	3435	+	[R] Predicted P-loop-containing kinase   
+966
+	JGOLCEMA_01758	CDS	COG1161	3516	4457	+	[R] Predicted GTPases    
+	JGOLCEMA_01759	CDS	COG1386	4558	5160	+	[K] Predicted transcriptional regulator containing the HTH
+967
+	JGOLCEMA_01760	CDS	COG0497	5344	7017	+	[L] ATPase involved in DNA repair 
+968
+	JGOLCEMA_01761	tRNA	NA	7127	7203	+	NA
+	JGOLCEMA_01762	tRNA	NA	7221	7295	+	NA
+969
+	JGOLCEMA_00675	CDS	COG0505	701	1834	+	[EF] Carbamoylphosphate synthase small subunit  
+	JGOLCEMA_00676	CDS	COG0346	1880	2017	+	[E] Lactoylglutathione lyase and related lyases 
+970
+	JGOLCEMA_00677	CDS	COG2852	2578	2967	+	[S] Uncharacterized protein conserved in bacteria 
+971
+	JGOLCEMA_00678	CDS	COG4915	3815	4426	+	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+	JGOLCEMA_00679	CDS	COG0458	4466	7681	+	[EF] Carbamoylphosphate synthase large subunit (split gene
+972
+	JGOLCEMA_00680	CDS	COG0583	7911	8810	-	[K] Transcriptional regulator    
+973
+	JGOLCEMA_00681	CDS	COG2249	9049	9627	+	[R] Putative NADPH-quinone reductase (modulator of drug
+974
+	JGOLCEMA_00682	CDS	COG0809	10101	11141	-	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+975
+	JGOLCEMA_00683	CDS	COG0511	11497	11949	+	[I] Biotin carboxyl carrier protein  
+	JGOLCEMA_00684	CDS	COG0439	12063	13424	+	[I] Biotin carboxylase    
+	JGOLCEMA_00685	CDS	COG2264	13437	14429	+	[J] Ribosomal protein L11 methylase  
+	JGOLCEMA_00686	CDS	COG1949	14447	15010	+	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+	JGOLCEMA_00687	CDS	ROG1617	15021	15293	+	NA
+976
+	JGOLCEMA_00688	CDS	COG0001	15509	16792	-	[H] Glutamate-1-semialdehyde aminotransferase    
+977
+	JGOLCEMA_00689	CDS	ROG3741	16856	17239	-	NA
+978
+	JGOLCEMA_00690	CDS	COG0621	17625	18953	+	[J] 2-methylthioadenine synthetase    
+979
+	JGOLCEMA_00691	CDS	COG1154	19038	20945	-	[HI] Deoxyxylulose-5-phosphate synthase    
+980
+	JGOLCEMA_00692	CDS	COG4973	21030	21947	-	[L] Site-specific recombinase XerC   
+981
+	JGOLCEMA_00693	CDS	COG0191	22141	23205	+	[G] Fructose/tagatose bisphosphate aldolase   
+982
+	JGOLCEMA_00694	CDS	ROG6301	23363	24184	+	NA
+983
+	JGOLCEMA_00695	CDS	COG1214	24323	25000	+	[O] Inactive homolog of metal-dependent proteases, putative
+	JGOLCEMA_00696	CDS	COG0456	24997	25437	+	[R] Acetyltransferases     
+	JGOLCEMA_00697	CDS	COG1573	25431	26168	+	[L] Uracil-DNA glycosylase    
+	JGOLCEMA_00698	CDS	COG0461	26230	26871	+	[F] Orotate phosphoribosyltransferase    
+984
+	JGOLCEMA_00699	CDS	ROG0195	26945	27379	+	NA
+	JGOLCEMA_00700	CDS	COG0548	27376	28686	+	[E] Acetylglutamate kinase    
+985
+	JGOLCEMA_00701	CDS	COG1505	28885	30900	+	[E] Serine proteases of the peptidase family
+986
+	JGOLCEMA_00702	CDS	COG2207	31014	31970	-	[K] AraC-type DNA-binding domain-containing proteins  
+987
+	JGOLCEMA_00703	CDS	COG4607	32206	33171	+	[P] ABC-type enterochelin transport system, periplasmic component
+988
+	JGOLCEMA_00704	CDS	ROG1609	34222	34545	+	NA
+989
+	JGOLCEMA_00705	CDS	NA	34659	36836	+	NA
+			NA				NA
+990
+	JGOLCEMA_01734	CDS	COG4397	98	1006	-	[R] Mu-like prophage major head subunit gpT
+	JGOLCEMA_01735	CDS	COG4388	1006	2067	-	[R] Mu-like prophage I protein  
+991
+	JGOLCEMA_01736	CDS	COG5005	2298	2714	-	[R] Mu-like prophage protein gpG  
+	JGOLCEMA_01737	CDS	COG2369	2842	4167	-	[S] Uncharacterized protein, homolog of phage Mu
+	JGOLCEMA_01738	CDS	COG4383	4154	5722	-	[S] Mu-like prophage protein gp29  
+	JGOLCEMA_01739	CDS	ROG3592	5722	7344	-	NA
+992
+	JGOLCEMA_01740	CDS	NA	7356	7868	+	NA
+993
+	JGOLCEMA_00151	CDS	COG0029	4	882	+	[H] Aspartate oxidase    
+994
+	JGOLCEMA_00152	CDS	COG0637	1060	1725	-	[R] Predicted phosphatase/phosphohexomutase    
+	JGOLCEMA_00153	CDS	COG1554	1738	3996	-	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	JGOLCEMA_00154	CDS	COG2017	4230	5240	-	[G] Galactose mutarotase and related enzymes 
+	JGOLCEMA_00155	CDS	ROG7174	5244	6599	-	NA
+995
+	JGOLCEMA_00156	CDS	COG0488	6986	8662	+	[R] ATPase components of ABC transporters with
+996
+	JGOLCEMA_00157	CDS	COG1267	8722	9207	-	[I] Phosphatidylglycerophosphatase A and related proteins 
+	JGOLCEMA_00158	CDS	COG0611	9200	10156	-	[H] Thiamine monophosphate kinase   
+997
+	JGOLCEMA_00159	CDS	COG2885	11043	11771	-	[M] Outer membrane protein and related peptidoglycan-associated
+998
+	JGOLCEMA_00160	CDS	COG0583	12135	13085	+	[K] Transcriptional regulator    
+999
+	JGOLCEMA_00161	CDS	COG0664	13198	13932	-	[T] cAMP-binding proteins - catabolite gene activator
+1000
+	JGOLCEMA_00162	CDS	COG0635	14137	15558	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+1001
+	JGOLCEMA_00163	CDS	COG0306	15911	17485	-	[P] Phosphate/sulphate permeases    
+1002
+	JGOLCEMA_00164	CDS	COG2377	17810	18910	+	[O] Predicted molecular chaperone distantly related to
+1003
+	JGOLCEMA_00165	CDS	NA	19029	19970	+	NA
+	JGOLCEMA_00166	CDS	NA	19974	21242	+	NA
+	JGOLCEMA_00167	CDS	NA	21245	21562	+	NA
+1004
+	JGOLCEMA_00168	CDS	NA	21696	22325	+	NA
+	JGOLCEMA_00169	CDS	COG2834	22306	22761	+	[M] Outer membrane lipoprotein-sorting protein  
+1005
+	JGOLCEMA_00170	CDS	NA	22982	23341	+	NA
+1006
+	JGOLCEMA_00171	CDS	COG3024	23556	24326	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00172	CDS	ROG5580	24323	24868	+	NA
+1007
+	JGOLCEMA_00173	CDS	NA	25156	25407	-	NA
+1008
+	JGOLCEMA_00174	CDS	COG5240	26153	26383	+	[U] Vesicle coat complex COPI, gamma subunit
+1009
+	JGOLCEMA_00175	CDS	COG0271	26803	27204	+	[T] Stress-induced morphogen (activity unknown)  
+1010
+	JGOLCEMA_00176	CDS	NA	27371	27865	+	NA
+1011
+	JGOLCEMA_00177	CDS	NA	27985	29118	+	NA
+1012
+	JGOLCEMA_00178	CDS	NA	29205	29480	-	NA
+	JGOLCEMA_00179	CDS	NA	29497	30201	-	NA
+1013
+	JGOLCEMA_00180	CDS	COG2827	30650	30925	-	[L] Predicted endonuclease containing a URI domain
+	JGOLCEMA_00181	CDS	NA	30922	32157	-	NA
+1014
+	JGOLCEMA_00182	CDS	COG0174	32361	33779	-	[E] Glutamine synthetase    
+1015
+	JGOLCEMA_00183	CDS	COG0169	34090	34899	+	[E] Shikimate 5-dehydrogenase    
+	JGOLCEMA_00184	CDS	COG0744	34902	35603	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+1016
+	JGOLCEMA_00185	tRNA	NA	35928	36003	-	NA
+1017
+	JGOLCEMA_00186	CDS	COG1137	36194	36928	-	[R] ABC-type (unclassified) transport system, ATPase component
+	JGOLCEMA_00187	CDS	COG1934	37002	37532	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00188	CDS	COG3117	37513	38094	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00189	CDS	COG1778	38091	38627	-	[R] Low specificity phosphatase (HAD superfamily) 
+	JGOLCEMA_00190	CDS	COG0794	38845	39819	-	[M] Predicted sugar phosphate isomerase involved in
+1018
+	JGOLCEMA_00191	CDS	COG0176	39916	40971	+	[G] Transaldolase     
+1019
+	JGOLCEMA_00192	CDS	NA	41124	41414	+	NA
+	JGOLCEMA_00193	CDS	COG0008	41431	42318	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+1020
+	JGOLCEMA_00194	CDS	COG0042	42388	43398	-	[J] tRNA-dihydrouridine synthase    
+	JGOLCEMA_00195	CDS	COG1490	43429	43920	-	[J] D-Tyr-tRNAtyr deacylase    
+1021
+	JGOLCEMA_00196	CDS	ROG5493	43994	44752	-	NA
+1022
+	JGOLCEMA_00197	CDS	COG0760	44823	45689	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	JGOLCEMA_00198	CDS	COG0271	45738	46016	-	[T] Stress-induced morphogen (activity unknown)  
+	JGOLCEMA_00199	CDS	COG2350	46016	46306	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00200	CDS	COG2917	46309	46839	-	[D] Intracellular septation protein A  
+1023
+	JGOLCEMA_00201	CDS	COG3170	47078	49672	+	[NU] Tfp pilus assembly protein FimV 
+1024
+	JGOLCEMA_00202	CDS	COG0346	49845	50261	-	[E] Lactoylglutathione lyase and related lyases 
+	JGOLCEMA_00203	CDS	COG2956	50286	51455	-	[G] Predicted N-acetylglucosaminyl transferase   
+	JGOLCEMA_00204	CDS	COG5416	51466	51780	-	[S] Uncharacterized integral membrane protein  
+1025
+	JGOLCEMA_00205	CDS	COG0115	52090	53088	+	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+1026
+	JGOLCEMA_00206	CDS	COG0623	53273	54058	-	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+1027
+	JGOLCEMA_00207	CDS	COG2171	54213	55034	-	[E] Tetrahydrodipicolinate N-succinyltransferase    
+1028
+	JGOLCEMA_00208	CDS	COG0166	55201	56844	-	[G] Glucose-6-phosphate isomerase    
+1029
+	JGOLCEMA_00209	CDS	COG1459	57354	58586	+	[NU] Type II secretory pathway, component PulF
+	JGOLCEMA_00210	CDS	COG1989	58660	59520	+	[NOU] Type II secretory pathway, prepilin signal
+	JGOLCEMA_00211	CDS	COG0237	59522	60154	+	[H] Dephospho-CoA kinase    
+	JGOLCEMA_00212	CDS	COG3024	60147	60356	+	[S] Uncharacterized protein conserved in bacteria 
+1030
+	JGOLCEMA_00213	CDS	COG2804	60441	62117	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+1031
+	JGOLCEMA_00214	tRNA	NA	62516	62587	-	NA
+	JGOLCEMA_00215	CDS	COG2707	62607	63053	-	[S] Predicted membrane protein   
+	JGOLCEMA_00216	CDS	COG0142	63058	64032	-	[H] Geranylgeranyl pyrophosphate synthase   
+1032
+	JGOLCEMA_00217	CDS	COG0261	64256	64564	+	[J] Ribosomal protein L21   
+	JGOLCEMA_00218	CDS	COG0211	64589	64861	+	[J] Ribosomal protein L27   
+1033
+	JGOLCEMA_00219	CDS	COG0654	65249	66433	+	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+1034
+	JGOLCEMA_01932	CDS	NA	219	506	+	NA
+1035
+	JGOLCEMA_01933	CDS	NA	648	896	+	NA
+1036
+	JGOLCEMA_01763	CDS	COG4771	1457	4288	-	[P] Outer membrane receptor for ferrienterochelin and
+	JGOLCEMA_01764	CDS	NA	4285	6528	-	NA
+1037
+	JGOLCEMA_01613	CDS	COG0188	349	3099	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	JGOLCEMA_01614	CDS	COG1076	3197	3697	-	[O] DnaJ-domain-containing proteins 1   
+1038
+	JGOLCEMA_01615	CDS	COG3036	3779	4000	+	[S] Uncharacterized protein conserved in bacteria 
+1039
+	JGOLCEMA_01616	CDS	COG0316	3960	4280	-	[S] Uncharacterized conserved protein   
+	JGOLCEMA_01617	CDS	COG0822	4367	4753	-	[C] NifU homolog involved in Fe-S cluster
+1040
+	JGOLCEMA_01618	CDS	NA	4819	4947	-	NA
+1041
+	JGOLCEMA_01619	CDS	COG1104	5014	6228	-	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+	JGOLCEMA_01620	CDS	COG1959	6257	6703	-	[K] Predicted transcriptional regulator   
+1042
+	JGOLCEMA_01621	CDS	COG1304	6994	8166	+	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+1043
+	JGOLCEMA_01622	CDS	NA	8310	10652	-	NA
+1044
+	JGOLCEMA_01908	CDS	COG3210	115	1530	+	[U] Large exoproteins involved in heme utilization
+	JGOLCEMA_01909	CDS	ROG0459	1535	1918	+	NA
+1045
+	JGOLCEMA_01481	CDS	COG1802	186	902	+	[K] Transcriptional regulators    
+1046
+	JGOLCEMA_01482	CDS	COG2431	1051	1953	+	[S] Predicted membrane protein   
+	JGOLCEMA_01483	CDS	COG1349	1996	2769	+	[KG] Transcriptional regulators of sugar metabolism 
+1047
+	JGOLCEMA_01484	CDS	COG0008	2848	4569	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+1048
+	JGOLCEMA_01485	CDS	COG0189	4662	5618	+	[HJ] Glutathione synthase/Ribosomal protein S6 modification enzyme
+1049
+	JGOLCEMA_01486	CDS	COG0818	5930	6313	+	[M] Diacylglycerol kinase    
+1050
+	JGOLCEMA_01487	CDS	COG2847	6606	7079	+	[S] Uncharacterized protein conserved in bacteria 
+1051
+	JGOLCEMA_01488	CDS	COG0482	7205	8308	+	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+1052
+	JGOLCEMA_01489	CDS	COG0318	8379	10049	+	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+1053
+	JGOLCEMA_01490	CDS	COG0504	10161	11795	+	[F] CTP synthase (UTP-ammonia lyase)  
+1054
+	JGOLCEMA_01491	CDS	COG3039	12044	12328	+	[L] Transposase and inactivated derivatives, IS5 family
+1055
+	JGOLCEMA_01806	CDS	ROG2043	902	1510	+	NA
+1056
+	JGOLCEMA_01807	tRNA	NA	4007	4082	-	NA
+	JGOLCEMA_01808	tRNA	NA	4088	4164	-	NA
+			NA				NA
+1057
+	JGOLCEMA_01519	CDS	COG0739	615	1907	-	[M] Membrane proteins related to metalloendopeptidases 
+1058
+	JGOLCEMA_01520	CDS	COG4255	1984	2952	+	[S] Uncharacterized protein conserved in bacteria 
+1059
+	JGOLCEMA_01521	CDS	ROG3350	3153	4586	-	NA
+1060
+	JGOLCEMA_01522	CDS	COG3468	4861	6720	-	[MU] Type V secretory pathway, adhesin AidA
+1061
+	JGOLCEMA_01523	CDS	NA	8473	8718	-	NA
+1062
+	JGOLCEMA_01524	CDS	COG1981	8835	9260	+	[S] Predicted membrane protein   
+	JGOLCEMA_01525	CDS	COG2954	9272	9748	+	[S] Uncharacterized protein conserved in bacteria 
+1063
+	JGOLCEMA_01526	CDS	COG0262	10098	10586	-	[H] Dihydrofolate reductase    
+	JGOLCEMA_01527	CDS	COG0722	10654	11709	-	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+1064
+	JGOLCEMA_01528	CDS	NA	11918	12109	-	NA
+1065
+	JGOLCEMA_01529	CDS	NA	12376	12633	+	NA
+1066
+	JGOLCEMA_00450	CDS	ROG0823	305	1498	-	NA
+	JGOLCEMA_00451	CDS	COG2845	1495	2478	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_00452	CDS	COG1696	2489	3925	-	[M] Predicted membrane protein involved in D-alanine
+1067
+	JGOLCEMA_00453	CDS	COG2608	4554	4766	+	[P] Copper chaperone    
+1068
+	JGOLCEMA_00454	CDS	COG4797	4914	6497	+	[R] Predicted regulatory domain of a methyltransferase
+1069
+	JGOLCEMA_00455	CDS	NA	6579	7676	+	NA
+1070
+	JGOLCEMA_00456	CDS	COG1929	7790	8905	+	[G] Glycerate kinase    
+1071
+	JGOLCEMA_00457	CDS	COG0394	9030	9485	+	[T] Protein-tyrosine-phosphatase     
+	JGOLCEMA_00458	CDS	COG0735	9556	10032	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	JGOLCEMA_00459	CDS	COG0523	10020	10946	+	[R] Putative GTPases (G3E family)  
+	JGOLCEMA_00460	CDS	COG0652	11011	11565	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+1072
+	JGOLCEMA_00461	CDS	COG0037	11804	12763	-	[D] Predicted ATPase of the PP-loop superfamily
+1073
+	JGOLCEMA_00462	CDS	COG0354	12856	13722	-	[R] Predicted aminomethyltransferase related to GcvT 
+	JGOLCEMA_00463	CDS	COG0251	13754	14116	-	[J] Putative translation initiation inhibitor, yjgF family
+1074
+	JGOLCEMA_00464	CDS	COG2606	14191	14670	+	[S] Uncharacterized conserved protein   
+	JGOLCEMA_00465	CDS	COG3671	14692	15414	+	[S] Predicted membrane protein   
+	JGOLCEMA_00466	CDS	ROG3253	15416	16291	+	NA
+1075
+	JGOLCEMA_00467	CDS	COG1027	16363	17760	-	[E] Aspartate ammonia-lyase    
+1076
+	JGOLCEMA_00468	CDS	COG2353	18190	18753	-	[S] Uncharacterized conserved protein   
+1077
+	JGOLCEMA_00469	CDS	COG0473	18916	19986	-	[CE] Isocitrate/isopropylmalate dehydrogenase    
+	JGOLCEMA_00470	CDS	NA	20020	20544	-	NA
+	JGOLCEMA_00471	CDS	NA	20590	20751	-	NA
+	JGOLCEMA_00472	CDS	COG0270	20767	21201	-	[L] Site-specific DNA methylase   
+	JGOLCEMA_00473	CDS	COG0270	21216	22037	-	[L] Site-specific DNA methylase   
+1078
+	JGOLCEMA_00474	CDS	COG0066	22212	22973	-	[E] 3-isopropylmalate dehydratase small subunit  
+	JGOLCEMA_00475	CDS	ROG7969	22915	23169	-	NA
+1079
+	JGOLCEMA_00476	CDS	COG0065	23266	24675	-	[E] 3-isopropylmalate dehydratase large subunit  
+1080
+	JGOLCEMA_00477	CDS	ROG0062	24935	26284	+	NA
+1081
+	JGOLCEMA_00478	CDS	COG2003	26407	27084	+	[L] DNA repair proteins   
+1082
+	JGOLCEMA_00479	CDS	COG1636	27157	27882	+	[S] Uncharacterized protein conserved in bacteria 
+1083
+	JGOLCEMA_00480	CDS	ROG4973	28035	29315	+	NA
+	JGOLCEMA_00481	CDS	COG2262	29320	30498	+	[R] GTPases     
+	JGOLCEMA_00482	CDS	COG2217	30495	32966	+	[P] Cation transport ATPase   
+1084
+	JGOLCEMA_00483	CDS	COG0543	33636	34412	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+1085
+	JGOLCEMA_00484	CDS	ROG3520	34601	35395	-	NA
+	JGOLCEMA_00485	CDS	COG0498	35442	36851	-	[E] Threonine synthase    
+1086
+	JGOLCEMA_00486	CDS	ROG6903	36924	37295	-	NA
+1087
+	JGOLCEMA_00487	CDS	ROG2138	37547	39016	-	NA
+1088
+	JGOLCEMA_00488	CDS	COG0583	39272	40186	+	[K] Transcriptional regulator    
+1089
+	JGOLCEMA_00489	CDS	ROG2552	40458	41150	-	NA
+1090
+	JGOLCEMA_00490	CDS	NA	41175	41396	+	NA
+1091
+	JGOLCEMA_01555	CDS	COG1262	977	1732	-	[S] Uncharacterized conserved protein   
+1092
+	JGOLCEMA_01556	CDS	COG2132	1912	2541	-	[Q] Putative multicopper oxidases   
+	JGOLCEMA_01557	CDS	COG2132	2511	3071	-	[Q] Putative multicopper oxidases   
+1093
+	JGOLCEMA_01558	CDS	COG3256	3451	5706	+	[P] Nitric oxide reductase large subunit 
+1094
+	JGOLCEMA_01559	CDS	COG0386	5885	6418	+	[O] Glutathione peroxidase    
+1095
+	JGOLCEMA_01560	CDS	COG1619	6481	7665	-	[V] Uncharacterized proteins, homologs of microcin C7
+	JGOLCEMA_01561	CDS	COG0537	7705	8109	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+1096
+	JGOLCEMA_01562	CDS	COG0328	9475	9912	-	[L] Ribonuclease HI    
+1097
+	JGOLCEMA_01563	CDS	COG3615	10041	10895	+	[P] Uncharacterized protein/domain, possibly involved in tellurite
+1098
+	JGOLCEMA_01564	CDS	NA	10945	11751	-	NA
+1099
+	JGOLCEMA_01586	CDS	COG4607	51	308	-	[P] ABC-type enterochelin transport system, periplasmic component
+1100
+	JGOLCEMA_01587	CDS	COG1629	612	2786	-	[P] Outer membrane receptor proteins, mostly Fe
+1101
+	JGOLCEMA_01588	CDS	COG0486	4867	6213	-	[R] Predicted GTPase    
+1102
+	JGOLCEMA_01589	CDS	NA	6344	6499	+	NA
+	JGOLCEMA_01590	CDS	COG5346	6496	6927	+	[S] Predicted membrane protein   
+1103
+	JGOLCEMA_01591	CDS	COG3468	7061	11431	+	[MU] Type V secretory pathway, adhesin AidA
+1104
+	JGOLCEMA_01414	CDS	COG0124	311	1606	+	[J] Histidyl-tRNA synthetase    
+	JGOLCEMA_01415	CDS	COG2976	1607	2236	+	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01416	CDS	COG1160	2237	3847	+	[R] Predicted GTPases    
+	JGOLCEMA_01417	CDS	COG2974	3878	4777	+	[L] DNA recombination-dependent growth factor C 
+	JGOLCEMA_01418	CDS	COG4642	4829	5245	+	[S] Uncharacterized protein conserved in bacteria 
+1105
+	JGOLCEMA_01419	CDS	COG0717	5311	5877	+	[F] Deoxycytidine deaminase    
+1106
+	JGOLCEMA_01420	CDS	COG3471	5941	6645	-	[S] Predicted periplasmic/secreted protein   
+1107
+	JGOLCEMA_01421	CDS	COG0438	7014	8036	+	[M] Glycosyltransferase     
+1108
+	JGOLCEMA_01422	CDS	COG1702	8175	9128	+	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+1109
+	JGOLCEMA_01423	CDS	COG2960	9239	9562	-	[S] Uncharacterized protein conserved in bacteria 
+1110
+	JGOLCEMA_01424	CDS	COG0617	9735	11096	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+1111
+	JGOLCEMA_01425	CDS	COG0608	11451	13151	-	[L] Single-stranded DNA-specific exonuclease   
+1112
+	JGOLCEMA_01426	CDS	NA	13220	13939	-	NA
+	JGOLCEMA_01427	CDS	COG3028	13986	14498	-	[S] Uncharacterized protein conserved in bacteria 
+1113
+	JGOLCEMA_01428	CDS	NA	14652	15983	+	NA
+1114
+	JGOLCEMA_01781	CDS	COG0758	21	221	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	JGOLCEMA_01782	CDS	COG2922	247	708	+	[S] Uncharacterized protein conserved in bacteria 
+1115
+	JGOLCEMA_01783	CDS	COG0550	787	3093	+	[L] Topoisomerase IA    
+1116
+	JGOLCEMA_01784	CDS	NA	3166	3861	-	NA
+	JGOLCEMA_01785	CDS	NA	3881	4432	-	NA
+1117
+	JGOLCEMA_01786	CDS	COG2932	4551	4928	+	[K] Predicted transcriptional regulator   
+1118
+	JGOLCEMA_01787	CDS	COG0742	5017	5586	+	[L] N6-adenine-specific methylase    
+1119
+	JGOLCEMA_01788	CDS	COG1145	5709	5960	+	[C] Ferredoxin     
+1120
+	JGOLCEMA_01789	tRNA	NA	6057	6140	+	NA
+	JGOLCEMA_01790	tRNA	NA	6171	6244	+	NA
+	JGOLCEMA_01791	tRNA	NA	6254	6328	+	NA
+			NA				NA
+1121
+	JGOLCEMA_01923	CDS	NA	74	697	-	NA
+	JGOLCEMA_01924	CDS	ROG4679	707	1153	-	NA
+1122
+	JGOLCEMA_01163	CDS	COG1158	470	1729	-	[K] Transcription termination factor   
+	JGOLCEMA_01164	CDS	COG0574	1948	4332	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+1123
+	JGOLCEMA_01165	CDS	COG1806	4743	5564	+	[S] Uncharacterized protein conserved in bacteria 
+1124
+	JGOLCEMA_01166	CDS	COG0546	5803	6465	-	[R] Predicted phosphatases    
+	JGOLCEMA_01167	CDS	COG2833	6478	7305	-	[S] Uncharacterized protein conserved in bacteria 
+1125
+	JGOLCEMA_01168	CDS	COG2834	7735	8358	+	[M] Outer membrane lipoprotein-sorting protein  
+1126
+	JGOLCEMA_01169	CDS	COG0687	8631	9770	+	[E] Spermidine/putrescine-binding periplasmic protein   
+1127
+	JGOLCEMA_01170	CDS	COG0463	10207	10965	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	JGOLCEMA_01171	CDS	COG0663	11006	11536	+	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+1128
+	JGOLCEMA_01172	CDS	COG4108	11705	11893	-	[J] Peptide chain release factor RF-3 
+	JGOLCEMA_01173	CDS	COG4108	11912	13507	-	[J] Peptide chain release factor RF-3 
+1129
+	JGOLCEMA_01174	CDS	COG0139	13614	14009	-	[E] Phosphoribosyl-AMP cyclohydrolase    
+	JGOLCEMA_01175	CDS	COG0107	14040	14807	-	[E] Imidazoleglycerol-phosphate synthase    
+	JGOLCEMA_01176	CDS	COG0106	14820	15557	-	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+	JGOLCEMA_01177	CDS	COG0118	15590	16228	-	[E] Glutamine amidotransferase    
+	JGOLCEMA_01178	CDS	COG0280	16359	17861	-	[C] Phosphotransacetylase     
+1130
+	JGOLCEMA_01179	CDS	COG1118	18046	19104	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	JGOLCEMA_01180	CDS	COG1178	19125	20654	-	[P] ABC-type Fe3+ transport system, permease component
+	JGOLCEMA_01181	CDS	COG1840	20710	21705	-	[P] ABC-type Fe3+ transport system, periplasmic component
+1131
+	JGOLCEMA_01543	CDS	COG1391	350	3040	-	[OT] Glutamine synthetase adenylyltransferase   
+1132
+	JGOLCEMA_01544	CDS	ROG5505	3238	3450	-	NA
+1133
+	JGOLCEMA_01545	CDS	COG4304	3587	4060	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01546	CDS	NA	4113	4394	-	NA
+1134
+	JGOLCEMA_01547	CDS	NA	4481	4804	-	NA
+1135
+	JGOLCEMA_01548	CDS	COG0167	5138	6145	-	[F] Dihydroorotate dehydrogenase    
+1136
+	JGOLCEMA_01549	CDS	COG0236	6377	6613	+	[IQ] Acyl carrier protein   
+	JGOLCEMA_01550	CDS	COG0304	6769	8016	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+1137
+	JGOLCEMA_01551	CDS	COG0385	8258	9211	-	[R] Predicted Na+-dependent transporter   
+1138
+	JGOLCEMA_01552	CDS	COG0477	9639	10856	+	[GEPR] Permeases of the major facilitator superfamily
+	JGOLCEMA_01553	CDS	NA	10853	10984	+	NA
+1139
+	JGOLCEMA_01554	CDS	COG0438	11212	12336	+	[M] Glycosyltransferase     
+1140
+	JGOLCEMA_01678	CDS	ROG5118	368	790	-	NA
+1141
+	JGOLCEMA_01679	CDS	COG1595	1225	1812	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	JGOLCEMA_01680	CDS	COG3219	1834	2580	-	[S] Uncharacterized protein conserved in bacteria 
+	JGOLCEMA_01681	CDS	COG3220	2570	3412	-	[S] Uncharacterized protein conserved in bacteria 
+1142
+	JGOLCEMA_01682	CDS	COG3767	3528	3836	-	[S] Uncharacterized low-complexity protein   
+1143
+	JGOLCEMA_01683	CDS	COG2259	3910	4359	-	[S] Predicted membrane protein   
+1144
+	JGOLCEMA_01684	CDS	COG1752	4701	5594	+	[R] Predicted esterase of the alpha-beta hydrolase
+1145
+	JGOLCEMA_01685	CDS	COG1186	5697	6800	+	[J] Protein chain release factor B 
+1146
+	JGOLCEMA_01686	CDS	NA	6693	7289	-	NA
+1147
+	JGOLCEMA_01687	CDS	NA	7710	9167	-	NA
+1148
+	JGOLCEMA_01337	CDS	COG0469	397	1869	+	[G] Pyruvate kinase    
+	JGOLCEMA_01338	CDS	NA	1887	1991	+	NA
+	JGOLCEMA_01339	CDS	COG2067	1994	3577	+	[I] Long-chain fatty acid transport protein 
+1149
+	JGOLCEMA_01340	CDS	NA	3944	4237	-	NA
+1150
+	JGOLCEMA_01341	CDS	COG1513	4761	4958	-	[P] Cyanate lyase    
+	JGOLCEMA_01342	CDS	COG2032	4969	5985	-	[P] Cu/Zn superoxide dismutase   
+1151
+	JGOLCEMA_01343	CDS	COG0786	6084	7298	-	[E] Na+/glutamate symporter    
+1152
+	JGOLCEMA_01344	CDS	COG0790	7516	7902	-	[R] FOG: TPR repeat, SEL1 subfamily 
+	JGOLCEMA_01345	CDS	COG0790	7856	8914	-	[R] FOG: TPR repeat, SEL1 subfamily 
+1153
+	JGOLCEMA_01346	CDS	COG3562	9281	10540	-	[M] Capsule polysaccharide export protein  
+	JGOLCEMA_01347	CDS	COG3563	10677	12725	-	[M] Capsule polysaccharide export protein  
+1154
+	JGOLCEMA_01348	CDS	COG1898	12887	13426	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	JGOLCEMA_01349	CDS	COG1209	13481	14356	-	[M] dTDP-glucose pyrophosphorylase    
+	JGOLCEMA_01350	CDS	COG1088	14569	15630	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	JGOLCEMA_01351	CDS	COG1087	15726	16742	-	[M] UDP-glucose 4-epimerase    
+	JGOLCEMA_01352	CDS	COG1210	16825	17688	-	[M] UDP-glucose pyrophosphorylase    
+	JGOLCEMA_01353	CDS	NA	17736	18905	-	NA

@@ -1,0 +1,3091 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	EJODPLFH_01587	CDS	ROG2573	555	977	-	NA
+2
+	EJODPLFH_01588	CDS	COG0166	1120	2766	-	[G] Glucose-6-phosphate isomerase    
+	EJODPLFH_01589	CDS	COG1737	2887	3735	-	[K] Transcriptional regulators    
+	EJODPLFH_01590	CDS	COG0837	3785	4771	-	[G] Glucokinase     
+	EJODPLFH_01591	CDS	COG0363	4752	5447	-	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+	EJODPLFH_01592	CDS	COG0364	5727	7172	-	[G] Glucose-6-phosphate 1-dehydrogenase    
+3
+	EJODPLFH_01593	CDS	COG0129	7688	9523	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+	EJODPLFH_01594	CDS	COG0800	9704	10342	+	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+4
+	EJODPLFH_01595	CDS	COG1063	10599	11204	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+	EJODPLFH_01596	CDS	COG1063	11362	11544	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+5
+	EJODPLFH_01597	CDS	COG1194	11707	12747	+	[L] A/G-specific DNA glycosylase   
+6
+	EJODPLFH_01598	CDS	NA	12910	13008	+	NA
+7
+	EJODPLFH_01599	CDS	NA	13164	13724	+	NA
+8
+	EJODPLFH_01884	CDS	COG4607	50	307	-	[P] ABC-type enterochelin transport system, periplasmic component
+9
+	EJODPLFH_01885	CDS	NA	1007	3172	-	NA
+			NA				NA
+10
+	EJODPLFH_01285	CDS	NA	361	465	+	NA
+11
+	EJODPLFH_01286	CDS	COG3512	1778	2086	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01287	CDS	COG1518	2097	3011	-	[L] Uncharacterized protein predicted to be involved
+	EJODPLFH_01288	CDS	COG3513	3077	6325	-	[S] Uncharacterized protein conserved in bacteria 
+12
+	EJODPLFH_01289	CDS	COG0587	6603	10037	-	[L] DNA polymerase III, alpha subunit 
+13
+	EJODPLFH_01290	CDS	COG2501	10350	10808	+	[S] Uncharacterized conserved protein   
+	EJODPLFH_01291	CDS	NA	10786	10989	+	NA
+14
+	EJODPLFH_01292	CDS	COG0613	11435	12271	+	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+15
+	EJODPLFH_01293	CDS	COG3977	12323	13615	-	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+	EJODPLFH_01294	CDS	COG1086	13671	15581	-	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+	EJODPLFH_01295	CDS	COG0399	15629	16834	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+16
+	EJODPLFH_01296	CDS	NA	17033	17227	-	NA
+	EJODPLFH_01297	CDS	COG1011	17275	17961	-	[R] Predicted hydrolase (HAD superfamily)  
+	EJODPLFH_01298	CDS	COG2148	17948	19525	-	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	EJODPLFH_01299	CDS	COG0438	19518	20024	-	[M] Glycosyltransferase     
+17
+	EJODPLFH_00001	CDS	COG1994	181	819	-	[R] Zn-dependent proteases    
+18
+	EJODPLFH_00002	CDS	COG0810	1074	1916	+	[M] Periplasmic protein TonB, links inner and
+	EJODPLFH_00003	CDS	COG0811	1982	2644	+	[U] Biopolymer transport proteins   
+	EJODPLFH_00004	CDS	COG0848	2665	3099	+	[U] Biopolymer transport protein   
+19
+	EJODPLFH_00005	CDS	COG3453	3786	4214	-	[S] Uncharacterized protein conserved in bacteria 
+20
+	EJODPLFH_00006	CDS	COG3975	4279	6027	-	[R] Predicted protease with the C-terminal PDZ
+21
+	EJODPLFH_00007	CDS	COG3278	6354	7787	+	[O] Cbb3-type cytochrome oxidase, subunit 1 
+	EJODPLFH_00008	CDS	COG2993	7814	8425	+	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	EJODPLFH_00009	CDS	COG4736	8430	8600	+	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	EJODPLFH_00010	CDS	COG2010	8624	9721	+	[C] Cytochrome c, mono- and diheme variants
+22
+	EJODPLFH_00011	CDS	COG3182	10157	11566	+	[S] Uncharacterized iron-regulated membrane protein  
+23
+	EJODPLFH_00012	CDS	COG1330	11668	14877	+	[L] Exonuclease V gamma subunit  
+24
+	EJODPLFH_00013	CDS	COG2978	14945	16513	-	[H] Putative p-aminobenzoyl-glutamate transporter   
+25
+	EJODPLFH_00014	CDS	NA	16847	17059	+	NA
+26
+	EJODPLFH_00015	CDS	COG1309	17338	17970	-	[K] Transcriptional regulator    
+27
+	EJODPLFH_00016	CDS	COG0845	18374	19612	+	[M] Membrane-fusion protein    
+	EJODPLFH_00017	CDS	COG0841	19624	22827	+	[V] Cation/multidrug efflux pump   
+	EJODPLFH_00018	CDS	COG1538	22882	24285	+	[MU] Outer membrane protein   
+28
+	EJODPLFH_00019	CDS	COG1620	24653	24880	-	[C] L-lactate permease    
+29
+	EJODPLFH_00020	CDS	COG2186	25487	26266	+	[K] Transcriptional regulators    
+30
+	EJODPLFH_00021	CDS	NA	26452	26709	-	NA
+	EJODPLFH_00022	CDS	NA	26753	27121	-	NA
+31
+	EJODPLFH_00023	CDS	COG0334	27269	28603	-	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+32
+	EJODPLFH_00024	CDS	COG0207	28987	29781	+	[F] Thymidylate synthase    
+	EJODPLFH_00025	CDS	COG3540	29790	30071	+	[P] Phosphodiesterase/alkaline phosphatase D   
+	EJODPLFH_00026	CDS	COG1477	30052	30450	+	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+33
+	EJODPLFH_00027	CDS	COG0733	30622	31959	-	[R] Na+-dependent transporters of the SNF family
+34
+	EJODPLFH_00028	CDS	COG0438	32346	33410	-	[M] Glycosyltransferase     
+	EJODPLFH_00029	CDS	COG1215	33411	34169	-	[M] Glycosyltransferases, probably involved in cell wall
+35
+	EJODPLFH_00030	tRNA	NA	34244	34319	-	NA
+	EJODPLFH_00031	CDS	COG0304	34373	35509	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	EJODPLFH_00032	CDS	COG3676	35454	36050	-	[L] Transposase and inactivated derivatives  
+36
+	EJODPLFH_00033	CDS	ROG0199	36244	36666	+	NA
+37
+	EJODPLFH_00034	CDS	COG4648	36964	37398	+	[S] Predicted membrane protein   
+	EJODPLFH_00035	CDS	COG4899	37405	37920	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00036	CDS	COG0043	37940	39418	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+38
+	EJODPLFH_00037	CDS	COG2982	39483	41597	-	[M] Uncharacterized protein involved in outer membrane
+39
+	EJODPLFH_00038	CDS	COG2876	41688	42581	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+40
+	EJODPLFH_00039	CDS	COG0294	42721	43575	+	[H] Dihydropteroate synthase and related enzymes 
+	EJODPLFH_00040	CDS	COG1109	43705	45039	+	[G] Phosphomannomutase     
+41
+	EJODPLFH_00041	CDS	COG0586	45228	45911	+	[S] Uncharacterized membrane-associated protein   
+42
+	EJODPLFH_00042	CDS	COG0252	45978	46970	+	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	EJODPLFH_00043	CDS	COG0084	46978	47748	+	[L] Mg-dependent DNase    
+	EJODPLFH_00044	CDS	COG0216	47852	48928	+	[J] Protein chain release factor A 
+43
+	EJODPLFH_00045	CDS	COG1052	49053	50051	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+44
+	EJODPLFH_00046	CDS	COG0172	50129	51424	-	[J] Seryl-tRNA synthetase    
+45
+	EJODPLFH_00047	CDS	COG0494	51506	52114	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	EJODPLFH_00048	CDS	COG0187	52181	54166	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+46
+	EJODPLFH_00049	CDS	NA	54240	54644	-	NA
+47
+	EJODPLFH_00050	CDS	COG0082	54736	55836	-	[E] Chorismate synthase    
+48
+	EJODPLFH_00051	CDS	COG2265	55979	57067	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	EJODPLFH_00052	CDS	COG1448	57088	58281	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+49
+	EJODPLFH_00053	tRNA	NA	58346	58421	-	NA
+50
+	EJODPLFH_00054	CDS	COG3245	58706	59545	+	[C] Cytochrome c5    
+51
+	EJODPLFH_00055	CDS	NA	60011	62404	-	NA
+52
+	EJODPLFH_01912	CDS	ROG5189	231	494	-	NA
+	EJODPLFH_01913	CDS	NA	513	1145	-	NA
+53
+	EJODPLFH_01875	CDS	COG0438	223	582	+	[M] Glycosyltransferase     
+54
+	EJODPLFH_01876	CDS	COG0241	858	1421	+	[E] Histidinol phosphatase and related phosphatases 
+	EJODPLFH_01877	CDS	COG0204	1450	2193	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	EJODPLFH_01878	CDS	COG1451	2190	2882	+	[R] Predicted metal-dependent hydrolase   
+55
+	EJODPLFH_01794	CDS	COG0708	1102	1872	-	[L] Exonuclease III    
+	EJODPLFH_01795	CDS	COG0640	1932	2213	-	[K] Predicted transcriptional regulators   
+56
+	EJODPLFH_01796	CDS	COG0157	2619	3500	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+57
+	EJODPLFH_01797	CDS	COG4111	3576	4514	-	[R] Uncharacterized conserved protein   
+58
+	EJODPLFH_01798	CDS	COG0379	4821	5933	+	[H] Quinolinate synthase    
+59
+	EJODPLFH_01799	CDS	NA	6121	6609	-	NA
+60
+	EJODPLFH_01916	CDS	COG4382	105	539	+	[S] Mu-like prophage protein gp16  
+	EJODPLFH_01917	CDS	ROG3486	520	948	+	NA
+61
+	EJODPLFH_01811	CDS	ROG2043	475	1083	+	NA
+62
+	EJODPLFH_01812	tRNA	NA	3580	3655	-	NA
+	EJODPLFH_01813	tRNA	NA	3661	3737	-	NA
+63
+	EJODPLFH_01893	CDS	NA	329	610	+	NA
+64
+	EJODPLFH_01894	CDS	NA	989	2122	+	NA
+65
+	EJODPLFH_00770	CDS	COG0103	388	780	-	[J] Ribosomal protein S9   
+	EJODPLFH_00771	CDS	COG0102	790	1221	-	[J] Ribosomal protein L13   
+66
+	EJODPLFH_00772	CDS	COG3027	1584	1889	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00773	CDS	ROG1660	1900	2229	-	NA
+	EJODPLFH_00774	CDS	COG0240	2284	3273	-	[C] Glycerol-3-phosphate dehydrogenase    
+67
+	EJODPLFH_00775	CDS	COG2352	3396	6098	-	[C] Phosphoenolpyruvate carboxylase    
+68
+	EJODPLFH_00776	CDS	COG0476	6141	7034	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+69
+	EJODPLFH_00777	CDS	COG2900	7434	7658	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00778	CDS	COG2056	7659	9047	-	[R] Predicted permease    
+70
+	EJODPLFH_00779	CDS	COG2890	9133	10404	-	[J] Methylase of polypeptide chain release factors
+71
+	EJODPLFH_00780	CDS	COG0312	10469	11953	-	[R] Predicted Zn-dependent proteases and their inactivated
+72
+	EJODPLFH_00781	CDS	COG1457	12351	13577	+	[F] Purine-cytosine permease and related proteins 
+	EJODPLFH_00782	CDS	COG3380	13574	14674	+	[R] Predicted NAD/FAD-dependent oxidoreductase   
+	EJODPLFH_00783	CDS	COG0352	14695	15312	+	[H] Thiamine monophosphate synthase   
+	EJODPLFH_00784	CDS	COG2104	15734	15928	+	[H] Sulfur transfer protein involved in thiamine
+	EJODPLFH_00785	CDS	COG2022	16142	16930	+	[H] Uncharacterized enzyme of thiazole biosynthesis 
+73
+	EJODPLFH_00786	CDS	ROG1248	17693	18517	-	NA
+74
+	EJODPLFH_00787	CDS	COG0340	18630	20408	-	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+	EJODPLFH_00788	CDS	COG2870	20405	20911	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+75
+	EJODPLFH_00789	tRNA	NA	21047	21122	-	NA
+	EJODPLFH_00790	tRNA	NA	21150	21226	-	NA
+	EJODPLFH_00791	tRNA	NA	21251	21328	-	NA
+76
+	EJODPLFH_00792	CDS	COG0190	21551	22405	+	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+77
+	EJODPLFH_00793	CDS	COG1714	22467	23048	-	[S] Predicted membrane protein/domain   
+78
+	EJODPLFH_00794	CDS	COG0136	23225	24340	+	[E] Aspartate-semialdehyde dehydrogenase    
+79
+	EJODPLFH_00795	CDS	COG3545	24433	24963	-	[R] Predicted esterase of the alpha/beta hydrolase
+	EJODPLFH_00796	CDS	COG1215	24973	25317	-	[M] Glycosyltransferases, probably involved in cell wall
+	EJODPLFH_00797	CDS	COG0708	25304	26083	-	[L] Exonuclease III    
+80
+	EJODPLFH_00798	CDS	COG0215	26254	28353	-	[J] Cysteinyl-tRNA synthetase    
+	EJODPLFH_00799	CDS	ROG4307	28363	29412	-	NA
+81
+	EJODPLFH_00800	CDS	COG0536	29495	30649	-	[R] Predicted GTPase    
+			NA				NA
+82
+	EJODPLFH_01861	CDS	COG0753	366	1880	-	[P] Catalase     
+83
+	EJODPLFH_01862	CDS	NA	2228	3079	+	NA
+84
+	EJODPLFH_01539	CDS	COG0169	167	976	+	[E] Shikimate 5-dehydrogenase    
+	EJODPLFH_01540	CDS	COG0744	979	1680	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+85
+	EJODPLFH_01541	tRNA	NA	2005	2080	-	NA
+86
+	EJODPLFH_01542	CDS	COG1137	2271	3005	-	[R] ABC-type (unclassified) transport system, ATPase component
+	EJODPLFH_01543	CDS	COG1934	3079	3609	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01544	CDS	COG3117	3590	4171	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01545	CDS	COG1778	4168	4704	-	[R] Low specificity phosphatase (HAD superfamily) 
+	EJODPLFH_01546	CDS	COG0794	4922	5896	-	[M] Predicted sugar phosphate isomerase involved in
+87
+	EJODPLFH_01547	CDS	COG0176	5993	7048	+	[G] Transaldolase     
+88
+	EJODPLFH_01548	CDS	COG0008	7509	8396	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+89
+	EJODPLFH_01549	CDS	COG0042	8466	9476	-	[J] tRNA-dihydrouridine synthase    
+	EJODPLFH_01550	CDS	COG1490	9507	9998	-	[J] D-Tyr-tRNAtyr deacylase    
+90
+	EJODPLFH_01551	CDS	ROG5493	10072	10830	-	NA
+91
+	EJODPLFH_01552	CDS	COG0760	10901	11767	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	EJODPLFH_01553	CDS	COG0271	11816	12094	-	[T] Stress-induced morphogen (activity unknown)  
+	EJODPLFH_01554	CDS	COG2350	12094	12384	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01555	CDS	COG2917	12387	12917	-	[D] Intracellular septation protein A  
+92
+	EJODPLFH_01556	CDS	NA	13872	14906	-	NA
+93
+	EJODPLFH_01851	CDS	NA	112	654	+	NA
+94
+	EJODPLFH_01852	CDS	NA	860	1024	+	NA
+	EJODPLFH_01853	CDS	ROG6087	1027	1263	+	NA
+	EJODPLFH_01854	CDS	NA	1235	1654	+	NA
+	EJODPLFH_01855	CDS	ROG7758	1674	1856	+	NA
+95
+	EJODPLFH_01856	CDS	COG3422	1901	2071	-	[S] Uncharacterized conserved protein   
+96
+	EJODPLFH_01857	CDS	NA	2084	2302	+	NA
+	EJODPLFH_01858	CDS	NA	2299	2637	+	NA
+	EJODPLFH_01859	CDS	ROG5769	2649	2915	+	NA
+	EJODPLFH_01860	CDS	ROG7329	2912	3109	+	NA
+97
+	EJODPLFH_01681	CDS	COG0308	193	2796	-	[E] Aminopeptidase N    
+98
+	EJODPLFH_01682	CDS	COG3298	2928	3722	-	[L] Predicted 3'-5' exonuclease related to the
+99
+	EJODPLFH_01683	CDS	COG1560	4472	5350	-	[M] Lauroyl/myristoyl acyltransferase    
+	EJODPLFH_01684	CDS	COG0817	5391	5927	-	[L] Holliday junction resolvasome, endonuclease subunit 
+	EJODPLFH_01685	CDS	COG2901	5930	6169	-	[KL] Factor for inversion stimulation Fis, transcriptional
+	EJODPLFH_01686	CDS	COG0042	6199	7209	-	[J] tRNA-dihydrouridine synthase    
+100
+	EJODPLFH_01687	CDS	COG0513	7575	8948	+	[LKJ] Superfamily II DNA and RNA helicases
+101
+	EJODPLFH_01688	CDS	NA	9254	10318	+	NA
+102
+	EJODPLFH_00605	CDS	NA	464	742	+	NA
+103
+	EJODPLFH_00606	CDS	NA	1025	1483	+	NA
+104
+	EJODPLFH_00607	CDS	COG2274	1695	1976	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+105
+	EJODPLFH_00608	CDS	COG1295	1997	3253	-	[S] Predicted membrane protein   
+106
+	EJODPLFH_00609	CDS	COG0603	3768	4427	+	[R] Predicted PP-loop superfamily ATPase  
+	EJODPLFH_00610	CDS	ROG0407	4455	4973	+	NA
+	EJODPLFH_00611	CDS	COG0720	4980	5402	+	[H] 6-pyruvoyl-tetrahydropterin synthase    
+107
+	EJODPLFH_00612	CDS	NA	5511	5867	+	NA
+108
+	EJODPLFH_00613	CDS	COG3759	6117	6488	+	[S] Predicted membrane protein   
+	EJODPLFH_00614	CDS	COG0602	6485	7123	+	[O] Organic radical activating enzymes  
+109
+	EJODPLFH_00615	tRNA	NA	7458	7534	-	NA
+110
+	EJODPLFH_00616	CDS	COG1472	7615	8700	-	[G] Beta-glucosidase-related glycosidases    
+	EJODPLFH_00617	CDS	COG1757	8757	10448	-	[C] Na+/H+ antiporter    
+	EJODPLFH_00618	CDS	COG0265	10479	11978	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+111
+	EJODPLFH_00619	CDS	COG0177	12116	12745	-	[L] Predicted EndoIII-related endonuclease   
+	EJODPLFH_00620	CDS	COG1238	12791	13204	-	[S] Predicted membrane protein   
+112
+	EJODPLFH_00621	CDS	COG0738	13794	15017	+	[G] Fucose permease    
+113
+	EJODPLFH_00622	CDS	COG1757	15308	16687	+	[C] Na+/H+ antiporter    
+114
+	EJODPLFH_00623	CDS	COG4535	16816	17640	-	[P] Putative Mg2+ and Co2+ transporter CorC
+	EJODPLFH_00624	CDS	COG0319	17642	18157	-	[R] Predicted metal-dependent hydrolase   
+115
+	EJODPLFH_00625	CDS	COG0181	18276	19211	+	[H] Porphobilinogen deaminase    
+116
+	EJODPLFH_00626	CDS	COG1448	19615	20808	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+117
+	EJODPLFH_00627	CDS	ROG5235	20890	21387	-	NA
+118
+	EJODPLFH_00628	CDS	COG4391	21503	21706	+	[S] Uncharacterized protein conserved in bacteria 
+119
+	EJODPLFH_00629	CDS	COG1620	21874	23460	-	[C] L-lactate permease    
+120
+	EJODPLFH_00630	CDS	COG2908	23716	24450	-	[S] Uncharacterized protein conserved in bacteria 
+121
+	EJODPLFH_00631	CDS	COG1196	24700	28185	+	[D] Chromosome segregation ATPases   
+122
+	EJODPLFH_00632	CDS	COG1064	28536	29582	-	[R] Zn-dependent alcohol dehydrogenases   
+123
+	EJODPLFH_00633	CDS	COG4968	29865	30254	-	[NU] Tfp pilus assembly protein PilE 
+124
+	EJODPLFH_00634	CDS	COG0845	30480	31658	+	[M] Membrane-fusion protein    
+	EJODPLFH_00635	CDS	COG0577	31724	33658	+	[V] ABC-type antimicrobial peptide transport system, permease
+125
+	EJODPLFH_00636	CDS	COG1651	34071	34853	-	[O] Protein-disulfide isomerase    
+126
+	EJODPLFH_00637	CDS	COG1198	34992	37181	+	[L] Primosomal protein N' (replication factor Y)
+127
+	EJODPLFH_00638	CDS	NA	37227	38300	-	NA
+128
+	EJODPLFH_01557	CDS	COG0697	405	1259	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+129
+	EJODPLFH_01558	CDS	NA	1779	3011	+	NA
+130
+	EJODPLFH_01559	CDS	COG0077	3089	4177	+	[E] Prephenate dehydratase    
+	EJODPLFH_01560	CDS	COG1381	4208	5002	+	[L] Recombinational DNA repair protein (RecF pathway)
+	EJODPLFH_01561	CDS	COG0854	5026	5754	+	[H] Pyridoxal phosphate biosynthesis protein  
+	EJODPLFH_01562	CDS	ROG1324	5801	6580	+	NA
+	EJODPLFH_01563	CDS	ROG1450	6590	7357	+	NA
+131
+	EJODPLFH_01564	CDS	COG0736	7557	7934	+	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+132
+	EJODPLFH_01565	CDS	COG1051	8016	8825	+	[F] ADP-ribose pyrophosphatase    
+	EJODPLFH_01566	CDS	ROG0930	8818	9240	+	NA
+	EJODPLFH_01567	CDS	COG0116	9289	10431	+	[L] Predicted N6-adenine-specific DNA methylase  
+133
+	EJODPLFH_01568	CDS	COG3177	10732	11553	-	[S] Uncharacterized conserved protein   
+134
+	EJODPLFH_01569	CDS	COG0860	11630	12880	-	[M] N-acetylmuramoyl-L-alanine amidase    
+	EJODPLFH_01570	CDS	COG0802	12877	13338	-	[R] Predicted ATPase or kinase  
+135
+	EJODPLFH_01571	CDS	NA	13533	14345	+	NA
+			NA				NA
+136
+	EJODPLFH_01800	CDS	COG0758	21	221	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	EJODPLFH_01801	CDS	COG2922	247	708	+	[S] Uncharacterized protein conserved in bacteria 
+137
+	EJODPLFH_01802	CDS	COG0550	787	3093	+	[L] Topoisomerase IA    
+138
+	EJODPLFH_01803	CDS	NA	3166	3861	-	NA
+	EJODPLFH_01804	CDS	NA	3881	4432	-	NA
+139
+	EJODPLFH_01805	CDS	COG2932	4551	4928	+	[K] Predicted transcriptional regulator   
+140
+	EJODPLFH_01806	CDS	COG0742	5017	5586	+	[L] N6-adenine-specific methylase    
+141
+	EJODPLFH_01807	CDS	COG1145	5709	5960	+	[C] Ferredoxin     
+142
+	EJODPLFH_01808	tRNA	NA	6057	6140	+	NA
+	EJODPLFH_01809	tRNA	NA	6171	6244	+	NA
+	EJODPLFH_01810	tRNA	NA	6254	6328	+	NA
+143
+	EJODPLFH_01013	CDS	COG1187	225	785	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+144
+	EJODPLFH_01014	CDS	NA	914	1105	+	NA
+145
+	EJODPLFH_01015	CDS	COG2879	1301	1495	-	[S] Uncharacterized small protein   
+	EJODPLFH_01016	CDS	COG1966	1485	3566	-	[T] Carbon starvation protein, predicted membrane protein
+146
+	EJODPLFH_01017	CDS	NA	4042	4422	+	NA
+147
+	EJODPLFH_01018	CDS	COG1012	5077	6510	+	[C] NAD-dependent aldehyde dehydrogenases   
+148
+	EJODPLFH_01019	CDS	ROG2479	6619	7407	+	NA
+149
+	EJODPLFH_01020	CDS	COG0861	7775	9331	+	[P] Membrane protein TerC, possibly involved in
+	EJODPLFH_01021	CDS	COG0496	9348	10094	+	[R] Predicted acid phosphatase   
+150
+	EJODPLFH_01022	CDS	COG0739	10350	11597	+	[M] Membrane proteins related to metalloendopeptidases 
+151
+	EJODPLFH_01023	CDS	COG1607	11804	12286	-	[I] Acyl-CoA hydrolase    
+152
+	EJODPLFH_01024	CDS	NA	12439	12600	-	NA
+153
+	EJODPLFH_01025	CDS	COG2137	12674	13102	-	[R] Uncharacterized protein conserved in bacteria 
+154
+	EJODPLFH_01026	CDS	COG0546	13192	13899	-	[R] Predicted phosphatases    
+155
+	EJODPLFH_01027	CDS	COG0334	14306	15571	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+156
+	EJODPLFH_01028	CDS	COG5266	15629	16435	-	[P] ABC-type Co2+ transport system, periplasmic component
+157
+	EJODPLFH_01029	CDS	COG1942	16780	16989	+	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+158
+	EJODPLFH_01030	CDS	COG0436	17078	18292	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+159
+	EJODPLFH_01031	CDS	COG0542	18379	20958	-	[O] ATPases with chaperone activity, ATP-binding subunit
+160
+	EJODPLFH_01032	CDS	COG0180	21219	22229	+	[J] Tryptophanyl-tRNA synthetase    
+	EJODPLFH_01033	CDS	NA	22235	22576	+	NA
+161
+	EJODPLFH_01034	CDS	ROG8404	22895	23239	+	NA
+162
+	EJODPLFH_01035	CDS	COG0248	23448	24956	-	[FP] Exopolyphosphatase     
+163
+	EJODPLFH_01036	CDS	ROG3350	25073	25804	-	NA
+164
+	EJODPLFH_01037	CDS	NA	26157	26426	-	NA
+165
+	EJODPLFH_01832	CDS	ROG3350	482	1999	+	NA
+166
+	EJODPLFH_01833	CDS	NA	2058	3938	-	NA
+167
+	EJODPLFH_01689	CDS	NA	14	976	-	NA
+168
+	EJODPLFH_01690	CDS	COG0528	1615	2523	-	[F] Uridylate kinase    
+	EJODPLFH_01691	CDS	COG0264	2578	3432	-	[J] Translation elongation factor Ts  
+	EJODPLFH_01692	CDS	COG0052	3561	4289	-	[J] Ribosomal protein S2   
+169
+	EJODPLFH_01693	CDS	ROG2210	4462	4695	-	NA
+170
+	EJODPLFH_01694	CDS	COG0212	4773	5354	+	[H] 5-formyltetrahydrofolate cyclo-ligase    
+	EJODPLFH_01695	CDS	COG1670	5415	6005	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+171
+	EJODPLFH_01696	CDS	COG0579	6542	8008	+	[R] Predicted dehydrogenase    
+172
+	EJODPLFH_01697	CDS	NA	8019	8165	-	NA
+	EJODPLFH_01698	CDS	ROG7884	8195	8569	-	NA
+173
+	EJODPLFH_01699	CDS	ROG2700	8807	9106	-	NA
+174
+	EJODPLFH_01700	CDS	COG0024	9261	10040	-	[J] Methionine aminopeptidase    
+			NA				NA
+175
+	EJODPLFH_01510	CDS	NA	219	920	+	NA
+176
+	EJODPLFH_01511	CDS	COG2204	1110	2387	-	[T] Response regulator containing CheY-like receiver, AAA-type
+	EJODPLFH_01512	CDS	COG5000	2380	4500	-	[T] Signal transduction histidine kinase involved in
+	EJODPLFH_01513	CDS	ROG0119	4500	5099	-	NA
+	EJODPLFH_01514	CDS	COG0144	5065	6324	-	[J] tRNA and rRNA cytosine-C5-methylases  
+	EJODPLFH_01515	CDS	COG0223	6403	7329	-	[J] Methionyl-tRNA formyltransferase    
+	EJODPLFH_01516	CDS	COG0242	7416	7919	-	[J] N-formylmethionyl-tRNA deformylase    
+177
+	EJODPLFH_01517	CDS	COG1652	8103	9320	+	[S] Uncharacterized protein containing LysM domain 
+178
+	EJODPLFH_01518	CDS	COG4094	9383	10042	-	[S] Predicted membrane protein   
+179
+	EJODPLFH_01519	CDS	COG1781	10113	10571	-	[F] Aspartate carbamoyltransferase, regulatory subunit  
+	EJODPLFH_01520	CDS	COG0540	10581	11501	-	[F] Aspartate carbamoyltransferase, catalytic chain  
+180
+	EJODPLFH_01521	CDS	COG0454	11739	12581	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	EJODPLFH_01522	CDS	NA	12578	12736	+	NA
+181
+	EJODPLFH_01523	CDS	ROG2021	12863	13537	+	NA
+182
+	EJODPLFH_01524	CDS	COG3271	14145	14534	+	[R] Predicted double-glycine peptidase   
+183
+	EJODPLFH_01525	CDS	NA	14811	15329	-	NA
+184
+	EJODPLFH_01886	CDS	COG0438	276	1400	-	[M] Glycosyltransferase     
+185
+	EJODPLFH_01887	CDS	NA	1628	1759	-	NA
+	EJODPLFH_01888	CDS	COG0477	1756	2973	-	[GEPR] Permeases of the major facilitator superfamily
+186
+	EJODPLFH_01827	CDS	NA	61	573	-	NA
+	EJODPLFH_01828	CDS	COG2244	564	917	-	[R] Membrane protein involved in the export
+187
+	EJODPLFH_01829	CDS	COG1566	1153	2580	+	[V] Multidrug resistance efflux pump  
+188
+	EJODPLFH_01830	CDS	ROG3774	2649	4052	+	NA
+189
+	EJODPLFH_01831	CDS	NA	4216	4704	-	NA
+190
+	EJODPLFH_01783	CDS	COG2838	184	2409	-	[C] Monomeric isocitrate dehydrogenase   
+191
+	EJODPLFH_01784	CDS	NA	2843	3958	+	NA
+192
+	EJODPLFH_01785	CDS	COG3909	4122	4580	-	[C] Cytochrome c556    
+193
+	EJODPLFH_01786	CDS	COG4221	4699	5520	+	[R] Short-chain alcohol dehydrogenase of unknown specificity
+194
+	EJODPLFH_01787	CDS	NA	5571	6017	-	NA
+			NA				NA
+195
+	EJODPLFH_01870	CDS	COG4443	492	698	+	[S] Uncharacterized protein conserved in bacteria 
+196
+	EJODPLFH_01871	CDS	NA	939	1064	+	NA
+197
+	EJODPLFH_01872	CDS	NA	1960	2148	+	NA
+	EJODPLFH_01873	CDS	NA	2151	2474	+	NA
+	EJODPLFH_01874	CDS	COG1093	2512	2856	+	[J] Translation initiation factor 2, alpha subunit
+198
+	EJODPLFH_01671	CDS	COG0351	522	1328	+	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+199
+	EJODPLFH_01672	CDS	COG3615	1378	2232	-	[P] Uncharacterized protein/domain, possibly involved in tellurite
+200
+	EJODPLFH_01673	CDS	COG0328	2361	2798	+	[L] Ribonuclease HI    
+201
+	EJODPLFH_01674	CDS	COG0537	4164	4568	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	EJODPLFH_01675	CDS	COG1619	4608	5792	+	[V] Uncharacterized proteins, homologs of microcin C7
+202
+	EJODPLFH_01676	CDS	COG0386	5855	6388	-	[O] Glutathione peroxidase    
+203
+	EJODPLFH_01677	CDS	COG3256	6567	8822	-	[P] Nitric oxide reductase large subunit 
+204
+	EJODPLFH_01678	CDS	COG2132	9335	9895	+	[Q] Putative multicopper oxidases   
+	EJODPLFH_01679	CDS	COG2132	9865	10494	+	[Q] Putative multicopper oxidases   
+205
+	EJODPLFH_01680	CDS	COG1262	10674	11429	+	[S] Uncharacterized conserved protein   
+206
+	EJODPLFH_01840	CDS	COG1404	497	3358	-	[O] Subtilisin-like serine proteases   
+	EJODPLFH_01841	CDS	ROG3132	3355	3702	-	NA
+207
+	EJODPLFH_01649	CDS	ROG5596	156	572	-	NA
+	EJODPLFH_01650	CDS	NA	569	760	-	NA
+208
+	EJODPLFH_01651	CDS	NA	1283	1450	+	NA
+209
+	EJODPLFH_01652	CDS	ROG4158	1723	1908	+	NA
+210
+	EJODPLFH_01653	CDS	NA	2109	2309	+	NA
+211
+	EJODPLFH_01654	CDS	COG3561	2441	3049	+	[K] Phage anti-repressor protein   
+	EJODPLFH_01655	CDS	NA	3053	3268	+	NA
+212
+	EJODPLFH_01656	CDS	COG4396	3429	3947	-	[R] Mu-like prophage host-nuclease inhibitor protein Gam
+	EJODPLFH_01657	CDS	NA	3971	4072	-	NA
+	EJODPLFH_01658	CDS	COG2071	4057	4224	-	[R] Predicted glutamine amidotransferases   
+	EJODPLFH_01659	CDS	NA	4217	4390	-	NA
+213
+	EJODPLFH_01660	CDS	NA	4499	4765	-	NA
+214
+	EJODPLFH_01661	CDS	COG2842	4855	5769	-	[R] Uncharacterized ATPase, putative transposase  
+	EJODPLFH_01662	CDS	NA	5805	7781	-	NA
+	EJODPLFH_01663	CDS	COG3093	7783	8034	-	[R] Plasmid maintenance system antidote protein 
+215
+	EJODPLFH_01664	CDS	ROG1633	8078	8977	+	NA
+216
+	EJODPLFH_01665	CDS	NA	9177	9362	-	NA
+217
+	EJODPLFH_01666	CDS	COG4178	9605	10156	+	[R] ABC-type uncharacterized transport system, permease and
+218
+	EJODPLFH_01667	CDS	ROG3842	10261	10929	+	NA
+	EJODPLFH_01668	CDS	COG0560	10926	11594	+	[E] Phosphoserine phosphatase    
+	EJODPLFH_01669	CDS	NA	11599	11832	+	NA
+219
+	EJODPLFH_01670	CDS	NA	12149	12397	+	NA
+220
+	EJODPLFH_01904	CDS	COG3210	245	1219	+	[U] Large exoproteins involved in heme utilization
+	EJODPLFH_01905	CDS	NA	1235	1666	+	NA
+221
+	EJODPLFH_01139	CDS	COG0732	61	429	+	[V] Restriction endonuclease S subunits  
+	EJODPLFH_01140	CDS	COG0610	508	3606	+	[V] Type I site-specific restriction-modification system, R
+222
+	EJODPLFH_01141	CDS	COG0542	3646	5937	-	[O] ATPases with chaperone activity, ATP-binding subunit
+	EJODPLFH_01142	CDS	COG2127	5939	6277	-	[S] Uncharacterized conserved protein   
+223
+	EJODPLFH_01143	CDS	COG1278	6484	6687	+	[K] Cold shock proteins   
+224
+	EJODPLFH_01144	CDS	COG0312	6984	8315	-	[R] Predicted Zn-dependent proteases and their inactivated
+225
+	EJODPLFH_01145	CDS	COG3028	8469	8975	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01146	CDS	NA	9022	9738	+	NA
+226
+	EJODPLFH_01147	CDS	COG0608	9807	11507	+	[L] Single-stranded DNA-specific exonuclease   
+227
+	EJODPLFH_01148	CDS	COG0617	11862	13223	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+228
+	EJODPLFH_01149	CDS	COG2960	13396	13719	+	[S] Uncharacterized protein conserved in bacteria 
+229
+	EJODPLFH_01150	CDS	COG1702	13830	14783	-	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+230
+	EJODPLFH_01151	CDS	COG0438	14922	15944	-	[M] Glycosyltransferase     
+231
+	EJODPLFH_01152	CDS	COG3471	16313	17017	+	[S] Predicted periplasmic/secreted protein   
+232
+	EJODPLFH_01153	CDS	COG0717	17081	17647	-	[F] Deoxycytidine deaminase    
+233
+	EJODPLFH_01154	CDS	COG4642	17713	18129	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01155	CDS	COG2974	18181	19080	-	[L] DNA recombination-dependent growth factor C 
+	EJODPLFH_01156	CDS	COG1160	19111	20721	-	[R] Predicted GTPases    
+	EJODPLFH_01157	CDS	COG2976	20722	21351	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01158	CDS	COG0124	21352	22647	-	[J] Histidyl-tRNA synthetase    
+234
+	EJODPLFH_01228	CDS	COG0484	371	1492	+	[O] DnaJ-class molecular chaperone with C-terminal Zn
+235
+	EJODPLFH_01229	CDS	COG1297	1688	3706	+	[S] Predicted membrane protein   
+236
+	EJODPLFH_01230	CDS	COG1898	3749	4321	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	EJODPLFH_01231	CDS	COG1209	4360	5226	-	[M] dTDP-glucose pyrophosphorylase    
+	EJODPLFH_01232	CDS	COG1088	5332	6372	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	EJODPLFH_01233	CDS	COG1087	6373	7014	-	[M] UDP-glucose 4-epimerase    
+	EJODPLFH_01234	CDS	COG3392	7072	7416	-	[L] Adenine-specific DNA methylase   
+	EJODPLFH_01235	CDS	COG0270	7581	8411	-	[L] Site-specific DNA methylase   
+	EJODPLFH_01236	CDS	COG2183	8442	10715	-	[K] Transcriptional accessory protein   
+237
+	EJODPLFH_01237	CDS	COG1134	10780	11430	-	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+	EJODPLFH_01238	CDS	COG1682	11427	12224	-	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+	EJODPLFH_01239	CDS	COG3524	12224	13387	-	[M] Capsule polysaccharide export protein  
+	EJODPLFH_01240	CDS	COG1596	13402	14577	-	[M] Periplasmic protein involved in polysaccharide export
+238
+	EJODPLFH_01241	CDS	ROG3014	14925	15845	+	NA
+	EJODPLFH_01242	CDS	COG1083	15849	16535	+	[M] CMP-N-acetylneuraminic acid synthetase   
+	EJODPLFH_01243	CDS	COG2089	16536	17585	+	[M] Sialic acid synthase   
+239
+	EJODPLFH_01244	CDS	ROG6398	17737	20850	+	NA
+240
+	EJODPLFH_01245	CDS	COG0110	20931	21566	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+241
+	EJODPLFH_01788	CDS	NA	154	270	-	NA
+242
+	EJODPLFH_01789	CDS	COG2932	301	1020	+	[K] Predicted transcriptional regulator   
+	EJODPLFH_01790	CDS	NA	1024	1212	+	NA
+243
+	EJODPLFH_01791	CDS	COG1190	1289	2800	-	[J] Lysyl-tRNA synthetase (class II)  
+244
+	EJODPLFH_01792	CDS	NA	2955	4208	-	NA
+245
+	EJODPLFH_01793	CDS	NA	4666	6462	+	NA
+246
+	EJODPLFH_01246	CDS	COG4776	286	2166	-	[K] Exoribonuclease II    
+247
+	EJODPLFH_01247	CDS	COG1611	2475	3107	+	[R] Predicted Rossmann fold nucleotide-binding protein 
+	EJODPLFH_01248	CDS	COG0015	3179	4549	+	[F] Adenylosuccinate lyase    
+	EJODPLFH_01249	CDS	COG1835	4630	6498	+	[I] Predicted acyltransferases    
+248
+	EJODPLFH_01250	CDS	COG2979	6789	7403	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01251	CDS	COG1199	7439	9589	-	[KL] Rad3-related DNA helicases   
+	EJODPLFH_01252	CDS	NA	9639	10025	-	NA
+249
+	EJODPLFH_01253	CDS	COG0415	10088	11389	-	[L] Deoxyribodipyrimidine photolyase    
+	EJODPLFH_01254	CDS	COG0583	11379	12290	-	[K] Transcriptional regulator    
+250
+	EJODPLFH_01255	CDS	COG2259	12398	12796	+	[S] Predicted membrane protein   
+	EJODPLFH_01256	CDS	COG3560	12845	13450	+	[R] Predicted oxidoreductase related to nitroreductase 
+251
+	EJODPLFH_01257	CDS	COG1629	13636	15747	+	[P] Outer membrane receptor proteins, mostly Fe
+252
+	EJODPLFH_01258	CDS	COG1432	16253	16795	+	[S] Uncharacterized conserved protein   
+253
+	EJODPLFH_01259	CDS	COG1651	16966	17661	+	[O] Protein-disulfide isomerase    
+254
+	EJODPLFH_01260	CDS	COG0541	17992	19362	-	[U] Signal recognition particle GTPase  
+255
+	EJODPLFH_01261	CDS	NA	19583	20389	+	NA
+256
+	EJODPLFH_01919	CDS	NA	194	310	+	NA
+	EJODPLFH_01920	CDS	ROG5069	352	621	+	NA
+257
+	EJODPLFH_00702	CDS	COG1773	718	888	-	[C] Rubredoxin     
+258
+	EJODPLFH_00703	CDS	COG1960	1362	2453	-	[I] Acyl-CoA dehydrogenases    
+259
+	EJODPLFH_00704	CDS	COG2128	2587	3135	-	[S] Uncharacterized conserved protein   
+260
+	EJODPLFH_00705	CDS	ROG0608	3290	3661	-	NA
+261
+	EJODPLFH_00706	CDS	COG0277	3956	5647	-	[C] FAD/FMN-containing dehydrogenases    
+262
+	EJODPLFH_00707	CDS	COG0247	6172	10005	+	[C] Fe-S oxidoreductase    
+263
+	EJODPLFH_00708	CDS	COG0042	10082	11083	+	[J] tRNA-dihydrouridine synthase    
+264
+	EJODPLFH_00709	CDS	ROG0799	11145	11327	-	NA
+265
+	EJODPLFH_00710	CDS	COG3039	11514	12473	+	[L] Transposase and inactivated derivatives, IS5 family
+266
+	EJODPLFH_00711	CDS	COG1476	12704	12916	-	[K] Predicted transcriptional regulators   
+	EJODPLFH_00712	CDS	NA	12928	13209	-	NA
+	EJODPLFH_00713	CDS	ROG0535	13256	13459	-	NA
+267
+	EJODPLFH_00714	CDS	COG0582	13539	14111	-	[L] Integrase     
+268
+	EJODPLFH_00715	CDS	ROG3037	14423	15298	-	NA
+	EJODPLFH_00716	CDS	COG3177	15343	15633	-	[S] Uncharacterized conserved protein   
+269
+	EJODPLFH_00717	CDS	COG1476	15938	16315	+	[K] Predicted transcriptional regulators   
+	EJODPLFH_00718	CDS	NA	16344	16589	+	NA
+270
+	EJODPLFH_00719	CDS	NA	16823	17791	+	NA
+	EJODPLFH_00720	CDS	COG0306	17788	18270	+	[P] Phosphate/sulphate permeases    
+271
+	EJODPLFH_00721	CDS	COG3926	18360	18863	+	[R] Putative secretion activating protein  
+272
+	EJODPLFH_00722	CDS	ROG6087	18972	19304	+	NA
+	EJODPLFH_00723	CDS	NA	19301	19711	+	NA
+	EJODPLFH_00724	CDS	COG2801	19716	20465	+	[L] Transposase and inactivated derivatives  
+273
+	EJODPLFH_00726	CDS	COG2840	21207	21812	-	[S] Uncharacterized protein conserved in bacteria 
+274
+	EJODPLFH_00727	CDS	NA	22203	22397	-	NA
+	EJODPLFH_00728	CDS	COG1613	22394	23449	-	[P] ABC-type sulfate transport system, periplasmic component
+275
+	EJODPLFH_00729	CDS	COG0454	23555	24037	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	EJODPLFH_00730	CDS	COG0026	24084	25220	-	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+	EJODPLFH_00731	CDS	ROG7587	25217	25762	-	NA
+	EJODPLFH_00732	CDS	COG0147	25759	27234	-	[EH] Anthranilate/para-aminobenzoate synthases component I  
+276
+	EJODPLFH_00733	CDS	NA	27346	27711	-	NA
+	EJODPLFH_00734	CDS	COG0488	27732	29642	-	[R] ATPase components of ABC transporters with
+	EJODPLFH_00735	CDS	COG0586	29661	30305	-	[S] Uncharacterized membrane-associated protein   
+277
+	EJODPLFH_00736	CDS	NA	30469	31287	-	NA
+278
+	EJODPLFH_01863	CDS	ROG7065	70	510	-	NA
+	EJODPLFH_01864	CDS	NA	452	769	-	NA
+279
+	EJODPLFH_01865	CDS	NA	897	1175	-	NA
+	EJODPLFH_01866	CDS	COG4214	1182	1400	-	[G] ABC-type xylose transport system, permease component
+280
+	EJODPLFH_01867	CDS	NA	1474	1671	-	NA
+	EJODPLFH_01868	CDS	NA	1676	1966	-	NA
+	EJODPLFH_01869	CDS	COG2946	2011	3354	-	[L] Putative phage replication protein RstA 
+281
+	EJODPLFH_01448	CDS	COG3170	36	410	+	[NU] Tfp pilus assembly protein FimV 
+282
+	EJODPLFH_01449	CDS	COG0346	583	999	-	[E] Lactoylglutathione lyase and related lyases 
+	EJODPLFH_01450	CDS	COG2956	1024	2193	-	[G] Predicted N-acetylglucosaminyl transferase   
+	EJODPLFH_01451	CDS	COG5416	2204	2518	-	[S] Uncharacterized integral membrane protein  
+283
+	EJODPLFH_01452	CDS	COG0115	2828	3826	+	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+284
+	EJODPLFH_01453	CDS	COG0623	4011	4796	-	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+285
+	EJODPLFH_01454	CDS	COG2171	4951	5772	-	[E] Tetrahydrodipicolinate N-succinyltransferase    
+286
+	EJODPLFH_01455	CDS	COG0166	5939	7582	-	[G] Glucose-6-phosphate isomerase    
+287
+	EJODPLFH_01456	CDS	COG1459	8092	9324	+	[NU] Type II secretory pathway, component PulF
+	EJODPLFH_01457	CDS	COG1989	9398	10258	+	[NOU] Type II secretory pathway, prepilin signal
+	EJODPLFH_01458	CDS	COG0237	10260	10892	+	[H] Dephospho-CoA kinase    
+	EJODPLFH_01459	CDS	COG3024	10885	11094	+	[S] Uncharacterized protein conserved in bacteria 
+288
+	EJODPLFH_01460	CDS	COG2804	11179	12855	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+289
+	EJODPLFH_01461	tRNA	NA	13254	13325	-	NA
+	EJODPLFH_01462	CDS	COG2707	13345	13791	-	[S] Predicted membrane protein   
+	EJODPLFH_01463	CDS	COG0142	13796	14770	-	[H] Geranylgeranyl pyrophosphate synthase   
+290
+	EJODPLFH_01464	CDS	COG0261	14994	15302	+	[J] Ribosomal protein L21   
+	EJODPLFH_01465	CDS	COG0211	15327	15599	+	[J] Ribosomal protein L27   
+291
+	EJODPLFH_01466	CDS	COG0654	15987	17171	+	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+292
+	EJODPLFH_00234	CDS	COG3514	219	521	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00235	CDS	COG2929	493	780	-	[S] Uncharacterized protein conserved in bacteria 
+293
+	EJODPLFH_00236	CDS	ROG5293	860	1465	+	NA
+	EJODPLFH_00237	CDS	NA	1444	1740	+	NA
+	EJODPLFH_00238	CDS	NA	1737	1946	+	NA
+294
+	EJODPLFH_00239	CDS	COG4178	2056	2988	-	[R] ABC-type uncharacterized transport system, permease and
+	EJODPLFH_00240	CDS	COG4178	2954	3298	-	[R] ABC-type uncharacterized transport system, permease and
+295
+	EJODPLFH_00241	CDS	COG4380	3740	4387	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00242	CDS	COG4259	4384	4752	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00243	CDS	COG1462	4762	5433	-	[M] Uncharacterized protein involved in formation of
+296
+	EJODPLFH_00244	CDS	COG3967	5598	6317	-	[M] Short-chain dehydrogenase involved in D-alanine esterification
+297
+	EJODPLFH_00245	CDS	COG2907	6401	7714	-	[R] Predicted NAD/FAD-binding protein   
+298
+	EJODPLFH_00246	CDS	NA	7822	7950	-	NA
+299
+	EJODPLFH_00247	CDS	COG1562	8112	8984	-	[I] Phytoene/squalene synthetase    
+300
+	EJODPLFH_00248	CDS	COG0443	9155	11017	+	[O] Molecular chaperone    
+301
+	EJODPLFH_00249	CDS	ROG4368	11093	11740	+	NA
+	EJODPLFH_00250	CDS	COG3779	11779	12537	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00251	CDS	COG0633	12593	12934	+	[C] Ferredoxin     
+302
+	EJODPLFH_00252	CDS	NA	13221	13808	-	NA
+303
+	EJODPLFH_00253	CDS	COG2975	14021	14218	+	[S] Uncharacterized protein conserved in bacteria 
+304
+	EJODPLFH_00254	CDS	COG1188	14286	14687	-	[J] Ribosome-associated heat shock protein implicated in
+305
+	EJODPLFH_00255	CDS	COG0825	14898	15857	+	[I] Acetyl-CoA carboxylase alpha subunit  
+	EJODPLFH_00256	CDS	COG0037	15925	17235	+	[D] Predicted ATPase of the PP-loop superfamily
+	EJODPLFH_00257	CDS	COG0566	17286	18071	+	[J] rRNA methylases    
+	EJODPLFH_00258	CDS	NA	18081	18278	+	NA
+306
+	EJODPLFH_00259	CDS	NA	18527	18892	+	NA
+	EJODPLFH_00260	CDS	ROG0685	18904	19209	+	NA
+	EJODPLFH_00261	CDS	COG0773	19271	20647	+	[M] UDP-N-acetylmuramate-alanine ligase    
+307
+	EJODPLFH_00262	CDS	COG0502	20854	21906	+	[H] Biotin synthase and related enzymes 
+308
+	EJODPLFH_00263	CDS	COG2843	22053	22619	-	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+309
+	EJODPLFH_00264	CDS	COG0129	23265	25124	-	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+310
+	EJODPLFH_00265	CDS	COG0155	25296	27065	-	[P] Sulfite reductase, beta subunit (hemoprotein) 
+	EJODPLFH_00266	CDS	COG0369	27092	28906	-	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+	EJODPLFH_00267	CDS	COG2895	28903	30189	-	[P] GTPases - Sulfate adenylate transferase subunit
+	EJODPLFH_00268	CDS	COG0175	30228	30440	-	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	EJODPLFH_00269	CDS	COG0175	30474	31214	-	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	EJODPLFH_00270	CDS	COG0007	31225	32676	-	[H] Uroporphyrinogen-III methylase    
+311
+	EJODPLFH_00271	CDS	COG3658	33126	33782	-	[C] Cytochrome b    
+312
+	EJODPLFH_00272	CDS	COG0063	33847	34737	+	[G] Predicted sugar kinase   
+313
+	EJODPLFH_00273	CDS	COG1217	35007	36818	+	[T] Predicted membrane GTPase involved in stress
+314
+	EJODPLFH_00274	tRNA	NA	37383	37473	-	NA
+	EJODPLFH_00275	tRNA	NA	37512	37598	-	NA
+	EJODPLFH_00276	tRNA	NA	37634	37720	-	NA
+315
+	EJODPLFH_00277	CDS	COG0557	37809	40184	+	[K] Exoribonuclease R    
+316
+	EJODPLFH_00278	CDS	COG0516	40523	41986	-	[F] IMP dehydrogenase/GMP reductase   
+317
+	EJODPLFH_00279	CDS	COG2844	42127	44685	-	[O] UTP:GlnB (protein PII) uridylyltransferase  
+	EJODPLFH_00280	CDS	COG1396	44734	45054	-	[K] Predicted transcriptional regulators   
+318
+	EJODPLFH_00281	CDS	COG2193	45378	45851	-	[P] Bacterioferritin (cytochrome b1)   
+	EJODPLFH_00282	CDS	COG2193	45879	46343	-	[P] Bacterioferritin (cytochrome b1)   
+319
+	EJODPLFH_00283	CDS	COG0320	46807	47790	-	[H] Lipoate synthase    
+	EJODPLFH_00284	CDS	COG0321	47783	48406	-	[H] Lipoate-protein ligase B   
+	EJODPLFH_00285	CDS	COG2921	48408	48683	-	[S] Uncharacterized conserved protein   
+320
+	EJODPLFH_00286	CDS	COG0628	48868	49938	+	[R] Predicted permease    
+321
+	EJODPLFH_00287	CDS	COG0330	50135	51082	-	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+	EJODPLFH_00288	CDS	ROG1281	51097	51504	-	NA
+322
+	EJODPLFH_00289	CDS	COG0692	51585	52244	+	[L] Uracil DNA glycosylase   
+323
+	EJODPLFH_00290	CDS	ROG0867	52752	53267	-	NA
+324
+	EJODPLFH_00291	CDS	NA	53733	55262	-	NA
+			NA				NA
+325
+	EJODPLFH_00943	CDS	NA	197	466	+	NA
+326
+	EJODPLFH_00944	CDS	NA	1070	1639	+	NA
+	EJODPLFH_00945	CDS	NA	1652	2005	+	NA
+327
+	EJODPLFH_00946	CDS	COG2262	2284	3462	-	[R] GTPases     
+	EJODPLFH_00947	CDS	ROG4973	3467	4747	-	NA
+328
+	EJODPLFH_00948	CDS	COG1636	4900	5625	-	[S] Uncharacterized protein conserved in bacteria 
+329
+	EJODPLFH_00949	CDS	COG2003	5698	6375	-	[L] DNA repair proteins   
+330
+	EJODPLFH_00950	CDS	ROG0062	6498	7847	-	NA
+331
+	EJODPLFH_00951	CDS	COG0065	8107	9516	+	[E] 3-isopropylmalate dehydratase large subunit  
+332
+	EJODPLFH_00952	CDS	ROG7969	9613	9867	+	NA
+	EJODPLFH_00953	CDS	COG0066	9809	10570	+	[E] 3-isopropylmalate dehydratase small subunit  
+333
+	EJODPLFH_00954	CDS	COG0270	10739	12010	+	[L] Site-specific DNA methylase   
+	EJODPLFH_00955	CDS	NA	12026	12757	+	NA
+	EJODPLFH_00956	CDS	COG0473	12791	13861	+	[CE] Isocitrate/isopropylmalate dehydrogenase    
+334
+	EJODPLFH_00957	CDS	COG2353	14024	14587	+	[S] Uncharacterized conserved protein   
+335
+	EJODPLFH_00958	CDS	COG1027	15017	16414	+	[E] Aspartate ammonia-lyase    
+336
+	EJODPLFH_00959	CDS	ROG3253	16486	17361	-	NA
+	EJODPLFH_00960	CDS	COG3671	17363	18085	-	[S] Predicted membrane protein   
+	EJODPLFH_00961	CDS	COG2606	18107	18586	-	[S] Uncharacterized conserved protein   
+337
+	EJODPLFH_00962	CDS	COG0251	18661	19023	+	[J] Putative translation initiation inhibitor, yjgF family
+	EJODPLFH_00963	CDS	COG0354	19055	19921	+	[R] Predicted aminomethyltransferase related to GcvT 
+338
+	EJODPLFH_00964	CDS	COG0037	20014	20973	+	[D] Predicted ATPase of the PP-loop superfamily
+339
+	EJODPLFH_00965	CDS	COG0652	21213	21767	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+	EJODPLFH_00966	CDS	COG0523	21832	22758	-	[R] Putative GTPases (G3E family)  
+	EJODPLFH_00967	CDS	COG0735	22746	23222	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+	EJODPLFH_00968	CDS	COG0394	23293	23748	-	[T] Protein-tyrosine-phosphatase     
+340
+	EJODPLFH_00969	CDS	COG1929	23873	24988	-	[G] Glycerate kinase    
+341
+	EJODPLFH_00970	CDS	NA	25102	26199	-	NA
+342
+	EJODPLFH_00971	CDS	COG4797	26281	27705	-	[R] Predicted regulatory domain of a methyltransferase
+343
+	EJODPLFH_01895	CDS	COG2337	185	508	-	[T] Growth inhibitor    
+	EJODPLFH_01896	CDS	COG2336	496	735	-	[T] Growth regulator    
+344
+	EJODPLFH_01897	CDS	COG0101	858	1655	-	[J] Pseudouridylate synthase    
+345
+	EJODPLFH_00915	CDS	COG0443	148	2076	-	[O] Molecular chaperone    
+346
+	EJODPLFH_00916	CDS	NA	2284	2556	-	NA
+347
+	EJODPLFH_00917	CDS	COG2932	2744	3430	+	[K] Predicted transcriptional regulator   
+348
+	EJODPLFH_00918	CDS	COG0316	3562	3900	+	[S] Uncharacterized conserved protein   
+349
+	EJODPLFH_00919	CDS	NA	4060	4524	+	NA
+	EJODPLFH_00920	CDS	COG0661	4559	6070	+	[R] Predicted unusual protein kinase  
+350
+	EJODPLFH_00921	CDS	COG1045	6427	7245	-	[E] Serine acetyltransferase    
+351
+	EJODPLFH_00922	CDS	COG0576	7429	8007	+	[O] Molecular chaperone GrpE (heat shock protein)
+352
+	EJODPLFH_00923	CDS	COG2991	8284	8499	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00924	CDS	COG1477	8525	9580	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	EJODPLFH_00925	CDS	COG2871	9733	10950	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+	EJODPLFH_00926	CDS	COG2209	10964	11557	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+	EJODPLFH_00927	CDS	COG1347	11561	12187	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+	EJODPLFH_00928	CDS	COG2869	12187	12963	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+	EJODPLFH_00929	CDS	COG1805	12956	14188	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+	EJODPLFH_00930	CDS	COG1726	14191	15534	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+353
+	EJODPLFH_00931	CDS	COG1055	15882	17303	-	[P] Na+/H+ antiporter NhaD and related arsenite
+354
+	EJODPLFH_00932	CDS	COG2832	17661	18020	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00933	CDS	COG3310	18017	18613	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00934	CDS	COG1522	18669	19151	-	[K] Transcriptional regulators    
+355
+	EJODPLFH_00935	CDS	COG0404	19663	20763	+	[E] Glycine cleavage system T protein (aminomethyltransferase)
+	EJODPLFH_00936	CDS	COG0509	20924	21310	+	[E] Glycine cleavage system H protein (lipoate-binding)
+356
+	EJODPLFH_00937	CDS	COG0373	21457	22704	+	[H] Glutamyl-tRNA reductase    
+357
+	EJODPLFH_00938	CDS	COG3901	23032	23553	+	[K] Regulator of nitric oxide reductase transcription
+	EJODPLFH_00939	CDS	COG3420	23622	24641	+	[P] Nitrous oxidase accessory protein  
+	EJODPLFH_00940	CDS	COG1131	24699	25319	+	[V] ABC-type multidrug transport system, ATPase component
+358
+	EJODPLFH_00941	CDS	COG4314	25536	26030	+	[C] Predicted lipoprotein involved in nitrous oxide
+359
+	EJODPLFH_00942	CDS	NA	26118	27779	-	NA
+360
+	EJODPLFH_01891	CDS	COG5295	154	1956	-	[UW] Autotransporter adhesin    
+361
+	EJODPLFH_01892	CDS	NA	2068	2628	-	NA
+			NA				NA
+			NA				NA
+362
+	EJODPLFH_01365	CDS	COG0267	316	471	-	[J] Ribosomal protein L33   
+	EJODPLFH_01366	CDS	COG0227	503	736	-	[J] Ribosomal protein L28   
+363
+	EJODPLFH_01367	CDS	ROG0893	986	2512	-	NA
+	EJODPLFH_01368	CDS	COG1566	2536	3708	-	[V] Multidrug resistance efflux pump  
+	EJODPLFH_01369	CDS	ROG4749	3752	4111	-	NA
+364
+	EJODPLFH_01370	CDS	COG0780	4374	4847	+	[R] Enzyme related to GTP cyclohydrolase I
+	EJODPLFH_01371	CDS	COG1738	4924	5610	+	[S] Uncharacterized conserved protein   
+365
+	EJODPLFH_01372	CDS	COG0739	6549	7841	-	[M] Membrane proteins related to metalloendopeptidases 
+366
+	EJODPLFH_01373	CDS	COG4255	7918	8886	+	[S] Uncharacterized protein conserved in bacteria 
+367
+	EJODPLFH_01374	CDS	ROG3350	9087	10520	-	NA
+368
+	EJODPLFH_01375	CDS	COG3468	10795	12654	-	[MU] Type V secretory pathway, adhesin AidA
+369
+	EJODPLFH_01376	CDS	NA	14363	14608	-	NA
+370
+	EJODPLFH_01377	CDS	COG1981	14725	15150	+	[S] Predicted membrane protein   
+	EJODPLFH_01378	CDS	COG2954	15162	15638	+	[S] Uncharacterized protein conserved in bacteria 
+371
+	EJODPLFH_01379	CDS	COG0262	15988	16476	-	[H] Dihydrofolate reductase    
+	EJODPLFH_01380	CDS	COG0722	16544	17599	-	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+372
+	EJODPLFH_01381	CDS	NA	17808	17999	-	NA
+373
+	EJODPLFH_01382	CDS	NA	18266	18523	+	NA
+			NA				NA
+374
+	EJODPLFH_01834	CDS	COG2274	72	323	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+375
+	EJODPLFH_01835	CDS	NA	1301	1522	+	NA
+376
+	EJODPLFH_01836	CDS	COG2931	1988	2272	+	[Q] RTX toxins and related Ca2+-binding proteins
+	EJODPLFH_01837	CDS	ROG4851	2314	2808	+	NA
+	EJODPLFH_01838	CDS	COG2931	2810	3334	+	[Q] RTX toxins and related Ca2+-binding proteins
+377
+	EJODPLFH_01839	CDS	ROG1519	3628	4143	+	NA
+378
+	EJODPLFH_01205	CDS	COG4969	147	467	+	[NU] Tfp pilus assembly protein, major pilin
+	EJODPLFH_01206	CDS	COG4969	659	997	+	[NU] Tfp pilus assembly protein, major pilin
+379
+	EJODPLFH_01207	CDS	NA	1342	1563	-	NA
+380
+	EJODPLFH_01208	CDS	COG4969	1708	2211	+	[NU] Tfp pilus assembly protein, major pilin
+381
+	EJODPLFH_01209	CDS	COG0774	2950	3873	+	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+382
+	EJODPLFH_01210	CDS	COG0362	4813	6261	+	[G] 6-phosphogluconate dehydrogenase    
+383
+	EJODPLFH_01211	CDS	COG1519	6324	7595	+	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+	EJODPLFH_01212	CDS	COG3399	7636	8085	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01213	CDS	COG0861	8118	9092	+	[P] Membrane protein TerC, possibly involved in
+384
+	EJODPLFH_01214	tRNA	NA	9161	9236	+	NA
+385
+	EJODPLFH_01215	CDS	COG0766	9456	10709	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	EJODPLFH_01216	CDS	COG0126	10790	11968	+	[G] 3-phosphoglycerate kinase    
+386
+	EJODPLFH_01217	CDS	COG5007	12035	12283	-	[K] Predicted transcriptional regulator, BolA superfamily 
+387
+	EJODPLFH_01218	CDS	COG2177	12373	13290	-	[D] Cell division protein   
+	EJODPLFH_01219	CDS	COG2884	13287	13937	-	[D] Predicted ATPase involved in cell division
+388
+	EJODPLFH_01220	CDS	COG0526	14133	14615	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+389
+	EJODPLFH_01221	CDS	COG1393	14739	15092	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	EJODPLFH_01222	CDS	COG1434	15089	15745	+	[S] Uncharacterized conserved protein   
+390
+	EJODPLFH_01223	CDS	COG0008	15861	17255	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	EJODPLFH_01224	CDS	COG1196	17276	17671	+	[D] Chromosome segregation ATPases   
+	EJODPLFH_01225	CDS	COG0454	17675	18166	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+391
+	EJODPLFH_01226	CDS	COG0249	18289	20901	-	[L] Mismatch repair ATPase (MutS family) 
+392
+	EJODPLFH_01227	CDS	NA	21345	22349	+	NA
+393
+	EJODPLFH_00507	CDS	COG0547	445	1503	-	[E] Anthranilate phosphoribosyltransferase    
+	EJODPLFH_00508	CDS	COG0512	1566	2156	-	[EH] Anthranilate/para-aminobenzoate synthases component II  
+394
+	EJODPLFH_00509	CDS	COG1629	2578	4854	+	[P] Outer membrane receptor proteins, mostly Fe
+395
+	EJODPLFH_00510	CDS	COG0688	6077	6874	-	[I] Phosphatidylserine decarboxylase    
+396
+	EJODPLFH_00511	CDS	COG0178	7029	9878	+	[L] Excinuclease ATPase subunit   
+	EJODPLFH_00512	CDS	COG3183	9920	11104	+	[V] Predicted restriction endonuclease   
+	EJODPLFH_00513	CDS	COG0270	11117	12319	+	[L] Site-specific DNA methylase   
+397
+	EJODPLFH_00514	CDS	COG1943	12720	13187	+	[L] Transposase and inactivated derivatives  
+398
+	EJODPLFH_00515	CDS	COG0074	13283	14173	-	[C] Succinyl-CoA synthetase, alpha subunit  
+	EJODPLFH_00516	CDS	COG0045	14184	15350	-	[C] Succinyl-CoA synthetase, beta subunit  
+399
+	EJODPLFH_00517	CDS	ROG6018	15449	15736	-	NA
+400
+	EJODPLFH_00518	CDS	COG1249	15831	17264	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	EJODPLFH_00519	CDS	COG0508	17629	18810	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	EJODPLFH_00520	CDS	COG0567	18910	21738	-	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	EJODPLFH_00521	CDS	COG0372	21943	23226	-	[C] Citrate synthase    
+401
+	EJODPLFH_00522	CDS	COG2938	23338	23586	-	[S] Uncharacterized conserved protein   
+	EJODPLFH_00523	CDS	COG0479	23590	24297	-	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	EJODPLFH_00524	CDS	COG1053	24418	26181	-	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	EJODPLFH_00525	CDS	COG2142	26184	26525	-	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+	EJODPLFH_00526	CDS	COG2009	26519	26896	-	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	EJODPLFH_00527	CDS	COG1249	27175	28644	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+402
+	EJODPLFH_00528	CDS	COG0678	28827	29564	-	[O] Peroxiredoxin     
+403
+	EJODPLFH_00529	CDS	COG0620	29843	32119	-	[E] Methionine synthase II (cobalamin-independent)  
+	EJODPLFH_00530	CDS	COG0685	32257	33135	-	[E] 5,10-methylenetetrahydrofolate reductase    
+404
+	EJODPLFH_00531	CDS	COG0254	33335	33610	+	[J] Ribosomal protein L31   
+	EJODPLFH_00532	CDS	COG0257	33610	33735	+	[J] Ribosomal protein L36   
+405
+	EJODPLFH_00533	CDS	COG0053	33947	34147	-	[P] Predicted Co/Zn/Cd cation transporters  
+406
+	EJODPLFH_00534	CDS	COG2021	34297	35436	+	[E] Homoserine acetyltransferase    
+	EJODPLFH_00535	CDS	COG0500	35433	36014	+	[QR] SAM-dependent methyltransferases    
+407
+	EJODPLFH_00536	CDS	ROG0077	36131	36967	+	NA
+408
+	EJODPLFH_00537	CDS	COG0231	37017	37577	-	[J] Translation elongation factor P (EF-P)/translation initiation
+	EJODPLFH_00538	CDS	COG4394	37620	38777	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00539	CDS	NA	38790	39068	-	NA
+409
+	EJODPLFH_00540	CDS	COG0324	39422	40363	+	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+	EJODPLFH_00541	CDS	COG0590	40367	41086	+	[FJ] Cytosine/adenosine deaminases    
+	EJODPLFH_00542	CDS	COG2839	41091	41579	+	[S] Uncharacterized protein conserved in bacteria 
+410
+	EJODPLFH_00543	CDS	COG0566	41645	42397	+	[J] rRNA methylases    
+411
+	EJODPLFH_00544	CDS	COG2233	42459	42650	-	[F] Xanthine/uracil permeases    
+	EJODPLFH_00545	CDS	COG2233	42604	43851	-	[F] Xanthine/uracil permeases    
+	EJODPLFH_00546	CDS	NA	43866	44120	-	NA
+412
+	EJODPLFH_00547	CDS	COG0329	44158	45033	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+	EJODPLFH_00548	CDS	COG3317	45111	46238	+	[M] Uncharacterized lipoprotein    
+413
+	EJODPLFH_00549	CDS	NA	46295	47227	-	NA
+			NA				NA
+414
+	EJODPLFH_00427	CDS	COG0318	135	1688	+	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+415
+	EJODPLFH_00428	CDS	COG1292	1779	3806	-	[M] Choline-glycine betaine transporter   
+416
+	EJODPLFH_00429	CDS	COG4389	4095	6101	+	[L] Site-specific recombinase    
+417
+	EJODPLFH_00430	CDS	COG2951	6514	7623	-	[M] Membrane-bound lytic murein transglycosylase B 
+418
+	EJODPLFH_00431	CDS	ROG4768	7824	9251	-	NA
+419
+	EJODPLFH_00432	CDS	COG1197	9436	13548	+	[LK] Transcription-repair coupling factor (superfamily II helicase)
+	EJODPLFH_00433	CDS	COG0853	13697	14080	+	[H] Aspartate 1-decarboxylase    
+	EJODPLFH_00434	CDS	COG2877	14102	14944	+	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	EJODPLFH_00435	CDS	ROG0291	14959	15399	+	NA
+	EJODPLFH_00436	CDS	COG0148	15447	16733	+	[G] Enolase     
+	EJODPLFH_00437	CDS	COG2919	16747	17025	+	[D] Septum formation initiator   
+420
+	EJODPLFH_00438	CDS	COG0633	17066	17356	-	[C] Ferredoxin     
+421
+	EJODPLFH_00439	CDS	COG0208	17554	18708	-	[F] Ribonucleotide reductase, beta subunit  
+	EJODPLFH_00440	CDS	ROG2400	18748	19935	-	NA
+	EJODPLFH_00441	CDS	COG0270	19932	20942	-	[L] Site-specific DNA methylase   
+	EJODPLFH_00442	CDS	COG0209	21000	23279	-	[F] Ribonucleotide reductase, alpha subunit  
+422
+	EJODPLFH_00443	CDS	COG4430	23793	24119	+	[S] Uncharacterized protein conserved in bacteria 
+423
+	EJODPLFH_00444	CDS	COG0204	24431	25198	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	EJODPLFH_00445	CDS	COG0266	25286	26113	-	[L] Formamidopyrimidine-DNA glycosylase    
+	EJODPLFH_00446	CDS	COG0500	26165	26830	-	[QR] SAM-dependent methyltransferases    
+424
+	EJODPLFH_00447	CDS	COG1388	27009	28985	+	[M] FOG: LysM repeat   
+425
+	EJODPLFH_00448	CDS	COG1187	29053	29745	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+426
+	EJODPLFH_00449	CDS	COG0733	30599	31690	+	[R] Na+-dependent transporters of the SNF family
+427
+	EJODPLFH_00450	CDS	COG0283	31934	32590	+	[F] Cytidylate kinase    
+	EJODPLFH_00451	CDS	COG0539	32745	34430	+	[J] Ribosomal protein S1   
+	EJODPLFH_00452	CDS	COG0776	34441	34755	+	[L] Bacterial nucleoid DNA-binding protein  
+428
+	EJODPLFH_00453	CDS	COG0789	35106	35513	-	[K] Predicted transcriptional regulators   
+429
+	EJODPLFH_00454	CDS	COG1062	35820	36956	+	[C] Zn-dependent alcohol dehydrogenases, class III 
+	EJODPLFH_00455	CDS	COG0627	36965	37792	+	[R] Predicted esterase    
+430
+	EJODPLFH_00456	CDS	COG1485	38183	39334	+	[R] Predicted ATPase    
+431
+	EJODPLFH_00457	CDS	COG0105	39393	39818	+	[F] Nucleoside diphosphate kinase   
+	EJODPLFH_00458	CDS	COG0820	39962	41056	+	[R] Predicted Fe-S-cluster redox enzyme  
+	EJODPLFH_00459	CDS	COG3063	41059	41820	+	[NU] Tfp pilus assembly protein PilF 
+	EJODPLFH_00460	CDS	COG0821	41836	43101	+	[I] Enzyme involved in the deoxyxylulose pathway
+432
+	EJODPLFH_00461	CDS	COG0740	43158	43772	-	[OU] Protease subunit of ATP-dependent Clp proteases
+	EJODPLFH_00462	CDS	COG0544	43868	45178	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+433
+	EJODPLFH_00463	CDS	COG1674	45387	47825	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+434
+	EJODPLFH_00464	CDS	COG2233	48024	49259	+	[F] Xanthine/uracil permeases    
+435
+	EJODPLFH_00465	CDS	NA	49311	49793	-	NA
+436
+	EJODPLFH_01479	CDS	NA	481	840	-	NA
+437
+	EJODPLFH_01480	CDS	COG2755	1115	1738	-	[E] Lysophospholipase L1 and related esterases 
+	EJODPLFH_01481	CDS	COG2818	1746	2297	-	[L] 3-methyladenine DNA glycosylase   
+	EJODPLFH_01482	CDS	COG3009	2301	2819	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01483	CDS	COG3008	2819	4480	-	[R] Paraquat-inducible protein B   
+	EJODPLFH_01484	CDS	COG2995	4473	5933	-	[S] Uncharacterized paraquat-inducible protein A  
+438
+	EJODPLFH_01485	CDS	COG3230	6271	6900	+	[P] Heme oxygenase    
+439
+	EJODPLFH_01486	CDS	NA	7094	7702	+	NA
+440
+	EJODPLFH_01487	CDS	ROG2025	8233	8709	-	NA
+441
+	EJODPLFH_01488	CDS	COG0826	8843	10198	-	[O] Collagenase and related proteases  
+442
+	EJODPLFH_01489	CDS	COG0561	10523	11311	+	[R] Predicted hydrolases of the HAD superfamily
+443
+	EJODPLFH_01490	CDS	COG0503	11357	11923	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+444
+	EJODPLFH_01491	CDS	COG0194	12084	12701	+	[F] Guanylate kinase    
+	EJODPLFH_01492	CDS	COG1758	12760	12966	+	[K] DNA-directed RNA polymerase, subunit K/omega 
+	EJODPLFH_01493	CDS	COG0317	13059	15215	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+445
+	EJODPLFH_01494	CDS	NA	15282	16466	-	NA
+446
+	EJODPLFH_00177	CDS	COG0732	365	961	-	[V] Restriction endonuclease S subunits  
+	EJODPLFH_00178	CDS	COG3943	1127	2137	-	[R] Virulence protein    
+	EJODPLFH_00179	CDS	COG0286	2134	3678	-	[V] Type I restriction-modification system methyltransferase subunit
+	EJODPLFH_00180	CDS	COG0451	3751	4755	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+447
+	EJODPLFH_00181	CDS	COG3440	4884	5915	-	[V] Predicted restriction endonuclease   
+	EJODPLFH_00182	CDS	COG0270	5917	7152	-	[L] Site-specific DNA methylase   
+	EJODPLFH_00183	CDS	COG2870	7189	8160	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+448
+	EJODPLFH_00184	CDS	COG0284	8215	8955	-	[F] Orotidine-5'-phosphate decarboxylase    
+449
+	EJODPLFH_00185	CDS	COG0563	9481	10128	-	[F] Adenylate kinase and related kinases 
+450
+	EJODPLFH_00186	CDS	COG0501	10343	11182	+	[O] Zn-dependent protease with chaperone function 
+451
+	EJODPLFH_00187	CDS	ROG4167	11483	12043	-	NA
+452
+	EJODPLFH_00188	CDS	ROG7813	12157	12549	-	NA
+453
+	EJODPLFH_00189	CDS	COG0104	14542	15840	-	[F] Adenylosuccinate synthase    
+	EJODPLFH_00190	CDS	COG3705	15944	17095	-	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+454
+	EJODPLFH_00191	CDS	COG0534	17430	18809	+	[V] Na+-driven multidrug efflux pump  
+455
+	EJODPLFH_00192	CDS	COG0812	18988	20028	+	[M] UDP-N-acetylmuramate dehydrogenase    
+	EJODPLFH_00193	CDS	COG1309	20046	20690	+	[K] Transcriptional regulator    
+	EJODPLFH_00194	CDS	COG0451	20745	21512	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	EJODPLFH_00195	CDS	COG3165	21572	22138	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00196	CDS	COG0061	22158	23048	+	[G] Predicted sugar kinase   
+	EJODPLFH_00197	CDS	COG1187	23073	23831	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+456
+	EJODPLFH_00198	CDS	COG0778	23886	24551	-	[C] Nitroreductase     
+457
+	EJODPLFH_00199	CDS	COG1469	24751	25524	-	[S] Uncharacterized conserved protein   
+458
+	EJODPLFH_00200	CDS	COG0626	25716	26873	+	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+459
+	EJODPLFH_00201	CDS	COG0113	26936	27937	-	[H] Delta-aminolevulinic acid dehydratase   
+460
+	EJODPLFH_00202	CDS	COG1534	28120	28404	-	[J] Predicted RNA-binding protein containing KH domain,
+461
+	EJODPLFH_00203	CDS	COG0293	28514	29134	+	[J] 23S rRNA methylase   
+	EJODPLFH_00204	CDS	COG0465	29198	31165	+	[O] ATP-dependent Zn proteases   
+462
+	EJODPLFH_00205	CDS	COG2867	31380	31817	+	[I] Oligoketide cyclase/lipid transport protein  
+	EJODPLFH_00206	CDS	COG2914	31810	32088	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00207	CDS	COG0193	32141	32719	+	[J] Peptidyl-tRNA hydrolase    
+	EJODPLFH_00208	CDS	NA	32780	32986	+	NA
+	EJODPLFH_00209	CDS	ROG5597	32983	33345	+	NA
+463
+	EJODPLFH_00210	CDS	COG0471	33576	34991	+	[P] Di- and tricarboxylate transporters  
+464
+	EJODPLFH_00211	CDS	COG0652	35110	35619	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+465
+	EJODPLFH_00212	CDS	COG1109	35786	37168	+	[G] Phosphomannomutase     
+466
+	EJODPLFH_00213	CDS	COG1126	37188	37943	-	[E] ABC-type polar amino acid transport system,
+	EJODPLFH_00214	CDS	COG0765	37953	38669	-	[E] ABC-type amino acid transport system, permease
+	EJODPLFH_00215	CDS	COG0834	38659	39483	-	[ET] ABC-type amino acid transport/signal transduction systems,
+467
+	EJODPLFH_00216	CDS	COG2837	39591	40679	+	[P] Predicted iron-dependent peroxidase   
+468
+	EJODPLFH_00217	CDS	COG1074	40912	44526	+	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+	EJODPLFH_00218	CDS	COG0607	44565	44924	+	[P] Rhodanese-related sulfurtransferase    
+469
+	EJODPLFH_00219	CDS	COG3439	45049	45528	+	[S] Uncharacterized conserved protein   
+470
+	EJODPLFH_00220	CDS	COG1066	45804	47183	-	[O] Predicted ATP-dependent serine protease  
+	EJODPLFH_00221	CDS	COG0407	47361	48425	-	[H] Uroporphyrinogen-III decarboxylase    
+471
+	EJODPLFH_00222	CDS	COG3071	48500	49717	-	[H] Uncharacterized enzyme of heme biosynthesis 
+	EJODPLFH_00223	CDS	COG2959	49714	51048	-	[H] Uncharacterized enzyme of heme biosynthesis 
+	EJODPLFH_00224	CDS	COG1587	51063	51824	-	[H] Uroporphyrinogen-III synthase    
+	EJODPLFH_00225	CDS	ROG6427	51845	52264	-	NA
+472
+	EJODPLFH_00226	CDS	COG4390	52515	52835	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00227	CDS	COG0035	52858	53484	-	[F] Uracil phosphoribosyltransferase    
+	EJODPLFH_00228	CDS	NA	53474	53590	-	NA
+	EJODPLFH_00229	CDS	COG0278	53590	53901	-	[O] Glutaredoxin-related protein    
+473
+	EJODPLFH_00230	CDS	COG0084	54242	55021	-	[L] Mg-dependent DNase    
+	EJODPLFH_00231	CDS	COG3215	55026	55376	-	[NU] Tfp pilus assembly protein PilZ 
+	EJODPLFH_00232	CDS	COG2812	55380	56357	-	[L] DNA polymerase III, gamma/tau subunits 
+	EJODPLFH_00233	CDS	COG5008	56391	57521	-	[NU] Tfp pilus assembly protein, ATPase PilU
+474
+	EJODPLFH_00292	CDS	COG2357	357	1625	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00293	CDS	COG0556	1671	3770	-	[L] Helicase subunit of the DNA excision
+475
+	EJODPLFH_00294	CDS	COG0793	4027	5511	-	[M] Periplasmic protease    
+	EJODPLFH_00295	CDS	COG4942	5638	7428	-	[D] Membrane-bound metallopeptidase    
+476
+	EJODPLFH_00296	CDS	COG3045	7756	8316	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00297	CDS	COG1678	8318	8866	+	[K] Putative transcriptional regulator   
+	EJODPLFH_00298	CDS	COG0816	8859	9314	+	[L] Predicted endonuclease involved in recombination (possible
+477
+	EJODPLFH_00299	CDS	COG0179	9324	9980	-	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+478
+	EJODPLFH_00300	CDS	COG0442	10043	11755	-	[J] Prolyl-tRNA synthetase    
+479
+	EJODPLFH_00301	CDS	COG2609	12449	15112	+	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+	EJODPLFH_00302	CDS	COG0508	15262	16845	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	EJODPLFH_00303	CDS	COG1249	16922	18709	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+480
+	EJODPLFH_00304	CDS	COG5339	19069	20619	-	[S] Uncharacterized protein conserved in bacteria 
+481
+	EJODPLFH_00305	CDS	COG1629	20743	21213	-	[P] Outer membrane receptor proteins, mostly Fe
+	EJODPLFH_00306	CDS	COG1629	21294	22838	-	[P] Outer membrane receptor proteins, mostly Fe
+482
+	EJODPLFH_00307	CDS	COG0483	23108	23893	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+483
+	EJODPLFH_00308	CDS	COG0565	24137	24952	+	[J] rRNA methylase    
+	EJODPLFH_00309	CDS	COG3782	25013	25870	+	[S] Uncharacterized protein conserved in bacteria 
+484
+	EJODPLFH_00310	CDS	NA	26073	26414	+	NA
+485
+	EJODPLFH_00311	CDS	COG0144	26762	28018	+	[J] tRNA and rRNA cytosine-C5-methylases  
+486
+	EJODPLFH_00312	CDS	ROG1544	28774	29208	+	NA
+487
+	EJODPLFH_00313	CDS	COG1012	29256	30599	-	[C] NAD-dependent aldehyde dehydrogenases   
+	EJODPLFH_00314	CDS	COG2095	30604	31257	-	[U] Multiple antibiotic transporter   
+488
+	EJODPLFH_00315	CDS	COG0721	31408	31698	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	EJODPLFH_00316	CDS	COG0154	31761	33206	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	EJODPLFH_00317	CDS	COG2990	33203	34135	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00318	CDS	COG0064	34178	35608	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+489
+	EJODPLFH_00319	CDS	COG0543	35700	36710	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+490
+	EJODPLFH_00320	CDS	COG0259	36839	37471	-	[H] Pyridoxamine-phosphate oxidase    
+491
+	EJODPLFH_00321	CDS	COG1187	37702	38751	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+492
+	EJODPLFH_00322	CDS	COG0477	38820	40361	-	[GEPR] Permeases of the major facilitator superfamily
+493
+	EJODPLFH_00323	CDS	COG1570	40972	42327	-	[L] Exonuclease VII, large subunit  
+494
+	EJODPLFH_00324	CDS	COG0171	42554	43345	+	[H] NAD synthase    
+495
+	EJODPLFH_00325	CDS	COG2846	43415	43888	-	[D] Regulator of cell morphogenesis and NO
+496
+	EJODPLFH_00326	CDS	COG0526	44190	44522	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+497
+	EJODPLFH_00327	CDS	COG1092	44575	45522	-	[R] Predicted SAM-dependent methyltransferases   
+498
+	EJODPLFH_00328	CDS	COG0513	45851	47239	+	[LKJ] Superfamily II DNA and RNA helicases
+499
+	EJODPLFH_00329	CDS	ROG2194	47728	48282	-	NA
+500
+	EJODPLFH_00330	CDS	NA	48367	48867	-	NA
+501
+	EJODPLFH_00331	CDS	COG4992	49271	50464	+	[E] Ornithine/acetylornithine aminotransferase    
+502
+	EJODPLFH_00332	CDS	COG1219	50529	51773	-	[O] ATP-dependent protease Clp, ATPase subunit 
+503
+	EJODPLFH_00333	CDS	COG0858	51963	52334	+	[J] Ribosome-binding factor A   
+	EJODPLFH_00334	CDS	COG0130	52346	53290	+	[J] Pseudouridine synthase    
+504
+	EJODPLFH_01759	CDS	COG3676	13	570	+	[L] Transposase and inactivated derivatives  
+505
+	EJODPLFH_01760	CDS	ROG1815	641	1243	-	NA
+	EJODPLFH_01761	CDS	COG0151	1277	2548	-	[F] Phosphoribosylamine-glycine ligase    
+506
+	EJODPLFH_01762	CDS	NA	2706	3023	+	NA
+507
+	EJODPLFH_01763	CDS	COG1739	3075	3686	-	[S] Uncharacterized conserved protein   
+508
+	EJODPLFH_01764	CDS	COG2025	3749	4684	-	[C] Electron transfer flavoprotein, alpha subunit 
+	EJODPLFH_01765	CDS	COG2086	4695	5444	-	[C] Electron transfer flavoprotein, beta subunit 
+509
+	EJODPLFH_01766	CDS	COG0859	5670	6638	-	[M] ADP-heptose:LPS heptosyltransferase    
+	EJODPLFH_01767	CDS	COG1335	6675	7310	-	[Q] Amidases related to nicotinamidase  
+510
+	EJODPLFH_01768	CDS	NA	7424	8104	+	NA
+511
+	EJODPLFH_00833	CDS	NA	12	305	+	NA
+512
+	EJODPLFH_00834	CDS	COG3737	517	912	-	[S] Uncharacterized conserved protein   
+513
+	EJODPLFH_00835	CDS	COG0460	1085	2392	+	[E] Homoserine dehydrogenase    
+	EJODPLFH_00836	CDS	NA	2385	2819	+	NA
+514
+	EJODPLFH_00837	CDS	COG0776	2878	3147	-	[L] Bacterial nucleoid DNA-binding protein  
+	EJODPLFH_00838	CDS	COG0466	3329	5791	-	[O] ATP-dependent Lon protease, bacterial type 
+515
+	EJODPLFH_00839	CDS	COG2264	6042	7145	+	[J] Ribosomal protein L11 methylase  
+516
+	EJODPLFH_00840	CDS	COG0507	7217	8962	-	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+517
+	EJODPLFH_00841	CDS	COG4181	9030	9725	-	[Q] Predicted ABC-type transport system involved in
+	EJODPLFH_00842	CDS	COG4591	9718	10965	-	[M] ABC-type transport system, involved in lipoprotein
+518
+	EJODPLFH_00843	CDS	NA	11170	11448	+	NA
+519
+	EJODPLFH_00844	CDS	COG0353	11504	12121	-	[L] Recombinational DNA repair protein (RecF pathway)
+	EJODPLFH_00845	CDS	COG0760	12188	13726	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	EJODPLFH_00846	CDS	COG1393	13786	14160	-	[P] Arsenate reductase and related proteins, glutaredoxin
+520
+	EJODPLFH_00847	CDS	COG0488	14310	15938	+	[R] ATPase components of ABC transporters with
+	EJODPLFH_00848	CDS	COG0617	16010	17263	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+521
+	EJODPLFH_00849	CDS	NA	17486	17794	+	NA
+522
+	EJODPLFH_00850	CDS	COG2255	17876	18907	+	[L] Holliday junction resolvasome, helicase subunit 
+523
+	EJODPLFH_00851	CDS	COG0036	18930	19658	-	[G] Pentose-5-phosphate-3-epimerase     
+524
+	EJODPLFH_00852	CDS	COG3678	19969	20403	+	[UNTP] P pilus assembly/Cpx signaling pathway, periplasmic
+525
+	EJODPLFH_00853	CDS	COG2607	20416	21279	-	[R] Predicted ATPase (AAA+ superfamily)  
+	EJODPLFH_00854	CDS	COG0307	21287	21991	-	[H] Riboflavin synthase alpha chain  
+526
+	EJODPLFH_00855	CDS	COG0746	22067	22645	-	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+527
+	EJODPLFH_00856	CDS	COG3850	22887	24659	+	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+	EJODPLFH_00857	CDS	COG2197	24656	25312	+	[TK] Response regulator containing a CheY-like receiver
+528
+	EJODPLFH_00858	CDS	COG0150	25786	26820	-	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+529
+	EJODPLFH_00859	tRNA	NA	27340	27424	-	NA
+530
+	EJODPLFH_00860	CDS	NA	27578	28252	+	NA
+	EJODPLFH_00861	CDS	COG0807	28245	28838	+	[H] GTP cyclohydrolase II   
+531
+	EJODPLFH_01909	CDS	NA	102	569	+	NA
+	EJODPLFH_01910	CDS	NA	573	983	+	NA
+532
+	EJODPLFH_01911	CDS	NA	1119	1235	+	NA
+533
+	EJODPLFH_00673	CDS	COG4607	292	1257	-	[P] ABC-type enterochelin transport system, periplasmic component
+534
+	EJODPLFH_00674	CDS	COG2207	1493	2449	+	[K] AraC-type DNA-binding domain-containing proteins  
+535
+	EJODPLFH_00675	CDS	COG1505	2563	4578	-	[E] Serine proteases of the peptidase family
+536
+	EJODPLFH_00676	CDS	COG0548	4674	5984	-	[E] Acetylglutamate kinase    
+	EJODPLFH_00677	CDS	ROG0195	5981	6415	-	NA
+537
+	EJODPLFH_00678	CDS	COG0461	6489	7130	-	[F] Orotate phosphoribosyltransferase    
+	EJODPLFH_00679	CDS	COG1573	7192	7929	-	[L] Uracil-DNA glycosylase    
+	EJODPLFH_00680	CDS	COG0456	7923	8363	-	[R] Acetyltransferases     
+	EJODPLFH_00681	CDS	COG1214	8360	9037	-	[O] Inactive homolog of metal-dependent proteases, putative
+538
+	EJODPLFH_00682	CDS	ROG6301	9176	9997	-	NA
+539
+	EJODPLFH_00683	CDS	COG0191	10155	11219	-	[G] Fructose/tagatose bisphosphate aldolase   
+540
+	EJODPLFH_00684	CDS	COG4973	11413	12330	+	[L] Site-specific recombinase XerC   
+541
+	EJODPLFH_00685	CDS	COG1154	12415	14328	+	[HI] Deoxyxylulose-5-phosphate synthase    
+542
+	EJODPLFH_00686	CDS	COG0621	14413	15741	-	[J] 2-methylthioadenine synthetase    
+543
+	EJODPLFH_00687	CDS	ROG3741	16127	16510	+	NA
+544
+	EJODPLFH_00688	CDS	COG0001	16574	17857	+	[H] Glutamate-1-semialdehyde aminotransferase    
+545
+	EJODPLFH_00689	CDS	ROG1617	18073	18345	-	NA
+	EJODPLFH_00690	CDS	COG1949	18356	18919	-	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+	EJODPLFH_00691	CDS	COG2264	18937	19824	-	[J] Ribosomal protein L11 methylase  
+546
+	EJODPLFH_00692	CDS	COG0439	20085	21446	-	[I] Biotin carboxylase    
+	EJODPLFH_00693	CDS	COG0511	21560	22012	-	[I] Biotin carboxyl carrier protein  
+547
+	EJODPLFH_00694	CDS	COG0809	22368	23408	+	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+548
+	EJODPLFH_00695	CDS	COG2249	23882	24460	-	[R] Putative NADPH-quinone reductase (modulator of drug
+549
+	EJODPLFH_00696	CDS	COG0583	24699	25598	+	[K] Transcriptional regulator    
+550
+	EJODPLFH_00697	CDS	COG0458	25826	29041	-	[EF] Carbamoylphosphate synthase large subunit (split gene
+	EJODPLFH_00698	CDS	COG4915	29081	29692	-	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+551
+	EJODPLFH_00699	CDS	COG2852	30540	30929	-	[S] Uncharacterized protein conserved in bacteria 
+552
+	EJODPLFH_00700	CDS	COG0346	31490	31627	-	[E] Lactoylglutathione lyase and related lyases 
+	EJODPLFH_00701	CDS	COG0505	31673	32806	-	[EF] Carbamoylphosphate synthase small subunit  
+553
+	EJODPLFH_01262	CDS	NA	574	1002	-	NA
+554
+	EJODPLFH_01263	CDS	NA	1079	1522	-	NA
+	EJODPLFH_01264	CDS	ROG0367	1565	2434	-	NA
+555
+	EJODPLFH_01265	CDS	COG0564	2598	3521	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+556
+	EJODPLFH_01266	CDS	COG2945	3599	4282	-	[R] Predicted hydrolase of the alpha/beta superfamily
+	EJODPLFH_01267	CDS	COG0421	4295	5086	-	[E] Spermidine synthase    
+557
+	EJODPLFH_01268	tRNA	NA	5252	5327	+	NA
+558
+	EJODPLFH_01269	CDS	COG0413	5469	6260	+	[H] Ketopantoate hydroxymethyltransferase    
+	EJODPLFH_01270	CDS	COG0414	6383	7219	+	[H] Panthothenate synthetase    
+559
+	EJODPLFH_01271	CDS	COG0457	7384	9222	+	[R] FOG: TPR repeat   
+	EJODPLFH_01272	CDS	COG3017	9362	9943	+	[M] Outer membrane lipoprotein involved in outer
+	EJODPLFH_01273	CDS	COG1947	9953	10798	+	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+	EJODPLFH_01274	tRNA	NA	10806	10881	+	NA
+	EJODPLFH_01275	tRNA	NA	10890	10965	+	NA
+560
+	EJODPLFH_01276	CDS	COG0462	11133	12116	+	[FE] Phosphoribosylpyrophosphate synthetase    
+	EJODPLFH_01277	CDS	COG1825	12183	12755	+	[J] Ribosomal protein L25 (general stress protein
+561
+	EJODPLFH_01278	CDS	COG1686	12880	14049	-	[M] D-alanyl-D-alanine carboxypeptidase    
+562
+	EJODPLFH_01279	CDS	COG1171	14197	15723	+	[E] Threonine dehydratase    
+563
+	EJODPLFH_01280	CDS	COG1118	15780	16853	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	EJODPLFH_01281	CDS	COG4208	16850	17710	-	[P] ABC-type sulfate transport system, permease component
+	EJODPLFH_01282	CDS	COG0555	17962	18798	-	[O] ABC-type sulfate transport system, permease component
+564
+	EJODPLFH_01283	CDS	NA	19088	19420	+	NA
+565
+	EJODPLFH_01284	CDS	NA	19752	20261	+	NA
+			NA				NA
+566
+	EJODPLFH_00116	CDS	COG1158	1026	2285	-	[K] Transcription termination factor   
+	EJODPLFH_00117	CDS	COG0574	2505	4889	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+567
+	EJODPLFH_00118	CDS	COG1806	5301	6122	+	[S] Uncharacterized protein conserved in bacteria 
+568
+	EJODPLFH_00119	CDS	COG0546	6361	7023	-	[R] Predicted phosphatases    
+569
+	EJODPLFH_00120	CDS	COG1230	7084	8049	-	[P] Co/Zn/Cd efflux system component  
+	EJODPLFH_00121	CDS	COG2833	8095	8922	-	[S] Uncharacterized protein conserved in bacteria 
+570
+	EJODPLFH_00122	CDS	COG2834	9352	9975	+	[M] Outer membrane lipoprotein-sorting protein  
+571
+	EJODPLFH_00123	CDS	COG0687	10248	11384	+	[E] Spermidine/putrescine-binding periplasmic protein   
+572
+	EJODPLFH_00124	CDS	COG0463	11516	11806	+	[M] Glycosyltransferases involved in cell wall biogenesis
+573
+	EJODPLFH_00125	CDS	NA	11937	12572	+	NA
+	EJODPLFH_00126	CDS	COG0663	12613	13143	+	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+574
+	EJODPLFH_00127	CDS	COG4108	13518	15113	-	[J] Peptide chain release factor RF-3 
+575
+	EJODPLFH_00128	CDS	COG0139	15220	15615	-	[E] Phosphoribosyl-AMP cyclohydrolase    
+	EJODPLFH_00129	CDS	COG0107	15646	16413	-	[E] Imidazoleglycerol-phosphate synthase    
+	EJODPLFH_00130	CDS	COG0106	16426	17163	-	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+	EJODPLFH_00131	CDS	COG0118	17196	17834	-	[E] Glutamine amidotransferase    
+	EJODPLFH_00132	CDS	COG0280	17965	19467	-	[C] Phosphotransacetylase     
+576
+	EJODPLFH_00133	CDS	COG1118	19652	20710	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	EJODPLFH_00134	CDS	COG1178	20731	22260	-	[P] ABC-type Fe3+ transport system, permease component
+	EJODPLFH_00135	CDS	COG1840	22316	23311	-	[P] ABC-type Fe3+ transport system, periplasmic component
+577
+	EJODPLFH_00136	CDS	ROG5235	23563	24033	-	NA
+	EJODPLFH_00137	CDS	COG0165	24091	25467	-	[E] Argininosuccinate lyase    
+	EJODPLFH_00138	CDS	COG1210	25486	26355	-	[M] UDP-glucose pyrophosphorylase    
+	EJODPLFH_00139	CDS	COG0127	26383	26982	-	[F] Xanthosine triphosphate pyrophosphatase   
+	EJODPLFH_00140	CDS	ROG2059	26975	27208	-	NA
+578
+	EJODPLFH_00141	CDS	COG0221	27316	27849	-	[C] Inorganic pyrophosphatase    
+	EJODPLFH_00142	CDS	COG1051	27951	28409	-	[F] ADP-ribose pyrophosphatase    
+579
+	EJODPLFH_00143	tRNA	NA	28620	28696	+	NA
+580
+	EJODPLFH_00144	CDS	ROG1168	29009	30901	+	NA
+	EJODPLFH_00145	CDS	NA	30928	31347	+	NA
+581
+	EJODPLFH_00146	CDS	NA	31505	31747	+	NA
+582
+	EJODPLFH_00147	CDS	NA	32073	32462	+	NA
+583
+	EJODPLFH_00148	CDS	NA	32683	33081	+	NA
+584
+	EJODPLFH_00149	CDS	NA	33182	33571	+	NA
+585
+	EJODPLFH_00150	CDS	NA	33719	34108	+	NA
+586
+	EJODPLFH_00151	CDS	COG0168	34149	35606	-	[P] Trk-type K+ transport systems, membrane components
+	EJODPLFH_00152	CDS	ROG0146	35621	36451	-	NA
+587
+	EJODPLFH_00153	CDS	COG0251	36529	36918	-	[J] Putative translation initiation inhibitor, yjgF family
+588
+	EJODPLFH_00154	CDS	COG3637	37054	37578	-	[M] Opacity protein and related surface antigens
+589
+	EJODPLFH_00155	CDS	COG0635	38163	39338	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+	EJODPLFH_00156	CDS	COG0272	39395	41920	-	[L] NAD-dependent DNA ligase (contains BRCT domain
+590
+	EJODPLFH_00157	CDS	ROG0612	42068	43354	-	NA
+591
+	EJODPLFH_00158	CDS	COG3023	43548	44120	-	[V] Negative regulator of beta-lactamase expression 
+592
+	EJODPLFH_00159	CDS	COG1559	44204	45199	+	[R] Predicted periplasmic solute-binding protein  
+	EJODPLFH_00160	CDS	COG0125	45259	45879	+	[F] Thymidylate kinase    
+593
+	EJODPLFH_00161	CDS	COG0281	46101	47381	+	[C] Malic enzyme    
+594
+	EJODPLFH_00162	CDS	COG1663	47928	48962	+	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+595
+	EJODPLFH_00163	CDS	COG3184	49162	49749	+	[S] Uncharacterized protein conserved in bacteria 
+596
+	EJODPLFH_00164	CDS	COG2835	49818	50000	+	[S] Uncharacterized conserved protein   
+	EJODPLFH_00165	CDS	COG1212	49997	50758	+	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	EJODPLFH_00166	CDS	ROG1448	50781	51182	+	NA
+	EJODPLFH_00167	CDS	NA	51137	51400	+	NA
+597
+	EJODPLFH_00168	tRNA	NA	51557	51649	+	NA
+598
+	EJODPLFH_00169	CDS	COG0159	51952	52737	+	[E] Tryptophan synthase alpha chain  
+	EJODPLFH_00170	CDS	COG0777	52774	53646	+	[I] Acetyl-CoA carboxylase beta subunit  
+599
+	EJODPLFH_00171	CDS	ROG0846	53706	54317	-	NA
+600
+	EJODPLFH_00172	CDS	COG0425	54426	54650	+	[O] Predicted redox protein, regulator of disulfide
+601
+	EJODPLFH_00173	CDS	COG0418	55013	56047	+	[F] Dihydroorotase     
+602
+	EJODPLFH_00174	CDS	COG0781	56413	56838	-	[K] Transcription termination factor   
+	EJODPLFH_00175	CDS	COG0054	56916	57392	-	[H] Riboflavin synthase beta-chain   
+	EJODPLFH_00176	CDS	COG4859	57440	57763	-	[S] Uncharacterized protein conserved in bacteria 
+			NA				NA
+			NA				NA
+			NA				NA
+603
+	EJODPLFH_01467	CDS	COG2239	265	1719	-	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+604
+	EJODPLFH_01468	CDS	COG3468	1951	3132	-	[MU] Type V secretory pathway, adhesin AidA
+	EJODPLFH_01469	CDS	COG3468	3311	6424	-	[MU] Type V secretory pathway, adhesin AidA
+605
+	EJODPLFH_01470	CDS	COG0491	6731	7489	-	[R] Zn-dependent hydrolases, including glyoxylases  
+606
+	EJODPLFH_01471	CDS	COG0046	7584	11546	-	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+607
+	EJODPLFH_01472	CDS	COG0347	12010	12348	+	[E] Nitrogen regulatory protein PII  
+608
+	EJODPLFH_01473	CDS	COG4604	12407	13165	-	[P] ABC-type enterochelin transport system, ATPase component
+609
+	EJODPLFH_01474	CDS	ROG0917	13249	13875	-	NA
+	EJODPLFH_01475	CDS	COG4605	13920	14894	-	[P] ABC-type enterochelin transport system, permease component
+	EJODPLFH_01476	CDS	COG4606	14884	15426	-	[P] ABC-type enterochelin transport system, permease component
+	EJODPLFH_01477	CDS	COG4606	15398	15853	-	[P] ABC-type enterochelin transport system, permease component
+	EJODPLFH_01478	CDS	COG4607	16017	16781	-	[P] ABC-type enterochelin transport system, periplasmic component
+610
+	EJODPLFH_01383	CDS	COG0592	385	1488	-	[L] DNA polymerase sliding clamp subunit (PCNA
+	EJODPLFH_01384	CDS	COG0593	1723	3279	-	[L] ATPase involved in DNA replication initiation
+611
+	EJODPLFH_01385	CDS	ROG4984	3571	3705	+	NA
+	EJODPLFH_01386	CDS	COG0594	3738	4073	+	[J] RNase P protein component  
+	EJODPLFH_01387	CDS	COG0759	4138	4359	+	[S] Uncharacterized conserved protein   
+	EJODPLFH_01388	CDS	COG0706	4531	6168	+	[U] Preprotein translocase subunit YidC  
+612
+	EJODPLFH_01389	CDS	COG0313	6249	6962	-	[R] Predicted methyltransferases    
+613
+	EJODPLFH_01390	CDS	COG0424	7021	7611	-	[D] Nucleotide-binding protein implicated in inhibition of
+614
+	EJODPLFH_01391	CDS	COG1399	7759	8262	+	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+	EJODPLFH_01392	CDS	COG0333	8296	8475	+	[J] Ribosomal protein L32   
+615
+	EJODPLFH_01393	CDS	COG2236	8650	9177	+	[R] Predicted phosphoribosyltransferases    
+616
+	EJODPLFH_01394	CDS	COG0416	9265	10320	+	[I] Fatty acid/phospholipid biosynthesis enzyme  
+617
+	EJODPLFH_01395	CDS	NA	10520	10714	+	NA
+	EJODPLFH_01396	CDS	NA	10741	11157	+	NA
+	EJODPLFH_01397	CDS	NA	11177	11380	+	NA
+	EJODPLFH_01398	CDS	COG0332	11407	12369	+	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	EJODPLFH_01399	CDS	COG3326	12416	12787	+	[S] Predicted membrane protein   
+	EJODPLFH_01400	CDS	COG0331	12813	13739	+	[I] (acyl-carrier-protein) S-malonyltransferase    
+	EJODPLFH_01401	CDS	COG1132	13878	15743	+	[V] ABC-type multidrug transport system, ATPase and
+	EJODPLFH_01402	CDS	COG0519	15843	17408	+	[F] GMP synthase, PP-ATPase domain/subunit  
+	EJODPLFH_01403	CDS	COG1028	17470	18216	+	[IQR] Dehydrogenases with different specificities (related to
+618
+	EJODPLFH_01526	CDS	COG0749	735	3527	-	[L] DNA polymerase I - 3'-5' exonuclease
+	EJODPLFH_01527	CDS	COG1854	3673	4179	-	[T] LuxS protein involved in autoinducer AI2
+	EJODPLFH_01528	CDS	COG4316	4201	4620	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01529	CDS	COG1965	4653	4976	-	[P] Protein implicated in iron transport, frataxin
+619
+	EJODPLFH_01530	CDS	COG5567	5047	5217	+	[N] Predicted small periplasmic lipoprotein  
+	EJODPLFH_01531	CDS	COG0019	5228	6472	+	[E] Diaminopimelate decarboxylase    
+620
+	EJODPLFH_01532	CDS	NA	6508	6600	-	NA
+	EJODPLFH_01533	CDS	COG0733	6597	8132	-	[R] Na+-dependent transporters of the SNF family
+621
+	EJODPLFH_01534	CDS	COG3676	8345	8998	-	[L] Transposase and inactivated derivatives  
+622
+	EJODPLFH_01535	CDS	COG0234	9228	9518	+	[O] Co-chaperonin GroES (HSP10)   
+	EJODPLFH_01536	CDS	COG0459	9611	11245	+	[O] Chaperonin GroEL (HSP60 family)  
+623
+	EJODPLFH_01537	CDS	COG4206	11853	14279	-	[H] Outer membrane cobalamin receptor protein 
+	EJODPLFH_01538	CDS	NA	14307	15299	-	NA
+624
+	EJODPLFH_00862	CDS	COG1971	202	768	+	[S] Predicted membrane protein   
+625
+	EJODPLFH_00863	CDS	COG0339	1212	3248	-	[E] Zn-dependent oligopeptidases    
+626
+	EJODPLFH_00864	CDS	COG0668	3336	4208	-	[M] Small-conductance mechanosensitive channel   
+627
+	EJODPLFH_00865	CDS	COG0187	4478	6868	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+628
+	EJODPLFH_00866	CDS	COG1760	6965	8350	+	[E] L-serine deaminase    
+629
+	EJODPLFH_00867	CDS	NA	8768	8965	+	NA
+630
+	EJODPLFH_00868	tRNA	NA	9092	9168	-	NA
+	EJODPLFH_00869	tRNA	NA	9201	9276	-	NA
+	EJODPLFH_00870	tRNA	NA	9316	9392	-	NA
+	EJODPLFH_00871	tRNA	NA	9425	9500	-	NA
+631
+	EJODPLFH_00872	CDS	COG0475	9570	11546	-	[P] Kef-type K+ transport systems, membrane components
+632
+	EJODPLFH_00873	CDS	COG2878	11695	12534	+	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+633
+	EJODPLFH_00874	CDS	COG0057	12735	13766	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+634
+	EJODPLFH_00875	CDS	COG2360	14020	14745	-	[O] Leu/Phe-tRNA-protein transferase    
+	EJODPLFH_00876	CDS	COG0735	14815	15441	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+635
+	EJODPLFH_00877	CDS	COG2913	15468	15845	+	[J] Small protein A (tmRNA-binding)  
+	EJODPLFH_00878	CDS	COG0289	15855	16664	+	[E] Dihydrodipicolinate reductase    
+636
+	EJODPLFH_00879	CDS	NA	16928	17338	-	NA
+637
+	EJODPLFH_00880	CDS	COG0763	17593	18765	-	[M] Lipid A disaccharide synthetase  
+638
+	EJODPLFH_00881	CDS	COG0564	18813	19805	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+639
+	EJODPLFH_00882	CDS	COG1530	20300	23056	+	[J] Ribonucleases G and E  
+640
+	EJODPLFH_00883	CDS	COG1995	24099	25091	-	[H] Pyridoxal phosphate biosynthesis protein  
+641
+	EJODPLFH_00884	CDS	COG1115	25251	26678	+	[E] Na+/alanine symporter    
+642
+	EJODPLFH_00885	CDS	NA	27003	28898	+	NA
+643
+	EJODPLFH_01404	CDS	NA	464	637	-	NA
+644
+	EJODPLFH_01405	CDS	NA	655	972	+	NA
+645
+	EJODPLFH_01406	CDS	NA	1330	1782	+	NA
+646
+	EJODPLFH_01407	CDS	NA	2828	3184	+	NA
+647
+	EJODPLFH_01408	CDS	COG0616	4687	5673	-	[OU] Periplasmic serine proteases (ClpP class) 
+	EJODPLFH_01409	CDS	COG1058	5713	6513	-	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+648
+	EJODPLFH_01410	CDS	COG0137	6638	7981	+	[E] Argininosuccinate synthase    
+649
+	EJODPLFH_01411	CDS	NA	8056	8205	+	NA
+650
+	EJODPLFH_01412	CDS	ROG4687	8450	8665	+	NA
+651
+	EJODPLFH_01413	CDS	NA	8740	10020	-	NA
+652
+	EJODPLFH_01414	CDS	COG3633	10132	11361	-	[E] Na+/serine symporter    
+653
+	EJODPLFH_01415	CDS	COG0729	11890	13737	+	[M] Outer membrane protein   
+	EJODPLFH_01416	CDS	COG2911	13792	17961	+	[S] Uncharacterized protein conserved in bacteria 
+654
+	EJODPLFH_01769	CDS	COG1734	99	515	-	[T] DnaK suppressor protein   
+655
+	EJODPLFH_01770	CDS	COG0345	662	1453	-	[E] Pyrroline-5-carboxylate reductase    
+	EJODPLFH_01771	CDS	NA	1502	1909	-	NA
+	EJODPLFH_01772	CDS	COG0325	1909	2595	-	[R] Predicted enzyme with a TIM-barrel fold
+656
+	EJODPLFH_01773	CDS	COG2805	2715	3758	+	[NU] Tfp pilus assembly protein, pilus retraction
+	EJODPLFH_01774	CDS	COG5008	3921	5147	+	[NU] Tfp pilus assembly protein, ATPase PilU
+657
+	EJODPLFH_01775	CDS	COG1289	5433	7583	+	[S] Predicted membrane protein   
+658
+	EJODPLFH_01744	CDS	COG3039	88	840	+	[L] Transposase and inactivated derivatives, IS5 family
+659
+	EJODPLFH_01745	CDS	COG3468	1156	5526	-	[MU] Type V secretory pathway, adhesin AidA
+660
+	EJODPLFH_01746	CDS	COG5346	5660	6091	-	[S] Predicted membrane protein   
+	EJODPLFH_01747	CDS	NA	6088	6243	-	NA
+661
+	EJODPLFH_01748	CDS	NA	6374	7720	+	NA
+662
+	EJODPLFH_01709	CDS	COG0665	405	2024	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+663
+	EJODPLFH_01710	CDS	COG3536	2144	2512	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01711	CDS	COG2226	2555	3292	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+664
+	EJODPLFH_01712	CDS	NA	3512	3991	+	NA
+665
+	EJODPLFH_01713	CDS	COG0801	4118	4612	-	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	EJODPLFH_01714	CDS	COG3094	4622	4996	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01715	CDS	NA	5050	5616	-	NA
+666
+	EJODPLFH_01716	CDS	COG1923	5701	5994	-	[R] Uncharacterized host factor I protein 
+667
+	EJODPLFH_01717	CDS	COG1686	6123	7061	-	[M] D-alanyl-D-alanine carboxypeptidase    
+668
+	EJODPLFH_01718	CDS	COG1225	7382	7822	+	[O] Peroxiredoxin     
+	EJODPLFH_01719	CDS	COG4974	7874	8749	+	[L] Site-specific recombinase XerD   
+669
+	EJODPLFH_01720	CDS	COG2906	8921	9121	+	[P] Bacterioferritin-associated ferredoxin    
+670
+	EJODPLFH_01721	CDS	ROG4471	9287	9520	+	NA
+			NA				NA
+671
+	EJODPLFH_00466	CDS	NA	1069	3837	+	NA
+672
+	EJODPLFH_00467	CDS	COG0527	5141	6358	-	[E] Aspartokinases     
+673
+	EJODPLFH_00468	CDS	COG0689	6560	7288	-	[J] RNase PH    
+674
+	EJODPLFH_00469	CDS	COG0589	7370	7834	-	[T] Universal stress protein UspA and related
+675
+	EJODPLFH_00470	CDS	COG1179	8051	8827	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+676
+	EJODPLFH_00471	CDS	NA	8965	9381	+	NA
+677
+	EJODPLFH_00472	CDS	COG1354	9662	10516	+	[S] Uncharacterized conserved protein   
+	EJODPLFH_00473	CDS	COG1488	10557	11765	+	[H] Nicotinic acid phosphoribosyltransferase   
+	EJODPLFH_00474	CDS	COG0018	11857	13575	+	[J] Arginyl-tRNA synthetase    
+678
+	EJODPLFH_00475	CDS	COG1368	14102	15520	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+679
+	EJODPLFH_00476	CDS	COG0765	16282	17028	-	[E] ABC-type amino acid transport system, permease
+680
+	EJODPLFH_00477	CDS	COG1525	17207	17878	-	[L] Micrococcal nuclease (thermonuclease) homologs  
+681
+	EJODPLFH_00478	CDS	COG0120	17947	18618	-	[G] Ribose 5-phosphate isomerase   
+	EJODPLFH_00479	CDS	COG0245	18695	19177	-	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+	EJODPLFH_00480	CDS	COG1211	19209	19898	-	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	EJODPLFH_00481	CDS	COG0847	19895	20656	-	[L] DNA polymerase III, epsilon subunit and
+682
+	EJODPLFH_00482	CDS	ROG1295	20787	22097	-	NA
+	EJODPLFH_00483	CDS	COG3197	22087	22272	-	[P] Uncharacterized protein, possibly involved in nitrogen
+	EJODPLFH_00484	CDS	NA	22272	22571	-	NA
+683
+	EJODPLFH_00485	CDS	COG0282	22922	24118	+	[C] Acetate kinase    
+684
+	EJODPLFH_00486	CDS	COG4232	24754	26559	-	[OC] Thiol:disulfide interchange protein   
+685
+	EJODPLFH_00487	CDS	ROG0139	26686	27156	+	NA
+686
+	EJODPLFH_00488	CDS	COG1562	27227	28039	-	[I] Phytoene/squalene synthetase    
+687
+	EJODPLFH_00489	CDS	COG1047	28126	28608	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+688
+	EJODPLFH_00490	CDS	COG4851	29081	29347	+	[R] Protein involved in sex pheromone biosynthesis
+689
+	EJODPLFH_00491	CDS	COG0277	29457	30824	+	[C] FAD/FMN-containing dehydrogenases    
+690
+	EJODPLFH_00492	CDS	COG3468	31005	32948	-	[MU] Type V secretory pathway, adhesin AidA
+	EJODPLFH_00493	CDS	NA	32938	33033	-	NA
+691
+	EJODPLFH_00494	CDS	COG0691	33406	33852	-	[O] tmRNA-binding protein    
+692
+	EJODPLFH_00495	CDS	COG0859	33907	34917	-	[M] ADP-heptose:LPS heptosyltransferase    
+693
+	EJODPLFH_00496	tRNA	NA	35048	35123	-	NA
+694
+	EJODPLFH_00497	CDS	COG0350	35314	36066	-	[L] Methylated DNA-protein cysteine methyltransferase  
+695
+	EJODPLFH_00498	CDS	COG1881	36377	36901	+	[R] Phospholipid-binding protein    
+696
+	EJODPLFH_00499	CDS	COG0624	37641	38786	-	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+697
+	EJODPLFH_00500	CDS	ROG8476	38900	39520	-	NA
+	EJODPLFH_00501	CDS	ROG1082	39554	40063	-	NA
+698
+	EJODPLFH_00502	CDS	COG3241	40158	40709	-	[C] Azurin     
+699
+	EJODPLFH_00503	CDS	ROG1178	40990	41412	-	NA
+700
+	EJODPLFH_00504	CDS	COG0653	41543	44293	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	EJODPLFH_00505	CDS	COG0358	44437	46209	+	[L] DNA primase (bacterial type)  
+	EJODPLFH_00506	CDS	COG0568	46396	48324	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+			NA				NA
+701
+	EJODPLFH_01300	CDS	COG3039	349	585	+	[L] Transposase and inactivated derivatives, IS5 family
+702
+	EJODPLFH_01301	CDS	COG0546	689	1246	+	[R] Predicted phosphatases    
+703
+	EJODPLFH_01302	CDS	COG0761	1333	2301	-	[IM] Penicillin tolerance protein   
+	EJODPLFH_01303	CDS	COG0597	2330	2920	-	[MU] Lipoprotein signal peptidase   
+704
+	EJODPLFH_01304	CDS	COG0060	3870	6659	-	[J] Isoleucyl-tRNA synthetase    
+	EJODPLFH_01305	CDS	COG0196	6800	7720	-	[H] FAD synthase    
+705
+	EJODPLFH_01306	CDS	COG0162	8019	9314	-	[J] Tyrosyl-tRNA synthetase    
+706
+	EJODPLFH_01307	CDS	COG1835	9377	10993	-	[I] Predicted acyltransferases    
+	EJODPLFH_01308	CDS	COG1835	11047	11244	-	[I] Predicted acyltransferases    
+707
+	EJODPLFH_01309	CDS	COG0012	11611	12702	-	[J] Predicted GTPase, probable translation factor 
+708
+	EJODPLFH_01310	CDS	COG2759	12815	14491	-	[F] Formyltetrahydrofolate synthetase    
+709
+	EJODPLFH_01311	CDS	COG2510	14666	15097	+	[S] Predicted membrane protein   
+710
+	EJODPLFH_01312	CDS	COG1208	15328	16023	-	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+	EJODPLFH_01313	CDS	COG1853	16041	16541	-	[R] Conserved protein/domain typically associated with flavoprotein
+	EJODPLFH_01314	CDS	COG1846	16656	17096	-	[K] Transcriptional regulators    
+711
+	EJODPLFH_01315	CDS	COG0526	17439	17948	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+712
+	EJODPLFH_01316	tRNA	NA	18027	18102	-	NA
+713
+	EJODPLFH_01317	CDS	NA	18265	19392	+	NA
+714
+	EJODPLFH_01349	CDS	COG0469	290	1762	+	[G] Pyruvate kinase    
+	EJODPLFH_01350	CDS	NA	1780	1884	+	NA
+	EJODPLFH_01351	CDS	COG2067	1887	3470	+	[I] Long-chain fatty acid transport protein 
+715
+	EJODPLFH_01352	CDS	NA	3837	4130	-	NA
+716
+	EJODPLFH_01353	CDS	COG1513	4654	4851	-	[P] Cyanate lyase    
+	EJODPLFH_01354	CDS	COG2032	4862	5878	-	[P] Cu/Zn superoxide dismutase   
+717
+	EJODPLFH_01355	CDS	COG0786	5977	7191	-	[E] Na+/glutamate symporter    
+718
+	EJODPLFH_01356	CDS	COG0790	7409	8815	-	[R] FOG: TPR repeat, SEL1 subfamily 
+719
+	EJODPLFH_01357	CDS	COG3562	9182	10441	-	[M] Capsule polysaccharide export protein  
+	EJODPLFH_01358	CDS	COG3563	10578	12626	-	[M] Capsule polysaccharide export protein  
+720
+	EJODPLFH_01359	CDS	COG1898	12788	13327	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	EJODPLFH_01360	CDS	COG1209	13382	14257	-	[M] dTDP-glucose pyrophosphorylase    
+	EJODPLFH_01361	CDS	COG1088	14470	15531	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	EJODPLFH_01362	CDS	COG1087	15627	16643	-	[M] UDP-glucose 4-epimerase    
+	EJODPLFH_01363	CDS	COG1210	16726	17589	-	[M] UDP-glucose pyrophosphorylase    
+	EJODPLFH_01364	CDS	NA	17637	18806	-	NA
+721
+	EJODPLFH_00385	CDS	COG4230	1036	4641	-	[C] Delta 1-pyrroline-5-carboxylate dehydrogenase   
+722
+	EJODPLFH_00386	CDS	COG0591	4892	6418	-	[ER] Na+/proline symporter    
+723
+	EJODPLFH_00387	CDS	COG2960	6902	7222	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00388	CDS	COG0606	7236	8732	+	[O] Predicted ATPase with chaperone activity 
+724
+	EJODPLFH_00389	CDS	COG3087	8838	9701	+	[D] Cell division protein   
+	EJODPLFH_00390	CDS	COG1651	9704	10348	+	[O] Protein-disulfide isomerase    
+	EJODPLFH_00391	CDS	COG1968	10381	11202	+	[V] Uncharacterized bacitracin resistance protein  
+725
+	EJODPLFH_00392	tRNA	NA	11484	11559	-	NA
+	EJODPLFH_00393	tRNA	NA	11567	11643	-	NA
+726
+	EJODPLFH_00394	CDS	COG1565	11775	12923	-	[S] Uncharacterized conserved protein   
+727
+	EJODPLFH_00395	CDS	COG2001	13271	13726	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00396	CDS	COG0275	13723	14709	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	EJODPLFH_00397	CDS	COG3116	14706	14969	+	[D] Cell division protein   
+	EJODPLFH_00398	CDS	COG0768	15030	16775	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	EJODPLFH_00399	CDS	COG0769	16800	18278	+	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	EJODPLFH_00400	CDS	COG2194	18301	19947	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+728
+	EJODPLFH_00401	CDS	COG0770	20072	21430	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	EJODPLFH_00402	CDS	NA	21433	21609	+	NA
+729
+	EJODPLFH_00403	CDS	COG0472	21856	22938	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+730
+	EJODPLFH_00404	CDS	COG0790	23053	23325	+	[R] FOG: TPR repeat, SEL1 subfamily 
+731
+	EJODPLFH_00405	CDS	COG0771	23415	24752	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	EJODPLFH_00406	CDS	COG0772	24878	26203	+	[D] Bacterial cell division membrane protein 
+	EJODPLFH_00407	CDS	COG0707	26207	27274	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	EJODPLFH_00408	CDS	COG0773	27429	28838	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	EJODPLFH_00409	CDS	COG1181	28952	29866	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	EJODPLFH_00410	CDS	COG1589	29856	30584	+	[M] Cell division septal protein  
+	EJODPLFH_00411	CDS	COG0849	30670	31914	+	[D] Actin-like ATPase involved in cell division
+	EJODPLFH_00412	CDS	COG0206	32033	33211	+	[D] Cell division GTPase   
+732
+	EJODPLFH_00413	CDS	COG2252	33350	34660	+	[R] Permeases     
+733
+	EJODPLFH_00414	CDS	COG2513	35286	36161	+	[G] PEP phosphonomutase and related enzymes 
+	EJODPLFH_00415	CDS	COG0372	36247	37401	+	[C] Citrate synthase    
+734
+	EJODPLFH_00416	CDS	COG0730	37562	38350	+	[R] Predicted permeases    
+735
+	EJODPLFH_00417	CDS	COG1048	38428	41034	+	[C] Aconitase A    
+736
+	EJODPLFH_00418	CDS	COG2828	41837	43006	+	[S] Uncharacterized protein conserved in bacteria 
+737
+	EJODPLFH_00419	CDS	COG0282	43420	44619	+	[C] Acetate kinase    
+738
+	EJODPLFH_00420	CDS	COG0009	44977	45597	+	[J] Putative translation factor (SUA5)  
+739
+	EJODPLFH_00421	CDS	COG1959	45724	46167	-	[K] Predicted transcriptional regulator   
+740
+	EJODPLFH_00422	CDS	ROG1736	46341	46709	+	NA
+	EJODPLFH_00423	CDS	COG3213	46754	47908	+	[P] Uncharacterized protein involved in response to
+741
+	EJODPLFH_00424	CDS	COG0287	47965	48837	-	[E] Prephenate dehydrogenase    
+742
+	EJODPLFH_00425	CDS	COG0388	48922	49734	+	[R] Predicted amidohydrolase    
+	EJODPLFH_00426	CDS	NA	49724	50212	+	NA
+743
+	EJODPLFH_01600	CDS	COG1091	198	1073	-	[M] dTDP-4-dehydrorhamnose reductase    
+744
+	EJODPLFH_01601	CDS	COG0152	1272	2135	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	EJODPLFH_01602	CDS	COG1185	2372	4492	+	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+745
+	EJODPLFH_01603	CDS	COG2836	4565	5233	-	[S] Uncharacterized conserved protein   
+	EJODPLFH_01604	CDS	NA	5247	5543	-	NA
+746
+	EJODPLFH_01605	CDS	COG0253	5681	6532	+	[E] Diaminopimelate epimerase    
+	EJODPLFH_01606	CDS	ROG1809	6529	7134	+	NA
+747
+	EJODPLFH_01607	CDS	COG0031	7328	8260	+	[E] Cysteine synthase    
+748
+	EJODPLFH_01608	CDS	COG0697	8723	9628	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+749
+	EJODPLFH_01609	CDS	COG0681	10042	11061	-	[U] Signal peptidase I   
+	EJODPLFH_01610	CDS	COG0481	11206	12999	-	[M] Membrane GTPase LepA   
+750
+	EJODPLFH_01611	CDS	COG0775	13141	13842	-	[F] Nucleoside phosphorylase    
+751
+	EJODPLFH_00639	CDS	COG3039	1277	1561	-	[L] Transposase and inactivated derivatives, IS5 family
+752
+	EJODPLFH_00640	CDS	COG0504	1810	3444	-	[F] CTP synthase (UTP-ammonia lyase)  
+753
+	EJODPLFH_00641	CDS	COG0318	3556	5226	-	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+754
+	EJODPLFH_00642	CDS	COG0482	5297	6400	-	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+755
+	EJODPLFH_00643	CDS	COG2847	6526	6999	-	[S] Uncharacterized protein conserved in bacteria 
+756
+	EJODPLFH_00644	CDS	COG0818	7292	7675	-	[M] Diacylglycerol kinase    
+757
+	EJODPLFH_00645	CDS	COG0189	7987	8943	-	[HJ] Glutathione synthase/Ribosomal protein S6 modification enzyme
+758
+	EJODPLFH_00646	CDS	COG0008	9036	10757	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+759
+	EJODPLFH_00647	CDS	COG1349	10836	11609	-	[KG] Transcriptional regulators of sugar metabolism 
+	EJODPLFH_00648	CDS	COG2431	11652	12554	-	[S] Predicted membrane protein   
+760
+	EJODPLFH_00649	CDS	COG1802	12703	13419	-	[K] Transcriptional regulators    
+761
+	EJODPLFH_00650	CDS	COG1765	13988	14410	-	[O] Predicted redox protein, regulator of disulfide
+762
+	EJODPLFH_00651	CDS	ROG1438	14528	15196	-	NA
+	EJODPLFH_00652	CDS	COG0299	15215	15937	-	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	EJODPLFH_00653	CDS	COG0545	15948	16754	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+763
+	EJODPLFH_00654	CDS	COG2927	17013	17453	-	[L] DNA polymerase III, chi subunit 
+	EJODPLFH_00655	CDS	COG0260	17516	18922	-	[E] Leucyl aminopeptidase    
+764
+	EJODPLFH_00656	CDS	COG0795	19092	20207	+	[R] Predicted permeases    
+	EJODPLFH_00657	CDS	COG0795	20204	21274	+	[R] Predicted permeases    
+765
+	EJODPLFH_00658	CDS	COG1049	21584	24169	+	[C] Aconitase B    
+766
+	EJODPLFH_00659	CDS	COG0078	24311	25306	+	[E] Ornithine carbamoyltransferase    
+767
+	EJODPLFH_00660	CDS	COG0059	25530	26543	-	[EH] Ketol-acid reductoisomerase    
+768
+	EJODPLFH_00661	CDS	COG1359	26623	26916	-	[S] Uncharacterized conserved protein   
+769
+	EJODPLFH_00662	CDS	COG0440	26983	27474	-	[E] Acetolactate synthase, small (regulatory) subunit 
+	EJODPLFH_00663	CDS	COG0028	27485	29212	-	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+770
+	EJODPLFH_00664	tRNA	NA	29921	30005	-	NA
+771
+	EJODPLFH_00665	CDS	COG1999	30281	30934	+	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+772
+	EJODPLFH_00666	CDS	COG0040	31013	31666	+	[E] ATP phosphoribosyltransferase    
+773
+	EJODPLFH_00667	CDS	COG3680	31770	32669	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00668	CDS	COG0141	32666	33955	+	[E] Histidinol dehydrogenase    
+	EJODPLFH_00669	CDS	COG0079	34001	35098	+	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	EJODPLFH_00670	CDS	COG0131	35095	36012	+	[E] Imidazoleglycerol-phosphate dehydratase    
+774
+	EJODPLFH_00671	CDS	COG2084	36107	36976	+	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+775
+	EJODPLFH_00672	CDS	COG1846	37254	37616	+	[K] Transcriptional regulators    
+776
+	EJODPLFH_01318	CDS	COG4968	172	621	+	[NU] Tfp pilus assembly protein PilE 
+777
+	EJODPLFH_01319	CDS	ROG0059	782	1051	-	NA
+778
+	EJODPLFH_01320	CDS	ROG6185	1163	1375	-	NA
+779
+	EJODPLFH_01321	CDS	COG3039	1607	2086	+	[L] Transposase and inactivated derivatives, IS5 family
+780
+	EJODPLFH_01322	CDS	COG2425	2434	3894	-	[R] Uncharacterized protein containing a von Willebrand
+	EJODPLFH_01323	CDS	ROG5978	3885	5492	-	NA
+	EJODPLFH_01324	CDS	COG1643	5551	8748	-	[L] HrpA-like helicases    
+781
+	EJODPLFH_01325	CDS	COG2194	8850	10424	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+782
+	EJODPLFH_01326	CDS	ROG2184	10605	11732	-	NA
+783
+	EJODPLFH_01327	CDS	COG1643	11833	13224	-	[L] HrpA-like helicases    
+784
+	EJODPLFH_01328	CDS	COG0038	13379	14815	-	[P] Chloride channel protein EriC  
+785
+	EJODPLFH_01329	CDS	COG1364	14875	16095	-	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	EJODPLFH_01330	CDS	COG1346	16162	16854	-	[M] Putative effector of murein hydrolase 
+	EJODPLFH_01331	CDS	COG1380	16854	17198	-	[R] Putative effector of murein hydrolase LrgA
+786
+	EJODPLFH_01332	CDS	ROG2685	17343	17561	-	NA
+	EJODPLFH_01333	CDS	COG0791	17580	18335	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+787
+	EJODPLFH_01334	CDS	NA	18580	19464	+	NA
+			NA				NA
+788
+	EJODPLFH_01814	CDS	COG2217	474	1274	-	[P] Cation transport ATPase   
+789
+	EJODPLFH_01815	CDS	NA	1410	1913	-	NA
+790
+	EJODPLFH_01816	CDS	COG2999	2250	2891	-	[O] Glutaredoxin 2    
+791
+	EJODPLFH_01817	CDS	NA	3219	5432	+	NA
+			NA				NA
+792
+	EJODPLFH_00335	CDS	COG1451	256	948	-	[R] Predicted metal-dependent hydrolase   
+793
+	EJODPLFH_00336	CDS	NA	1056	2249	-	NA
+794
+	EJODPLFH_00337	CDS	COG1540	2378	3115	-	[R] Uncharacterized proteins, homologs of lactam utilization
+	EJODPLFH_00338	CDS	COG1984	3102	4031	-	[E] Allophanate hydrolase subunit 2  
+	EJODPLFH_00339	CDS	COG2049	4028	4675	-	[E] Allophanate hydrolase subunit 1  
+795
+	EJODPLFH_00340	CDS	COG0210	4859	7066	+	[L] Superfamily I DNA and RNA helicases
+796
+	EJODPLFH_00341	CDS	ROG4729	7423	7962	+	NA
+797
+	EJODPLFH_00342	CDS	ROG4749	8491	8850	-	NA
+798
+	EJODPLFH_00343	CDS	ROG3165	9478	10098	+	NA
+	EJODPLFH_00344	CDS	COG0421	10088	11572	+	[E] Spermidine synthase    
+799
+	EJODPLFH_00345	CDS	COG0838	12034	12390	+	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+	EJODPLFH_00346	CDS	COG0377	12381	12863	+	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	EJODPLFH_00347	CDS	COG0852	12876	13469	+	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	EJODPLFH_00348	CDS	COG0649	13459	14715	+	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+	EJODPLFH_00349	CDS	COG1905	14715	15188	+	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+	EJODPLFH_00350	CDS	COG1894	15578	16879	+	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	EJODPLFH_00351	CDS	NA	16879	17316	+	NA
+800
+	EJODPLFH_00352	CDS	COG1034	17606	19867	+	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+	EJODPLFH_00353	CDS	COG1005	19870	20946	+	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	EJODPLFH_00354	CDS	COG1143	21027	21506	+	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	EJODPLFH_00355	CDS	COG0839	21518	22189	+	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	EJODPLFH_00356	CDS	COG0713	22186	22491	+	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+801
+	EJODPLFH_00357	CDS	COG0679	22786	23658	+	[R] Predicted permeases    
+	EJODPLFH_00358	CDS	COG1009	23659	25683	+	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+802
+	EJODPLFH_00359	CDS	COG3886	25867	27030	+	[L] Predicted HKD family nuclease  
+803
+	EJODPLFH_00360	CDS	COG1008	27140	28636	+	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+	EJODPLFH_00361	CDS	COG1007	28646	30091	+	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+804
+	EJODPLFH_00362	CDS	ROG0831	30203	30502	+	NA
+805
+	EJODPLFH_00363	CDS	COG0142	30611	31507	-	[H] Geranylgeranyl pyrophosphate synthase   
+	EJODPLFH_00364	CDS	COG1722	31491	31715	-	[L] Exonuclease VII small subunit  
+806
+	EJODPLFH_00365	CDS	COG1162	31962	32885	-	[R] Predicted GTPases    
+	EJODPLFH_00366	CDS	COG1132	32890	34746	-	[V] ABC-type multidrug transport system, ATPase and
+	EJODPLFH_00367	CDS	NA	34772	34909	-	NA
+	EJODPLFH_00368	CDS	COG0632	34909	35493	-	[L] Holliday junction resolvasome, DNA-binding subunit 
+807
+	EJODPLFH_00369	CDS	COG3212	35575	35901	-	[S] Predicted membrane protein   
+	EJODPLFH_00370	CDS	COG0797	35963	36682	-	[M] Lipoproteins     
+808
+	EJODPLFH_00371	CDS	COG0219	36812	37276	-	[J] Predicted rRNA methylase (SpoU class) 
+809
+	EJODPLFH_00372	CDS	COG1040	37341	37901	-	[R] Predicted amidophosphoribosyltransferases    
+810
+	EJODPLFH_00373	CDS	COG0596	37972	38808	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	EJODPLFH_00374	CDS	COG0500	38810	39598	+	[QR] SAM-dependent methyltransferases    
+811
+	EJODPLFH_00375	CDS	NA	39834	39941	-	NA
+812
+	EJODPLFH_00376	CDS	ROG6744	40386	40811	+	NA
+813
+	EJODPLFH_00377	CDS	COG0514	40954	43254	-	[L] Superfamily II DNA helicase  
+814
+	EJODPLFH_00378	CDS	COG0134	43319	44101	-	[E] Indole-3-glycerol phosphate synthase   
+	EJODPLFH_00379	CDS	COG0429	44150	45106	-	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+815
+	EJODPLFH_00380	CDS	COG0728	45239	46777	-	[R] Uncharacterized membrane protein, putative virulence factor
+816
+	EJODPLFH_00381	CDS	COG1651	46995	47693	+	[O] Protein-disulfide isomerase    
+817
+	EJODPLFH_00382	CDS	COG3178	47750	48754	-	[R] Predicted phosphotransferase related to Ser/Thr protein
+818
+	EJODPLFH_00383	CDS	COG1452	48824	51232	+	[M] Organic solvent tolerance protein OstA 
+	EJODPLFH_00384	CDS	COG0760	51337	52452	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+819
+	EJODPLFH_01098	CDS	NA	492	851	-	NA
+820
+	EJODPLFH_01099	CDS	COG2834	1072	1527	-	[M] Outer membrane lipoprotein-sorting protein  
+	EJODPLFH_01100	CDS	NA	1508	2137	-	NA
+821
+	EJODPLFH_01101	CDS	NA	2271	2588	-	NA
+	EJODPLFH_01102	CDS	NA	2591	3859	-	NA
+	EJODPLFH_01103	CDS	NA	3863	4804	-	NA
+822
+	EJODPLFH_01104	CDS	COG2377	4923	6023	-	[O] Predicted molecular chaperone distantly related to
+823
+	EJODPLFH_01105	CDS	COG0306	6348	7922	+	[P] Phosphate/sulphate permeases    
+824
+	EJODPLFH_01106	CDS	COG0635	8275	9696	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+825
+	EJODPLFH_01107	CDS	COG0664	9901	10635	+	[T] cAMP-binding proteins - catabolite gene activator
+826
+	EJODPLFH_01108	CDS	COG0583	10748	11698	-	[K] Transcriptional regulator    
+827
+	EJODPLFH_01109	CDS	COG2885	12062	12790	+	[M] Outer membrane protein and related peptidoglycan-associated
+828
+	EJODPLFH_01110	CDS	COG0611	13647	14603	+	[H] Thiamine monophosphate kinase   
+	EJODPLFH_01111	CDS	COG1267	14596	15081	+	[I] Phosphatidylglycerophosphatase A and related proteins 
+829
+	EJODPLFH_01112	CDS	COG0488	15141	16817	-	[R] ATPase components of ABC transporters with
+830
+	EJODPLFH_01113	CDS	ROG7174	17204	18559	+	NA
+	EJODPLFH_01114	CDS	COG2017	18563	19573	+	[G] Galactose mutarotase and related enzymes 
+	EJODPLFH_01115	CDS	COG1554	19807	22065	+	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	EJODPLFH_01116	CDS	COG0637	22078	22743	+	[R] Predicted phosphatase/phosphohexomutase    
+831
+	EJODPLFH_01117	CDS	NA	22921	23859	-	NA
+			NA				NA
+832
+	EJODPLFH_00993	CDS	COG0468	794	1840	-	[L] RecA/RadA recombinase    
+833
+	EJODPLFH_00994	CDS	COG0710	2094	2858	+	[E] 3-dehydroquinate dehydratase    
+	EJODPLFH_00995	CDS	COG0210	2878	4893	+	[L] Superfamily I DNA and RNA helicases
+834
+	EJODPLFH_00996	CDS	COG0389	4961	6019	-	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+835
+	EJODPLFH_00997	CDS	COG4773	6163	7356	-	[P] Outer membrane receptor for ferric coprogen
+	EJODPLFH_00998	CDS	COG4773	7392	9251	-	[P] Outer membrane receptor for ferric coprogen
+836
+	EJODPLFH_00999	CDS	COG0543	9525	10304	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+837
+	EJODPLFH_01000	CDS	COG0847	10514	11899	-	[L] DNA polymerase III, epsilon subunit and
+838
+	EJODPLFH_01001	tRNA	NA	12017	12093	+	NA
+	EJODPLFH_01002	tRNA	NA	12111	12185	+	NA
+839
+	EJODPLFH_01003	CDS	COG2070	12745	13920	+	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+840
+	EJODPLFH_01004	CDS	COG3198	14262	14810	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01005	CDS	COG0348	14813	16309	-	[C] Polyferredoxin     
+841
+	EJODPLFH_01006	CDS	COG0021	16837	18816	+	[G] Transketolase     
+	EJODPLFH_01007	CDS	COG0114	18957	20345	+	[C] Fumarase     
+842
+	EJODPLFH_01008	CDS	COG0697	20410	21333	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+843
+	EJODPLFH_01009	CDS	COG0629	21858	22382	-	[L] Single-stranded DNA-binding protein   
+	EJODPLFH_01010	CDS	ROG2472	22386	23771	-	NA
+844
+	EJODPLFH_01011	CDS	COG0741	23879	24502	-	[M] Soluble lytic murein transglycosylase and related
+845
+	EJODPLFH_01012	CDS	COG1943	25649	26140	-	[L] Transposase and inactivated derivatives  
+846
+	EJODPLFH_01722	CDS	COG1208	109	489	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+847
+	EJODPLFH_01723	CDS	COG1999	706	1194	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+	EJODPLFH_01724	CDS	COG0824	1191	1574	-	[R] Predicted thioesterase    
+	EJODPLFH_01725	CDS	ROG5664	1574	1936	-	NA
+848
+	EJODPLFH_01726	CDS	COG2853	2061	2888	-	[M] Surface lipoprotein    
+	EJODPLFH_01727	CDS	COG3113	2885	3163	-	[R] Predicted NTP binding protein (contains STAS
+	EJODPLFH_01728	CDS	COG2854	3214	3804	-	[Q] ABC-type transport system involved in resistance
+	EJODPLFH_01729	CDS	COG1463	3841	4335	-	[Q] ABC-type transport system involved in resistance
+	EJODPLFH_01730	CDS	COG0767	4386	5162	-	[Q] ABC-type transport system involved in resistance
+	EJODPLFH_01731	CDS	COG1127	5210	6010	-	[Q] ABC-type transport system involved in resistance
+849
+	EJODPLFH_01732	CDS	COG2207	6183	7100	+	[K] AraC-type DNA-binding domain-containing proteins  
+850
+	EJODPLFH_01733	CDS	NA	7309	7698	+	NA
+851
+	EJODPLFH_01734	CDS	NA	7942	9384	+	NA
+852
+	EJODPLFH_01776	CDS	COG4969	1203	1676	-	[NU] Tfp pilus assembly protein, major pilin
+	EJODPLFH_01777	CDS	COG4726	1681	2274	-	[NU] Tfp pilus assembly protein PilX 
+	EJODPLFH_01778	CDS	COG4966	2253	3206	-	[NU] Tfp pilus assembly protein PilW 
+	EJODPLFH_01779	CDS	COG4967	3203	3856	-	[NU] Tfp pilus assembly protein PilV 
+	EJODPLFH_01780	CDS	COG4970	3853	4521	-	[NU] Tfp pilus assembly protein FimT 
+853
+	EJODPLFH_01781	CDS	COG0305	4823	6229	-	[L] Replicative DNA helicase   
+854
+	EJODPLFH_01782	CDS	NA	6392	6979	+	NA
+855
+	EJODPLFH_01417	CDS	COG0718	817	1152	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01418	CDS	COG2812	1232	3355	-	[L] DNA polymerase III, gamma/tau subunits 
+	EJODPLFH_01419	CDS	COG0323	3450	5426	-	[L] DNA mismatch repair enzyme (predicted ATPase)
+856
+	EJODPLFH_01420	CDS	ROG0681	5569	5754	+	NA
+	EJODPLFH_01421	CDS	COG4122	5765	6433	+	[R] Predicted O-methyltransferase    
+	EJODPLFH_01422	CDS	COG1729	6433	7149	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01423	CDS	COG0041	7197	7682	+	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+857
+	EJODPLFH_01424	CDS	COG1139	7865	9319	-	[C] Uncharacterized conserved protein containing a ferredoxin-like
+	EJODPLFH_01425	CDS	COG1556	9316	10017	-	[S] Uncharacterized conserved protein   
+	EJODPLFH_01426	CDS	COG0247	10014	10793	-	[C] Fe-S oxidoreductase    
+858
+	EJODPLFH_01427	CDS	COG0477	10975	12483	+	[GEPR] Permeases of the major facilitator superfamily
+	EJODPLFH_01428	CDS	COG1502	12544	14121	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+859
+	EJODPLFH_01429	CDS	COG0791	14329	14862	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+860
+	EJODPLFH_01430	CDS	COG0128	14905	16206	-	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+861
+	EJODPLFH_01431	CDS	NA	16598	17074	+	NA
+862
+	EJODPLFH_01079	CDS	COG0548	179	1075	-	[E] Acetylglutamate kinase    
+863
+	EJODPLFH_01080	CDS	COG2866	1245	2375	+	[E] Predicted carboxypeptidase    
+864
+	EJODPLFH_01081	CDS	COG0682	2446	3297	+	[M] Prolipoprotein diacylglyceryltransferase    
+865
+	EJODPLFH_01082	CDS	COG3318	3380	4042	-	[R] Predicted metal-binding protein related to the
+866
+	EJODPLFH_01083	CDS	COG0119	4242	6035	-	[E] Isopropylmalate/homocitrate/citramalate synthases    
+867
+	EJODPLFH_01084	CDS	COG0263	6281	7390	+	[E] Glutamate 5-kinase    
+	EJODPLFH_01085	CDS	COG0014	7403	8665	+	[E] Gamma-glutamyl phosphate reductase   
+868
+	EJODPLFH_01086	CDS	COG1674	8890	11922	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+869
+	EJODPLFH_01087	CDS	COG3235	12087	12767	+	[S] Predicted membrane protein   
+	EJODPLFH_01088	CDS	COG0239	12796	13155	+	[D] Integral membrane protein possibly involved in
+870
+	EJODPLFH_01089	CDS	COG0494	13811	14347	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	EJODPLFH_01090	CDS	COG1539	14381	14737	-	[H] Dihydroneopterin aldolase    
+871
+	EJODPLFH_01091	CDS	COG0344	14793	15395	+	[S] Predicted membrane protein   
+872
+	EJODPLFH_01092	CDS	COG2961	15472	16317	+	[R] Protein involved in catabolism of external
+873
+	EJODPLFH_01093	CDS	COG0158	16712	17686	+	[G] Fructose-1,6-bisphosphatase     
+874
+	EJODPLFH_01094	CDS	COG2841	17845	18063	-	[S] Uncharacterized protein conserved in bacteria 
+875
+	EJODPLFH_01095	CDS	COG0405	18837	20612	+	[E] Gamma-glutamyltransferase     
+876
+	EJODPLFH_01096	CDS	COG0112	21093	22343	+	[E] Glycine/serine hydroxymethyltransferase    
+877
+	EJODPLFH_01097	CDS	NA	22471	23130	+	NA
+			NA				NA
+878
+	EJODPLFH_01879	CDS	COG3038	324	728	+	[C] Cytochrome B561    
+879
+	EJODPLFH_01880	CDS	COG0313	763	1638	-	[R] Predicted methyltransferases    
+880
+	EJODPLFH_01881	CDS	COG0792	1684	2031	+	[L] Predicted endonuclease distantly related to archaeal
+	EJODPLFH_01882	CDS	COG0279	2036	2629	+	[G] Phosphoheptose isomerase    
+	EJODPLFH_01883	CDS	COG2823	2693	3301	+	[R] Predicted periplasmic or secreted lipoprotein 
+881
+	EJODPLFH_01572	CDS	COG0855	274	2331	-	[P] Polyphosphate kinase    
+882
+	EJODPLFH_01573	CDS	ROG6161	2500	2943	-	NA
+	EJODPLFH_01574	CDS	COG2913	2950	3465	-	[J] Small protein A (tmRNA-binding)  
+883
+	EJODPLFH_01575	CDS	COG0495	3726	6362	+	[J] Leucyl-tRNA synthetase    
+884
+	EJODPLFH_01576	CDS	COG0338	6597	7409	+	[L] Site-specific DNA methylase   
+	EJODPLFH_01577	CDS	COG0863	7402	8202	+	[L] DNA modification methylase   
+	EJODPLFH_01578	CDS	NA	8207	8761	+	NA
+885
+	EJODPLFH_01579	CDS	COG2944	9636	9947	-	[K] Predicted transcriptional regulator   
+	EJODPLFH_01580	CDS	COG4737	10009	10311	-	[S] Uncharacterized protein conserved in bacteria 
+886
+	EJODPLFH_01581	tRNA	NA	11127	11212	-	NA
+	EJODPLFH_01582	CDS	COG1314	11226	11576	-	[U] Preprotein translocase subunit SecG  
+	EJODPLFH_01583	CDS	COG0149	11583	12356	-	[G] Triosephosphate isomerase    
+887
+	EJODPLFH_01584	CDS	COG1956	12540	13043	+	[T] GAF domain-containing protein   
+888
+	EJODPLFH_01585	CDS	COG2518	13145	13801	+	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+889
+	EJODPLFH_01586	CDS	NA	13880	14203	+	NA
+890
+	EJODPLFH_01057	CDS	NA	79	390	+	NA
+891
+	EJODPLFH_01058	CDS	COG2346	682	1275	-	[R] Truncated hemoglobins    
+892
+	EJODPLFH_01059	CDS	COG2890	1408	2319	+	[J] Methylase of polypeptide chain release factors
+893
+	EJODPLFH_01060	CDS	COG2849	2600	3337	+	[S] Uncharacterized protein conserved in bacteria 
+894
+	EJODPLFH_01061	CDS	COG3830	3463	3735	+	[T] ACT domain-containing protein   
+	EJODPLFH_01062	CDS	COG2848	3750	5105	+	[S] Uncharacterized conserved protein   
+895
+	EJODPLFH_01063	CDS	COG0787	5169	6227	-	[M] Alanine racemase    
+896
+	EJODPLFH_01064	CDS	COG1522	6552	7016	+	[K] Transcriptional regulators    
+897
+	EJODPLFH_01065	CDS	NA	7533	7745	-	NA
+898
+	EJODPLFH_01066	CDS	COG1495	7775	8263	+	[O] Disulfide bond formation protein DsbB 
+899
+	EJODPLFH_01067	CDS	COG0217	8322	9050	-	[S] Uncharacterized conserved protein   
+900
+	EJODPLFH_01068	CDS	COG1115	9377	10795	+	[E] Na+/alanine symporter    
+901
+	EJODPLFH_01069	CDS	COG1272	10859	11485	-	[R] Predicted membrane protein, hemolysin III homolog
+902
+	EJODPLFH_01070	CDS	ROG1033	11628	12968	+	NA
+903
+	EJODPLFH_01071	CDS	ROG0645	13042	14436	+	NA
+904
+	EJODPLFH_01072	CDS	COG0532	14647	17535	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+	EJODPLFH_01073	CDS	COG0195	17548	19050	-	[K] Transcription elongation factor   
+	EJODPLFH_01074	CDS	COG0779	19078	19509	-	[S] Uncharacterized protein conserved in bacteria 
+905
+	EJODPLFH_01075	CDS	COG1932	19874	20980	+	[HE] Phosphoserine aminotransferase    
+906
+	EJODPLFH_01076	CDS	COG2194	21258	22892	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+907
+	EJODPLFH_01077	CDS	COG0778	22968	23525	+	[C] Nitroreductase     
+908
+	EJODPLFH_01078	CDS	NA	23726	24517	-	NA
+909
+	EJODPLFH_01118	CDS	COG2027	389	1915	-	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+910
+	EJODPLFH_01119	CDS	COG0431	1963	2529	+	[R] Predicted flavoprotein    
+911
+	EJODPLFH_01120	CDS	COG2851	3285	4598	+	[C] H+/citrate symporter    
+912
+	EJODPLFH_01121	CDS	COG0745	4819	4950	+	[TK] Response regulators consisting of a CheY-like
+	EJODPLFH_01122	CDS	COG2205	4950	6239	+	[T] Osmosensitive K+ channel histidine kinase 
+913
+	EJODPLFH_01123	CDS	COG1530	6274	7767	-	[J] Ribonucleases G and E  
+914
+	EJODPLFH_01124	CDS	COG0695	7980	8237	+	[O] Glutaredoxin and related proteins  
+	EJODPLFH_01125	CDS	COG1952	8258	8701	+	[U] Preprotein translocase subunit SecB  
+915
+	EJODPLFH_01126	CDS	COG1200	8787	10829	+	[LK] RecG-like helicase    
+916
+	EJODPLFH_01127	CDS	COG0002	12088	13131	-	[E] Acetylglutamate semialdehyde dehydrogenase   
+	EJODPLFH_01128	CDS	NA	13128	13421	-	NA
+917
+	EJODPLFH_01129	CDS	COG2850	13675	14829	+	[S] Uncharacterized conserved protein   
+	EJODPLFH_01130	CDS	NA	14838	15065	+	NA
+918
+	EJODPLFH_01131	CDS	ROG5024	15094	15339	-	NA
+919
+	EJODPLFH_01132	CDS	ROG0722	15472	16098	+	NA
+	EJODPLFH_01133	CDS	NA	16050	16250	+	NA
+920
+	EJODPLFH_01134	CDS	COG0306	17013	17180	+	[P] Phosphate/sulphate permeases    
+921
+	EJODPLFH_01135	CDS	COG2274	17279	17527	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	EJODPLFH_01136	CDS	COG2831	17588	19330	+	[U] Hemolysin activation/secretion protein   
+922
+	EJODPLFH_01137	CDS	NA	19563	19724	-	NA
+923
+	EJODPLFH_01138	CDS	NA	22888	23229	-	NA
+924
+	EJODPLFH_00801	CDS	ROG8102	290	577	+	NA
+	EJODPLFH_00802	CDS	ROG8102	799	1260	+	NA
+925
+	EJODPLFH_00803	CDS	COG0616	1311	2411	-	[OU] Periplasmic serine proteases (ClpP class) 
+	EJODPLFH_00804	tRNA	NA	2467	2556	-	NA
+	EJODPLFH_00805	tRNA	NA	2659	2732	-	NA
+	EJODPLFH_00806	tRNA	NA	2758	2833	-	NA
+	EJODPLFH_00807	tRNA	NA	2855	2930	-	NA
+	EJODPLFH_00808	tRNA	NA	2954	3029	-	NA
+	EJODPLFH_00809	tRNA	NA	3055	3130	-	NA
+926
+	EJODPLFH_00810	CDS	COG0558	3210	3773	-	[I] Phosphatidylglycerophosphate synthase    
+927
+	EJODPLFH_00811	CDS	NA	4000	4302	-	NA
+928
+	EJODPLFH_00812	CDS	COG0599	4634	4969	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+929
+	EJODPLFH_00813	CDS	COG2207	5098	6003	+	[K] AraC-type DNA-binding domain-containing proteins  
+930
+	EJODPLFH_00814	CDS	NA	6065	6553	-	NA
+931
+	EJODPLFH_00815	CDS	COG0697	6739	7602	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+932
+	EJODPLFH_00816	CDS	COG0687	7643	8773	-	[E] Spermidine/putrescine-binding periplasmic protein   
+933
+	EJODPLFH_00817	CDS	COG0013	8945	11608	+	[J] Alanyl-tRNA synthetase    
+	EJODPLFH_00818	CDS	ROG7666	11670	12401	+	NA
+934
+	EJODPLFH_00819	CDS	COG1002	12707	13600	+	[V] Type II restriction enzyme, methylase subunits
+	EJODPLFH_00820	CDS	COG1002	13724	15706	+	[V] Type II restriction enzyme, methylase subunits
+935
+	EJODPLFH_00821	CDS	COG0588	16519	17202	-	[G] Phosphoglycerate mutase 1   
+936
+	EJODPLFH_00822	CDS	COG0188	17504	19801	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	EJODPLFH_00823	CDS	ROG6755	19821	21338	+	NA
+	EJODPLFH_00824	CDS	COG2204	21390	21857	+	[T] Response regulator containing CheY-like receiver, AAA-type
+937
+	EJODPLFH_00825	CDS	ROG2973	21961	22713	+	NA
+938
+	EJODPLFH_00826	CDS	ROG0736	23846	24052	-	NA
+939
+	EJODPLFH_00827	CDS	COG0626	24147	25316	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+940
+	EJODPLFH_00828	CDS	NA	25615	26376	-	NA
+941
+	EJODPLFH_00829	CDS	ROG2396	26476	26727	+	NA
+	EJODPLFH_00830	CDS	COG0834	26779	27585	+	[ET] ABC-type amino acid transport/signal transduction systems,
+942
+	EJODPLFH_00831	CDS	COG1951	27892	29415	+	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+943
+	EJODPLFH_00832	CDS	NA	29494	30045	-	NA
+			NA				NA
+944
+	EJODPLFH_01701	CDS	COG2249	472	939	+	[R] Putative NADPH-quinone reductase (modulator of drug
+945
+	EJODPLFH_01702	CDS	COG1282	1147	2532	-	[C] NAD/NADP transhydrogenase beta subunit  
+946
+	EJODPLFH_01703	CDS	COG3686	2598	2981	-	[S] Predicted membrane protein   
+	EJODPLFH_01704	CDS	COG3288	2985	4526	-	[C] NAD/NADP transhydrogenase alpha subunit  
+947
+	EJODPLFH_01705	CDS	COG0560	4816	5649	+	[E] Phosphoserine phosphatase    
+948
+	EJODPLFH_01706	CDS	COG0038	5713	6936	+	[P] Chloride channel protein EriC  
+949
+	EJODPLFH_01707	CDS	COG0138	7097	8677	+	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+950
+	EJODPLFH_01708	CDS	NA	9290	10246	+	NA
+951
+	EJODPLFH_00972	tRNA	NA	515	590	-	NA
+952
+	EJODPLFH_00973	CDS	COG2018	683	1042	-	[R] Uncharacterized distant relative of homeotic protein
+	EJODPLFH_00974	CDS	NA	1065	1709	-	NA
+	EJODPLFH_00975	CDS	COG2229	1711	2247	-	[R] Predicted GTPase    
+	EJODPLFH_00976	CDS	NA	2259	3356	-	NA
+	EJODPLFH_00977	CDS	NA	3359	4795	-	NA
+953
+	EJODPLFH_00978	CDS	COG0500	5015	5797	-	[QR] SAM-dependent methyltransferases    
+	EJODPLFH_00979	CDS	COG2830	5785	6432	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00980	CDS	COG0156	6442	7584	-	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+954
+	EJODPLFH_00981	CDS	COG1376	7849	8883	+	[S] Uncharacterized protein conserved in bacteria 
+955
+	EJODPLFH_00982	CDS	COG0471	9090	10556	-	[P] Di- and tricarboxylate transporters  
+956
+	EJODPLFH_00983	CDS	COG0010	10754	11677	-	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+	EJODPLFH_00984	CDS	COG1166	11776	13668	-	[E] Arginine decarboxylase (spermidine biosynthesis)  
+957
+	EJODPLFH_00985	CDS	ROG6169	13835	14119	-	NA
+958
+	EJODPLFH_00986	CDS	COG0173	14270	16078	-	[J] Aspartyl-tRNA synthetase    
+959
+	EJODPLFH_00987	CDS	COG2928	16136	16837	-	[S] Uncharacterized conserved protein   
+960
+	EJODPLFH_00988	CDS	COG2829	16980	18059	-	[M] Outer membrane phospholipase A  
+961
+	EJODPLFH_00989	CDS	COG0268	18289	18552	-	[J] Ribosomal protein S20   
+962
+	EJODPLFH_00990	CDS	COG0687	18855	19997	+	[E] Spermidine/putrescine-binding periplasmic protein   
+963
+	EJODPLFH_00991	CDS	COG4771	22387	25131	-	[P] Outer membrane receptor for ferrienterochelin and
+964
+	EJODPLFH_00992	CDS	NA	25218	27362	-	NA
+965
+	EJODPLFH_00550	CDS	COG0051	102	413	+	[J] Ribosomal protein S10   
+966
+	EJODPLFH_00551	CDS	COG3039	623	916	+	[L] Transposase and inactivated derivatives, IS5 family
+967
+	EJODPLFH_00552	CDS	COG0087	1102	1746	+	[J] Ribosomal protein L3   
+	EJODPLFH_00553	CDS	COG0088	1746	2366	+	[J] Ribosomal protein L4   
+	EJODPLFH_00554	CDS	COG0089	2363	2677	+	[J] Ribosomal protein L23   
+	EJODPLFH_00555	CDS	COG0090	2683	3516	+	[J] Ribosomal protein L2   
+	EJODPLFH_00556	CDS	COG0185	3523	3801	+	[J] Ribosomal protein S19   
+	EJODPLFH_00557	CDS	COG0091	3810	4139	+	[J] Ribosomal protein L22   
+	EJODPLFH_00558	CDS	COG0092	4149	4841	+	[J] Ribosomal protein S3   
+968
+	EJODPLFH_00559	CDS	NA	4771	5238	-	NA
+969
+	EJODPLFH_00560	CDS	COG0255	5241	5432	+	[J] Ribosomal protein L29   
+	EJODPLFH_00561	CDS	COG0186	5432	5695	+	[J] Ribosomal protein S17   
+	EJODPLFH_00562	CDS	COG0093	5917	6285	+	[J] Ribosomal protein L14   
+	EJODPLFH_00563	CDS	COG0198	6297	6620	+	[J] Ribosomal protein L24   
+	EJODPLFH_00564	CDS	COG0094	6630	7169	+	[J] Ribosomal protein L5   
+	EJODPLFH_00565	CDS	COG0199	7172	7477	+	[J] Ribosomal protein S14   
+	EJODPLFH_00566	CDS	COG0096	7493	7885	+	[J] Ribosomal protein S8   
+	EJODPLFH_00567	CDS	COG0097	7899	8432	+	[J] Ribosomal protein L6P/L9E   
+	EJODPLFH_00568	CDS	COG0256	8446	8799	+	[J] Ribosomal protein L18   
+	EJODPLFH_00569	CDS	COG0098	8818	9336	+	[J] Ribosomal protein S5   
+	EJODPLFH_00570	CDS	COG1841	9329	9514	+	[J] Ribosomal protein L30/L7E   
+	EJODPLFH_00571	CDS	NA	9556	9723	+	NA
+970
+	EJODPLFH_00572	CDS	COG0201	10148	11272	+	[U] Preprotein translocase subunit SecY  
+	EJODPLFH_00573	CDS	COG0361	11277	11495	+	[J] Translation initiation factor 1 (IF-1) 
+	EJODPLFH_00574	CDS	COG0099	11695	12057	+	[J] Ribosomal protein S13   
+	EJODPLFH_00575	CDS	COG0522	12492	13112	+	[J] Ribosomal protein S4 and related proteins
+	EJODPLFH_00576	CDS	COG0202	13138	14124	+	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	EJODPLFH_00577	CDS	COG0203	14148	14516	+	[J] Ribosomal protein L17   
+	EJODPLFH_00578	CDS	NA	14467	14622	+	NA
+	EJODPLFH_00579	CDS	COG0850	14663	15376	+	[D] Septum formation inhibitor   
+	EJODPLFH_00580	CDS	COG2894	15405	16220	+	[D] Septum formation inhibitor-activating ATPase  
+	EJODPLFH_00581	CDS	COG0851	16224	16487	+	[D] Septum formation topological specificity factor 
+	EJODPLFH_00582	CDS	COG0583	16491	17411	+	[K] Transcriptional regulator    
+971
+	EJODPLFH_00583	CDS	COG0525	17741	20578	-	[J] Valyl-tRNA synthetase    
+972
+	EJODPLFH_00584	CDS	COG0428	20675	21484	-	[P] Predicted divalent heavy-metal cations transporter 
+973
+	EJODPLFH_00585	CDS	COG0665	21665	22921	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+974
+	EJODPLFH_00586	CDS	COG1115	23000	24391	-	[E] Na+/alanine symporter    
+975
+	EJODPLFH_00587	CDS	COG1043	24748	25524	-	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+	EJODPLFH_00588	CDS	ROG0283	25567	26289	-	NA
+976
+	EJODPLFH_00589	CDS	COG0764	26454	26903	-	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+	EJODPLFH_00590	CDS	COG1044	26937	27983	-	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	EJODPLFH_00591	CDS	COG2825	28016	28516	-	[M] Outer membrane protein   
+	EJODPLFH_00592	CDS	COG4775	28582	30975	-	[M] Outer membrane protein/protective antigen OMA87 
+	EJODPLFH_00593	CDS	COG0750	31032	32372	-	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	EJODPLFH_00594	CDS	COG0743	32407	33642	-	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+	EJODPLFH_00595	CDS	COG0575	33647	34444	-	[I] CDP-diglyceride synthetase    
+	EJODPLFH_00596	CDS	COG0020	34447	35193	-	[I] Undecaprenyl pyrophosphate synthase   
+	EJODPLFH_00597	CDS	COG0233	35249	35806	-	[J] Ribosome recycling factor   
+977
+	EJODPLFH_00598	CDS	COG1289	35986	37113	-	[S] Predicted membrane protein   
+978
+	EJODPLFH_00599	tRNA	NA	37187	37262	-	NA
+979
+	EJODPLFH_00600	CDS	NA	37369	37563	+	NA
+	EJODPLFH_00601	CDS	ROG1318	37539	37841	+	NA
+980
+	EJODPLFH_00602	CDS	COG0357	37937	38560	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+	EJODPLFH_00603	CDS	COG1192	38659	39432	+	[D] ATPases involved in chromosome partitioning 
+981
+	EJODPLFH_00604	CDS	NA	40105	40689	-	NA
+982
+	EJODPLFH_01735	CDS	COG1391	348	3038	-	[OT] Glutamine synthetase adenylyltransferase   
+983
+	EJODPLFH_01736	CDS	ROG5505	3236	3448	-	NA
+984
+	EJODPLFH_01737	CDS	COG4304	3585	4058	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01738	CDS	NA	4111	4392	-	NA
+985
+	EJODPLFH_01739	CDS	NA	4479	4802	-	NA
+986
+	EJODPLFH_01740	CDS	COG0167	5136	6143	-	[F] Dihydroorotate dehydrogenase    
+987
+	EJODPLFH_01741	CDS	COG0236	6375	6611	+	[IQ] Acyl carrier protein   
+	EJODPLFH_01742	CDS	COG0304	6767	8014	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+988
+	EJODPLFH_01743	CDS	NA	8256	9209	-	NA
+989
+	EJODPLFH_00737	CDS	COG3039	10	246	+	[L] Transposase and inactivated derivatives, IS5 family
+990
+	EJODPLFH_00738	CDS	COG3012	714	989	+	[S] Uncharacterized protein conserved in bacteria 
+991
+	EJODPLFH_00739	CDS	COG0483	1208	2002	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+992
+	EJODPLFH_00740	CDS	COG1385	2211	2936	+	[S] Uncharacterized protein conserved in bacteria 
+993
+	EJODPLFH_00741	CDS	COG3306	5289	6131	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	EJODPLFH_00742	CDS	NA	6173	6268	-	NA
+	EJODPLFH_00743	CDS	COG3306	6280	7107	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	EJODPLFH_00744	CDS	COG1215	7149	8195	-	[M] Glycosyltransferases, probably involved in cell wall
+	EJODPLFH_00745	CDS	COG0751	8212	10275	-	[J] Glycyl-tRNA synthetase, beta subunit  
+	EJODPLFH_00746	CDS	COG3171	10296	10706	-	[S] Uncharacterized protein conserved in bacteria 
+994
+	EJODPLFH_00747	CDS	COG0752	10783	11688	-	[J] Glycyl-tRNA synthetase, alpha subunit  
+995
+	EJODPLFH_00748	CDS	COG0355	12093	12515	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	EJODPLFH_00749	CDS	COG0055	12526	13923	-	[C] F0F1-type ATP synthase, beta subunit 
+	EJODPLFH_00750	CDS	COG0224	13961	14836	-	[C] F0F1-type ATP synthase, gamma subunit 
+	EJODPLFH_00751	CDS	COG0056	14861	16408	-	[C] F0F1-type ATP synthase, alpha subunit 
+	EJODPLFH_00752	CDS	COG0712	16419	16952	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	EJODPLFH_00753	CDS	COG0711	16957	17427	-	[C] F0F1-type ATP synthase, subunit b 
+	EJODPLFH_00754	CDS	COG0636	17498	17734	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	EJODPLFH_00755	CDS	COG0356	17791	18657	-	[C] F0F1-type ATP synthase, subunit a 
+	EJODPLFH_00756	CDS	COG3312	18647	19000	-	[C] F0F1-type ATP synthase, subunit I 
+996
+	EJODPLFH_00757	CDS	COG2913	19368	19706	-	[J] Small protein A (tmRNA-binding)  
+997
+	EJODPLFH_00758	CDS	COG1475	19842	20702	-	[K] Predicted transcriptional regulators   
+998
+	EJODPLFH_00759	CDS	COG0163	20860	21429	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+999
+	EJODPLFH_00760	CDS	COG1464	21491	22354	-	[P] ABC-type metal ion transport system, periplasmic
+	EJODPLFH_00761	CDS	COG2011	22513	23199	-	[P] ABC-type metal ion transport system, permease
+	EJODPLFH_00762	CDS	COG1135	23201	23938	-	[P] ABC-type metal ion transport system, ATPase
+1000
+	EJODPLFH_00763	CDS	COG0741	24469	26316	+	[M] Soluble lytic murein transglycosylase and related
+1001
+	EJODPLFH_00764	CDS	COG0828	26605	26817	+	[J] Ribosomal protein S21   
+	EJODPLFH_00765	CDS	COG1610	26949	27395	+	[S] Uncharacterized conserved protein   
+1002
+	EJODPLFH_00766	CDS	COG2969	27594	27986	-	[R] Stringent starvation protein B  
+	EJODPLFH_00767	CDS	COG0625	28058	28663	-	[O] Glutathione S-transferase    
+1003
+	EJODPLFH_00768	CDS	COG1807	28780	30441	-	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+1004
+	EJODPLFH_00769	CDS	COG4300	30587	31216	-	[P] Predicted permease, cadmium resistance protein 
+1005
+	EJODPLFH_01906	CDS	NA	427	639	-	NA
+1006
+	EJODPLFH_01907	CDS	NA	716	1075	-	NA
+1007
+	EJODPLFH_01634	CDS	NA	67	276	+	NA
+1008
+	EJODPLFH_01635	CDS	COG0814	642	1883	-	[E] Amino acid permeases   
+1009
+	EJODPLFH_01636	CDS	COG2227	2047	2763	+	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+	EJODPLFH_01637	CDS	COG2334	2800	3717	+	[R] Putative homoserine kinase type II (protein
+1010
+	EJODPLFH_01638	CDS	COG3265	4056	4574	-	[G] Gluconate kinase    
+	EJODPLFH_01639	CDS	COG2610	4594	5979	-	[GE] H+/gluconate symporter and related permeases 
+1011
+	EJODPLFH_01640	CDS	COG1178	6372	7913	+	[P] ABC-type Fe3+ transport system, permease component
+	EJODPLFH_01641	CDS	ROG1631	7942	8541	+	NA
+	EJODPLFH_01642	CDS	COG1057	8538	9131	+	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	EJODPLFH_01643	CDS	COG0799	9190	9576	+	[S] Uncharacterized homolog of plant Iojap protein
+	EJODPLFH_01644	CDS	COG1576	9630	10100	+	[S] Uncharacterized conserved protein   
+1012
+	EJODPLFH_01645	CDS	COG2924	10173	10439	+	[CO] Fe-S cluster protector protein  
+1013
+	EJODPLFH_01646	CDS	COG0670	10596	11279	+	[R] Integral membrane protein, interacts with FtsH
+1014
+	EJODPLFH_01647	CDS	COG0669	11403	11915	+	[H] Phosphopantetheine adenylyltransferase    
+	EJODPLFH_01648	CDS	COG0564	11941	12600	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+			NA				NA
+1015
+	EJODPLFH_01612	CDS	COG2189	408	1781	+	[L] Adenine specific DNA methylase Mod 
+	EJODPLFH_01613	CDS	COG3421	1771	4551	+	[S] Uncharacterized protein conserved in bacteria 
+1016
+	EJODPLFH_01614	CDS	COG1304	4695	5867	-	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+1017
+	EJODPLFH_01615	CDS	COG1959	6158	6604	+	[K] Predicted transcriptional regulator   
+	EJODPLFH_01616	CDS	COG1104	6633	7847	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+1018
+	EJODPLFH_01617	CDS	NA	7914	8042	+	NA
+1019
+	EJODPLFH_01618	CDS	COG0822	8108	8494	+	[C] NifU homolog involved in Fe-S cluster
+	EJODPLFH_01619	CDS	COG0316	8581	8901	+	[S] Uncharacterized conserved protein   
+1020
+	EJODPLFH_01620	CDS	COG3036	8861	9082	-	[S] Uncharacterized protein conserved in bacteria 
+1021
+	EJODPLFH_01621	CDS	COG1076	9164	9664	+	[O] DnaJ-domain-containing proteins 1   
+	EJODPLFH_01622	CDS	COG0188	9762	12512	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+1022
+	EJODPLFH_01902	CDS	COG4969	276	725	+	[NU] Tfp pilus assembly protein, major pilin
+	EJODPLFH_01903	CDS	COG4969	884	1255	+	[NU] Tfp pilus assembly protein, major pilin
+1023
+	EJODPLFH_00056	tRNA	NA	567	641	-	NA
+	EJODPLFH_00057	tRNA	NA	659	735	-	NA
+1024
+	EJODPLFH_00058	CDS	COG0497	845	2518	-	[L] ATPase involved in DNA repair 
+1025
+	EJODPLFH_00059	CDS	COG1386	2702	3304	-	[K] Predicted transcriptional regulator containing the HTH
+	EJODPLFH_00060	CDS	COG1161	3405	4346	-	[R] Predicted GTPases    
+1026
+	EJODPLFH_00061	CDS	COG1660	4427	5281	-	[R] Predicted P-loop-containing kinase   
+	EJODPLFH_00062	CDS	COG1493	5262	6224	-	[T] Serine kinase of the HPr protein,
+	EJODPLFH_00063	CDS	COG1762	6226	6675	-	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+1027
+	EJODPLFH_00064	CDS	COG0382	6860	7750	-	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+	EJODPLFH_00065	CDS	COG3161	7780	8265	-	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+1028
+	EJODPLFH_00066	CDS	NA	8713	9156	-	NA
+1029
+	EJODPLFH_00067	CDS	COG0132	9757	10404	-	[H] Dethiobiotin synthetase    
+	EJODPLFH_00068	CDS	COG0161	10401	11702	-	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+1030
+	EJODPLFH_00069	CDS	NA	11916	12155	-	NA
+1031
+	EJODPLFH_00070	CDS	COG3030	12415	12900	-	[R] Protein affecting phage T7 exclusion by
+1032
+	EJODPLFH_00071	CDS	NA	13230	13538	-	NA
+	EJODPLFH_00072	CDS	COG0776	13522	13824	-	[L] Bacterial nucleoid DNA-binding protein  
+	EJODPLFH_00073	CDS	COG0072	13898	16261	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	EJODPLFH_00074	CDS	COG1419	16297	16815	-	[N] Flagellar GTP-binding protein   
+	EJODPLFH_00075	CDS	ROG4307	16822	17886	-	NA
+1033
+	EJODPLFH_00076	CDS	COG0016	18063	19121	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+	EJODPLFH_00077	CDS	COG0292	19401	19760	-	[J] Ribosomal protein L20   
+	EJODPLFH_00078	CDS	COG0291	19773	19970	-	[J] Ribosomal protein L35   
+	EJODPLFH_00079	CDS	COG0290	20117	20521	-	[J] Translation initiation factor 3 (IF-3) 
+	EJODPLFH_00080	CDS	COG0441	20656	22569	-	[J] Threonyl-tRNA synthetase    
+	EJODPLFH_00081	tRNA	NA	22623	22699	-	NA
+1034
+	EJODPLFH_00082	CDS	COG0343	22878	23993	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	EJODPLFH_00083	CDS	COG0276	24003	25085	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	EJODPLFH_00084	CDS	COG2010	25277	25678	+	[C] Cytochrome c, mono- and diheme variants
+1035
+	EJODPLFH_00085	CDS	COG3263	25741	26031	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+	EJODPLFH_00086	CDS	COG3263	26184	26504	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+1036
+	EJODPLFH_00087	CDS	NA	26687	26986	-	NA
+1037
+	EJODPLFH_00088	CDS	COG2354	27040	27426	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_00089	CDS	COG0815	27459	29033	+	[M] Apolipoprotein N-acyltransferase    
+1038
+	EJODPLFH_00090	CDS	COG0568	29297	30160	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+1039
+	EJODPLFH_00091	CDS	COG1561	30644	31528	+	[S] Uncharacterized stress-induced protein   
+1040
+	EJODPLFH_00092	CDS	COG1714	31612	32178	-	[S] Predicted membrane protein/domain   
+	EJODPLFH_00093	CDS	COG0392	32203	32622	-	[S] Predicted integral membrane protein  
+1041
+	EJODPLFH_00094	CDS	COG1466	32743	33741	-	[L] DNA polymerase III, delta subunit 
+	EJODPLFH_00095	CDS	COG2980	33743	34222	-	[M] Rare lipoprotein B   
+	EJODPLFH_00096	CDS	COG1496	34274	35053	-	[S] Uncharacterized conserved protein   
+1042
+	EJODPLFH_00097	CDS	NA	35352	35543	+	NA
+1043
+	EJODPLFH_00098	CDS	COG0385	35620	36567	+	[R] Predicted Na+-dependent transporter   
+1044
+	EJODPLFH_00099	CDS	COG0564	36720	37844	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+1045
+	EJODPLFH_00100	CDS	COG4105	37876	38646	+	[R] DNA uptake lipoprotein   
+1046
+	EJODPLFH_00101	CDS	COG0658	38704	40986	-	[R] Predicted membrane metal-binding protein  
+1047
+	EJODPLFH_00102	CDS	COG3468	42447	47099	+	[MU] Type V secretory pathway, adhesin AidA
+1048
+	EJODPLFH_00103	CDS	COG0133	47278	48480	-	[E] Tryptophan synthase beta chain  
+1049
+	EJODPLFH_00104	CDS	COG3663	48563	49252	-	[L] G:T/U mismatch-specific DNA glycosylase  
+1050
+	EJODPLFH_00105	CDS	COG0030	49449	50228	+	[J] Dimethyladenosine transferase (rRNA methylation)  
+1051
+	EJODPLFH_00106	CDS	COG1126	50380	51129	+	[E] ABC-type polar amino acid transport system,
+1052
+	EJODPLFH_00107	CDS	ROG5664	51202	51561	+	NA
+	EJODPLFH_00108	CDS	ROG5135	51566	52012	+	NA
+	EJODPLFH_00109	CDS	COG0285	52043	53317	+	[H] Folylpolyglutamate synthase    
+	EJODPLFH_00110	CDS	ROG2101	53330	54328	+	NA
+	EJODPLFH_00111	CDS	COG1286	54321	54818	+	[R] Uncharacterized membrane protein, required for colicin
+	EJODPLFH_00112	CDS	COG0034	55026	56570	+	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	EJODPLFH_00113	CDS	COG0782	56670	57161	+	[K] Transcription elongation factor   
+	EJODPLFH_00114	CDS	COG0135	57220	57846	+	[E] Phosphoribosylanthranilate isomerase    
+1053
+	EJODPLFH_00115	CDS	NA	58551	59564	-	NA
+			NA				NA
+1054
+	EJODPLFH_00886	CDS	COG0803	131	1045	-	[P] ABC-type metal ion transport system, periplasmic
+	EJODPLFH_00887	CDS	COG1108	1122	1997	-	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	EJODPLFH_00888	CDS	COG1121	2032	2787	-	[P] ABC-type Mn/Zn transport systems, ATPase component
+1055
+	EJODPLFH_00889	CDS	COG0335	3078	3443	-	[J] Ribosomal protein L19   
+	EJODPLFH_00890	CDS	COG0336	3459	4208	-	[J] tRNA-(guanine-N1)-methyltransferase     
+	EJODPLFH_00891	CDS	COG0806	4208	4717	-	[J] RimM protein, required for 16S rRNA
+	EJODPLFH_00892	CDS	COG0228	4733	4978	-	[J] Ribosomal protein S16   
+	EJODPLFH_00893	CDS	COG1042	5023	7449	-	[C] Acyl-CoA synthetase (NDP forming)  
+1056
+	EJODPLFH_00894	CDS	COG2205	7567	8973	-	[T] Osmosensitive K+ channel histidine kinase 
+	EJODPLFH_00895	CDS	COG0745	8986	9663	-	[TK] Response regulators consisting of a CheY-like
+1057
+	EJODPLFH_00896	CDS	COG3307	9853	11667	-	[M] Lipid A core - O-antigen ligase
+	EJODPLFH_00897	CDS	COG3308	11657	12010	-	[S] Predicted membrane protein   
+	EJODPLFH_00898	CDS	COG0424	12026	12631	-	[D] Nucleotide-binding protein implicated in inhibition of
+1058
+	EJODPLFH_00899	CDS	COG0805	12684	13454	-	[U] Sec-independent protein secretion pathway component TatC
+	EJODPLFH_00900	CDS	COG1826	13468	14154	-	[U] Sec-independent protein secretion pathway components 
+	EJODPLFH_00901	CDS	COG1826	14158	14361	-	[U] Sec-independent protein secretion pathway components 
+	EJODPLFH_00902	CDS	COG0537	14408	14731	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	EJODPLFH_00903	CDS	COG0140	14803	15126	-	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+1059
+	EJODPLFH_00904	CDS	COG1063	15267	16331	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+1060
+	EJODPLFH_00905	CDS	COG0123	16694	17851	-	[BQ] Deacetylases, including yeast histone deacetylase and
+1061
+	EJODPLFH_00906	CDS	COG1862	17931	18197	+	[U] Preprotein translocase subunit YajC  
+	EJODPLFH_00907	CDS	COG0342	18409	20262	+	[U] Preprotein translocase subunit SecD  
+	EJODPLFH_00908	CDS	COG0341	20266	21201	+	[U] Preprotein translocase subunit SecF  
+1062
+	EJODPLFH_00909	CDS	COG0184	21424	21693	+	[J] Ribosomal protein S15P/S13E   
+1063
+	EJODPLFH_00910	CDS	COG3842	22075	23199	+	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+	EJODPLFH_00911	CDS	COG1176	23215	24180	+	[E] ABC-type spermidine/putrescine transport system, permease component
+	EJODPLFH_00912	CDS	COG1177	24180	25067	+	[E] ABC-type spermidine/putrescine transport system, permease component
+	EJODPLFH_00913	CDS	COG0665	25193	26488	+	[E] Glycine/D-amino acid oxidases (deaminating)  
+1064
+	EJODPLFH_00914	CDS	NA	26733	28037	-	NA
+1065
+	EJODPLFH_01848	CDS	COG2827	557	832	-	[L] Predicted endonuclease containing a URI domain
+	EJODPLFH_01849	CDS	NA	829	2112	-	NA
+1066
+	EJODPLFH_01850	CDS	COG0174	2268	3686	-	[E] Glutamine synthetase    
+1067
+	EJODPLFH_01038	CDS	COG0192	384	1553	-	[H] S-adenosylmethionine synthetase    
+1068
+	EJODPLFH_01039	CDS	COG1560	1899	2795	+	[M] Lauroyl/myristoyl acyltransferase    
+1069
+	EJODPLFH_01040	CDS	COG0533	2839	3903	-	[O] Metal-dependent proteases with possible chaperone activity
+1070
+	EJODPLFH_01041	CDS	COG0755	4020	5207	-	[O] ABC-type transport system involved in cytochrome
+	EJODPLFH_01042	CDS	COG1333	5200	7152	-	[O] ResB protein required for cytochrome c
+1071
+	EJODPLFH_01043	CDS	COG2863	7429	8052	-	[C] Cytochrome c553    
+1072
+	EJODPLFH_01044	CDS	COG0218	8258	8887	+	[R] Predicted GTPase    
+1073
+	EJODPLFH_01045	CDS	COG5009	9008	11404	-	[M] Membrane carboxypeptidase/penicillin-binding protein   
+1074
+	EJODPLFH_01046	CDS	COG4972	11556	12671	+	[NU] Tfp pilus assembly protein, ATPase PilM
+	EJODPLFH_01047	CDS	COG3166	12674	13273	+	[NU] Tfp pilus assembly protein PilN 
+	EJODPLFH_01048	CDS	COG3167	13274	13921	+	[NU] Tfp pilus assembly protein PilO 
+	EJODPLFH_01049	CDS	COG3168	13939	14484	+	[NU] Tfp pilus assembly protein PilP 
+	EJODPLFH_01050	CDS	COG4796	14503	16788	+	[U] Type II secretory pathway, component HofQ
+1075
+	EJODPLFH_01051	CDS	COG0703	17966	18478	+	[E] Shikimate kinase    
+	EJODPLFH_01052	CDS	COG0337	18558	19637	+	[E] 3-dehydroquinate synthetase    
+1076
+	EJODPLFH_01053	CDS	COG0121	20604	21446	+	[R] Predicted glutamine amidotransferase   
+	EJODPLFH_01054	CDS	COG1327	21475	21939	+	[K] Predicted transcriptional regulator, consists of a
+	EJODPLFH_01055	CDS	COG0117	21972	23081	+	[H] Pyrimidine deaminase    
+1077
+	EJODPLFH_01056	CDS	COG2244	23276	24694	+	[R] Membrane protein involved in the export
+1078
+	EJODPLFH_01495	tRNA	NA	91	166	+	NA
+1079
+	EJODPLFH_01496	CDS	COG0690	281	559	+	[U] Preprotein translocase subunit SecE  
+	EJODPLFH_01497	CDS	COG0250	561	1097	+	[K] Transcription antiterminator    
+	EJODPLFH_01498	CDS	COG0080	1198	1632	+	[J] Ribosomal protein L11   
+	EJODPLFH_01499	CDS	COG0081	1632	2327	+	[J] Ribosomal protein L1   
+	EJODPLFH_01500	CDS	COG0244	2557	3057	+	[J] Ribosomal protein L10   
+	EJODPLFH_01501	CDS	COG0222	3115	3486	+	[J] Ribosomal protein L7/L12   
+	EJODPLFH_01502	CDS	COG0085	3677	7855	+	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	EJODPLFH_01503	CDS	COG0086	8012	12187	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+1080
+	EJODPLFH_01504	CDS	NA	12301	12426	-	NA
+1081
+	EJODPLFH_01505	CDS	NA	12479	12736	+	NA
+	EJODPLFH_01506	CDS	ROG3350	12733	12882	+	NA
+1082
+	EJODPLFH_01507	CDS	COG0048	13061	13432	+	[J] Ribosomal protein S12   
+	EJODPLFH_01508	CDS	COG0049	13550	14020	+	[J] Ribosomal protein S7   
+	EJODPLFH_01509	CDS	COG0480	14039	16144	+	[J] Translation elongation factors (GTPases)  
+1083
+	EJODPLFH_01335	CDS	COG0543	985	1761	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+1084
+	EJODPLFH_01336	CDS	ROG3520	1949	2731	-	NA
+	EJODPLFH_01337	CDS	COG0498	2790	4199	-	[E] Threonine synthase    
+1085
+	EJODPLFH_01338	CDS	ROG6903	4272	4643	-	NA
+1086
+	EJODPLFH_01339	CDS	ROG2138	4895	6364	-	NA
+1087
+	EJODPLFH_01340	CDS	COG0583	6620	7534	+	[K] Transcriptional regulator    
+1088
+	EJODPLFH_01341	CDS	ROG2552	7806	8498	-	NA
+1089
+	EJODPLFH_01342	CDS	NA	8523	8744	+	NA
+1090
+	EJODPLFH_01343	CDS	COG2256	9317	10627	+	[L] ATPase related to the helicase subunit
+1091
+	EJODPLFH_01344	CDS	COG0610	10741	13746	+	[V] Type I site-specific restriction-modification system, R
+	EJODPLFH_01345	CDS	COG0732	13873	15066	+	[V] Restriction endonuclease S subunits  
+	EJODPLFH_01346	CDS	COG0286	15114	16715	+	[V] Type I restriction-modification system methyltransferase subunit
+1092
+	EJODPLFH_01347	CDS	COG0108	17023	18360	-	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+1093
+	EJODPLFH_01348	CDS	NA	18582	19238	-	NA
+1094
+	EJODPLFH_01159	CDS	NA	263	832	+	NA
+1095
+	EJODPLFH_01160	CDS	NA	974	1216	+	NA
+1096
+	EJODPLFH_01161	CDS	COG0552	1977	3242	-	[U] Signal recognition particle GTPase  
+1097
+	EJODPLFH_01162	CDS	COG0229	3388	4956	+	[O] Conserved domain frequently associated with peptide
+1098
+	EJODPLFH_01163	CDS	COG1546	5058	5543	-	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+	EJODPLFH_01164	CDS	COG0668	5569	6417	-	[M] Small-conductance mechanosensitive channel   
+1099
+	EJODPLFH_01165	CDS	COG4143	6511	7512	-	[H] ABC-type thiamine transport system, periplasmic component
+1100
+	EJODPLFH_01166	CDS	COG1011	7571	8302	+	[R] Predicted hydrolase (HAD superfamily)  
+	EJODPLFH_01167	CDS	COG4851	8278	8550	+	[R] Protein involved in sex pheromone biosynthesis
+	EJODPLFH_01168	CDS	COG1207	8560	9975	+	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+	EJODPLFH_01169	CDS	COG2824	10052	10381	+	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+1101
+	EJODPLFH_01170	CDS	COG2837	10453	11718	-	[P] Predicted iron-dependent peroxidase   
+	EJODPLFH_01171	CDS	COG2822	11982	13148	-	[P] Predicted periplasmic lipoprotein involved in iron
+	EJODPLFH_01172	CDS	COG0672	13145	13984	-	[P] High-affinity Fe2+/Pb2+ permease   
+1102
+	EJODPLFH_01173	CDS	COG2821	14196	15521	+	[M] Membrane-bound lytic murein transglycosylase  
+1103
+	EJODPLFH_01174	CDS	ROG1231	15939	16457	-	NA
+1104
+	EJODPLFH_01175	CDS	COG0449	16739	18577	+	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+	EJODPLFH_01176	CDS	COG0143	18692	20749	+	[J] Methionyl-tRNA synthetase    
+1105
+	EJODPLFH_01177	CDS	COG1052	20824	21777	-	[CHR] Lactate dehydrogenase and related dehydrogenases 
+1106
+	EJODPLFH_01178	CDS	COG3205	21899	22117	+	[S] Predicted membrane protein   
+1107
+	EJODPLFH_01179	CDS	NA	22195	22524	+	NA
+1108
+	EJODPLFH_01818	CDS	ROG0823	307	1500	-	NA
+	EJODPLFH_01819	CDS	COG2845	1497	2480	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01820	CDS	COG1696	2491	3927	-	[M] Predicted membrane protein involved in D-alanine
+1109
+	EJODPLFH_01821	CDS	NA	4556	4768	+	NA
+1110
+	EJODPLFH_01822	CDS	NA	337	585	+	NA
+1111
+	EJODPLFH_01823	CDS	NA	1896	2441	+	NA
+	EJODPLFH_01824	CDS	ROG6864	2423	2788	+	NA
+	EJODPLFH_01825	CDS	NA	2846	3265	+	NA
+1112
+	EJODPLFH_01826	CDS	NA	3422	3580	+	NA
+			NA				NA
+1113
+	EJODPLFH_01432	CDS	COG0583	345	1274	-	[K] Transcriptional regulator    
+1114
+	EJODPLFH_01433	CDS	COG0327	1405	2154	+	[S] Uncharacterized conserved protein   
+1115
+	EJODPLFH_01434	CDS	COG0723	2277	2858	+	[C] Rieske Fe-S protein   
+	EJODPLFH_01435	CDS	COG1290	2877	4226	+	[C] Cytochrome b subunit of the bc
+	EJODPLFH_01436	CDS	COG2857	4241	5029	+	[C] Cytochrome c1    
+1116
+	EJODPLFH_01437	CDS	COG1322	5368	7152	+	[S] Uncharacterized protein conserved in bacteria 
+1117
+	EJODPLFH_01438	CDS	COG0491	7359	7991	-	[R] Zn-dependent hydrolases, including glyoxylases  
+1118
+	EJODPLFH_01439	CDS	COG1793	8083	8907	+	[L] ATP-dependent DNA ligase   
+1119
+	EJODPLFH_01440	CDS	COG0634	8976	9539	+	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+1120
+	EJODPLFH_01441	CDS	COG2893	9620	10057	+	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+	EJODPLFH_01442	CDS	COG1925	10126	10395	+	[G] Phosphotransferase system, HPr-related proteins  
+	EJODPLFH_01443	CDS	COG1080	10395	12170	+	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+1121
+	EJODPLFH_01444	CDS	COG3842	12890	13828	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+	EJODPLFH_01445	CDS	NA	13837	14712	-	NA
+1122
+	EJODPLFH_01446	tRNA	NA	14901	14977	-	NA
+1123
+	EJODPLFH_01447	CDS	NA	15319	17220	+	NA
+1124
+	EJODPLFH_01842	tRNA	NA	131	220	-	NA
+	EJODPLFH_01843	tRNA	NA	298	388	-	NA
+1125
+	EJODPLFH_01844	CDS	COG3022	471	1250	-	[S] Uncharacterized protein conserved in bacteria 
+1126
+	EJODPLFH_01845	CDS	COG0436	1413	2600	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+1127
+	EJODPLFH_01846	CDS	COG0756	2677	3129	-	[F] dUTPase     
+1128
+	EJODPLFH_01847	CDS	NA	3241	3753	+	NA
+			NA				NA
+1129
+	EJODPLFH_01749	CDS	COG3104	333	1790	+	[E] Dipeptide/tripeptide permease    
+1130
+	EJODPLFH_01750	CDS	NA	2211	2807	+	NA
+1131
+	EJODPLFH_01751	CDS	COG1186	2700	3803	-	[J] Protein chain release factor B 
+1132
+	EJODPLFH_01752	CDS	COG1752	3906	4799	-	[R] Predicted esterase of the alpha-beta hydrolase
+1133
+	EJODPLFH_01753	CDS	COG2259	5141	5590	+	[S] Predicted membrane protein   
+1134
+	EJODPLFH_01754	CDS	COG3767	5664	5972	+	[S] Uncharacterized low-complexity protein   
+1135
+	EJODPLFH_01755	CDS	COG3220	6088	6930	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01756	CDS	COG3219	6920	7666	+	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01757	CDS	COG1595	7688	8275	+	[K] DNA-directed RNA polymerase specialized sigma subunit,
+1136
+	EJODPLFH_01758	CDS	ROG5118	8710	9132	+	NA
+			NA				NA
+1137
+	EJODPLFH_01889	CDS	COG4773	84	2261	-	[P] Outer membrane receptor for ferric coprogen
+1138
+	EJODPLFH_01890	CDS	NA	2375	2698	-	NA
+1139
+	EJODPLFH_01180	CDS	NA	465	2441	-	NA
+	EJODPLFH_01181	CDS	COG3778	2452	3012	-	[S] Uncharacterized protein conserved in bacteria 
+	EJODPLFH_01182	CDS	COG3299	3009	3620	-	[S] Uncharacterized homolog of phage Mu protein
+	EJODPLFH_01183	CDS	COG3299	3620	4063	-	[S] Uncharacterized homolog of phage Mu protein
+	EJODPLFH_01184	CDS	COG4381	4077	4424	-	[S] Mu-like prophage protein gp46  
+	EJODPLFH_01185	CDS	COG4384	4524	5192	-	[S] Mu-like prophage protein gp45  
+	EJODPLFH_01186	CDS	COG4379	5189	6334	-	[R] Mu-like prophage tail protein gpP 
+	EJODPLFH_01187	CDS	COG4228	6324	7655	-	[R] Mu-like prophage DNA circulation protein 
+	EJODPLFH_01188	CDS	NA	7655	9826	-	NA
+1140
+	EJODPLFH_01189	CDS	ROG7602	9981	10505	+	NA
+1141
+	EJODPLFH_01190	CDS	NA	10607	10876	-	NA
+	EJODPLFH_01191	CDS	NA	10816	11181	-	NA
+	EJODPLFH_01192	CDS	ROG6530	11185	11562	-	NA
+1142
+	EJODPLFH_01193	CDS	COG4386	11627	13036	-	[R] Mu-like prophage tail sheath protein gpL
+	EJODPLFH_01194	CDS	NA	13039	13236	-	NA
+	EJODPLFH_01195	CDS	COG5003	13233	13883	-	[R] Mu-like prophage protein gp37  
+	EJODPLFH_01196	CDS	COG4387	13873	14295	-	[S] Mu-like prophage protein gp36  
+	EJODPLFH_01197	CDS	ROG7158	14295	14693	-	NA
+1143
+	EJODPLFH_01198	CDS	COG4397	14758	15666	-	[R] Mu-like prophage major head subunit gpT
+	EJODPLFH_01199	CDS	COG4388	15666	16727	-	[R] Mu-like prophage I protein  
+1144
+	EJODPLFH_01200	CDS	COG5005	16958	17374	-	[R] Mu-like prophage protein gpG  
+	EJODPLFH_01201	CDS	COG2369	17502	18827	-	[S] Uncharacterized protein, homolog of phage Mu
+	EJODPLFH_01202	CDS	COG4383	18814	20382	-	[S] Mu-like prophage protein gp29  
+	EJODPLFH_01203	CDS	ROG3592	20382	22004	-	NA
+1145
+	EJODPLFH_01204	CDS	NA	22016	22528	+	NA
+1146
+	EJODPLFH_01623	CDS	COG1183	435	1181	+	[I] Phosphatidylserine synthase    
+	EJODPLFH_01624	CDS	COG0730	1182	1988	+	[R] Predicted permeases    
+1147
+	EJODPLFH_01625	CDS	COG0359	2955	3407	-	[J] Ribosomal protein L9   
+	EJODPLFH_01626	CDS	COG0238	3424	3654	-	[J] Ribosomal protein S18   
+	EJODPLFH_01627	CDS	COG0360	3964	4332	-	[J] Ribosomal protein S6   
+1148
+	EJODPLFH_01628	CDS	COG0492	4488	5438	-	[O] Thioredoxin reductase    
+1149
+	EJODPLFH_01629	CDS	COG2217	5577	7739	+	[P] Cation transport ATPase   
+1150
+	EJODPLFH_01630	CDS	COG0322	7794	9680	+	[L] Nuclease subunit of the excinuclease complex
+1151
+	EJODPLFH_01631	CDS	COG0790	9954	11357	+	[R] FOG: TPR repeat, SEL1 subfamily 
+1152
+	EJODPLFH_01632	CDS	COG0220	11479	12195	+	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+1153
+	EJODPLFH_01633	CDS	NA	12320	12604	-	NA

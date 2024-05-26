@@ -1,0 +1,3108 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	JAIEIFKM_00001	CDS	ROG0823	311	1504	-	NA
+	JAIEIFKM_00002	CDS	COG2845	1501	2484	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00003	CDS	COG1696	2495	3931	-	[M] Predicted membrane protein involved in D-alanine
+2
+	JAIEIFKM_00004	CDS	COG2608	4560	4772	+	[P] Copper chaperone    
+3
+	JAIEIFKM_00005	CDS	COG4797	4920	6503	+	[R] Predicted regulatory domain of a methyltransferase
+4
+	JAIEIFKM_00006	CDS	NA	6585	7682	+	NA
+5
+	JAIEIFKM_00007	CDS	COG1929	7796	8911	+	[G] Glycerate kinase    
+6
+	JAIEIFKM_00008	CDS	COG0394	9036	9491	+	[T] Protein-tyrosine-phosphatase     
+	JAIEIFKM_00009	CDS	COG0735	9562	10038	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	JAIEIFKM_00010	CDS	COG0523	10026	10952	+	[R] Putative GTPases (G3E family)  
+	JAIEIFKM_00011	CDS	COG0652	11017	11571	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+7
+	JAIEIFKM_00012	CDS	COG0037	11810	12769	-	[D] Predicted ATPase of the PP-loop superfamily
+8
+	JAIEIFKM_00013	CDS	COG0354	12862	13728	-	[R] Predicted aminomethyltransferase related to GcvT 
+	JAIEIFKM_00014	CDS	COG0251	13760	14122	-	[J] Putative translation initiation inhibitor, yjgF family
+9
+	JAIEIFKM_00015	CDS	COG2606	14197	14676	+	[S] Uncharacterized conserved protein   
+	JAIEIFKM_00016	CDS	COG3671	14698	15420	+	[S] Predicted membrane protein   
+	JAIEIFKM_00017	CDS	ROG3253	15422	16297	+	NA
+10
+	JAIEIFKM_00018	CDS	COG1027	16369	17766	-	[E] Aspartate ammonia-lyase    
+11
+	JAIEIFKM_00019	CDS	COG2353	18196	18759	-	[S] Uncharacterized conserved protein   
+12
+	JAIEIFKM_00020	CDS	COG0473	18922	19992	-	[CE] Isocitrate/isopropylmalate dehydrogenase    
+	JAIEIFKM_00021	CDS	NA	20026	20757	-	NA
+	JAIEIFKM_00022	CDS	COG0270	20773	22044	-	[L] Site-specific DNA methylase   
+13
+	JAIEIFKM_00023	CDS	COG0066	22213	22974	-	[E] 3-isopropylmalate dehydratase small subunit  
+	JAIEIFKM_00024	CDS	ROG7969	22916	23170	-	NA
+14
+	JAIEIFKM_00025	CDS	COG0065	23267	24676	-	[E] 3-isopropylmalate dehydratase large subunit  
+15
+	JAIEIFKM_00026	CDS	ROG0062	24936	26285	+	NA
+16
+	JAIEIFKM_00027	CDS	COG2003	26408	27085	+	[L] DNA repair proteins   
+17
+	JAIEIFKM_00028	CDS	COG1636	27158	27883	+	[S] Uncharacterized protein conserved in bacteria 
+18
+	JAIEIFKM_00029	CDS	ROG4973	28036	29316	+	NA
+	JAIEIFKM_00030	CDS	COG2262	29321	30499	+	[R] GTPases     
+	JAIEIFKM_00031	CDS	COG2217	30496	32967	+	[P] Cation transport ATPase   
+19
+	JAIEIFKM_00032	CDS	COG0543	33738	34514	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+20
+	JAIEIFKM_00033	CDS	ROG3520	34702	35496	-	NA
+	JAIEIFKM_00034	CDS	COG0498	35543	36952	-	[E] Threonine synthase    
+21
+	JAIEIFKM_00035	CDS	ROG6903	37025	37396	-	NA
+22
+	JAIEIFKM_00036	CDS	ROG2138	37648	39117	-	NA
+23
+	JAIEIFKM_00037	CDS	COG0583	39373	40287	+	[K] Transcriptional regulator    
+24
+	JAIEIFKM_00038	CDS	ROG2552	40559	41251	-	NA
+25
+	JAIEIFKM_00039	CDS	NA	41276	41497	+	NA
+26
+	JAIEIFKM_00040	CDS	COG2256	42070	43380	+	[L] ATPase related to the helicase subunit
+27
+	JAIEIFKM_00041	CDS	COG0610	43494	46499	+	[V] Type I site-specific restriction-modification system, R
+	JAIEIFKM_00042	CDS	COG0732	46626	47819	+	[V] Restriction endonuclease S subunits  
+	JAIEIFKM_00043	CDS	COG0286	47867	49468	+	[V] Type I restriction-modification system methyltransferase subunit
+28
+	JAIEIFKM_00044	CDS	COG0108	49776	51113	-	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+29
+	JAIEIFKM_00045	CDS	NA	51335	51991	-	NA
+	JAIEIFKM_00046	CDS	COG0463	52023	52349	-	[M] Glycosyltransferases involved in cell wall biogenesis
+30
+	JAIEIFKM_00047	CDS	COG0807	52670	53263	-	[H] GTP cyclohydrolase II   
+	JAIEIFKM_00048	CDS	NA	53256	53930	-	NA
+31
+	JAIEIFKM_00049	tRNA	NA	54084	54168	+	NA
+32
+	JAIEIFKM_00050	CDS	COG0150	54688	55722	+	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+33
+	JAIEIFKM_00051	CDS	COG2197	56196	56852	-	[TK] Response regulator containing a CheY-like receiver
+	JAIEIFKM_00052	CDS	COG3850	56849	58621	-	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+34
+	JAIEIFKM_00053	CDS	COG0746	58863	59441	+	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+35
+	JAIEIFKM_00054	CDS	COG0307	59517	60221	+	[H] Riboflavin synthase alpha chain  
+	JAIEIFKM_00055	CDS	COG2607	60229	61092	+	[R] Predicted ATPase (AAA+ superfamily)  
+36
+	JAIEIFKM_00056	CDS	COG3678	61105	61539	-	[UNTP] P pilus assembly/Cpx signaling pathway, periplasmic
+37
+	JAIEIFKM_00057	CDS	COG0036	61850	62578	+	[G] Pentose-5-phosphate-3-epimerase     
+38
+	JAIEIFKM_00058	CDS	COG2255	62601	63632	-	[L] Holliday junction resolvasome, helicase subunit 
+39
+	JAIEIFKM_00059	CDS	NA	63714	64022	-	NA
+40
+	JAIEIFKM_00060	CDS	COG0617	64245	65498	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+	JAIEIFKM_00061	CDS	COG0488	65570	67198	-	[R] ATPase components of ABC transporters with
+41
+	JAIEIFKM_00062	CDS	COG1393	67348	67722	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	JAIEIFKM_00063	CDS	COG0760	67782	69320	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	JAIEIFKM_00064	CDS	COG0353	69387	70004	+	[L] Recombinational DNA repair protein (RecF pathway)
+42
+	JAIEIFKM_00065	CDS	NA	70060	70338	-	NA
+43
+	JAIEIFKM_00066	CDS	COG4591	70543	71790	+	[M] ABC-type transport system, involved in lipoprotein
+	JAIEIFKM_00067	CDS	COG4181	71783	72478	+	[Q] Predicted ABC-type transport system involved in
+44
+	JAIEIFKM_00068	CDS	COG0507	72546	74291	+	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+45
+	JAIEIFKM_00069	CDS	COG2264	74363	75466	-	[J] Ribosomal protein L11 methylase  
+46
+	JAIEIFKM_00070	CDS	COG0466	75717	78179	+	[O] ATP-dependent Lon protease, bacterial type 
+	JAIEIFKM_00071	CDS	COG0776	78361	78630	+	[L] Bacterial nucleoid DNA-binding protein  
+47
+	JAIEIFKM_00072	CDS	NA	78689	79123	-	NA
+	JAIEIFKM_00073	CDS	COG0460	79116	80423	-	[E] Homoserine dehydrogenase    
+48
+	JAIEIFKM_00074	CDS	COG3737	80596	80991	+	[S] Uncharacterized conserved protein   
+49
+	JAIEIFKM_00075	CDS	COG0488	81068	82990	+	[R] ATPase components of ABC transporters with
+50
+	JAIEIFKM_00076	CDS	ROG0867	83456	83971	+	NA
+51
+	JAIEIFKM_00077	CDS	COG0692	84479	85138	-	[L] Uracil DNA glycosylase   
+52
+	JAIEIFKM_00078	CDS	ROG1281	85219	85626	+	NA
+	JAIEIFKM_00079	CDS	COG0330	85641	86588	+	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+53
+	JAIEIFKM_00080	CDS	COG0628	86785	87855	-	[R] Predicted permease    
+54
+	JAIEIFKM_00081	CDS	COG2921	88040	88315	+	[S] Uncharacterized conserved protein   
+	JAIEIFKM_00082	CDS	COG0321	88317	88940	+	[H] Lipoate-protein ligase B   
+	JAIEIFKM_00083	CDS	COG0320	88933	89916	+	[H] Lipoate synthase    
+55
+	JAIEIFKM_00084	CDS	COG2193	90380	90844	+	[P] Bacterioferritin (cytochrome b1)   
+	JAIEIFKM_00085	CDS	COG2193	90872	91345	+	[P] Bacterioferritin (cytochrome b1)   
+56
+	JAIEIFKM_00086	CDS	COG1396	91669	91989	+	[K] Predicted transcriptional regulators   
+	JAIEIFKM_00087	CDS	COG2844	92038	94596	+	[O] UTP:GlnB (protein PII) uridylyltransferase  
+57
+	JAIEIFKM_00088	CDS	COG0516	94737	96200	+	[F] IMP dehydrogenase/GMP reductase   
+58
+	JAIEIFKM_00089	CDS	COG0557	96539	98914	-	[K] Exoribonuclease R    
+59
+	JAIEIFKM_00090	tRNA	NA	99003	99089	+	NA
+	JAIEIFKM_00091	tRNA	NA	99125	99211	+	NA
+	JAIEIFKM_00092	tRNA	NA	99250	99340	+	NA
+60
+	JAIEIFKM_00093	CDS	COG1217	99905	101716	-	[T] Predicted membrane GTPase involved in stress
+61
+	JAIEIFKM_00094	CDS	COG0063	101986	102876	-	[G] Predicted sugar kinase   
+62
+	JAIEIFKM_00095	CDS	COG3658	102941	103597	+	[C] Cytochrome b    
+63
+	JAIEIFKM_00096	CDS	COG0007	104047	105498	+	[H] Uroporphyrinogen-III methylase    
+	JAIEIFKM_00097	CDS	COG0175	105509	106249	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	JAIEIFKM_00098	CDS	COG0175	106283	106495	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	JAIEIFKM_00099	CDS	COG2895	106534	107820	+	[P] GTPases - Sulfate adenylate transferase subunit
+	JAIEIFKM_00100	CDS	COG0369	107817	109631	+	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+	JAIEIFKM_00101	CDS	COG0155	109658	111427	+	[P] Sulfite reductase, beta subunit (hemoprotein) 
+64
+	JAIEIFKM_00102	CDS	COG0129	111599	113458	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+65
+	JAIEIFKM_00103	CDS	COG2843	114104	114670	+	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+66
+	JAIEIFKM_00104	CDS	COG0502	114817	115869	-	[H] Biotin synthase and related enzymes 
+67
+	JAIEIFKM_00105	CDS	COG0773	116076	117452	-	[M] UDP-N-acetylmuramate-alanine ligase    
+	JAIEIFKM_00106	CDS	ROG0685	117514	117819	-	NA
+	JAIEIFKM_00107	CDS	NA	117831	118196	-	NA
+68
+	JAIEIFKM_00108	CDS	NA	118445	118642	-	NA
+	JAIEIFKM_00109	CDS	COG0566	118652	119437	-	[J] rRNA methylases    
+	JAIEIFKM_00110	CDS	COG0037	119488	120798	-	[D] Predicted ATPase of the PP-loop superfamily
+	JAIEIFKM_00111	CDS	COG0825	120866	121825	-	[I] Acetyl-CoA carboxylase alpha subunit  
+69
+	JAIEIFKM_00112	CDS	COG1188	122036	122437	+	[J] Ribosome-associated heat shock protein implicated in
+70
+	JAIEIFKM_00113	CDS	COG2975	122505	122702	-	[S] Uncharacterized protein conserved in bacteria 
+71
+	JAIEIFKM_00114	CDS	NA	122915	123502	+	NA
+72
+	JAIEIFKM_00115	CDS	COG0633	123789	124130	-	[C] Ferredoxin     
+	JAIEIFKM_00116	CDS	COG3779	124186	124944	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00117	CDS	ROG4368	124983	125630	-	NA
+73
+	JAIEIFKM_00118	CDS	COG0443	125706	127568	-	[O] Molecular chaperone    
+74
+	JAIEIFKM_00119	CDS	COG1562	127739	128611	+	[I] Phytoene/squalene synthetase    
+75
+	JAIEIFKM_00120	CDS	NA	128773	128901	+	NA
+76
+	JAIEIFKM_00121	CDS	COG2907	129009	130322	+	[R] Predicted NAD/FAD-binding protein   
+77
+	JAIEIFKM_00122	CDS	COG3967	130406	131125	+	[M] Short-chain dehydrogenase involved in D-alanine esterification
+78
+	JAIEIFKM_00123	CDS	COG1462	131290	131961	+	[M] Uncharacterized protein involved in formation of
+	JAIEIFKM_00124	CDS	COG4259	131971	132339	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00125	CDS	COG4380	132336	132983	+	[S] Uncharacterized protein conserved in bacteria 
+79
+	JAIEIFKM_00126	CDS	COG4178	133425	133769	+	[R] ABC-type uncharacterized transport system, permease and
+	JAIEIFKM_00127	CDS	COG4178	133735	134667	+	[R] ABC-type uncharacterized transport system, permease and
+80
+	JAIEIFKM_00128	CDS	NA	134777	134986	-	NA
+	JAIEIFKM_00129	CDS	NA	134983	135279	-	NA
+	JAIEIFKM_00130	CDS	ROG5293	135258	135863	-	NA
+81
+	JAIEIFKM_00131	CDS	COG2929	135943	136230	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00132	CDS	COG3514	136202	136504	+	[S] Uncharacterized protein conserved in bacteria 
+82
+	JAIEIFKM_00133	CDS	NA	137262	139238	-	NA
+	JAIEIFKM_00134	CDS	COG3778	139249	139809	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00135	CDS	COG3299	139806	140417	-	[S] Uncharacterized homolog of phage Mu protein
+	JAIEIFKM_00136	CDS	COG3299	140417	140860	-	[S] Uncharacterized homolog of phage Mu protein
+	JAIEIFKM_00137	CDS	COG4381	140874	141221	-	[S] Mu-like prophage protein gp46  
+	JAIEIFKM_00138	CDS	COG4384	141321	141989	-	[S] Mu-like prophage protein gp45  
+	JAIEIFKM_00139	CDS	COG4379	141986	143131	-	[R] Mu-like prophage tail protein gpP 
+	JAIEIFKM_00140	CDS	COG4228	143121	144452	-	[R] Mu-like prophage DNA circulation protein 
+	JAIEIFKM_00141	CDS	NA	144452	146623	-	NA
+83
+	JAIEIFKM_00142	CDS	ROG7602	146778	147302	+	NA
+84
+	JAIEIFKM_00143	CDS	NA	147404	147673	-	NA
+	JAIEIFKM_00144	CDS	NA	147613	147978	-	NA
+	JAIEIFKM_00145	CDS	ROG6530	147982	148359	-	NA
+85
+	JAIEIFKM_00146	CDS	COG4386	148424	149833	-	[R] Mu-like prophage tail sheath protein gpL
+	JAIEIFKM_00147	CDS	NA	149836	150033	-	NA
+	JAIEIFKM_00148	CDS	COG5003	150030	150680	-	[R] Mu-like prophage protein gp37  
+	JAIEIFKM_00149	CDS	COG4387	150670	151092	-	[S] Mu-like prophage protein gp36  
+	JAIEIFKM_00150	CDS	ROG7158	151092	151490	-	NA
+86
+	JAIEIFKM_00151	CDS	COG4397	151555	152463	-	[R] Mu-like prophage major head subunit gpT
+	JAIEIFKM_00152	CDS	COG4388	152463	153524	-	[R] Mu-like prophage I protein  
+87
+	JAIEIFKM_00153	CDS	COG5005	153755	154171	-	[R] Mu-like prophage protein gpG  
+	JAIEIFKM_00154	CDS	COG2369	154299	155624	-	[S] Uncharacterized protein, homolog of phage Mu
+	JAIEIFKM_00155	CDS	COG4383	155611	157179	-	[S] Mu-like prophage protein gp29  
+	JAIEIFKM_00156	CDS	ROG3592	157179	158801	-	NA
+88
+	JAIEIFKM_00157	CDS	NA	158813	159325	+	NA
+89
+	JAIEIFKM_00158	tRNA	NA	578	652	-	NA
+	JAIEIFKM_00159	tRNA	NA	670	746	-	NA
+90
+	JAIEIFKM_00160	CDS	COG0497	856	2529	-	[L] ATPase involved in DNA repair 
+91
+	JAIEIFKM_00161	CDS	COG1386	2713	3315	-	[K] Predicted transcriptional regulator containing the HTH
+	JAIEIFKM_00162	CDS	COG1161	3416	4357	-	[R] Predicted GTPases    
+92
+	JAIEIFKM_00163	CDS	COG1660	4438	5292	-	[R] Predicted P-loop-containing kinase   
+	JAIEIFKM_00164	CDS	COG1493	5273	6235	-	[T] Serine kinase of the HPr protein,
+	JAIEIFKM_00165	CDS	COG1762	6237	6686	-	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+93
+	JAIEIFKM_00166	CDS	COG0382	6871	7761	-	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+	JAIEIFKM_00167	CDS	COG3161	7791	8276	-	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+94
+	JAIEIFKM_00168	CDS	NA	8724	9167	-	NA
+95
+	JAIEIFKM_00169	CDS	COG0132	9768	10415	-	[H] Dethiobiotin synthetase    
+	JAIEIFKM_00170	CDS	COG0161	10412	11713	-	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+96
+	JAIEIFKM_00171	CDS	NA	11927	12166	-	NA
+97
+	JAIEIFKM_00172	CDS	COG3030	12426	12911	-	[R] Protein affecting phage T7 exclusion by
+98
+	JAIEIFKM_00173	CDS	NA	13241	13549	-	NA
+	JAIEIFKM_00174	CDS	COG0776	13533	13835	-	[L] Bacterial nucleoid DNA-binding protein  
+	JAIEIFKM_00175	CDS	COG0072	13909	16272	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	JAIEIFKM_00176	CDS	COG1419	16308	16826	-	[N] Flagellar GTP-binding protein   
+	JAIEIFKM_00177	CDS	ROG4307	16833	17897	-	NA
+99
+	JAIEIFKM_00178	CDS	COG0016	18074	19132	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+	JAIEIFKM_00179	CDS	COG0292	19412	19771	-	[J] Ribosomal protein L20   
+	JAIEIFKM_00180	CDS	COG0291	19784	19981	-	[J] Ribosomal protein L35   
+	JAIEIFKM_00181	CDS	COG0290	20128	20532	-	[J] Translation initiation factor 3 (IF-3) 
+	JAIEIFKM_00182	CDS	COG0441	20667	22580	-	[J] Threonyl-tRNA synthetase    
+	JAIEIFKM_00183	tRNA	NA	22634	22710	-	NA
+100
+	JAIEIFKM_00184	CDS	COG0343	22889	24004	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	JAIEIFKM_00185	CDS	COG0276	24084	25094	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	JAIEIFKM_00186	CDS	COG2010	25286	25687	+	[C] Cytochrome c, mono- and diheme variants
+101
+	JAIEIFKM_00187	CDS	COG3263	25750	26040	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+	JAIEIFKM_00188	CDS	COG3263	26193	26513	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+102
+	JAIEIFKM_00189	CDS	NA	26696	26995	-	NA
+103
+	JAIEIFKM_00190	CDS	COG2354	27049	27435	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00191	CDS	COG0815	27468	29042	+	[M] Apolipoprotein N-acyltransferase    
+104
+	JAIEIFKM_00192	CDS	COG0568	29306	30169	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+105
+	JAIEIFKM_00193	CDS	COG1561	30653	31537	+	[S] Uncharacterized stress-induced protein   
+106
+	JAIEIFKM_00194	CDS	COG1714	31621	32187	-	[S] Predicted membrane protein/domain   
+	JAIEIFKM_00195	CDS	COG0392	32212	32631	-	[S] Predicted integral membrane protein  
+107
+	JAIEIFKM_00196	CDS	COG1466	32752	33750	-	[L] DNA polymerase III, delta subunit 
+	JAIEIFKM_00197	CDS	COG2980	33752	34231	-	[M] Rare lipoprotein B   
+	JAIEIFKM_00198	CDS	COG1496	34283	35062	-	[S] Uncharacterized conserved protein   
+108
+	JAIEIFKM_00199	CDS	NA	35361	35552	+	NA
+109
+	JAIEIFKM_00200	CDS	COG0385	35629	36576	+	[R] Predicted Na+-dependent transporter   
+110
+	JAIEIFKM_00201	CDS	COG0564	36729	37853	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+111
+	JAIEIFKM_00202	CDS	COG4105	37885	38655	+	[R] DNA uptake lipoprotein   
+112
+	JAIEIFKM_00203	CDS	COG0658	38713	40995	-	[R] Predicted membrane metal-binding protein  
+113
+	JAIEIFKM_00204	CDS	COG3468	42456	47108	+	[MU] Type V secretory pathway, adhesin AidA
+114
+	JAIEIFKM_00205	CDS	COG0133	47287	48489	-	[E] Tryptophan synthase beta chain  
+115
+	JAIEIFKM_00206	CDS	COG3663	48572	49261	-	[L] G:T/U mismatch-specific DNA glycosylase  
+116
+	JAIEIFKM_00207	CDS	COG0030	49458	50237	+	[J] Dimethyladenosine transferase (rRNA methylation)  
+117
+	JAIEIFKM_00208	CDS	COG1126	50389	51138	+	[E] ABC-type polar amino acid transport system,
+118
+	JAIEIFKM_00209	CDS	ROG5664	51211	51570	+	NA
+	JAIEIFKM_00210	CDS	ROG5135	51575	52021	+	NA
+	JAIEIFKM_00211	CDS	COG0285	52052	53326	+	[H] Folylpolyglutamate synthase    
+	JAIEIFKM_00212	CDS	ROG2101	53339	54337	+	NA
+	JAIEIFKM_00213	CDS	COG1286	54330	54827	+	[R] Uncharacterized membrane protein, required for colicin
+	JAIEIFKM_00214	CDS	COG0034	55035	56579	+	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	JAIEIFKM_00215	CDS	COG0782	56679	57170	+	[K] Transcription elongation factor   
+	JAIEIFKM_00216	CDS	COG0135	57229	57855	+	[E] Phosphoribosylanthranilate isomerase    
+119
+	JAIEIFKM_00217	CDS	COG1159	58560	59573	-	[R] GTPase     
+	JAIEIFKM_00218	CDS	COG0571	59531	60250	-	[K] dsRNA-specific ribonuclease    
+120
+	JAIEIFKM_00219	CDS	COG4859	60417	60740	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00220	CDS	COG0054	60788	61264	+	[H] Riboflavin synthase beta-chain   
+	JAIEIFKM_00221	CDS	COG0781	61342	61767	+	[K] Transcription termination factor   
+121
+	JAIEIFKM_00222	CDS	COG0418	62133	63167	-	[F] Dihydroorotase     
+122
+	JAIEIFKM_00223	CDS	COG0425	63530	63754	-	[O] Predicted redox protein, regulator of disulfide
+123
+	JAIEIFKM_00224	CDS	ROG0846	63863	64474	+	NA
+124
+	JAIEIFKM_00225	CDS	COG0777	64534	65406	-	[I] Acetyl-CoA carboxylase beta subunit  
+	JAIEIFKM_00226	CDS	COG0159	65443	66228	-	[E] Tryptophan synthase alpha chain  
+125
+	JAIEIFKM_00227	tRNA	NA	66531	66623	-	NA
+126
+	JAIEIFKM_00228	CDS	NA	66780	67043	-	NA
+	JAIEIFKM_00229	CDS	ROG1448	66998	67399	-	NA
+	JAIEIFKM_00230	CDS	COG1212	67422	68183	-	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	JAIEIFKM_00231	CDS	COG2835	68180	68362	-	[S] Uncharacterized conserved protein   
+127
+	JAIEIFKM_00232	CDS	COG3184	68431	69018	-	[S] Uncharacterized protein conserved in bacteria 
+128
+	JAIEIFKM_00233	CDS	COG1663	69218	70252	-	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+129
+	JAIEIFKM_00234	CDS	COG0281	70799	72079	-	[C] Malic enzyme    
+130
+	JAIEIFKM_00235	CDS	COG0125	72301	72921	-	[F] Thymidylate kinase    
+	JAIEIFKM_00236	CDS	COG1559	72981	73976	-	[R] Predicted periplasmic solute-binding protein  
+131
+	JAIEIFKM_00237	CDS	COG3023	74060	74632	+	[V] Negative regulator of beta-lactamase expression 
+132
+	JAIEIFKM_00238	CDS	ROG0612	74826	76112	+	NA
+133
+	JAIEIFKM_00239	CDS	COG0272	76260	78785	+	[L] NAD-dependent DNA ligase (contains BRCT domain
+	JAIEIFKM_00240	CDS	COG0635	78842	80017	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+134
+	JAIEIFKM_00241	CDS	COG3637	80602	81126	+	[M] Opacity protein and related surface antigens
+135
+	JAIEIFKM_00242	CDS	COG0251	81262	81651	+	[J] Putative translation initiation inhibitor, yjgF family
+136
+	JAIEIFKM_00243	CDS	ROG0146	81729	82559	+	NA
+	JAIEIFKM_00244	CDS	COG0168	82574	84031	+	[P] Trk-type K+ transport systems, membrane components
+137
+	JAIEIFKM_00245	CDS	NA	84072	84461	-	NA
+138
+	JAIEIFKM_00246	CDS	NA	84609	84998	-	NA
+139
+	JAIEIFKM_00247	CDS	NA	85099	85497	-	NA
+140
+	JAIEIFKM_00248	CDS	NA	85718	86107	-	NA
+141
+	JAIEIFKM_00249	CDS	NA	86433	86675	-	NA
+142
+	JAIEIFKM_00250	CDS	NA	86833	87252	-	NA
+	JAIEIFKM_00251	CDS	ROG1168	87279	89171	-	NA
+143
+	JAIEIFKM_00252	tRNA	NA	89484	89560	-	NA
+144
+	JAIEIFKM_00253	CDS	COG1051	89771	90229	+	[F] ADP-ribose pyrophosphatase    
+	JAIEIFKM_00254	CDS	COG0221	90331	90864	+	[C] Inorganic pyrophosphatase    
+145
+	JAIEIFKM_00255	CDS	ROG2059	90972	91205	+	NA
+	JAIEIFKM_00256	CDS	COG0127	91198	91797	+	[F] Xanthosine triphosphate pyrophosphatase   
+	JAIEIFKM_00257	CDS	COG1210	91825	92694	+	[M] UDP-glucose pyrophosphorylase    
+	JAIEIFKM_00258	CDS	COG0165	92713	94089	+	[E] Argininosuccinate lyase    
+	JAIEIFKM_00259	CDS	ROG5235	94147	94617	+	NA
+146
+	JAIEIFKM_00260	CDS	COG1840	94869	95864	+	[P] ABC-type Fe3+ transport system, periplasmic component
+	JAIEIFKM_00261	CDS	COG1178	95920	97449	+	[P] ABC-type Fe3+ transport system, permease component
+	JAIEIFKM_00262	CDS	COG1118	97470	98528	+	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+147
+	JAIEIFKM_00263	CDS	COG0280	98713	100215	+	[C] Phosphotransacetylase     
+	JAIEIFKM_00264	CDS	COG0118	100346	100984	+	[E] Glutamine amidotransferase    
+	JAIEIFKM_00265	CDS	COG0106	101017	101754	+	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+	JAIEIFKM_00266	CDS	COG0107	101767	102534	+	[E] Imidazoleglycerol-phosphate synthase    
+	JAIEIFKM_00267	CDS	COG0139	102565	102960	+	[E] Phosphoribosyl-AMP cyclohydrolase    
+148
+	JAIEIFKM_00268	CDS	COG4108	103067	104662	+	[J] Peptide chain release factor RF-3 
+149
+	JAIEIFKM_00269	CDS	COG0663	105037	105567	-	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+	JAIEIFKM_00270	CDS	COG0463	105608	106678	-	[M] Glycosyltransferases involved in cell wall biogenesis
+150
+	JAIEIFKM_00271	CDS	COG0687	106810	107946	-	[E] Spermidine/putrescine-binding periplasmic protein   
+151
+	JAIEIFKM_00272	CDS	COG2834	108219	108842	-	[M] Outer membrane lipoprotein-sorting protein  
+152
+	JAIEIFKM_00273	CDS	COG2833	109272	110099	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00274	CDS	COG1230	110145	111110	+	[P] Co/Zn/Cd efflux system component  
+153
+	JAIEIFKM_00275	CDS	COG0546	111171	111833	+	[R] Predicted phosphatases    
+154
+	JAIEIFKM_00276	CDS	COG1806	112072	112893	-	[S] Uncharacterized protein conserved in bacteria 
+155
+	JAIEIFKM_00277	CDS	COG0574	113305	115689	+	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+	JAIEIFKM_00278	CDS	COG1158	115909	117168	+	[K] Transcription termination factor   
+156
+	JAIEIFKM_00279	CDS	COG3039	118044	118439	+	[L] Transposase and inactivated derivatives, IS5 family
+157
+	JAIEIFKM_00280	CDS	NA	552	1202	-	NA
+158
+	JAIEIFKM_00281	CDS	NA	1852	4098	+	NA
+	JAIEIFKM_00282	CDS	COG4771	4095	6926	+	[P] Outer membrane receptor for ferrienterochelin and
+159
+	JAIEIFKM_00283	CDS	COG3039	8807	9712	-	[L] Transposase and inactivated derivatives, IS5 family
+160
+	JAIEIFKM_00284	CDS	COG0568	9859	11787	-	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+	JAIEIFKM_00285	CDS	COG0358	11974	13746	-	[L] DNA primase (bacterial type)  
+	JAIEIFKM_00286	CDS	COG0653	13890	16640	-	[U] Preprotein translocase subunit SecA (ATPase, RNA
+161
+	JAIEIFKM_00287	CDS	ROG1178	16771	17193	+	NA
+162
+	JAIEIFKM_00288	CDS	COG3241	17474	18025	+	[C] Azurin     
+163
+	JAIEIFKM_00289	CDS	ROG1082	18120	18629	+	NA
+	JAIEIFKM_00290	CDS	ROG8476	18663	19283	+	NA
+164
+	JAIEIFKM_00291	CDS	COG0624	19397	20542	+	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+165
+	JAIEIFKM_00292	CDS	COG1881	21282	21806	-	[R] Phospholipid-binding protein    
+166
+	JAIEIFKM_00293	CDS	COG0350	22117	22869	+	[L] Methylated DNA-protein cysteine methyltransferase  
+167
+	JAIEIFKM_00294	tRNA	NA	23060	23135	+	NA
+168
+	JAIEIFKM_00295	CDS	COG0859	23266	24276	+	[M] ADP-heptose:LPS heptosyltransferase    
+169
+	JAIEIFKM_00296	CDS	COG0691	24331	24777	+	[O] tmRNA-binding protein    
+170
+	JAIEIFKM_00297	CDS	NA	25150	25245	+	NA
+	JAIEIFKM_00298	CDS	COG3468	25235	27178	+	[MU] Type V secretory pathway, adhesin AidA
+171
+	JAIEIFKM_00299	CDS	COG0277	27359	28726	-	[C] FAD/FMN-containing dehydrogenases    
+172
+	JAIEIFKM_00300	CDS	COG4851	28836	29102	-	[R] Protein involved in sex pheromone biosynthesis
+173
+	JAIEIFKM_00301	CDS	COG1047	29575	30057	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+174
+	JAIEIFKM_00302	CDS	COG1562	30144	30956	+	[I] Phytoene/squalene synthetase    
+175
+	JAIEIFKM_00303	CDS	ROG0139	31027	31497	-	NA
+176
+	JAIEIFKM_00304	CDS	COG4232	31624	33429	+	[OC] Thiol:disulfide interchange protein   
+177
+	JAIEIFKM_00305	CDS	COG0282	34065	35261	-	[C] Acetate kinase    
+178
+	JAIEIFKM_00306	CDS	NA	35612	35911	+	NA
+	JAIEIFKM_00307	CDS	COG3197	35911	36096	+	[P] Uncharacterized protein, possibly involved in nitrogen
+	JAIEIFKM_00308	CDS	ROG1295	36086	37396	+	NA
+179
+	JAIEIFKM_00309	CDS	COG0847	37527	38288	+	[L] DNA polymerase III, epsilon subunit and
+	JAIEIFKM_00310	CDS	COG1211	38285	38974	+	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	JAIEIFKM_00311	CDS	COG0245	39006	39488	+	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+	JAIEIFKM_00312	CDS	COG0120	39565	40236	+	[G] Ribose 5-phosphate isomerase   
+180
+	JAIEIFKM_00313	CDS	COG1525	40305	40976	+	[L] Micrococcal nuclease (thermonuclease) homologs  
+181
+	JAIEIFKM_00314	CDS	COG0765	41155	41901	+	[E] ABC-type amino acid transport system, permease
+182
+	JAIEIFKM_00315	CDS	COG1368	42663	44081	-	[M] Phosphoglycerol transferase and related proteins, alkaline
+183
+	JAIEIFKM_00316	CDS	COG0018	44616	46334	-	[J] Arginyl-tRNA synthetase    
+	JAIEIFKM_00317	CDS	COG1488	46426	47634	-	[H] Nicotinic acid phosphoribosyltransferase   
+	JAIEIFKM_00318	CDS	COG1354	47675	48529	-	[S] Uncharacterized conserved protein   
+184
+	JAIEIFKM_00319	CDS	NA	48700	49227	-	NA
+185
+	JAIEIFKM_00320	CDS	COG1179	49365	50141	-	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+186
+	JAIEIFKM_00321	CDS	COG0589	50358	50822	+	[T] Universal stress protein UspA and related
+187
+	JAIEIFKM_00322	CDS	COG0689	50904	51632	+	[J] RNase PH    
+188
+	JAIEIFKM_00323	CDS	COG0527	51834	53051	+	[E] Aspartokinases     
+189
+	JAIEIFKM_00324	CDS	NA	54486	57254	-	NA
+190
+	JAIEIFKM_00325	CDS	COG1187	58475	59035	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+191
+	JAIEIFKM_00326	CDS	NA	59164	59355	+	NA
+192
+	JAIEIFKM_00327	CDS	COG2879	59551	59745	-	[S] Uncharacterized small protein   
+	JAIEIFKM_00328	CDS	COG1966	59735	61816	-	[T] Carbon starvation protein, predicted membrane protein
+193
+	JAIEIFKM_00329	CDS	NA	62292	62672	+	NA
+194
+	JAIEIFKM_00330	CDS	COG1012	63327	64760	+	[C] NAD-dependent aldehyde dehydrogenases   
+195
+	JAIEIFKM_00331	CDS	ROG2479	64869	65657	+	NA
+196
+	JAIEIFKM_00332	CDS	COG0861	66025	67581	+	[P] Membrane protein TerC, possibly involved in
+	JAIEIFKM_00333	CDS	COG0496	67598	68344	+	[R] Predicted acid phosphatase   
+197
+	JAIEIFKM_00334	CDS	COG0739	68600	69847	+	[M] Membrane proteins related to metalloendopeptidases 
+198
+	JAIEIFKM_00335	CDS	COG1607	70054	70536	-	[I] Acyl-CoA hydrolase    
+199
+	JAIEIFKM_00336	CDS	NA	70689	70850	-	NA
+200
+	JAIEIFKM_00337	CDS	COG2137	70924	71352	-	[R] Uncharacterized protein conserved in bacteria 
+201
+	JAIEIFKM_00338	CDS	COG0546	71442	72149	-	[R] Predicted phosphatases    
+202
+	JAIEIFKM_00339	CDS	COG0334	72556	73821	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+203
+	JAIEIFKM_00340	CDS	COG5266	73879	74685	-	[P] ABC-type Co2+ transport system, periplasmic component
+204
+	JAIEIFKM_00341	CDS	COG1942	75030	75239	+	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+205
+	JAIEIFKM_00342	CDS	COG0436	75328	76542	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+206
+	JAIEIFKM_00343	CDS	COG0542	76629	79208	-	[O] ATPases with chaperone activity, ATP-binding subunit
+207
+	JAIEIFKM_00344	CDS	COG0180	79469	80479	+	[J] Tryptophanyl-tRNA synthetase    
+	JAIEIFKM_00345	CDS	NA	80485	80826	+	NA
+208
+	JAIEIFKM_00346	CDS	ROG8404	81145	81489	+	NA
+209
+	JAIEIFKM_00347	CDS	COG0248	81698	83206	-	[FP] Exopolyphosphatase     
+210
+	JAIEIFKM_00348	CDS	NA	83323	84054	-	NA
+211
+	JAIEIFKM_00349	CDS	COG2357	361	1629	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00350	CDS	COG0556	1675	3774	-	[L] Helicase subunit of the DNA excision
+212
+	JAIEIFKM_00351	CDS	COG0793	4031	5515	-	[M] Periplasmic protease    
+	JAIEIFKM_00352	CDS	COG4942	5642	7432	-	[D] Membrane-bound metallopeptidase    
+213
+	JAIEIFKM_00353	CDS	COG3045	7760	8320	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00354	CDS	COG1678	8322	8870	+	[K] Putative transcriptional regulator   
+	JAIEIFKM_00355	CDS	COG0816	8863	9318	+	[L] Predicted endonuclease involved in recombination (possible
+214
+	JAIEIFKM_00356	CDS	COG0179	9328	9984	-	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+215
+	JAIEIFKM_00357	CDS	COG0442	10047	11759	-	[J] Prolyl-tRNA synthetase    
+216
+	JAIEIFKM_00358	CDS	COG2609	12453	15116	+	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+	JAIEIFKM_00359	CDS	COG0508	15266	16849	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	JAIEIFKM_00360	CDS	COG1249	16926	18713	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+217
+	JAIEIFKM_00361	CDS	COG5339	19073	20623	-	[S] Uncharacterized protein conserved in bacteria 
+218
+	JAIEIFKM_00362	CDS	COG1629	20747	21217	-	[P] Outer membrane receptor proteins, mostly Fe
+	JAIEIFKM_00363	CDS	COG1629	21298	22842	-	[P] Outer membrane receptor proteins, mostly Fe
+219
+	JAIEIFKM_00364	CDS	COG0483	23112	23897	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+220
+	JAIEIFKM_00365	CDS	COG0565	24141	24956	+	[J] rRNA methylase    
+	JAIEIFKM_00366	CDS	COG3782	25017	25874	+	[S] Uncharacterized protein conserved in bacteria 
+221
+	JAIEIFKM_00367	CDS	NA	26077	26418	+	NA
+222
+	JAIEIFKM_00368	CDS	COG0144	26766	28022	+	[J] tRNA and rRNA cytosine-C5-methylases  
+223
+	JAIEIFKM_00369	CDS	ROG1544	28778	29212	+	NA
+224
+	JAIEIFKM_00370	CDS	COG1012	29260	30603	-	[C] NAD-dependent aldehyde dehydrogenases   
+	JAIEIFKM_00371	CDS	COG2095	30608	31261	-	[U] Multiple antibiotic transporter   
+225
+	JAIEIFKM_00372	CDS	COG0721	31412	31702	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	JAIEIFKM_00373	CDS	COG0154	31765	33210	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	JAIEIFKM_00374	CDS	COG2990	33207	34139	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00375	CDS	COG0064	34182	35612	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+226
+	JAIEIFKM_00376	CDS	COG0543	35704	36714	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+227
+	JAIEIFKM_00377	CDS	COG0259	36843	37475	-	[H] Pyridoxamine-phosphate oxidase    
+228
+	JAIEIFKM_00378	CDS	COG1187	37706	38755	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+229
+	JAIEIFKM_00379	CDS	COG0477	38824	40365	-	[GEPR] Permeases of the major facilitator superfamily
+230
+	JAIEIFKM_00380	CDS	COG1570	40976	42331	-	[L] Exonuclease VII, large subunit  
+231
+	JAIEIFKM_00381	CDS	COG0171	42558	43349	+	[H] NAD synthase    
+232
+	JAIEIFKM_00382	CDS	COG2846	43419	43892	-	[D] Regulator of cell morphogenesis and NO
+233
+	JAIEIFKM_00383	CDS	COG0526	44194	44526	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+234
+	JAIEIFKM_00384	CDS	COG1092	44579	45526	-	[R] Predicted SAM-dependent methyltransferases   
+235
+	JAIEIFKM_00385	CDS	COG0513	45855	47243	+	[LKJ] Superfamily II DNA and RNA helicases
+236
+	JAIEIFKM_00386	CDS	ROG2194	47732	48286	-	NA
+237
+	JAIEIFKM_00387	CDS	NA	48371	48871	-	NA
+238
+	JAIEIFKM_00388	CDS	COG4992	49275	50468	+	[E] Ornithine/acetylornithine aminotransferase    
+239
+	JAIEIFKM_00389	CDS	COG1219	50533	51777	-	[O] ATP-dependent protease Clp, ATPase subunit 
+240
+	JAIEIFKM_00390	CDS	COG0858	51967	52338	+	[J] Ribosome-binding factor A   
+	JAIEIFKM_00391	CDS	COG0130	52350	53294	+	[J] Pseudouridine synthase    
+241
+	JAIEIFKM_00392	CDS	COG2189	53511	53987	+	[L] Adenine specific DNA methylase Mod 
+	JAIEIFKM_00393	CDS	COG2189	54320	55693	+	[L] Adenine specific DNA methylase Mod 
+	JAIEIFKM_00394	CDS	COG3421	55683	58463	+	[S] Uncharacterized protein conserved in bacteria 
+242
+	JAIEIFKM_00395	CDS	COG1304	58607	59779	-	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+243
+	JAIEIFKM_00396	CDS	COG1959	60070	60516	+	[K] Predicted transcriptional regulator   
+	JAIEIFKM_00397	CDS	COG1104	60545	61759	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+244
+	JAIEIFKM_00398	CDS	NA	61826	61954	+	NA
+245
+	JAIEIFKM_00399	CDS	COG0822	62020	62406	+	[C] NifU homolog involved in Fe-S cluster
+	JAIEIFKM_00400	CDS	COG0316	62493	62813	+	[S] Uncharacterized conserved protein   
+246
+	JAIEIFKM_00401	CDS	COG3036	62773	62994	-	[S] Uncharacterized protein conserved in bacteria 
+247
+	JAIEIFKM_00402	CDS	COG1076	63076	63576	+	[O] DnaJ-domain-containing proteins 1   
+	JAIEIFKM_00403	CDS	COG0188	63674	66424	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+248
+	JAIEIFKM_00404	CDS	COG2963	67043	67498	+	[L] Transposase and inactivated derivatives  
+249
+	JAIEIFKM_00405	CDS	ROG2573	68029	68451	-	NA
+250
+	JAIEIFKM_00406	CDS	COG0166	68594	70240	-	[G] Glucose-6-phosphate isomerase    
+	JAIEIFKM_00407	CDS	COG1737	70361	71209	-	[K] Transcriptional regulators    
+	JAIEIFKM_00408	CDS	COG0837	71259	72245	-	[G] Glucokinase     
+	JAIEIFKM_00409	CDS	COG0363	72226	72921	-	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+	JAIEIFKM_00410	CDS	COG0364	73201	74646	-	[G] Glucose-6-phosphate 1-dehydrogenase    
+251
+	JAIEIFKM_00411	CDS	COG0129	75162	76997	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+	JAIEIFKM_00412	CDS	COG0800	77178	77816	+	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+252
+	JAIEIFKM_00413	CDS	COG1063	78073	78678	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+	JAIEIFKM_00414	CDS	COG1063	78836	79018	-	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+253
+	JAIEIFKM_00415	CDS	COG1194	79181	80221	+	[L] A/G-specific DNA glycosylase   
+254
+	JAIEIFKM_00416	CDS	NA	80384	80482	+	NA
+255
+	JAIEIFKM_00417	CDS	NA	80638	81198	+	NA
+256
+	JAIEIFKM_00418	CDS	COG1994	185	823	-	[R] Zn-dependent proteases    
+257
+	JAIEIFKM_00419	CDS	COG0810	1078	1920	+	[M] Periplasmic protein TonB, links inner and
+	JAIEIFKM_00420	CDS	COG0811	1986	2648	+	[U] Biopolymer transport proteins   
+	JAIEIFKM_00421	CDS	COG0848	2669	3103	+	[U] Biopolymer transport protein   
+258
+	JAIEIFKM_00422	CDS	COG3453	3790	4218	-	[S] Uncharacterized protein conserved in bacteria 
+259
+	JAIEIFKM_00423	CDS	COG3975	4283	6031	-	[R] Predicted protease with the C-terminal PDZ
+260
+	JAIEIFKM_00424	CDS	COG3278	6358	7791	+	[O] Cbb3-type cytochrome oxidase, subunit 1 
+	JAIEIFKM_00425	CDS	COG2993	7818	8429	+	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	JAIEIFKM_00426	CDS	COG4736	8434	8604	+	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	JAIEIFKM_00427	CDS	COG2010	8628	9725	+	[C] Cytochrome c, mono- and diheme variants
+261
+	JAIEIFKM_00428	CDS	COG3182	10161	11570	+	[S] Uncharacterized iron-regulated membrane protein  
+262
+	JAIEIFKM_00429	CDS	COG1330	11672	14881	+	[L] Exonuclease V gamma subunit  
+263
+	JAIEIFKM_00430	CDS	COG2978	14949	16517	-	[H] Putative p-aminobenzoyl-glutamate transporter   
+264
+	JAIEIFKM_00431	CDS	NA	16851	17063	+	NA
+265
+	JAIEIFKM_00432	CDS	COG1309	17342	17974	-	[K] Transcriptional regulator    
+266
+	JAIEIFKM_00433	CDS	COG0845	18378	19616	+	[M] Membrane-fusion protein    
+	JAIEIFKM_00434	CDS	COG0841	19628	22831	+	[V] Cation/multidrug efflux pump   
+	JAIEIFKM_00435	CDS	COG1538	22886	24289	+	[MU] Outer membrane protein   
+267
+	JAIEIFKM_00436	CDS	COG1620	24657	24884	-	[C] L-lactate permease    
+268
+	JAIEIFKM_00437	CDS	COG2186	25491	26270	+	[K] Transcriptional regulators    
+269
+	JAIEIFKM_00438	CDS	NA	26456	26713	-	NA
+	JAIEIFKM_00439	CDS	NA	26757	27125	-	NA
+270
+	JAIEIFKM_00440	CDS	COG0334	27273	28607	-	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+271
+	JAIEIFKM_00441	CDS	COG0207	28991	29785	+	[F] Thymidylate synthase    
+	JAIEIFKM_00442	CDS	COG3540	29794	30075	+	[P] Phosphodiesterase/alkaline phosphatase D   
+	JAIEIFKM_00443	CDS	COG1477	30056	30454	+	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+272
+	JAIEIFKM_00444	CDS	COG0733	30626	31963	-	[R] Na+-dependent transporters of the SNF family
+273
+	JAIEIFKM_00445	CDS	COG0438	32350	33414	-	[M] Glycosyltransferase     
+	JAIEIFKM_00446	CDS	COG1215	33415	34173	-	[M] Glycosyltransferases, probably involved in cell wall
+274
+	JAIEIFKM_00447	tRNA	NA	34248	34323	-	NA
+	JAIEIFKM_00448	CDS	COG0304	34377	35513	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	JAIEIFKM_00449	CDS	COG3676	35458	36054	-	[L] Transposase and inactivated derivatives  
+275
+	JAIEIFKM_00450	CDS	ROG0199	36248	36670	+	NA
+276
+	JAIEIFKM_00451	CDS	COG4648	36968	37402	+	[S] Predicted membrane protein   
+	JAIEIFKM_00452	CDS	COG4899	37409	37924	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00453	CDS	COG0043	37944	39422	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+277
+	JAIEIFKM_00454	CDS	COG2982	39487	41601	-	[M] Uncharacterized protein involved in outer membrane
+278
+	JAIEIFKM_00455	CDS	COG2876	41692	42585	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+279
+	JAIEIFKM_00456	CDS	COG0294	42725	43579	+	[H] Dihydropteroate synthase and related enzymes 
+	JAIEIFKM_00457	CDS	COG1109	43709	45043	+	[G] Phosphomannomutase     
+280
+	JAIEIFKM_00458	CDS	COG0586	45232	45915	+	[S] Uncharacterized membrane-associated protein   
+281
+	JAIEIFKM_00459	CDS	COG0252	45982	46974	+	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	JAIEIFKM_00460	CDS	COG0084	46982	47752	+	[L] Mg-dependent DNase    
+	JAIEIFKM_00461	CDS	COG0216	47856	48932	+	[J] Protein chain release factor A 
+282
+	JAIEIFKM_00462	CDS	COG1052	49057	50055	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+283
+	JAIEIFKM_00463	CDS	COG0172	50133	51428	-	[J] Seryl-tRNA synthetase    
+284
+	JAIEIFKM_00464	CDS	COG0494	51510	52118	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	JAIEIFKM_00465	CDS	COG0187	52185	54170	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+285
+	JAIEIFKM_00466	CDS	NA	54244	54648	-	NA
+286
+	JAIEIFKM_00467	CDS	COG0082	54740	55840	-	[E] Chorismate synthase    
+287
+	JAIEIFKM_00468	CDS	COG2265	55983	57071	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	JAIEIFKM_00469	CDS	COG1448	57092	58285	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+288
+	JAIEIFKM_00470	tRNA	NA	58350	58425	-	NA
+289
+	JAIEIFKM_00471	CDS	COG3245	58710	59549	+	[C] Cytochrome c5    
+290
+	JAIEIFKM_00472	CDS	COG1003	60015	62867	-	[E] Glycine cleavage system protein P (pyridoxal-binding),
+	JAIEIFKM_00473	CDS	NA	62898	63257	-	NA
+291
+	JAIEIFKM_00474	CDS	COG2755	63532	64155	-	[E] Lysophospholipase L1 and related esterases 
+	JAIEIFKM_00475	CDS	COG2818	64163	64714	-	[L] 3-methyladenine DNA glycosylase   
+	JAIEIFKM_00476	CDS	COG3009	64718	65236	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00477	CDS	COG3008	65236	66897	-	[R] Paraquat-inducible protein B   
+	JAIEIFKM_00478	CDS	COG2995	66890	68350	-	[S] Uncharacterized paraquat-inducible protein A  
+292
+	JAIEIFKM_00479	CDS	COG3230	68688	69317	+	[P] Heme oxygenase    
+293
+	JAIEIFKM_00480	CDS	NA	69511	70119	+	NA
+294
+	JAIEIFKM_00481	CDS	ROG2025	70650	71126	-	NA
+295
+	JAIEIFKM_00482	CDS	COG0826	71260	72615	-	[O] Collagenase and related proteases  
+296
+	JAIEIFKM_00483	CDS	COG0561	72940	73728	+	[R] Predicted hydrolases of the HAD superfamily
+297
+	JAIEIFKM_00484	CDS	COG0503	73774	74340	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+298
+	JAIEIFKM_00485	CDS	COG0194	74501	75118	+	[F] Guanylate kinase    
+	JAIEIFKM_00486	CDS	COG1758	75177	75383	+	[K] DNA-directed RNA polymerase, subunit K/omega 
+	JAIEIFKM_00487	CDS	COG0317	75476	77632	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+299
+	JAIEIFKM_00488	CDS	NA	77699	78883	-	NA
+300
+	JAIEIFKM_00489	CDS	COG1971	206	772	+	[S] Predicted membrane protein   
+301
+	JAIEIFKM_00490	CDS	COG0339	1216	3252	-	[E] Zn-dependent oligopeptidases    
+302
+	JAIEIFKM_00491	CDS	COG0668	3340	4212	-	[M] Small-conductance mechanosensitive channel   
+303
+	JAIEIFKM_00492	CDS	COG0187	4482	6872	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+304
+	JAIEIFKM_00493	CDS	COG1760	6969	8354	+	[E] L-serine deaminase    
+305
+	JAIEIFKM_00494	CDS	NA	8772	8969	+	NA
+306
+	JAIEIFKM_00495	tRNA	NA	9096	9172	-	NA
+	JAIEIFKM_00496	tRNA	NA	9205	9280	-	NA
+	JAIEIFKM_00497	tRNA	NA	9320	9396	-	NA
+	JAIEIFKM_00498	tRNA	NA	9429	9504	-	NA
+307
+	JAIEIFKM_00499	CDS	COG0475	9574	11550	-	[P] Kef-type K+ transport systems, membrane components
+308
+	JAIEIFKM_00500	CDS	COG2878	11699	12538	+	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+309
+	JAIEIFKM_00501	CDS	COG0057	12739	13770	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+310
+	JAIEIFKM_00502	CDS	COG2360	14024	14749	-	[O] Leu/Phe-tRNA-protein transferase    
+	JAIEIFKM_00503	CDS	COG0735	14819	15445	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+311
+	JAIEIFKM_00504	CDS	COG2913	15472	15849	+	[J] Small protein A (tmRNA-binding)  
+	JAIEIFKM_00505	CDS	COG0289	15859	16668	+	[E] Dihydrodipicolinate reductase    
+312
+	JAIEIFKM_00506	CDS	NA	16932	17342	-	NA
+313
+	JAIEIFKM_00507	CDS	COG0763	17597	18769	-	[M] Lipid A disaccharide synthetase  
+314
+	JAIEIFKM_00508	CDS	COG0564	18817	19809	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+315
+	JAIEIFKM_00509	CDS	COG1530	20304	23060	+	[J] Ribonucleases G and E  
+316
+	JAIEIFKM_00510	CDS	COG1995	24103	25095	-	[H] Pyridoxal phosphate biosynthesis protein  
+317
+	JAIEIFKM_00511	CDS	COG1115	25255	26682	+	[E] Na+/alanine symporter    
+318
+	JAIEIFKM_00512	CDS	COG0445	27007	28902	+	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+	JAIEIFKM_00513	CDS	COG0164	28970	29554	+	[L] Ribonuclease HII    
+319
+	JAIEIFKM_00514	CDS	COG1192	30227	31000	-	[D] ATPases involved in chromosome partitioning 
+	JAIEIFKM_00515	CDS	COG0357	31099	31722	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+320
+	JAIEIFKM_00516	CDS	ROG1318	31818	32120	-	NA
+	JAIEIFKM_00517	CDS	NA	32096	32290	-	NA
+321
+	JAIEIFKM_00518	tRNA	NA	32397	32472	+	NA
+322
+	JAIEIFKM_00519	CDS	COG1289	32546	33673	+	[S] Predicted membrane protein   
+323
+	JAIEIFKM_00520	CDS	COG0233	33853	34410	+	[J] Ribosome recycling factor   
+	JAIEIFKM_00521	CDS	COG0020	34466	35212	+	[I] Undecaprenyl pyrophosphate synthase   
+	JAIEIFKM_00522	CDS	COG0575	35215	36012	+	[I] CDP-diglyceride synthetase    
+	JAIEIFKM_00523	CDS	COG0743	36017	37252	+	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+	JAIEIFKM_00524	CDS	COG0750	37287	38627	+	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	JAIEIFKM_00525	CDS	COG4775	38684	41077	+	[M] Outer membrane protein/protective antigen OMA87 
+	JAIEIFKM_00526	CDS	COG2825	41143	41643	+	[M] Outer membrane protein   
+	JAIEIFKM_00527	CDS	COG1044	41676	42722	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	JAIEIFKM_00528	CDS	COG0764	42756	43205	+	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+324
+	JAIEIFKM_00529	CDS	ROG0283	43370	44092	+	NA
+	JAIEIFKM_00530	CDS	COG1043	44135	44911	+	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+325
+	JAIEIFKM_00531	CDS	COG1115	45268	46659	+	[E] Na+/alanine symporter    
+326
+	JAIEIFKM_00532	CDS	COG0665	46738	47994	+	[E] Glycine/D-amino acid oxidases (deaminating)  
+327
+	JAIEIFKM_00533	CDS	COG0428	48175	48984	+	[P] Predicted divalent heavy-metal cations transporter 
+328
+	JAIEIFKM_00534	CDS	COG0525	49081	51918	+	[J] Valyl-tRNA synthetase    
+329
+	JAIEIFKM_00535	CDS	COG0583	52248	53168	-	[K] Transcriptional regulator    
+	JAIEIFKM_00536	CDS	COG0851	53172	53435	-	[D] Septum formation topological specificity factor 
+	JAIEIFKM_00537	CDS	COG2894	53439	54254	-	[D] Septum formation inhibitor-activating ATPase  
+	JAIEIFKM_00538	CDS	COG0850	54283	54996	-	[D] Septum formation inhibitor   
+	JAIEIFKM_00539	CDS	NA	55037	55192	-	NA
+	JAIEIFKM_00540	CDS	COG0203	55143	55511	-	[J] Ribosomal protein L17   
+	JAIEIFKM_00541	CDS	COG0202	55535	56521	-	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	JAIEIFKM_00542	CDS	COG0522	56547	57167	-	[J] Ribosomal protein S4 and related proteins
+	JAIEIFKM_00543	CDS	COG0099	57602	57964	-	[J] Ribosomal protein S13   
+	JAIEIFKM_00544	CDS	COG0361	58164	58382	-	[J] Translation initiation factor 1 (IF-1) 
+	JAIEIFKM_00545	CDS	COG0201	58387	59511	-	[U] Preprotein translocase subunit SecY  
+330
+	JAIEIFKM_00546	CDS	NA	59936	60103	-	NA
+	JAIEIFKM_00547	CDS	COG1841	60145	60330	-	[J] Ribosomal protein L30/L7E   
+	JAIEIFKM_00548	CDS	COG0098	60323	60841	-	[J] Ribosomal protein S5   
+	JAIEIFKM_00549	CDS	COG0256	60860	61213	-	[J] Ribosomal protein L18   
+	JAIEIFKM_00550	CDS	COG0097	61227	61760	-	[J] Ribosomal protein L6P/L9E   
+	JAIEIFKM_00551	CDS	COG0096	61774	62166	-	[J] Ribosomal protein S8   
+	JAIEIFKM_00552	CDS	COG0199	62182	62487	-	[J] Ribosomal protein S14   
+	JAIEIFKM_00553	CDS	COG0094	62490	63029	-	[J] Ribosomal protein L5   
+	JAIEIFKM_00554	CDS	COG0198	63039	63362	-	[J] Ribosomal protein L24   
+	JAIEIFKM_00555	CDS	COG0093	63374	63742	-	[J] Ribosomal protein L14   
+	JAIEIFKM_00556	CDS	COG0186	63964	64227	-	[J] Ribosomal protein S17   
+	JAIEIFKM_00557	CDS	COG0255	64227	64418	-	[J] Ribosomal protein L29   
+331
+	JAIEIFKM_00558	CDS	NA	64421	64888	+	NA
+332
+	JAIEIFKM_00559	CDS	COG0092	64818	65510	-	[J] Ribosomal protein S3   
+	JAIEIFKM_00560	CDS	COG0091	65520	65849	-	[J] Ribosomal protein L22   
+	JAIEIFKM_00561	CDS	COG0185	65858	66136	-	[J] Ribosomal protein S19   
+	JAIEIFKM_00562	CDS	COG0090	66143	66976	-	[J] Ribosomal protein L2   
+	JAIEIFKM_00563	CDS	COG0089	66982	67296	-	[J] Ribosomal protein L23   
+	JAIEIFKM_00564	CDS	COG0088	67293	67913	-	[J] Ribosomal protein L4   
+	JAIEIFKM_00565	CDS	COG0087	67913	68557	-	[J] Ribosomal protein L3   
+333
+	JAIEIFKM_00566	CDS	COG3039	68743	69036	-	[L] Transposase and inactivated derivatives, IS5 family
+334
+	JAIEIFKM_00567	CDS	COG0051	69246	69557	-	[J] Ribosomal protein S10   
+335
+	JAIEIFKM_00568	CDS	COG0732	369	965	-	[V] Restriction endonuclease S subunits  
+	JAIEIFKM_00569	CDS	COG3943	1131	2141	-	[R] Virulence protein    
+	JAIEIFKM_00570	CDS	COG0286	2138	3682	-	[V] Type I restriction-modification system methyltransferase subunit
+	JAIEIFKM_00571	CDS	COG0451	3755	4759	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+336
+	JAIEIFKM_00572	CDS	COG3440	4888	5919	-	[V] Predicted restriction endonuclease   
+	JAIEIFKM_00573	CDS	COG0270	5921	7156	-	[L] Site-specific DNA methylase   
+	JAIEIFKM_00574	CDS	COG2870	7193	8164	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+337
+	JAIEIFKM_00575	CDS	COG0284	8219	8959	-	[F] Orotidine-5'-phosphate decarboxylase    
+338
+	JAIEIFKM_00576	CDS	COG0563	9485	10132	-	[F] Adenylate kinase and related kinases 
+339
+	JAIEIFKM_00577	CDS	COG0501	10347	11186	+	[O] Zn-dependent protease with chaperone function 
+340
+	JAIEIFKM_00578	CDS	ROG4167	11487	12047	-	NA
+341
+	JAIEIFKM_00579	CDS	ROG7813	12161	12553	-	NA
+342
+	JAIEIFKM_00580	CDS	COG0104	14546	15844	-	[F] Adenylosuccinate synthase    
+	JAIEIFKM_00581	CDS	COG3705	15948	17099	-	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+343
+	JAIEIFKM_00582	CDS	COG0534	17434	18813	+	[V] Na+-driven multidrug efflux pump  
+344
+	JAIEIFKM_00583	CDS	COG0812	18992	20032	+	[M] UDP-N-acetylmuramate dehydrogenase    
+	JAIEIFKM_00584	CDS	COG1309	20050	20694	+	[K] Transcriptional regulator    
+	JAIEIFKM_00585	CDS	COG0451	20749	21516	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	JAIEIFKM_00586	CDS	COG3165	21576	22142	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00587	CDS	COG0061	22162	23052	+	[G] Predicted sugar kinase   
+	JAIEIFKM_00588	CDS	COG1187	23077	23835	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+345
+	JAIEIFKM_00589	CDS	COG0778	23890	24555	-	[C] Nitroreductase     
+346
+	JAIEIFKM_00590	CDS	COG1469	24755	25528	-	[S] Uncharacterized conserved protein   
+347
+	JAIEIFKM_00591	CDS	COG0626	25720	26877	+	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+348
+	JAIEIFKM_00592	CDS	COG0113	26940	27941	-	[H] Delta-aminolevulinic acid dehydratase   
+349
+	JAIEIFKM_00593	CDS	COG1534	28124	28408	-	[J] Predicted RNA-binding protein containing KH domain,
+350
+	JAIEIFKM_00594	CDS	COG0293	28518	29138	+	[J] 23S rRNA methylase   
+	JAIEIFKM_00595	CDS	COG0465	29202	31169	+	[O] ATP-dependent Zn proteases   
+351
+	JAIEIFKM_00596	CDS	COG2867	31384	31821	+	[I] Oligoketide cyclase/lipid transport protein  
+	JAIEIFKM_00597	CDS	COG2914	31814	32092	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00598	CDS	COG0193	32145	32723	+	[J] Peptidyl-tRNA hydrolase    
+	JAIEIFKM_00599	CDS	NA	32784	32990	+	NA
+	JAIEIFKM_00600	CDS	ROG5597	32987	33349	+	NA
+352
+	JAIEIFKM_00601	CDS	COG0471	33580	34995	+	[P] Di- and tricarboxylate transporters  
+353
+	JAIEIFKM_00602	CDS	COG0652	35114	35623	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+354
+	JAIEIFKM_00603	CDS	COG1109	35790	37172	+	[G] Phosphomannomutase     
+355
+	JAIEIFKM_00604	CDS	COG1126	37192	37947	-	[E] ABC-type polar amino acid transport system,
+	JAIEIFKM_00605	CDS	COG0765	37957	38673	-	[E] ABC-type amino acid transport system, permease
+	JAIEIFKM_00606	CDS	COG0834	38663	39487	-	[ET] ABC-type amino acid transport/signal transduction systems,
+356
+	JAIEIFKM_00607	CDS	COG2837	39595	40683	+	[P] Predicted iron-dependent peroxidase   
+357
+	JAIEIFKM_00608	CDS	COG1074	40916	44530	+	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+	JAIEIFKM_00609	CDS	COG0607	44569	44928	+	[P] Rhodanese-related sulfurtransferase    
+358
+	JAIEIFKM_00610	CDS	COG3439	45053	45532	+	[S] Uncharacterized conserved protein   
+359
+	JAIEIFKM_00611	CDS	COG1066	45808	47187	-	[O] Predicted ATP-dependent serine protease  
+	JAIEIFKM_00612	CDS	COG0407	47365	48429	-	[H] Uroporphyrinogen-III decarboxylase    
+360
+	JAIEIFKM_00613	CDS	COG3071	48504	49721	-	[H] Uncharacterized enzyme of heme biosynthesis 
+	JAIEIFKM_00614	CDS	COG2959	49718	51052	-	[H] Uncharacterized enzyme of heme biosynthesis 
+	JAIEIFKM_00615	CDS	COG1587	51067	51828	-	[H] Uroporphyrinogen-III synthase    
+	JAIEIFKM_00616	CDS	ROG6427	51849	52268	-	NA
+361
+	JAIEIFKM_00617	CDS	COG4390	52519	52839	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00618	CDS	COG0035	52862	53488	-	[F] Uracil phosphoribosyltransferase    
+	JAIEIFKM_00619	CDS	NA	53478	53594	-	NA
+	JAIEIFKM_00620	CDS	COG0278	53594	53905	-	[O] Glutaredoxin-related protein    
+362
+	JAIEIFKM_00621	CDS	COG0084	54246	55025	-	[L] Mg-dependent DNase    
+	JAIEIFKM_00622	CDS	COG3215	55030	55380	-	[NU] Tfp pilus assembly protein PilZ 
+	JAIEIFKM_00623	CDS	COG2812	55384	56361	-	[L] DNA polymerase III, gamma/tau subunits 
+	JAIEIFKM_00624	CDS	COG5008	56395	57525	-	[NU] Tfp pilus assembly protein, ATPase PilU
+363
+	JAIEIFKM_00625	CDS	COG2838	188	2413	-	[C] Monomeric isocitrate dehydrogenase   
+364
+	JAIEIFKM_00626	CDS	NA	2847	3962	+	NA
+365
+	JAIEIFKM_00627	CDS	COG3909	4126	4584	-	[C] Cytochrome c556    
+366
+	JAIEIFKM_00628	CDS	COG4221	4703	5524	+	[R] Short-chain alcohol dehydrogenase of unknown specificity
+367
+	JAIEIFKM_00629	CDS	COG1607	5575	6021	-	[I] Acyl-CoA hydrolase    
+368
+	JAIEIFKM_00630	CDS	COG3637	7868	8542	-	[M] Opacity protein and related surface antigens
+369
+	JAIEIFKM_00631	CDS	COG0596	10104	11036	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+370
+	JAIEIFKM_00632	CDS	COG3317	11093	12220	-	[M] Uncharacterized lipoprotein    
+	JAIEIFKM_00633	CDS	COG0329	12298	13173	-	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+371
+	JAIEIFKM_00634	CDS	NA	13211	13465	+	NA
+	JAIEIFKM_00635	CDS	COG2233	13480	14727	+	[F] Xanthine/uracil permeases    
+	JAIEIFKM_00636	CDS	COG2233	14681	14872	+	[F] Xanthine/uracil permeases    
+372
+	JAIEIFKM_00637	CDS	COG0566	14934	15686	-	[J] rRNA methylases    
+373
+	JAIEIFKM_00638	CDS	COG2839	15752	16240	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00639	CDS	COG0590	16245	16964	-	[FJ] Cytosine/adenosine deaminases    
+	JAIEIFKM_00640	CDS	COG0324	16968	17909	-	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+374
+	JAIEIFKM_00641	CDS	NA	18263	18541	+	NA
+	JAIEIFKM_00642	CDS	COG4394	18554	19711	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00643	CDS	COG0231	19754	20314	+	[J] Translation elongation factor P (EF-P)/translation initiation
+375
+	JAIEIFKM_00644	CDS	ROG0077	20364	21200	-	NA
+376
+	JAIEIFKM_00645	CDS	COG0500	21317	21898	-	[QR] SAM-dependent methyltransferases    
+	JAIEIFKM_00646	CDS	COG2021	21895	23034	-	[E] Homoserine acetyltransferase    
+377
+	JAIEIFKM_00647	CDS	COG0053	23184	23384	+	[P] Predicted Co/Zn/Cd cation transporters  
+378
+	JAIEIFKM_00648	CDS	COG0257	23596	23721	-	[J] Ribosomal protein L36   
+	JAIEIFKM_00649	CDS	COG0254	23721	23996	-	[J] Ribosomal protein L31   
+379
+	JAIEIFKM_00650	CDS	COG0685	24196	25074	+	[E] 5,10-methylenetetrahydrofolate reductase    
+	JAIEIFKM_00651	CDS	COG0620	25212	27488	+	[E] Methionine synthase II (cobalamin-independent)  
+380
+	JAIEIFKM_00652	CDS	COG0678	27767	28504	+	[O] Peroxiredoxin     
+381
+	JAIEIFKM_00653	CDS	COG1249	28687	30156	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	JAIEIFKM_00654	CDS	COG2009	30435	30812	+	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	JAIEIFKM_00655	CDS	COG2142	30806	31147	+	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+	JAIEIFKM_00656	CDS	COG1053	31150	32913	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	JAIEIFKM_00657	CDS	COG0479	33034	33741	+	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	JAIEIFKM_00658	CDS	COG2938	33745	33993	+	[S] Uncharacterized conserved protein   
+382
+	JAIEIFKM_00659	CDS	COG0372	34105	35388	+	[C] Citrate synthase    
+	JAIEIFKM_00660	CDS	COG0567	35593	38421	+	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	JAIEIFKM_00661	CDS	COG0508	38521	39702	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	JAIEIFKM_00662	CDS	COG1249	40067	41500	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+383
+	JAIEIFKM_00663	CDS	ROG6018	41595	41882	+	NA
+384
+	JAIEIFKM_00664	CDS	COG0045	41981	43147	+	[C] Succinyl-CoA synthetase, beta subunit  
+	JAIEIFKM_00665	CDS	COG0074	43158	44048	+	[C] Succinyl-CoA synthetase, alpha subunit  
+385
+	JAIEIFKM_00666	CDS	COG1943	44144	44611	-	[L] Transposase and inactivated derivatives  
+386
+	JAIEIFKM_00667	CDS	COG0270	45012	46214	-	[L] Site-specific DNA methylase   
+	JAIEIFKM_00668	CDS	COG3183	46227	47411	-	[V] Predicted restriction endonuclease   
+	JAIEIFKM_00669	CDS	COG0178	47453	50302	-	[L] Excinuclease ATPase subunit   
+387
+	JAIEIFKM_00670	CDS	COG0688	50457	51254	+	[I] Phosphatidylserine decarboxylase    
+388
+	JAIEIFKM_00671	CDS	COG1629	52477	54753	-	[P] Outer membrane receptor proteins, mostly Fe
+389
+	JAIEIFKM_00672	CDS	COG0512	55175	55765	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+	JAIEIFKM_00673	CDS	COG0547	55828	56886	+	[E] Anthranilate phosphoribosyltransferase    
+390
+	JAIEIFKM_00674	CDS	COG1451	260	952	-	[R] Predicted metal-dependent hydrolase   
+391
+	JAIEIFKM_00675	CDS	NA	1060	2253	-	NA
+392
+	JAIEIFKM_00676	CDS	COG1540	2382	3119	-	[R] Uncharacterized proteins, homologs of lactam utilization
+	JAIEIFKM_00677	CDS	COG1984	3106	4035	-	[E] Allophanate hydrolase subunit 2  
+	JAIEIFKM_00678	CDS	COG2049	4032	4679	-	[E] Allophanate hydrolase subunit 1  
+393
+	JAIEIFKM_00679	CDS	COG0210	4863	7070	+	[L] Superfamily I DNA and RNA helicases
+394
+	JAIEIFKM_00680	CDS	ROG4729	7427	7966	+	NA
+395
+	JAIEIFKM_00681	CDS	ROG4749	8495	8854	-	NA
+396
+	JAIEIFKM_00682	CDS	ROG3165	9482	10102	+	NA
+	JAIEIFKM_00683	CDS	COG0421	10092	11576	+	[E] Spermidine synthase    
+397
+	JAIEIFKM_00684	CDS	COG0838	12038	12394	+	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+	JAIEIFKM_00685	CDS	COG0377	12385	12867	+	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	JAIEIFKM_00686	CDS	COG0852	12880	13473	+	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	JAIEIFKM_00687	CDS	COG0649	13463	14719	+	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+	JAIEIFKM_00688	CDS	COG1905	14719	15192	+	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+	JAIEIFKM_00689	CDS	COG1894	15582	16883	+	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	JAIEIFKM_00690	CDS	NA	16883	17320	+	NA
+398
+	JAIEIFKM_00691	CDS	COG1034	17610	19871	+	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+	JAIEIFKM_00692	CDS	COG1005	19874	20950	+	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	JAIEIFKM_00693	CDS	COG1143	21031	21510	+	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	JAIEIFKM_00694	CDS	COG0839	21522	22193	+	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	JAIEIFKM_00695	CDS	COG0713	22190	22495	+	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+399
+	JAIEIFKM_00696	CDS	COG0679	22790	23662	+	[R] Predicted permeases    
+	JAIEIFKM_00697	CDS	COG1009	23663	25687	+	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+400
+	JAIEIFKM_00698	CDS	COG3886	25871	27034	+	[L] Predicted HKD family nuclease  
+401
+	JAIEIFKM_00699	CDS	COG1008	27144	28640	+	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+	JAIEIFKM_00700	CDS	COG1007	28650	30095	+	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+402
+	JAIEIFKM_00701	CDS	ROG0831	30207	30506	+	NA
+403
+	JAIEIFKM_00702	CDS	COG0142	30615	31511	-	[H] Geranylgeranyl pyrophosphate synthase   
+	JAIEIFKM_00703	CDS	COG1722	31495	31719	-	[L] Exonuclease VII small subunit  
+404
+	JAIEIFKM_00704	CDS	COG1162	31966	32889	-	[R] Predicted GTPases    
+	JAIEIFKM_00705	CDS	COG1132	32894	34750	-	[V] ABC-type multidrug transport system, ATPase and
+	JAIEIFKM_00706	CDS	NA	34776	34913	-	NA
+	JAIEIFKM_00707	CDS	COG0632	34913	35497	-	[L] Holliday junction resolvasome, DNA-binding subunit 
+405
+	JAIEIFKM_00708	CDS	COG3212	35579	35905	-	[S] Predicted membrane protein   
+	JAIEIFKM_00709	CDS	COG0797	35967	36686	-	[M] Lipoproteins     
+406
+	JAIEIFKM_00710	CDS	COG0219	36816	37280	-	[J] Predicted rRNA methylase (SpoU class) 
+407
+	JAIEIFKM_00711	CDS	COG1040	37345	37905	-	[R] Predicted amidophosphoribosyltransferases    
+408
+	JAIEIFKM_00712	CDS	COG0596	37976	38812	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	JAIEIFKM_00713	CDS	COG0500	38814	39602	+	[QR] SAM-dependent methyltransferases    
+409
+	JAIEIFKM_00714	CDS	NA	39838	39945	-	NA
+410
+	JAIEIFKM_00715	CDS	ROG6744	40390	40815	+	NA
+411
+	JAIEIFKM_00716	CDS	COG0514	40958	43258	-	[L] Superfamily II DNA helicase  
+412
+	JAIEIFKM_00717	CDS	COG0134	43323	44105	-	[E] Indole-3-glycerol phosphate synthase   
+	JAIEIFKM_00718	CDS	COG0429	44154	45110	-	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+413
+	JAIEIFKM_00719	CDS	COG0728	45243	46781	-	[R] Uncharacterized membrane protein, putative virulence factor
+414
+	JAIEIFKM_00720	CDS	COG1651	46999	47697	+	[O] Protein-disulfide isomerase    
+415
+	JAIEIFKM_00721	CDS	COG3178	47754	48758	-	[R] Predicted phosphotransferase related to Ser/Thr protein
+416
+	JAIEIFKM_00722	CDS	COG1452	48828	51236	+	[M] Organic solvent tolerance protein OstA 
+	JAIEIFKM_00723	CDS	COG0760	51341	52465	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+417
+	JAIEIFKM_00724	CDS	NA	1316	1804	-	NA
+	JAIEIFKM_00725	CDS	COG0388	1794	2606	-	[R] Predicted amidohydrolase    
+418
+	JAIEIFKM_00726	CDS	COG0287	2691	3563	+	[E] Prephenate dehydrogenase    
+419
+	JAIEIFKM_00727	CDS	COG3213	3620	4774	-	[P] Uncharacterized protein involved in response to
+	JAIEIFKM_00728	CDS	ROG1736	4819	5187	-	NA
+420
+	JAIEIFKM_00729	CDS	COG1959	5361	5804	+	[K] Predicted transcriptional regulator   
+421
+	JAIEIFKM_00730	CDS	COG0009	5931	6551	-	[J] Putative translation factor (SUA5)  
+422
+	JAIEIFKM_00731	CDS	COG0282	6909	8108	-	[C] Acetate kinase    
+423
+	JAIEIFKM_00732	CDS	COG2828	8522	9691	-	[S] Uncharacterized protein conserved in bacteria 
+424
+	JAIEIFKM_00733	CDS	COG1048	10494	13100	-	[C] Aconitase A    
+425
+	JAIEIFKM_00734	CDS	COG0730	13178	13966	-	[R] Predicted permeases    
+426
+	JAIEIFKM_00735	CDS	COG0372	14127	15281	-	[C] Citrate synthase    
+	JAIEIFKM_00736	CDS	COG2513	15367	16242	-	[G] PEP phosphonomutase and related enzymes 
+427
+	JAIEIFKM_00737	CDS	COG2252	16868	18178	-	[R] Permeases     
+428
+	JAIEIFKM_00738	CDS	COG0206	18317	19495	-	[D] Cell division GTPase   
+	JAIEIFKM_00739	CDS	COG0849	19614	20858	-	[D] Actin-like ATPase involved in cell division
+	JAIEIFKM_00740	CDS	COG1589	20944	21672	-	[M] Cell division septal protein  
+	JAIEIFKM_00741	CDS	COG1181	21662	22576	-	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	JAIEIFKM_00742	CDS	COG0773	22690	24099	-	[M] UDP-N-acetylmuramate-alanine ligase    
+	JAIEIFKM_00743	CDS	COG0707	24254	25321	-	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	JAIEIFKM_00744	CDS	COG0772	25325	26650	-	[D] Bacterial cell division membrane protein 
+	JAIEIFKM_00745	CDS	COG0771	26776	28113	-	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+429
+	JAIEIFKM_00746	CDS	COG0790	28203	28475	-	[R] FOG: TPR repeat, SEL1 subfamily 
+430
+	JAIEIFKM_00747	CDS	COG0472	28590	29672	-	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+431
+	JAIEIFKM_00748	CDS	NA	29919	30095	-	NA
+	JAIEIFKM_00749	CDS	COG0770	30098	31456	-	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+432
+	JAIEIFKM_00750	CDS	COG2194	31581	32816	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+	JAIEIFKM_00751	CDS	COG2194	32791	33228	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+	JAIEIFKM_00752	CDS	COG0769	33251	34729	-	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	JAIEIFKM_00753	CDS	COG0768	34754	36499	-	[M] Cell division protein FtsI/penicillin-binding protein 2
+	JAIEIFKM_00754	CDS	COG3116	36560	36823	-	[D] Cell division protein   
+	JAIEIFKM_00755	CDS	COG0275	36820	37806	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	JAIEIFKM_00756	CDS	COG2001	37803	38258	-	[S] Uncharacterized protein conserved in bacteria 
+433
+	JAIEIFKM_00757	CDS	COG1565	38606	39754	+	[S] Uncharacterized conserved protein   
+434
+	JAIEIFKM_00758	tRNA	NA	39886	39962	+	NA
+	JAIEIFKM_00759	tRNA	NA	39970	40045	+	NA
+435
+	JAIEIFKM_00760	CDS	COG1968	40327	41148	-	[V] Uncharacterized bacitracin resistance protein  
+	JAIEIFKM_00761	CDS	COG1651	41181	41825	-	[O] Protein-disulfide isomerase    
+	JAIEIFKM_00762	CDS	COG3087	41828	42691	-	[D] Cell division protein   
+436
+	JAIEIFKM_00763	CDS	COG0606	42797	44293	-	[O] Predicted ATPase with chaperone activity 
+	JAIEIFKM_00764	CDS	COG2960	44307	44627	-	[S] Uncharacterized protein conserved in bacteria 
+437
+	JAIEIFKM_00765	CDS	COG0591	45111	46637	+	[ER] Na+/proline symporter    
+438
+	JAIEIFKM_00766	CDS	NA	46888	50493	+	NA
+439
+	JAIEIFKM_00767	CDS	ROG7899	211	693	+	NA
+440
+	JAIEIFKM_00768	CDS	COG2233	745	1980	-	[F] Xanthine/uracil permeases    
+441
+	JAIEIFKM_00769	CDS	COG1674	2179	4617	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+442
+	JAIEIFKM_00770	CDS	COG0544	4826	6136	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+	JAIEIFKM_00771	CDS	COG0740	6232	6846	+	[OU] Protease subunit of ATP-dependent Clp proteases
+443
+	JAIEIFKM_00772	CDS	COG0821	6903	8168	-	[I] Enzyme involved in the deoxyxylulose pathway
+	JAIEIFKM_00773	CDS	COG3063	8184	8945	-	[NU] Tfp pilus assembly protein PilF 
+	JAIEIFKM_00774	CDS	COG0820	8948	10042	-	[R] Predicted Fe-S-cluster redox enzyme  
+	JAIEIFKM_00775	CDS	COG0105	10186	10611	-	[F] Nucleoside diphosphate kinase   
+444
+	JAIEIFKM_00776	CDS	COG1485	10670	11821	-	[R] Predicted ATPase    
+445
+	JAIEIFKM_00777	CDS	COG0627	12212	13039	-	[R] Predicted esterase    
+	JAIEIFKM_00778	CDS	COG1062	13048	14184	-	[C] Zn-dependent alcohol dehydrogenases, class III 
+446
+	JAIEIFKM_00779	CDS	COG0789	14491	14898	+	[K] Predicted transcriptional regulators   
+447
+	JAIEIFKM_00780	CDS	COG0776	15249	15563	-	[L] Bacterial nucleoid DNA-binding protein  
+	JAIEIFKM_00781	CDS	COG0539	15574	17259	-	[J] Ribosomal protein S1   
+	JAIEIFKM_00782	CDS	COG0283	17414	18070	-	[F] Cytidylate kinase    
+448
+	JAIEIFKM_00783	CDS	COG0733	18314	19405	-	[R] Na+-dependent transporters of the SNF family
+449
+	JAIEIFKM_00784	CDS	COG1187	20259	20951	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+450
+	JAIEIFKM_00785	CDS	COG1388	21019	22995	-	[M] FOG: LysM repeat   
+451
+	JAIEIFKM_00786	CDS	COG0500	23174	23839	+	[QR] SAM-dependent methyltransferases    
+	JAIEIFKM_00787	CDS	COG0266	23891	24718	+	[L] Formamidopyrimidine-DNA glycosylase    
+	JAIEIFKM_00788	CDS	COG0204	24806	25573	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+452
+	JAIEIFKM_00789	CDS	COG4430	25885	26211	-	[S] Uncharacterized protein conserved in bacteria 
+453
+	JAIEIFKM_00790	CDS	COG0209	26725	29004	+	[F] Ribonucleotide reductase, alpha subunit  
+	JAIEIFKM_00791	CDS	COG0270	29062	30072	+	[L] Site-specific DNA methylase   
+	JAIEIFKM_00792	CDS	ROG2400	30069	31256	+	NA
+	JAIEIFKM_00793	CDS	COG0208	31296	32450	+	[F] Ribonucleotide reductase, beta subunit  
+454
+	JAIEIFKM_00794	CDS	COG0633	32648	32938	+	[C] Ferredoxin     
+455
+	JAIEIFKM_00795	CDS	COG2919	32979	33257	-	[D] Septum formation initiator   
+	JAIEIFKM_00796	CDS	COG0148	33271	34557	-	[G] Enolase     
+	JAIEIFKM_00797	CDS	ROG0291	34605	35045	-	NA
+	JAIEIFKM_00798	CDS	COG2877	35060	35902	-	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	JAIEIFKM_00799	CDS	COG0853	35924	36307	-	[H] Aspartate 1-decarboxylase    
+	JAIEIFKM_00800	CDS	COG1197	36456	40568	-	[LK] Transcription-repair coupling factor (superfamily II helicase)
+456
+	JAIEIFKM_00801	CDS	ROG4768	40753	42180	+	NA
+457
+	JAIEIFKM_00802	CDS	COG2951	42381	43490	+	[M] Membrane-bound lytic murein transglycosylase B 
+458
+	JAIEIFKM_00803	CDS	COG4389	43903	45909	-	[L] Site-specific recombinase    
+459
+	JAIEIFKM_00804	CDS	COG1292	46198	48225	+	[M] Choline-glycine betaine transporter   
+460
+	JAIEIFKM_00805	CDS	NA	48316	49869	-	NA
+461
+	JAIEIFKM_00806	CDS	COG0057	253	1257	-	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+462
+	JAIEIFKM_00807	CDS	COG0249	1701	4295	+	[L] Mismatch repair ATPase (MutS family) 
+463
+	JAIEIFKM_00808	CDS	COG0454	4418	4909	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	JAIEIFKM_00809	CDS	COG1196	4913	5308	-	[D] Chromosome segregation ATPases   
+	JAIEIFKM_00810	CDS	COG0008	5329	6723	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+464
+	JAIEIFKM_00811	CDS	COG1434	6839	7495	-	[S] Uncharacterized conserved protein   
+	JAIEIFKM_00812	CDS	COG1393	7492	7845	-	[P] Arsenate reductase and related proteins, glutaredoxin
+465
+	JAIEIFKM_00813	CDS	COG0526	7969	8451	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+466
+	JAIEIFKM_00814	CDS	COG2884	8647	9297	+	[D] Predicted ATPase involved in cell division
+	JAIEIFKM_00815	CDS	COG2177	9294	10211	+	[D] Cell division protein   
+467
+	JAIEIFKM_00816	CDS	COG5007	10301	10549	+	[K] Predicted transcriptional regulator, BolA superfamily 
+468
+	JAIEIFKM_00817	CDS	COG0126	10616	11794	-	[G] 3-phosphoglycerate kinase    
+	JAIEIFKM_00818	CDS	COG0766	11875	13128	-	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+469
+	JAIEIFKM_00819	tRNA	NA	13348	13423	-	NA
+470
+	JAIEIFKM_00820	CDS	COG0861	13492	14466	-	[P] Membrane protein TerC, possibly involved in
+	JAIEIFKM_00821	CDS	COG3399	14499	14948	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00822	CDS	COG1519	14989	16260	-	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+471
+	JAIEIFKM_00823	CDS	COG0362	16323	17771	-	[G] 6-phosphogluconate dehydrogenase    
+472
+	JAIEIFKM_00824	CDS	COG0774	18711	19634	-	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+473
+	JAIEIFKM_00825	CDS	COG4969	20373	20747	-	[NU] Tfp pilus assembly protein, major pilin
+	JAIEIFKM_00826	CDS	COG4969	20906	21355	-	[NU] Tfp pilus assembly protein, major pilin
+	JAIEIFKM_00827	CDS	COG4969	21401	21877	-	[NU] Tfp pilus assembly protein, major pilin
+	JAIEIFKM_00828	CDS	COG4969	21874	22239	-	[NU] Tfp pilus assembly protein, major pilin
+	JAIEIFKM_00829	CDS	COG0545	22268	22597	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+474
+	JAIEIFKM_00830	CDS	COG3205	22675	22893	-	[S] Predicted membrane protein   
+475
+	JAIEIFKM_00831	CDS	COG1052	23015	23968	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+476
+	JAIEIFKM_00832	CDS	COG0143	24043	26100	-	[J] Methionyl-tRNA synthetase    
+	JAIEIFKM_00833	CDS	COG0449	26215	28053	-	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+477
+	JAIEIFKM_00834	CDS	ROG1231	28335	28853	+	NA
+478
+	JAIEIFKM_00835	CDS	COG2821	29271	30596	-	[M] Membrane-bound lytic murein transglycosylase  
+479
+	JAIEIFKM_00836	CDS	COG0672	30808	31647	+	[P] High-affinity Fe2+/Pb2+ permease   
+	JAIEIFKM_00837	CDS	COG2822	31644	32810	+	[P] Predicted periplasmic lipoprotein involved in iron
+	JAIEIFKM_00838	CDS	COG2837	33074	34339	+	[P] Predicted iron-dependent peroxidase   
+480
+	JAIEIFKM_00839	CDS	COG2824	34411	34740	-	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+	JAIEIFKM_00840	CDS	COG1207	34817	36232	-	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+	JAIEIFKM_00841	CDS	COG4851	36242	36514	-	[R] Protein involved in sex pheromone biosynthesis
+	JAIEIFKM_00842	CDS	COG1011	36490	37221	-	[R] Predicted hydrolase (HAD superfamily)  
+481
+	JAIEIFKM_00843	CDS	COG4143	37280	38281	+	[H] ABC-type thiamine transport system, periplasmic component
+482
+	JAIEIFKM_00844	CDS	COG0668	38375	39223	+	[M] Small-conductance mechanosensitive channel   
+	JAIEIFKM_00845	CDS	COG1546	39249	39734	+	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+483
+	JAIEIFKM_00846	CDS	COG0229	39836	41404	-	[O] Conserved domain frequently associated with peptide
+484
+	JAIEIFKM_00847	CDS	NA	41550	42815	+	NA
+485
+	JAIEIFKM_00848	CDS	COG3012	704	979	+	[S] Uncharacterized protein conserved in bacteria 
+486
+	JAIEIFKM_00849	CDS	COG0483	1198	1992	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+487
+	JAIEIFKM_00850	CDS	COG1385	2201	2926	+	[S] Uncharacterized protein conserved in bacteria 
+488
+	JAIEIFKM_00851	CDS	COG3306	5279	6121	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	JAIEIFKM_00852	CDS	NA	6163	6258	-	NA
+	JAIEIFKM_00853	CDS	COG3306	6270	7097	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	JAIEIFKM_00854	CDS	COG1215	7139	8185	-	[M] Glycosyltransferases, probably involved in cell wall
+	JAIEIFKM_00855	CDS	COG0751	8202	10265	-	[J] Glycyl-tRNA synthetase, beta subunit  
+	JAIEIFKM_00856	CDS	COG3171	10286	10696	-	[S] Uncharacterized protein conserved in bacteria 
+489
+	JAIEIFKM_00857	CDS	COG0752	10773	11678	-	[J] Glycyl-tRNA synthetase, alpha subunit  
+490
+	JAIEIFKM_00858	CDS	COG0355	12083	12505	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	JAIEIFKM_00859	CDS	COG0055	12516	13913	-	[C] F0F1-type ATP synthase, beta subunit 
+	JAIEIFKM_00860	CDS	COG0224	13951	14826	-	[C] F0F1-type ATP synthase, gamma subunit 
+	JAIEIFKM_00861	CDS	COG0056	14851	16398	-	[C] F0F1-type ATP synthase, alpha subunit 
+	JAIEIFKM_00862	CDS	COG0712	16409	16942	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	JAIEIFKM_00863	CDS	COG0711	16947	17417	-	[C] F0F1-type ATP synthase, subunit b 
+	JAIEIFKM_00864	CDS	COG0636	17488	17724	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	JAIEIFKM_00865	CDS	COG0356	17781	18647	-	[C] F0F1-type ATP synthase, subunit a 
+	JAIEIFKM_00866	CDS	COG3312	18637	18990	-	[C] F0F1-type ATP synthase, subunit I 
+491
+	JAIEIFKM_00867	CDS	COG2913	19358	19696	-	[J] Small protein A (tmRNA-binding)  
+492
+	JAIEIFKM_00868	CDS	COG1475	19832	20692	-	[K] Predicted transcriptional regulators   
+493
+	JAIEIFKM_00869	CDS	COG0163	20850	21419	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+494
+	JAIEIFKM_00870	CDS	COG1464	21481	22344	-	[P] ABC-type metal ion transport system, periplasmic
+	JAIEIFKM_00871	CDS	COG2011	22503	23189	-	[P] ABC-type metal ion transport system, permease
+	JAIEIFKM_00872	CDS	COG1135	23191	23928	-	[P] ABC-type metal ion transport system, ATPase
+495
+	JAIEIFKM_00873	CDS	COG0741	24459	26306	+	[M] Soluble lytic murein transglycosylase and related
+496
+	JAIEIFKM_00874	CDS	COG0828	26595	26807	+	[J] Ribosomal protein S21   
+	JAIEIFKM_00875	CDS	COG1610	26939	27385	+	[S] Uncharacterized conserved protein   
+497
+	JAIEIFKM_00876	CDS	COG2969	27584	27976	-	[R] Stringent starvation protein B  
+	JAIEIFKM_00877	CDS	COG0625	28048	28653	-	[O] Glutathione S-transferase    
+498
+	JAIEIFKM_00878	CDS	COG1807	28770	30431	-	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+499
+	JAIEIFKM_00879	CDS	COG4300	30577	31206	-	[P] Predicted permease, cadmium resistance protein 
+500
+	JAIEIFKM_00880	CDS	COG0254	31522	31737	-	[J] Ribosomal protein L31   
+501
+	JAIEIFKM_00881	CDS	COG1208	31975	32355	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+502
+	JAIEIFKM_00882	CDS	COG1999	32572	33060	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+	JAIEIFKM_00883	CDS	COG0824	33057	33440	-	[R] Predicted thioesterase    
+	JAIEIFKM_00884	CDS	ROG5664	33440	33802	-	NA
+503
+	JAIEIFKM_00885	CDS	COG2853	33927	34754	-	[M] Surface lipoprotein    
+	JAIEIFKM_00886	CDS	COG3113	34751	35029	-	[R] Predicted NTP binding protein (contains STAS
+	JAIEIFKM_00887	CDS	COG2854	35080	35670	-	[Q] ABC-type transport system involved in resistance
+	JAIEIFKM_00888	CDS	COG1463	35707	36201	-	[Q] ABC-type transport system involved in resistance
+	JAIEIFKM_00889	CDS	COG0767	36252	37028	-	[Q] ABC-type transport system involved in resistance
+	JAIEIFKM_00890	CDS	COG1127	37076	37876	-	[Q] ABC-type transport system involved in resistance
+504
+	JAIEIFKM_00891	CDS	COG2207	38049	38966	+	[K] AraC-type DNA-binding domain-containing proteins  
+505
+	JAIEIFKM_00892	CDS	NA	39175	39564	+	NA
+506
+	JAIEIFKM_00893	CDS	NA	39808	41250	+	NA
+507
+	JAIEIFKM_00894	CDS	NA	1018	1296	+	NA
+508
+	JAIEIFKM_00895	CDS	NA	1579	2037	+	NA
+509
+	JAIEIFKM_00896	CDS	NA	2003	2233	-	NA
+510
+	JAIEIFKM_00897	CDS	COG2274	2249	2530	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+511
+	JAIEIFKM_00898	CDS	COG1295	2551	3807	-	[S] Predicted membrane protein   
+512
+	JAIEIFKM_00899	CDS	COG0603	4322	4981	+	[R] Predicted PP-loop superfamily ATPase  
+	JAIEIFKM_00900	CDS	ROG0407	5009	5527	+	NA
+	JAIEIFKM_00901	CDS	COG0720	5534	5956	+	[H] 6-pyruvoyl-tetrahydropterin synthase    
+513
+	JAIEIFKM_00902	CDS	NA	6065	6421	+	NA
+514
+	JAIEIFKM_00903	CDS	COG3759	6671	7042	+	[S] Predicted membrane protein   
+	JAIEIFKM_00904	CDS	COG0602	7039	7677	+	[O] Organic radical activating enzymes  
+515
+	JAIEIFKM_00905	tRNA	NA	8012	8088	-	NA
+516
+	JAIEIFKM_00906	CDS	COG1472	8169	9254	-	[G] Beta-glucosidase-related glycosidases    
+	JAIEIFKM_00907	CDS	COG1757	9311	11002	-	[C] Na+/H+ antiporter    
+	JAIEIFKM_00908	CDS	COG0265	11033	12532	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+517
+	JAIEIFKM_00909	CDS	COG0177	12670	13299	-	[L] Predicted EndoIII-related endonuclease   
+	JAIEIFKM_00910	CDS	COG1238	13345	13758	-	[S] Predicted membrane protein   
+518
+	JAIEIFKM_00911	CDS	COG0738	14348	15571	+	[G] Fucose permease    
+519
+	JAIEIFKM_00912	CDS	COG1757	15862	17241	+	[C] Na+/H+ antiporter    
+520
+	JAIEIFKM_00913	CDS	COG4535	17370	18194	-	[P] Putative Mg2+ and Co2+ transporter CorC
+	JAIEIFKM_00914	CDS	COG0319	18196	18711	-	[R] Predicted metal-dependent hydrolase   
+521
+	JAIEIFKM_00915	CDS	COG0181	18830	19765	+	[H] Porphobilinogen deaminase    
+522
+	JAIEIFKM_00916	CDS	COG1448	20169	21362	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+523
+	JAIEIFKM_00917	CDS	ROG5235	21444	21941	-	NA
+524
+	JAIEIFKM_00918	CDS	COG4391	22057	22260	+	[S] Uncharacterized protein conserved in bacteria 
+525
+	JAIEIFKM_00919	CDS	COG1620	22428	24014	-	[C] L-lactate permease    
+526
+	JAIEIFKM_00920	CDS	COG2908	24270	25004	-	[S] Uncharacterized protein conserved in bacteria 
+527
+	JAIEIFKM_00921	CDS	COG1196	25254	28739	+	[D] Chromosome segregation ATPases   
+528
+	JAIEIFKM_00922	CDS	COG1064	29090	30136	-	[R] Zn-dependent alcohol dehydrogenases   
+529
+	JAIEIFKM_00923	CDS	COG4968	30419	30808	-	[NU] Tfp pilus assembly protein PilE 
+530
+	JAIEIFKM_00924	CDS	COG0845	31034	32212	+	[M] Membrane-fusion protein    
+	JAIEIFKM_00925	CDS	COG0577	32278	34212	+	[V] ABC-type antimicrobial peptide transport system, permease
+531
+	JAIEIFKM_00926	CDS	COG1651	34625	35407	-	[O] Protein-disulfide isomerase    
+532
+	JAIEIFKM_00927	CDS	COG1198	35546	37735	+	[L] Primosomal protein N' (replication factor Y)
+533
+	JAIEIFKM_00928	CDS	NA	37781	38854	-	NA
+534
+	JAIEIFKM_00929	CDS	COG3039	1281	1565	-	[L] Transposase and inactivated derivatives, IS5 family
+535
+	JAIEIFKM_00930	CDS	COG0504	1814	3448	-	[F] CTP synthase (UTP-ammonia lyase)  
+536
+	JAIEIFKM_00931	CDS	COG0318	3560	5230	-	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+537
+	JAIEIFKM_00932	CDS	COG0482	5301	6404	-	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+538
+	JAIEIFKM_00933	CDS	COG2847	6530	7003	-	[S] Uncharacterized protein conserved in bacteria 
+539
+	JAIEIFKM_00934	CDS	COG0818	7296	7679	-	[M] Diacylglycerol kinase    
+540
+	JAIEIFKM_00935	CDS	COG0189	7991	8947	-	[HJ] Glutathione synthase/Ribosomal protein S6 modification enzyme
+541
+	JAIEIFKM_00936	CDS	COG0008	9040	10761	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+542
+	JAIEIFKM_00937	CDS	COG1349	10840	11613	-	[KG] Transcriptional regulators of sugar metabolism 
+	JAIEIFKM_00938	CDS	COG2431	11656	12042	-	[S] Predicted membrane protein   
+	JAIEIFKM_00939	CDS	COG2431	12046	12558	-	[S] Predicted membrane protein   
+543
+	JAIEIFKM_00940	CDS	COG1802	12707	13423	-	[K] Transcriptional regulators    
+544
+	JAIEIFKM_00941	CDS	COG1765	13992	14414	-	[O] Predicted redox protein, regulator of disulfide
+545
+	JAIEIFKM_00942	CDS	ROG1438	14532	15200	-	NA
+	JAIEIFKM_00943	CDS	COG0299	15219	15941	-	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	JAIEIFKM_00944	CDS	COG0545	15952	16758	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+546
+	JAIEIFKM_00945	CDS	COG2927	17017	17457	-	[L] DNA polymerase III, chi subunit 
+	JAIEIFKM_00946	CDS	COG0260	17520	18926	-	[E] Leucyl aminopeptidase    
+547
+	JAIEIFKM_00947	CDS	COG0795	19096	20211	+	[R] Predicted permeases    
+	JAIEIFKM_00948	CDS	COG0795	20208	21278	+	[R] Predicted permeases    
+548
+	JAIEIFKM_00949	CDS	COG1049	21588	24173	+	[C] Aconitase B    
+549
+	JAIEIFKM_00950	CDS	COG0078	24315	25310	+	[E] Ornithine carbamoyltransferase    
+550
+	JAIEIFKM_00951	CDS	COG0059	25534	26547	-	[EH] Ketol-acid reductoisomerase    
+551
+	JAIEIFKM_00952	CDS	COG1359	26627	26920	-	[S] Uncharacterized conserved protein   
+552
+	JAIEIFKM_00953	CDS	COG0440	26987	27478	-	[E] Acetolactate synthase, small (regulatory) subunit 
+	JAIEIFKM_00954	CDS	COG0028	27489	29216	-	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+553
+	JAIEIFKM_00955	tRNA	NA	29925	30009	-	NA
+554
+	JAIEIFKM_00956	CDS	COG1999	30285	30938	+	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+555
+	JAIEIFKM_00957	CDS	COG0040	31017	31670	+	[E] ATP phosphoribosyltransferase    
+556
+	JAIEIFKM_00958	CDS	COG3680	31774	32673	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_00959	CDS	COG0141	32670	33959	+	[E] Histidinol dehydrogenase    
+	JAIEIFKM_00960	CDS	COG0079	34005	35102	+	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	JAIEIFKM_00961	CDS	COG0131	35099	36016	+	[E] Imidazoleglycerol-phosphate dehydratase    
+557
+	JAIEIFKM_00962	CDS	COG2084	36111	36980	+	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+558
+	JAIEIFKM_00963	CDS	COG1846	37258	37620	+	[K] Transcriptional regulators    
+559
+	JAIEIFKM_00964	CDS	COG4773	88	2265	-	[P] Outer membrane receptor for ferric coprogen
+560
+	JAIEIFKM_00965	CDS	ROG1609	2379	2702	-	NA
+561
+	JAIEIFKM_00966	CDS	COG4607	4207	5172	-	[P] ABC-type enterochelin transport system, periplasmic component
+562
+	JAIEIFKM_00967	CDS	COG2207	5408	6364	+	[K] AraC-type DNA-binding domain-containing proteins  
+563
+	JAIEIFKM_00968	CDS	COG1505	6478	8493	-	[E] Serine proteases of the peptidase family
+564
+	JAIEIFKM_00969	CDS	COG0548	8589	9899	-	[E] Acetylglutamate kinase    
+	JAIEIFKM_00970	CDS	ROG0195	9896	10330	-	NA
+565
+	JAIEIFKM_00971	CDS	COG0461	10404	11045	-	[F] Orotate phosphoribosyltransferase    
+	JAIEIFKM_00972	CDS	COG1573	11107	11844	-	[L] Uracil-DNA glycosylase    
+	JAIEIFKM_00973	CDS	COG0456	11838	12278	-	[R] Acetyltransferases     
+	JAIEIFKM_00974	CDS	COG1214	12275	12952	-	[O] Inactive homolog of metal-dependent proteases, putative
+566
+	JAIEIFKM_00975	CDS	ROG6301	13091	13912	-	NA
+567
+	JAIEIFKM_00976	CDS	COG0191	14070	15134	-	[G] Fructose/tagatose bisphosphate aldolase   
+568
+	JAIEIFKM_00977	CDS	COG4973	15328	16245	+	[L] Site-specific recombinase XerC   
+569
+	JAIEIFKM_00978	CDS	COG1154	16330	18243	+	[HI] Deoxyxylulose-5-phosphate synthase    
+570
+	JAIEIFKM_00979	CDS	COG0621	18328	19656	-	[J] 2-methylthioadenine synthetase    
+571
+	JAIEIFKM_00980	CDS	ROG3741	20042	20425	+	NA
+572
+	JAIEIFKM_00981	CDS	COG0001	20489	21772	+	[H] Glutamate-1-semialdehyde aminotransferase    
+573
+	JAIEIFKM_00982	CDS	ROG1617	21988	22260	-	NA
+	JAIEIFKM_00983	CDS	COG1949	22271	22834	-	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+	JAIEIFKM_00984	CDS	COG2264	22852	23739	-	[J] Ribosomal protein L11 methylase  
+574
+	JAIEIFKM_00985	CDS	COG0439	24000	25361	-	[I] Biotin carboxylase    
+	JAIEIFKM_00986	CDS	COG0511	25475	25927	-	[I] Biotin carboxyl carrier protein  
+575
+	JAIEIFKM_00987	CDS	COG0809	26283	27323	+	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+576
+	JAIEIFKM_00988	CDS	COG2249	27797	28375	-	[R] Putative NADPH-quinone reductase (modulator of drug
+577
+	JAIEIFKM_00989	CDS	COG0583	28614	29513	+	[K] Transcriptional regulator    
+578
+	JAIEIFKM_00990	CDS	COG0458	29741	32956	-	[EF] Carbamoylphosphate synthase large subunit (split gene
+	JAIEIFKM_00991	CDS	COG4915	32996	33607	-	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+579
+	JAIEIFKM_00992	CDS	COG2852	34455	34844	-	[S] Uncharacterized protein conserved in bacteria 
+580
+	JAIEIFKM_00993	CDS	COG0346	35405	35542	-	[E] Lactoylglutathione lyase and related lyases 
+	JAIEIFKM_00994	CDS	COG0505	35588	36721	-	[EF] Carbamoylphosphate synthase small subunit  
+581
+	JAIEIFKM_00995	CDS	COG0569	443	1855	-	[P] K+ transport systems, NAD-binding component 
+582
+	JAIEIFKM_00996	CDS	COG1951	1953	3476	-	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+583
+	JAIEIFKM_00997	CDS	COG0834	3783	4589	-	[ET] ABC-type amino acid transport/signal transduction systems,
+	JAIEIFKM_00998	CDS	ROG2396	4641	4892	-	NA
+584
+	JAIEIFKM_00999	CDS	NA	4992	5753	+	NA
+585
+	JAIEIFKM_01000	CDS	COG0626	6052	7221	+	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+586
+	JAIEIFKM_01001	CDS	ROG0736	7316	7522	+	NA
+587
+	JAIEIFKM_01002	CDS	ROG2973	8655	9407	-	NA
+588
+	JAIEIFKM_01003	CDS	COG2204	9511	9978	-	[T] Response regulator containing CheY-like receiver, AAA-type
+	JAIEIFKM_01004	CDS	ROG6755	10030	11547	-	NA
+	JAIEIFKM_01005	CDS	COG0188	11567	13864	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+589
+	JAIEIFKM_01006	CDS	COG0588	14166	14849	+	[G] Phosphoglycerate mutase 1   
+590
+	JAIEIFKM_01007	CDS	COG1002	15662	17644	-	[V] Type II restriction enzyme, methylase subunits
+	JAIEIFKM_01008	CDS	COG1002	17768	18661	-	[V] Type II restriction enzyme, methylase subunits
+591
+	JAIEIFKM_01009	CDS	ROG7666	18968	19699	-	NA
+	JAIEIFKM_01010	CDS	COG0013	19761	22424	-	[J] Alanyl-tRNA synthetase    
+592
+	JAIEIFKM_01011	CDS	COG0687	22596	23726	+	[E] Spermidine/putrescine-binding periplasmic protein   
+593
+	JAIEIFKM_01012	CDS	COG0697	23767	24630	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+594
+	JAIEIFKM_01013	CDS	NA	24816	25304	+	NA
+595
+	JAIEIFKM_01014	CDS	COG2207	25366	26271	-	[K] AraC-type DNA-binding domain-containing proteins  
+596
+	JAIEIFKM_01015	CDS	COG0599	26400	26735	+	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+597
+	JAIEIFKM_01016	CDS	NA	27067	27369	+	NA
+598
+	JAIEIFKM_01017	CDS	COG0558	27596	28159	+	[I] Phosphatidylglycerophosphate synthase    
+599
+	JAIEIFKM_01018	tRNA	NA	28239	28314	+	NA
+	JAIEIFKM_01019	tRNA	NA	28340	28415	+	NA
+	JAIEIFKM_01020	tRNA	NA	28439	28514	+	NA
+	JAIEIFKM_01021	tRNA	NA	28536	28611	+	NA
+	JAIEIFKM_01022	tRNA	NA	28637	28710	+	NA
+	JAIEIFKM_01023	tRNA	NA	28813	28902	+	NA
+	JAIEIFKM_01024	CDS	COG0616	28958	30058	+	[OU] Periplasmic serine proteases (ClpP class) 
+600
+	JAIEIFKM_01025	CDS	ROG8102	30109	30570	-	NA
+	JAIEIFKM_01026	CDS	ROG8102	30792	31079	-	NA
+601
+	JAIEIFKM_01027	CDS	NA	110	928	+	NA
+602
+	JAIEIFKM_01028	CDS	COG0586	1092	1736	+	[S] Uncharacterized membrane-associated protein   
+	JAIEIFKM_01029	CDS	COG0488	1755	3665	+	[R] ATPase components of ABC transporters with
+	JAIEIFKM_01030	CDS	NA	3686	4051	+	NA
+603
+	JAIEIFKM_01031	CDS	COG0147	4163	5638	+	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	JAIEIFKM_01032	CDS	ROG7587	5635	6180	+	NA
+	JAIEIFKM_01033	CDS	COG0026	6177	7313	+	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+	JAIEIFKM_01034	CDS	COG0454	7360	7842	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+604
+	JAIEIFKM_01035	CDS	COG1613	7948	9003	+	[P] ABC-type sulfate transport system, periplasmic component
+	JAIEIFKM_01036	CDS	NA	9000	9194	+	NA
+605
+	JAIEIFKM_01037	CDS	COG2840	9585	10190	+	[S] Uncharacterized protein conserved in bacteria 
+606
+	JAIEIFKM_01039	CDS	COG2801	10932	11681	-	[L] Transposase and inactivated derivatives  
+	JAIEIFKM_01040	CDS	NA	11686	12096	-	NA
+	JAIEIFKM_01041	CDS	ROG6087	12093	12425	-	NA
+607
+	JAIEIFKM_01042	CDS	COG3926	12534	13037	-	[R] Putative secretion activating protein  
+608
+	JAIEIFKM_01043	CDS	COG0306	13127	13609	-	[P] Phosphate/sulphate permeases    
+	JAIEIFKM_01044	CDS	NA	13606	14574	-	NA
+609
+	JAIEIFKM_01045	CDS	NA	14808	15053	-	NA
+	JAIEIFKM_01046	CDS	COG1476	15082	15459	-	[K] Predicted transcriptional regulators   
+610
+	JAIEIFKM_01047	CDS	COG3177	15764	16054	+	[S] Uncharacterized conserved protein   
+	JAIEIFKM_01048	CDS	ROG3037	16099	16974	+	NA
+611
+	JAIEIFKM_01049	CDS	COG0582	17286	17858	+	[L] Integrase     
+612
+	JAIEIFKM_01050	CDS	ROG0535	17938	18141	+	NA
+	JAIEIFKM_01051	CDS	NA	18188	18469	+	NA
+	JAIEIFKM_01052	CDS	COG1476	18481	18693	+	[K] Predicted transcriptional regulators   
+613
+	JAIEIFKM_01053	CDS	COG3039	18924	19883	-	[L] Transposase and inactivated derivatives, IS5 family
+614
+	JAIEIFKM_01054	CDS	ROG0799	20070	20252	+	NA
+615
+	JAIEIFKM_01055	CDS	COG0042	20314	21315	-	[J] tRNA-dihydrouridine synthase    
+616
+	JAIEIFKM_01056	CDS	COG0247	21392	25225	-	[C] Fe-S oxidoreductase    
+617
+	JAIEIFKM_01057	CDS	COG0277	25750	27441	+	[C] FAD/FMN-containing dehydrogenases    
+618
+	JAIEIFKM_01058	CDS	ROG0608	27736	28107	+	NA
+619
+	JAIEIFKM_01059	CDS	COG2128	28262	28810	+	[S] Uncharacterized conserved protein   
+620
+	JAIEIFKM_01060	CDS	COG1960	28944	30035	+	[I] Acyl-CoA dehydrogenases    
+621
+	JAIEIFKM_01061	CDS	NA	30509	30679	+	NA
+622
+	JAIEIFKM_01062	CDS	COG0004	446	1750	+	[P] Ammonia permease    
+623
+	JAIEIFKM_01063	CDS	COG0665	1995	3290	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+	JAIEIFKM_01064	CDS	COG1177	3416	4303	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	JAIEIFKM_01065	CDS	COG1176	4303	5268	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	JAIEIFKM_01066	CDS	COG3842	5284	6408	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+624
+	JAIEIFKM_01067	CDS	COG0184	6790	7059	-	[J] Ribosomal protein S15P/S13E   
+625
+	JAIEIFKM_01068	CDS	COG0341	7282	8217	-	[U] Preprotein translocase subunit SecF  
+	JAIEIFKM_01069	CDS	COG0342	8221	10074	-	[U] Preprotein translocase subunit SecD  
+	JAIEIFKM_01070	CDS	COG1862	10286	10552	-	[U] Preprotein translocase subunit YajC  
+626
+	JAIEIFKM_01071	CDS	COG0123	10632	11789	+	[BQ] Deacetylases, including yeast histone deacetylase and
+627
+	JAIEIFKM_01072	CDS	COG1063	12152	13216	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+628
+	JAIEIFKM_01073	CDS	COG0140	13357	13680	+	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+	JAIEIFKM_01074	CDS	COG0537	13752	14075	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	JAIEIFKM_01075	CDS	COG1826	14122	14325	+	[U] Sec-independent protein secretion pathway components 
+	JAIEIFKM_01076	CDS	COG1826	14329	15015	+	[U] Sec-independent protein secretion pathway components 
+	JAIEIFKM_01077	CDS	COG0805	15029	15799	+	[U] Sec-independent protein secretion pathway component TatC
+629
+	JAIEIFKM_01078	CDS	COG0424	15852	16457	+	[D] Nucleotide-binding protein implicated in inhibition of
+	JAIEIFKM_01079	CDS	COG3308	16473	16826	+	[S] Predicted membrane protein   
+	JAIEIFKM_01080	CDS	COG3307	16816	18630	+	[M] Lipid A core - O-antigen ligase
+630
+	JAIEIFKM_01081	CDS	COG0745	18820	19497	+	[TK] Response regulators consisting of a CheY-like
+	JAIEIFKM_01082	CDS	COG2205	19510	20916	+	[T] Osmosensitive K+ channel histidine kinase 
+631
+	JAIEIFKM_01083	CDS	COG1042	21034	23460	+	[C] Acyl-CoA synthetase (NDP forming)  
+	JAIEIFKM_01084	CDS	COG0228	23505	23750	+	[J] Ribosomal protein S16   
+	JAIEIFKM_01085	CDS	COG0806	23766	24275	+	[J] RimM protein, required for 16S rRNA
+	JAIEIFKM_01086	CDS	COG0336	24275	25024	+	[J] tRNA-(guanine-N1)-methyltransferase     
+	JAIEIFKM_01087	CDS	COG0335	25040	25405	+	[J] Ribosomal protein L19   
+632
+	JAIEIFKM_01088	CDS	COG1121	25696	26451	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	JAIEIFKM_01089	CDS	COG1108	26486	27361	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	JAIEIFKM_01090	CDS	COG0803	27438	28352	+	[P] ABC-type metal ion transport system, periplasmic
+633
+	JAIEIFKM_01091	CDS	ROG5118	370	792	-	NA
+634
+	JAIEIFKM_01092	CDS	COG1595	1227	1814	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	JAIEIFKM_01093	CDS	COG3219	1836	2582	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01094	CDS	COG3220	2572	3414	-	[S] Uncharacterized protein conserved in bacteria 
+635
+	JAIEIFKM_01095	CDS	COG3767	3530	3838	-	[S] Uncharacterized low-complexity protein   
+636
+	JAIEIFKM_01096	CDS	COG2259	3912	4361	-	[S] Predicted membrane protein   
+637
+	JAIEIFKM_01097	CDS	COG1752	4703	5596	+	[R] Predicted esterase of the alpha-beta hydrolase
+638
+	JAIEIFKM_01098	CDS	COG1186	5699	6802	+	[J] Protein chain release factor B 
+639
+	JAIEIFKM_01099	CDS	NA	6695	7291	-	NA
+640
+	JAIEIFKM_01100	CDS	COG3104	7712	9169	-	[E] Dipeptide/tripeptide permease    
+641
+	JAIEIFKM_01101	CDS	COG2911	10347	14516	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01102	CDS	COG0729	14571	16418	-	[M] Outer membrane protein   
+642
+	JAIEIFKM_01103	CDS	COG3633	16947	18176	+	[E] Na+/serine symporter    
+643
+	JAIEIFKM_01104	CDS	NA	18288	19568	+	NA
+644
+	JAIEIFKM_01105	CDS	ROG4687	19643	19858	-	NA
+645
+	JAIEIFKM_01106	CDS	NA	20103	20252	-	NA
+646
+	JAIEIFKM_01107	CDS	COG0137	20327	21670	-	[E] Argininosuccinate synthase    
+647
+	JAIEIFKM_01108	CDS	COG1058	21795	22595	+	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+	JAIEIFKM_01109	CDS	COG0616	22635	23621	+	[OU] Periplasmic serine proteases (ClpP class) 
+648
+	JAIEIFKM_01110	CDS	NA	25124	25480	-	NA
+649
+	JAIEIFKM_01111	CDS	NA	26526	26978	-	NA
+650
+	JAIEIFKM_01112	CDS	NA	27336	27653	-	NA
+651
+	JAIEIFKM_01113	CDS	NA	27671	27844	+	NA
+652
+	JAIEIFKM_01114	CDS	COG0468	798	1844	-	[L] RecA/RadA recombinase    
+653
+	JAIEIFKM_01115	CDS	COG0710	2098	2862	+	[E] 3-dehydroquinate dehydratase    
+	JAIEIFKM_01116	CDS	COG0210	2882	4897	+	[L] Superfamily I DNA and RNA helicases
+654
+	JAIEIFKM_01117	CDS	COG0389	4965	6023	-	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+655
+	JAIEIFKM_01118	CDS	COG4773	6167	7360	-	[P] Outer membrane receptor for ferric coprogen
+	JAIEIFKM_01119	CDS	COG4773	7396	9255	-	[P] Outer membrane receptor for ferric coprogen
+656
+	JAIEIFKM_01120	CDS	COG0543	9529	10308	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+657
+	JAIEIFKM_01121	CDS	COG0847	10518	11903	-	[L] DNA polymerase III, epsilon subunit and
+658
+	JAIEIFKM_01122	tRNA	NA	12021	12097	+	NA
+	JAIEIFKM_01123	tRNA	NA	12115	12189	+	NA
+659
+	JAIEIFKM_01124	CDS	COG2070	12749	13924	+	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+660
+	JAIEIFKM_01125	CDS	COG3198	14266	14814	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01126	CDS	COG0348	14817	16313	-	[C] Polyferredoxin     
+661
+	JAIEIFKM_01127	CDS	COG0021	16841	18820	+	[G] Transketolase     
+	JAIEIFKM_01128	CDS	COG0114	18961	20349	+	[C] Fumarase     
+662
+	JAIEIFKM_01129	CDS	COG0697	20414	21337	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+663
+	JAIEIFKM_01130	CDS	COG0629	21862	22386	-	[L] Single-stranded DNA-binding protein   
+	JAIEIFKM_01131	CDS	ROG2472	22390	23775	-	NA
+664
+	JAIEIFKM_01132	CDS	COG0741	23883	24506	-	[M] Soluble lytic murein transglycosylase and related
+665
+	JAIEIFKM_01133	CDS	COG1943	25653	26144	-	[L] Transposase and inactivated derivatives  
+666
+	JAIEIFKM_01134	CDS	NA	26220	26951	+	NA
+667
+	JAIEIFKM_01135	CDS	COG0215	23	355	+	[J] Cysteinyl-tRNA synthetase    
+668
+	JAIEIFKM_01136	CDS	COG0708	526	1305	+	[L] Exonuclease III    
+	JAIEIFKM_01137	CDS	COG1215	1292	1636	+	[M] Glycosyltransferases, probably involved in cell wall
+	JAIEIFKM_01138	CDS	COG3545	1646	2176	+	[R] Predicted esterase of the alpha/beta hydrolase
+669
+	JAIEIFKM_01139	CDS	COG0136	2269	3384	-	[E] Aspartate-semialdehyde dehydrogenase    
+670
+	JAIEIFKM_01140	CDS	COG1714	3561	4142	+	[S] Predicted membrane protein/domain   
+671
+	JAIEIFKM_01141	CDS	COG0190	4204	5058	-	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+672
+	JAIEIFKM_01142	tRNA	NA	5281	5358	+	NA
+	JAIEIFKM_01143	tRNA	NA	5383	5459	+	NA
+	JAIEIFKM_01144	tRNA	NA	5487	5562	+	NA
+673
+	JAIEIFKM_01145	CDS	COG2870	5698	6204	+	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	JAIEIFKM_01146	CDS	COG0340	6201	7979	+	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+674
+	JAIEIFKM_01147	CDS	ROG1248	8092	8916	+	NA
+675
+	JAIEIFKM_01148	CDS	COG2022	9679	10467	-	[H] Uncharacterized enzyme of thiazole biosynthesis 
+	JAIEIFKM_01149	CDS	COG2104	10681	10875	-	[H] Sulfur transfer protein involved in thiamine
+	JAIEIFKM_01150	CDS	COG0352	11297	11914	-	[H] Thiamine monophosphate synthase   
+	JAIEIFKM_01151	CDS	COG3380	11935	13035	-	[R] Predicted NAD/FAD-dependent oxidoreductase   
+	JAIEIFKM_01152	CDS	COG1457	13032	14258	-	[F] Purine-cytosine permease and related proteins 
+676
+	JAIEIFKM_01153	CDS	COG0312	14698	16140	+	[R] Predicted Zn-dependent proteases and their inactivated
+677
+	JAIEIFKM_01154	CDS	COG2890	16205	17476	+	[J] Methylase of polypeptide chain release factors
+678
+	JAIEIFKM_01155	CDS	COG2056	17562	18950	+	[R] Predicted permease    
+	JAIEIFKM_01156	CDS	COG2900	18951	19175	+	[S] Uncharacterized protein conserved in bacteria 
+679
+	JAIEIFKM_01157	CDS	COG0476	19575	20468	-	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+680
+	JAIEIFKM_01158	CDS	COG2352	20511	23213	+	[C] Phosphoenolpyruvate carboxylase    
+681
+	JAIEIFKM_01159	CDS	COG0240	23336	24325	+	[C] Glycerol-3-phosphate dehydrogenase    
+	JAIEIFKM_01160	CDS	ROG1660	24380	24709	+	NA
+	JAIEIFKM_01161	CDS	COG3027	24720	25025	+	[S] Uncharacterized protein conserved in bacteria 
+682
+	JAIEIFKM_01162	CDS	COG0102	25388	25819	+	[J] Ribosomal protein L13   
+	JAIEIFKM_01163	CDS	COG0103	25829	26221	+	[J] Ribosomal protein S9   
+683
+	JAIEIFKM_01164	CDS	COG1131	93	713	-	[V] ABC-type multidrug transport system, ATPase component
+	JAIEIFKM_01165	CDS	COG3420	771	1790	-	[P] Nitrous oxidase accessory protein  
+	JAIEIFKM_01166	CDS	COG3901	1859	2380	-	[K] Regulator of nitric oxide reductase transcription
+684
+	JAIEIFKM_01167	CDS	COG0373	2708	3955	-	[H] Glutamyl-tRNA reductase    
+685
+	JAIEIFKM_01168	CDS	COG0509	4102	4488	-	[E] Glycine cleavage system H protein (lipoate-binding)
+	JAIEIFKM_01169	CDS	COG0404	4649	5749	-	[E] Glycine cleavage system T protein (aminomethyltransferase)
+686
+	JAIEIFKM_01170	CDS	COG1522	6261	6743	+	[K] Transcriptional regulators    
+	JAIEIFKM_01171	CDS	COG3310	6799	7395	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01172	CDS	COG2832	7392	7751	+	[S] Uncharacterized protein conserved in bacteria 
+687
+	JAIEIFKM_01173	CDS	COG1055	8109	9530	+	[P] Na+/H+ antiporter NhaD and related arsenite
+688
+	JAIEIFKM_01174	CDS	COG1726	9878	11221	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+	JAIEIFKM_01175	CDS	COG1805	11224	12456	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+	JAIEIFKM_01176	CDS	COG2869	12449	13225	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+	JAIEIFKM_01177	CDS	COG1347	13225	13851	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+	JAIEIFKM_01178	CDS	COG2209	13855	14448	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+	JAIEIFKM_01179	CDS	COG2871	14462	15679	+	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+	JAIEIFKM_01180	CDS	COG1477	15832	16887	+	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	JAIEIFKM_01181	CDS	COG2991	16913	17128	+	[S] Uncharacterized protein conserved in bacteria 
+689
+	JAIEIFKM_01182	CDS	COG0576	17405	17983	-	[O] Molecular chaperone GrpE (heat shock protein)
+690
+	JAIEIFKM_01183	CDS	COG1045	18167	18985	+	[E] Serine acetyltransferase    
+691
+	JAIEIFKM_01184	CDS	COG0661	19342	20853	-	[R] Predicted unusual protein kinase  
+	JAIEIFKM_01185	CDS	NA	20888	21352	-	NA
+692
+	JAIEIFKM_01186	CDS	COG0316	21512	21850	-	[S] Uncharacterized conserved protein   
+693
+	JAIEIFKM_01187	CDS	COG2932	21982	22668	-	[K] Predicted transcriptional regulator   
+694
+	JAIEIFKM_01188	CDS	NA	22856	23128	+	NA
+695
+	JAIEIFKM_01189	CDS	NA	23336	25264	+	NA
+696
+	JAIEIFKM_01190	CDS	COG3637	838	1629	+	[M] Opacity protein and related surface antigens
+697
+	JAIEIFKM_01191	CDS	COG0778	1830	2387	-	[C] Nitroreductase     
+698
+	JAIEIFKM_01192	CDS	COG2194	2463	4097	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+699
+	JAIEIFKM_01193	CDS	COG1932	4375	5481	-	[HE] Phosphoserine aminotransferase    
+700
+	JAIEIFKM_01194	CDS	COG0779	5846	6277	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01195	CDS	COG0195	6305	7807	+	[K] Transcription elongation factor   
+	JAIEIFKM_01196	CDS	COG0532	7820	10708	+	[J] Translation initiation factor 2 (IF-2; GTPase)
+701
+	JAIEIFKM_01197	CDS	ROG0645	10919	12313	-	NA
+702
+	JAIEIFKM_01198	CDS	ROG1033	12387	13727	-	NA
+703
+	JAIEIFKM_01199	CDS	COG1272	13870	14496	+	[R] Predicted membrane protein, hemolysin III homolog
+704
+	JAIEIFKM_01200	CDS	COG1115	14560	15978	-	[E] Na+/alanine symporter    
+705
+	JAIEIFKM_01201	CDS	COG0217	16305	17033	+	[S] Uncharacterized conserved protein   
+706
+	JAIEIFKM_01202	CDS	COG1495	17092	17580	-	[O] Disulfide bond formation protein DsbB 
+707
+	JAIEIFKM_01203	CDS	NA	17610	17822	+	NA
+708
+	JAIEIFKM_01204	CDS	COG1522	18339	18803	-	[K] Transcriptional regulators    
+709
+	JAIEIFKM_01205	CDS	COG0787	19128	20186	+	[M] Alanine racemase    
+710
+	JAIEIFKM_01206	CDS	COG2848	20250	21605	-	[S] Uncharacterized conserved protein   
+	JAIEIFKM_01207	CDS	COG3830	21620	21892	-	[T] ACT domain-containing protein   
+711
+	JAIEIFKM_01208	CDS	COG2849	22018	22755	-	[S] Uncharacterized protein conserved in bacteria 
+712
+	JAIEIFKM_01209	CDS	COG2890	23036	23947	-	[J] Methylase of polypeptide chain release factors
+713
+	JAIEIFKM_01210	CDS	COG2346	24080	24673	+	[R] Truncated hemoglobins    
+714
+	JAIEIFKM_01211	CDS	NA	24965	25276	-	NA
+715
+	JAIEIFKM_01212	CDS	COG0192	286	1455	-	[H] S-adenosylmethionine synthetase    
+716
+	JAIEIFKM_01213	CDS	COG1560	1801	2697	+	[M] Lauroyl/myristoyl acyltransferase    
+717
+	JAIEIFKM_01214	CDS	COG0533	2741	3805	-	[O] Metal-dependent proteases with possible chaperone activity
+718
+	JAIEIFKM_01215	CDS	COG0755	3922	5109	-	[O] ABC-type transport system involved in cytochrome
+	JAIEIFKM_01216	CDS	COG1333	5102	7054	-	[O] ResB protein required for cytochrome c
+719
+	JAIEIFKM_01217	CDS	COG2863	7331	7954	-	[C] Cytochrome c553    
+720
+	JAIEIFKM_01218	CDS	COG0218	8160	8789	+	[R] Predicted GTPase    
+721
+	JAIEIFKM_01219	CDS	COG5009	8910	11306	-	[M] Membrane carboxypeptidase/penicillin-binding protein   
+722
+	JAIEIFKM_01220	CDS	COG4972	11458	12573	+	[NU] Tfp pilus assembly protein, ATPase PilM
+	JAIEIFKM_01221	CDS	COG3166	12576	13175	+	[NU] Tfp pilus assembly protein PilN 
+	JAIEIFKM_01222	CDS	COG3167	13176	13823	+	[NU] Tfp pilus assembly protein PilO 
+	JAIEIFKM_01223	CDS	COG3168	13841	14386	+	[NU] Tfp pilus assembly protein PilP 
+	JAIEIFKM_01224	CDS	COG4796	14405	16690	+	[U] Type II secretory pathway, component HofQ
+723
+	JAIEIFKM_01225	CDS	COG0703	17868	18380	+	[E] Shikimate kinase    
+	JAIEIFKM_01226	CDS	COG0337	18460	19539	+	[E] 3-dehydroquinate synthetase    
+724
+	JAIEIFKM_01227	CDS	COG0121	20506	21348	+	[R] Predicted glutamine amidotransferase   
+	JAIEIFKM_01228	CDS	COG1327	21377	21841	+	[K] Predicted transcriptional regulator, consists of a
+	JAIEIFKM_01229	CDS	COG0117	21874	22983	+	[H] Pyrimidine deaminase    
+725
+	JAIEIFKM_01230	CDS	COG2244	23178	24596	+	[R] Membrane protein involved in the export
+726
+	JAIEIFKM_01231	CDS	COG3039	947	1606	-	[L] Transposase and inactivated derivatives, IS5 family
+727
+	JAIEIFKM_01232	CDS	COG0112	1734	2984	-	[E] Glycine/serine hydroxymethyltransferase    
+728
+	JAIEIFKM_01233	CDS	COG0405	3465	5240	-	[E] Gamma-glutamyltransferase     
+729
+	JAIEIFKM_01234	CDS	COG2841	6014	6232	+	[S] Uncharacterized protein conserved in bacteria 
+730
+	JAIEIFKM_01235	CDS	COG0158	6391	7365	-	[G] Fructose-1,6-bisphosphatase     
+731
+	JAIEIFKM_01236	CDS	COG2961	7760	8605	-	[R] Protein involved in catabolism of external
+732
+	JAIEIFKM_01237	CDS	COG0344	8682	9284	-	[S] Predicted membrane protein   
+733
+	JAIEIFKM_01238	CDS	COG1539	9340	9696	+	[H] Dihydroneopterin aldolase    
+	JAIEIFKM_01239	CDS	COG0494	9730	10266	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+734
+	JAIEIFKM_01240	CDS	COG0239	10922	11281	-	[D] Integral membrane protein possibly involved in
+	JAIEIFKM_01241	CDS	COG3235	11310	11990	-	[S] Predicted membrane protein   
+735
+	JAIEIFKM_01242	CDS	COG1674	12155	15187	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+736
+	JAIEIFKM_01243	CDS	COG0014	15412	16674	-	[E] Gamma-glutamyl phosphate reductase   
+	JAIEIFKM_01244	CDS	COG0263	16687	17796	-	[E] Glutamate 5-kinase    
+737
+	JAIEIFKM_01245	CDS	COG0119	18042	19835	+	[E] Isopropylmalate/homocitrate/citramalate synthases    
+738
+	JAIEIFKM_01246	CDS	COG3318	20035	20697	+	[R] Predicted metal-binding protein related to the
+739
+	JAIEIFKM_01247	CDS	COG0682	20780	21631	-	[M] Prolipoprotein diacylglyceryltransferase    
+740
+	JAIEIFKM_01248	CDS	COG2866	21702	22832	-	[E] Predicted carboxypeptidase    
+741
+	JAIEIFKM_01249	CDS	NA	23002	23898	+	NA
+742
+	JAIEIFKM_01250	CDS	NA	505	846	+	NA
+743
+	JAIEIFKM_01251	CDS	NA	4010	4171	+	NA
+744
+	JAIEIFKM_01252	CDS	COG2831	4404	6146	-	[U] Hemolysin activation/secretion protein   
+	JAIEIFKM_01253	CDS	COG2274	6207	6455	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+745
+	JAIEIFKM_01254	CDS	COG0306	6554	6721	-	[P] Phosphate/sulphate permeases    
+746
+	JAIEIFKM_01255	CDS	NA	7484	7684	-	NA
+	JAIEIFKM_01256	CDS	ROG0722	7636	8262	-	NA
+747
+	JAIEIFKM_01257	CDS	ROG5024	8395	8640	+	NA
+748
+	JAIEIFKM_01258	CDS	NA	8669	8896	-	NA
+	JAIEIFKM_01259	CDS	COG2850	8905	10059	-	[S] Uncharacterized conserved protein   
+749
+	JAIEIFKM_01260	CDS	NA	10313	10606	+	NA
+	JAIEIFKM_01261	CDS	COG0002	10603	11646	+	[E] Acetylglutamate semialdehyde dehydrogenase   
+750
+	JAIEIFKM_01262	CDS	COG1200	12905	14947	-	[LK] RecG-like helicase    
+751
+	JAIEIFKM_01263	CDS	COG1952	15033	15476	-	[U] Preprotein translocase subunit SecB  
+	JAIEIFKM_01264	CDS	COG0695	15497	15754	-	[O] Glutaredoxin and related proteins  
+752
+	JAIEIFKM_01265	CDS	COG1530	15967	17460	+	[J] Ribonucleases G and E  
+753
+	JAIEIFKM_01266	CDS	COG2205	17495	18784	-	[T] Osmosensitive K+ channel histidine kinase 
+	JAIEIFKM_01267	CDS	COG0745	18784	18915	-	[TK] Response regulators consisting of a CheY-like
+754
+	JAIEIFKM_01268	CDS	COG2851	19136	20449	-	[C] H+/citrate symporter    
+755
+	JAIEIFKM_01269	CDS	COG0431	21205	21771	-	[R] Predicted flavoprotein    
+756
+	JAIEIFKM_01270	CDS	NA	21819	23345	+	NA
+757
+	JAIEIFKM_01271	CDS	COG0732	65	433	+	[V] Restriction endonuclease S subunits  
+	JAIEIFKM_01272	CDS	COG0610	512	3610	+	[V] Type I site-specific restriction-modification system, R
+758
+	JAIEIFKM_01273	CDS	COG0542	3650	5941	-	[O] ATPases with chaperone activity, ATP-binding subunit
+	JAIEIFKM_01274	CDS	COG2127	5943	6281	-	[S] Uncharacterized conserved protein   
+759
+	JAIEIFKM_01275	CDS	COG1278	6488	6691	+	[K] Cold shock proteins   
+760
+	JAIEIFKM_01276	CDS	COG0312	6988	8319	-	[R] Predicted Zn-dependent proteases and their inactivated
+761
+	JAIEIFKM_01277	CDS	COG3028	8473	8979	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01278	CDS	NA	9026	9742	+	NA
+762
+	JAIEIFKM_01279	CDS	COG0608	9811	11511	+	[L] Single-stranded DNA-specific exonuclease   
+763
+	JAIEIFKM_01280	CDS	COG0617	11866	13227	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+764
+	JAIEIFKM_01281	CDS	COG2960	13400	13723	+	[S] Uncharacterized protein conserved in bacteria 
+765
+	JAIEIFKM_01282	CDS	COG1702	13834	14787	-	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+766
+	JAIEIFKM_01283	CDS	COG0438	14926	15948	-	[M] Glycosyltransferase     
+767
+	JAIEIFKM_01284	CDS	COG3471	16317	17021	+	[S] Predicted periplasmic/secreted protein   
+768
+	JAIEIFKM_01285	CDS	COG0717	17085	17651	-	[F] Deoxycytidine deaminase    
+769
+	JAIEIFKM_01286	CDS	COG4642	17717	18133	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01287	CDS	COG2974	18185	19084	-	[L] DNA recombination-dependent growth factor C 
+	JAIEIFKM_01288	CDS	COG1160	19115	20725	-	[R] Predicted GTPases    
+	JAIEIFKM_01289	CDS	COG2976	20726	21355	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01290	CDS	COG0124	21356	22651	-	[J] Histidyl-tRNA synthetase    
+770
+	JAIEIFKM_01291	CDS	ROG8491	249	767	+	NA
+771
+	JAIEIFKM_01292	CDS	COG3271	1044	1433	-	[R] Predicted double-glycine peptidase   
+772
+	JAIEIFKM_01293	CDS	ROG2021	2041	2715	-	NA
+773
+	JAIEIFKM_01294	CDS	NA	2842	3000	-	NA
+	JAIEIFKM_01295	CDS	COG0454	2997	3839	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+774
+	JAIEIFKM_01296	CDS	COG0540	4077	4997	+	[F] Aspartate carbamoyltransferase, catalytic chain  
+	JAIEIFKM_01297	CDS	COG1781	5007	5465	+	[F] Aspartate carbamoyltransferase, regulatory subunit  
+775
+	JAIEIFKM_01298	CDS	COG4094	5536	6195	+	[S] Predicted membrane protein   
+776
+	JAIEIFKM_01299	CDS	COG1652	6258	7475	-	[S] Uncharacterized protein containing LysM domain 
+777
+	JAIEIFKM_01300	CDS	COG0242	7659	8162	+	[J] N-formylmethionyl-tRNA deformylase    
+	JAIEIFKM_01301	CDS	COG0223	8249	9175	+	[J] Methionyl-tRNA formyltransferase    
+	JAIEIFKM_01302	CDS	COG0144	9254	10513	+	[J] tRNA and rRNA cytosine-C5-methylases  
+	JAIEIFKM_01303	CDS	ROG0119	10479	11078	+	NA
+	JAIEIFKM_01304	CDS	COG5000	11078	13198	+	[T] Signal transduction histidine kinase involved in
+	JAIEIFKM_01305	CDS	COG2204	13191	14468	+	[T] Response regulator containing CheY-like receiver, AAA-type
+778
+	JAIEIFKM_01306	CDS	COG0758	14559	15746	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	JAIEIFKM_01307	CDS	COG2922	15772	16233	+	[S] Uncharacterized protein conserved in bacteria 
+779
+	JAIEIFKM_01308	CDS	COG0550	16312	18618	+	[L] Topoisomerase IA    
+780
+	JAIEIFKM_01309	CDS	NA	18691	19386	-	NA
+	JAIEIFKM_01310	CDS	NA	19406	19957	-	NA
+781
+	JAIEIFKM_01311	CDS	COG2932	20076	20453	+	[K] Predicted transcriptional regulator   
+782
+	JAIEIFKM_01312	CDS	COG0742	20542	21111	+	[L] N6-adenine-specific methylase    
+783
+	JAIEIFKM_01313	CDS	COG1145	21234	21485	+	[C] Ferredoxin     
+784
+	JAIEIFKM_01314	tRNA	NA	21582	21665	+	NA
+	JAIEIFKM_01315	tRNA	NA	21696	21769	+	NA
+	JAIEIFKM_01316	tRNA	NA	21779	21853	+	NA
+785
+	JAIEIFKM_01317	CDS	COG0110	90	725	-	[R] Acetyltransferase (isoleucine patch superfamily)  
+786
+	JAIEIFKM_01318	CDS	ROG6398	806	3919	-	NA
+787
+	JAIEIFKM_01319	CDS	COG2089	4071	5120	-	[M] Sialic acid synthase   
+	JAIEIFKM_01320	CDS	COG1083	5121	5807	-	[M] CMP-N-acetylneuraminic acid synthetase   
+	JAIEIFKM_01321	CDS	ROG3014	5811	6731	-	NA
+788
+	JAIEIFKM_01322	CDS	COG1596	7079	8254	+	[M] Periplasmic protein involved in polysaccharide export
+	JAIEIFKM_01323	CDS	COG3524	8269	9432	+	[M] Capsule polysaccharide export protein  
+	JAIEIFKM_01324	CDS	COG1682	9432	10229	+	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+	JAIEIFKM_01325	CDS	COG1134	10226	10876	+	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+789
+	JAIEIFKM_01326	CDS	COG2183	10941	13214	+	[K] Transcriptional accessory protein   
+	JAIEIFKM_01327	CDS	COG0270	13245	14075	+	[L] Site-specific DNA methylase   
+	JAIEIFKM_01328	CDS	COG3392	14240	14584	+	[L] Adenine-specific DNA methylase   
+	JAIEIFKM_01329	CDS	COG1087	14642	15283	+	[M] UDP-glucose 4-epimerase    
+	JAIEIFKM_01330	CDS	COG1088	15284	16324	+	[M] dTDP-D-glucose 4,6-dehydratase    
+	JAIEIFKM_01331	CDS	COG1209	16430	17296	+	[M] dTDP-glucose pyrophosphorylase    
+	JAIEIFKM_01332	CDS	COG1898	17335	17907	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+790
+	JAIEIFKM_01333	CDS	COG1297	17950	19968	-	[S] Predicted membrane protein   
+791
+	JAIEIFKM_01334	CDS	NA	20164	21285	-	NA
+792
+	JAIEIFKM_01335	tRNA	NA	519	594	-	NA
+793
+	JAIEIFKM_01336	CDS	COG2018	687	1046	-	[R] Uncharacterized distant relative of homeotic protein
+	JAIEIFKM_01337	CDS	NA	1069	1713	-	NA
+	JAIEIFKM_01338	CDS	COG2229	1715	2251	-	[R] Predicted GTPase    
+	JAIEIFKM_01339	CDS	NA	2263	3360	-	NA
+	JAIEIFKM_01340	CDS	NA	3363	4799	-	NA
+794
+	JAIEIFKM_01341	CDS	COG0500	5019	5801	-	[QR] SAM-dependent methyltransferases    
+	JAIEIFKM_01342	CDS	COG2830	5789	6436	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01343	CDS	COG0156	6446	7588	-	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+795
+	JAIEIFKM_01344	CDS	COG1376	7853	8887	+	[S] Uncharacterized protein conserved in bacteria 
+796
+	JAIEIFKM_01345	CDS	COG0471	9094	10560	-	[P] Di- and tricarboxylate transporters  
+797
+	JAIEIFKM_01346	CDS	COG0010	10758	11681	-	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+	JAIEIFKM_01347	CDS	COG1166	11780	13672	-	[E] Arginine decarboxylase (spermidine biosynthesis)  
+798
+	JAIEIFKM_01348	CDS	ROG6169	13839	14123	-	NA
+799
+	JAIEIFKM_01349	CDS	COG0173	14274	16082	-	[J] Aspartyl-tRNA synthetase    
+800
+	JAIEIFKM_01350	CDS	COG2928	16140	16841	-	[S] Uncharacterized conserved protein   
+801
+	JAIEIFKM_01351	CDS	COG2829	16984	18063	-	[M] Outer membrane phospholipase A  
+802
+	JAIEIFKM_01352	CDS	COG0268	18293	18556	-	[J] Ribosomal protein S20   
+803
+	JAIEIFKM_01353	CDS	NA	18859	20001	+	NA
+804
+	JAIEIFKM_01354	CDS	COG4776	595	2475	-	[K] Exoribonuclease II    
+805
+	JAIEIFKM_01355	CDS	COG1611	2784	3416	+	[R] Predicted Rossmann fold nucleotide-binding protein 
+	JAIEIFKM_01356	CDS	COG0015	3488	4858	+	[F] Adenylosuccinate lyase    
+	JAIEIFKM_01357	CDS	COG1835	4939	6807	+	[I] Predicted acyltransferases    
+806
+	JAIEIFKM_01358	CDS	COG2979	7098	7712	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01359	CDS	COG1199	7748	9898	-	[KL] Rad3-related DNA helicases   
+	JAIEIFKM_01360	CDS	NA	9948	10334	-	NA
+807
+	JAIEIFKM_01361	CDS	COG0415	10397	11698	-	[L] Deoxyribodipyrimidine photolyase    
+	JAIEIFKM_01362	CDS	COG0583	11688	12599	-	[K] Transcriptional regulator    
+808
+	JAIEIFKM_01363	CDS	COG2259	12707	13105	+	[S] Predicted membrane protein   
+	JAIEIFKM_01364	CDS	COG3560	13154	13759	+	[R] Predicted oxidoreductase related to nitroreductase 
+809
+	JAIEIFKM_01365	CDS	COG1629	13945	16056	+	[P] Outer membrane receptor proteins, mostly Fe
+810
+	JAIEIFKM_01366	CDS	COG1432	16562	17104	+	[S] Uncharacterized conserved protein   
+811
+	JAIEIFKM_01367	CDS	COG1651	17275	17970	+	[O] Protein-disulfide isomerase    
+812
+	JAIEIFKM_01368	CDS	COG0541	18301	19671	-	[U] Signal recognition particle GTPase  
+813
+	JAIEIFKM_01369	CDS	NA	19892	20698	+	NA
+814
+	JAIEIFKM_01370	CDS	NA	578	1006	-	NA
+815
+	JAIEIFKM_01371	CDS	NA	1083	1526	-	NA
+	JAIEIFKM_01372	CDS	ROG0367	1569	2438	-	NA
+816
+	JAIEIFKM_01373	CDS	COG0564	2602	3525	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+817
+	JAIEIFKM_01374	CDS	COG2945	3603	4286	-	[R] Predicted hydrolase of the alpha/beta superfamily
+	JAIEIFKM_01375	CDS	COG0421	4299	5090	-	[E] Spermidine synthase    
+818
+	JAIEIFKM_01376	tRNA	NA	5256	5331	+	NA
+819
+	JAIEIFKM_01377	CDS	COG0413	5473	6264	+	[H] Ketopantoate hydroxymethyltransferase    
+	JAIEIFKM_01378	CDS	COG0414	6387	7223	+	[H] Panthothenate synthetase    
+820
+	JAIEIFKM_01379	CDS	COG0457	7388	9226	+	[R] FOG: TPR repeat   
+	JAIEIFKM_01380	CDS	COG3017	9366	9947	+	[M] Outer membrane lipoprotein involved in outer
+	JAIEIFKM_01381	CDS	COG1947	9957	10802	+	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+	JAIEIFKM_01382	tRNA	NA	10810	10885	+	NA
+	JAIEIFKM_01383	tRNA	NA	10894	10969	+	NA
+821
+	JAIEIFKM_01384	CDS	COG0462	11137	12120	+	[FE] Phosphoribosylpyrophosphate synthetase    
+	JAIEIFKM_01385	CDS	COG1825	12187	12759	+	[J] Ribosomal protein L25 (general stress protein
+822
+	JAIEIFKM_01386	CDS	COG1686	12884	14053	-	[M] D-alanyl-D-alanine carboxypeptidase    
+823
+	JAIEIFKM_01387	CDS	COG1171	14201	15727	+	[E] Threonine dehydratase    
+824
+	JAIEIFKM_01388	CDS	COG1118	15784	16857	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	JAIEIFKM_01389	CDS	COG4208	16854	17714	-	[P] ABC-type sulfate transport system, permease component
+	JAIEIFKM_01390	CDS	COG0555	17966	18802	-	[O] ABC-type sulfate transport system, permease component
+825
+	JAIEIFKM_01391	CDS	NA	19092	19424	+	NA
+826
+	JAIEIFKM_01392	CDS	NA	19756	20265	+	NA
+827
+	JAIEIFKM_01393	CDS	COG0749	175	2967	-	[L] DNA polymerase I - 3'-5' exonuclease
+	JAIEIFKM_01394	CDS	COG1854	3113	3619	-	[T] LuxS protein involved in autoinducer AI2
+	JAIEIFKM_01395	CDS	COG4316	3641	4060	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01396	CDS	COG1965	4093	4416	-	[P] Protein implicated in iron transport, frataxin
+828
+	JAIEIFKM_01397	CDS	COG5567	4487	4657	+	[N] Predicted small periplasmic lipoprotein  
+	JAIEIFKM_01398	CDS	COG0019	4668	5912	+	[E] Diaminopimelate decarboxylase    
+829
+	JAIEIFKM_01399	CDS	NA	5948	6040	-	NA
+	JAIEIFKM_01400	CDS	COG0733	6037	7572	-	[R] Na+-dependent transporters of the SNF family
+830
+	JAIEIFKM_01401	CDS	COG3676	7785	8438	-	[L] Transposase and inactivated derivatives  
+831
+	JAIEIFKM_01402	CDS	COG0234	8668	8958	+	[O] Co-chaperonin GroES (HSP10)   
+	JAIEIFKM_01403	CDS	COG0459	9051	10685	+	[O] Chaperonin GroEL (HSP60 family)  
+832
+	JAIEIFKM_01404	CDS	COG4206	11293	13719	-	[H] Outer membrane cobalamin receptor protein 
+	JAIEIFKM_01405	CDS	ROG5488	13747	14826	-	NA
+833
+	JAIEIFKM_01406	CDS	ROG3350	15734	17251	+	NA
+834
+	JAIEIFKM_01407	CDS	NA	17310	19190	-	NA
+835
+	JAIEIFKM_01408	CDS	COG0438	64	570	+	[M] Glycosyltransferase     
+	JAIEIFKM_01409	CDS	COG2148	563	2140	+	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	JAIEIFKM_01410	CDS	COG1011	2127	2813	+	[R] Predicted hydrolase (HAD superfamily)  
+	JAIEIFKM_01411	CDS	NA	2861	3055	+	NA
+836
+	JAIEIFKM_01412	CDS	COG0399	3254	4459	+	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	JAIEIFKM_01413	CDS	COG1086	4507	6417	+	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+	JAIEIFKM_01414	CDS	COG3977	6473	7765	+	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+837
+	JAIEIFKM_01415	CDS	COG0613	7817	8653	-	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+838
+	JAIEIFKM_01416	CDS	NA	9099	9302	-	NA
+	JAIEIFKM_01417	CDS	COG2501	9280	9687	-	[S] Uncharacterized conserved protein   
+839
+	JAIEIFKM_01418	CDS	COG0587	10051	13485	+	[L] DNA polymerase III, alpha subunit 
+840
+	JAIEIFKM_01419	CDS	COG3513	13763	17011	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01420	CDS	COG1518	17077	17991	+	[L] Uncharacterized protein predicted to be involved
+	JAIEIFKM_01421	CDS	COG3512	18002	18310	+	[S] Uncharacterized protein conserved in bacteria 
+841
+	JAIEIFKM_01422	CDS	NA	19623	19727	-	NA
+842
+	JAIEIFKM_01423	CDS	COG3039	200	436	+	[L] Transposase and inactivated derivatives, IS5 family
+843
+	JAIEIFKM_01424	CDS	COG0546	540	1097	+	[R] Predicted phosphatases    
+844
+	JAIEIFKM_01425	CDS	COG0761	1184	2152	-	[IM] Penicillin tolerance protein   
+	JAIEIFKM_01426	CDS	COG0597	2181	2771	-	[MU] Lipoprotein signal peptidase   
+845
+	JAIEIFKM_01427	CDS	COG0060	3864	6653	-	[J] Isoleucyl-tRNA synthetase    
+	JAIEIFKM_01428	CDS	COG0196	6794	7714	-	[H] FAD synthase    
+846
+	JAIEIFKM_01429	CDS	COG0162	8013	9308	-	[J] Tyrosyl-tRNA synthetase    
+847
+	JAIEIFKM_01430	CDS	COG1835	9371	11239	-	[I] Predicted acyltransferases    
+848
+	JAIEIFKM_01431	CDS	COG0012	11606	12697	-	[J] Predicted GTPase, probable translation factor 
+849
+	JAIEIFKM_01432	CDS	COG2759	12810	14486	-	[F] Formyltetrahydrofolate synthetase    
+850
+	JAIEIFKM_01433	CDS	COG2510	14661	15092	+	[S] Predicted membrane protein   
+851
+	JAIEIFKM_01434	CDS	COG1208	15323	16018	-	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+	JAIEIFKM_01435	CDS	COG1853	16036	16536	-	[R] Conserved protein/domain typically associated with flavoprotein
+	JAIEIFKM_01436	CDS	COG1846	16651	17091	-	[K] Transcriptional regulators    
+852
+	JAIEIFKM_01437	CDS	COG0526	17434	17943	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+853
+	JAIEIFKM_01438	tRNA	NA	18022	18097	-	NA
+854
+	JAIEIFKM_01439	CDS	NA	18260	19387	+	NA
+855
+	JAIEIFKM_01440	CDS	COG0782	2310	2786	-	[K] Transcription elongation factor   
+856
+	JAIEIFKM_01441	CDS	COG0128	3178	4479	+	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+857
+	JAIEIFKM_01442	CDS	COG0791	4522	5055	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+858
+	JAIEIFKM_01443	CDS	COG1502	5263	6840	-	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+	JAIEIFKM_01444	CDS	COG0477	6901	8409	-	[GEPR] Permeases of the major facilitator superfamily
+859
+	JAIEIFKM_01445	CDS	COG0247	8591	9370	+	[C] Fe-S oxidoreductase    
+	JAIEIFKM_01446	CDS	COG1556	9367	10068	+	[S] Uncharacterized conserved protein   
+	JAIEIFKM_01447	CDS	COG1139	10065	11519	+	[C] Uncharacterized conserved protein containing a ferredoxin-like
+860
+	JAIEIFKM_01448	CDS	COG0041	11702	12187	-	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+	JAIEIFKM_01449	CDS	COG1729	12235	12951	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01450	CDS	COG4122	12951	13619	-	[R] Predicted O-methyltransferase    
+	JAIEIFKM_01451	CDS	ROG0681	13630	13815	-	NA
+861
+	JAIEIFKM_01452	CDS	COG0323	13958	15934	+	[L] DNA mismatch repair enzyme (predicted ATPase)
+	JAIEIFKM_01453	CDS	COG2812	16029	18152	+	[L] DNA polymerase III, gamma/tau subunits 
+	JAIEIFKM_01454	CDS	COG0718	18232	18567	+	[S] Uncharacterized protein conserved in bacteria 
+862
+	JAIEIFKM_01455	CDS	NA	114	1283	+	NA
+	JAIEIFKM_01456	CDS	COG1210	1331	2194	+	[M] UDP-glucose pyrophosphorylase    
+	JAIEIFKM_01457	CDS	COG1087	2277	3293	+	[M] UDP-glucose 4-epimerase    
+	JAIEIFKM_01458	CDS	COG1088	3389	4450	+	[M] dTDP-D-glucose 4,6-dehydratase    
+	JAIEIFKM_01459	CDS	COG1209	4663	5538	+	[M] dTDP-glucose pyrophosphorylase    
+	JAIEIFKM_01460	CDS	COG1898	5593	6132	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+863
+	JAIEIFKM_01461	CDS	COG3563	6294	8342	+	[M] Capsule polysaccharide export protein  
+	JAIEIFKM_01462	CDS	COG3562	8479	9738	+	[M] Capsule polysaccharide export protein  
+864
+	JAIEIFKM_01463	CDS	COG0790	10105	11511	+	[R] FOG: TPR repeat, SEL1 subfamily 
+865
+	JAIEIFKM_01464	CDS	COG0786	11729	12943	+	[E] Na+/glutamate symporter    
+866
+	JAIEIFKM_01465	CDS	COG2032	13042	14058	+	[P] Cu/Zn superoxide dismutase   
+	JAIEIFKM_01466	CDS	COG1513	14069	14266	+	[P] Cyanate lyase    
+867
+	JAIEIFKM_01467	CDS	NA	14790	15083	+	NA
+868
+	JAIEIFKM_01468	CDS	COG2067	15450	16850	-	[I] Long-chain fatty acid transport protein 
+869
+	JAIEIFKM_01469	CDS	NA	17036	17140	-	NA
+	JAIEIFKM_01470	CDS	COG0469	17158	18630	-	[G] Pyruvate kinase    
+870
+	JAIEIFKM_01471	CDS	COG3676	99	272	+	[L] Transposase and inactivated derivatives  
+871
+	JAIEIFKM_01472	CDS	COG0592	509	1612	-	[L] DNA polymerase sliding clamp subunit (PCNA
+	JAIEIFKM_01473	CDS	COG0593	1847	3403	-	[L] ATPase involved in DNA replication initiation
+872
+	JAIEIFKM_01474	CDS	ROG4984	3695	3829	+	NA
+	JAIEIFKM_01475	CDS	COG0594	3832	4197	+	[J] RNase P protein component  
+	JAIEIFKM_01476	CDS	COG0759	4262	4483	+	[S] Uncharacterized conserved protein   
+	JAIEIFKM_01477	CDS	COG0706	4655	6292	+	[U] Preprotein translocase subunit YidC  
+873
+	JAIEIFKM_01478	CDS	COG0313	6373	7086	-	[R] Predicted methyltransferases    
+874
+	JAIEIFKM_01479	CDS	COG0424	7145	7735	-	[D] Nucleotide-binding protein implicated in inhibition of
+875
+	JAIEIFKM_01480	CDS	COG1399	7883	8386	+	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+	JAIEIFKM_01481	CDS	COG0333	8420	8599	+	[J] Ribosomal protein L32   
+876
+	JAIEIFKM_01482	CDS	COG2236	8774	9301	+	[R] Predicted phosphoribosyltransferases    
+877
+	JAIEIFKM_01483	CDS	COG0416	9389	10444	+	[I] Fatty acid/phospholipid biosynthesis enzyme  
+878
+	JAIEIFKM_01484	CDS	NA	10865	11281	+	NA
+	JAIEIFKM_01485	CDS	NA	11301	11504	+	NA
+	JAIEIFKM_01486	CDS	COG0332	11531	12493	+	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	JAIEIFKM_01487	CDS	COG3326	12540	12911	+	[S] Predicted membrane protein   
+	JAIEIFKM_01488	CDS	COG0331	12937	13863	+	[I] (acyl-carrier-protein) S-malonyltransferase    
+	JAIEIFKM_01489	CDS	COG1132	14002	15867	+	[V] ABC-type multidrug transport system, ATPase and
+	JAIEIFKM_01490	CDS	COG0519	15967	17532	+	[F] GMP synthase, PP-ATPase domain/subunit  
+	JAIEIFKM_01491	CDS	COG1028	17594	18340	+	[IQR] Dehydrogenases with different specificities (related to
+879
+	JAIEIFKM_01492	CDS	COG0583	434	1363	-	[K] Transcriptional regulator    
+880
+	JAIEIFKM_01493	CDS	COG0327	1494	2243	+	[S] Uncharacterized conserved protein   
+881
+	JAIEIFKM_01494	CDS	COG0723	2366	2947	+	[C] Rieske Fe-S protein   
+	JAIEIFKM_01495	CDS	COG1290	2966	4315	+	[C] Cytochrome b subunit of the bc
+	JAIEIFKM_01496	CDS	COG2857	4330	5118	+	[C] Cytochrome c1    
+882
+	JAIEIFKM_01497	CDS	COG1322	5457	7241	+	[S] Uncharacterized protein conserved in bacteria 
+883
+	JAIEIFKM_01498	CDS	COG0491	7448	8080	-	[R] Zn-dependent hydrolases, including glyoxylases  
+884
+	JAIEIFKM_01499	CDS	COG1793	8172	8996	+	[L] ATP-dependent DNA ligase   
+885
+	JAIEIFKM_01500	CDS	COG0634	9065	9628	+	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+886
+	JAIEIFKM_01501	CDS	COG2893	9709	10146	+	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+	JAIEIFKM_01502	CDS	COG1925	10215	10484	+	[G] Phosphotransferase system, HPr-related proteins  
+	JAIEIFKM_01503	CDS	COG1080	10484	12259	+	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+887
+	JAIEIFKM_01504	CDS	COG3842	12979	13917	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+	JAIEIFKM_01505	CDS	NA	13926	14801	-	NA
+888
+	JAIEIFKM_01506	tRNA	NA	14990	15066	-	NA
+889
+	JAIEIFKM_01507	CDS	NA	15408	17309	+	NA
+890
+	JAIEIFKM_01508	CDS	NA	730	981	+	NA
+891
+	JAIEIFKM_01509	CDS	NA	1349	1708	-	NA
+892
+	JAIEIFKM_01510	CDS	COG2834	1929	2384	-	[M] Outer membrane lipoprotein-sorting protein  
+	JAIEIFKM_01511	CDS	NA	2365	2994	-	NA
+893
+	JAIEIFKM_01512	CDS	NA	3128	3445	-	NA
+	JAIEIFKM_01513	CDS	NA	3448	4716	-	NA
+	JAIEIFKM_01514	CDS	NA	4720	5661	-	NA
+894
+	JAIEIFKM_01515	CDS	COG2377	5780	6880	-	[O] Predicted molecular chaperone distantly related to
+895
+	JAIEIFKM_01516	CDS	COG0306	7205	8779	+	[P] Phosphate/sulphate permeases    
+896
+	JAIEIFKM_01517	CDS	COG0635	9132	10553	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+897
+	JAIEIFKM_01518	CDS	COG0664	10758	11492	+	[T] cAMP-binding proteins - catabolite gene activator
+898
+	JAIEIFKM_01519	CDS	COG0583	11605	12555	-	[K] Transcriptional regulator    
+899
+	JAIEIFKM_01520	CDS	COG2885	12919	13647	+	[M] Outer membrane protein and related peptidoglycan-associated
+900
+	JAIEIFKM_01521	CDS	COG0611	14504	15460	+	[H] Thiamine monophosphate kinase   
+	JAIEIFKM_01522	CDS	COG1267	15453	15938	+	[I] Phosphatidylglycerophosphatase A and related proteins 
+901
+	JAIEIFKM_01523	CDS	NA	15998	17518	-	NA
+902
+	JAIEIFKM_01524	CDS	COG0654	134	1318	-	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+903
+	JAIEIFKM_01525	CDS	COG0211	1706	1978	-	[J] Ribosomal protein L27   
+	JAIEIFKM_01526	CDS	COG0261	2003	2311	-	[J] Ribosomal protein L21   
+904
+	JAIEIFKM_01527	CDS	COG0142	2535	3509	+	[H] Geranylgeranyl pyrophosphate synthase   
+	JAIEIFKM_01528	CDS	COG2707	3514	3960	+	[S] Predicted membrane protein   
+	JAIEIFKM_01529	tRNA	NA	3980	4051	+	NA
+905
+	JAIEIFKM_01530	CDS	COG2804	4450	6126	+	[NU] Type II secretory pathway, ATPase PulE/Tfp
+906
+	JAIEIFKM_01531	CDS	COG3024	6211	6420	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01532	CDS	COG0237	6413	7045	-	[H] Dephospho-CoA kinase    
+	JAIEIFKM_01533	CDS	COG1989	7047	7907	-	[NOU] Type II secretory pathway, prepilin signal
+	JAIEIFKM_01534	CDS	COG1459	7981	9213	-	[NU] Type II secretory pathway, component PulF
+907
+	JAIEIFKM_01535	CDS	COG0166	9723	11366	+	[G] Glucose-6-phosphate isomerase    
+908
+	JAIEIFKM_01536	CDS	COG2171	11533	12354	+	[E] Tetrahydrodipicolinate N-succinyltransferase    
+909
+	JAIEIFKM_01537	CDS	COG0623	12509	13294	+	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+910
+	JAIEIFKM_01538	CDS	COG0115	13479	14477	-	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+911
+	JAIEIFKM_01539	CDS	COG5416	14787	15101	+	[S] Uncharacterized integral membrane protein  
+	JAIEIFKM_01540	CDS	COG2956	15112	16281	+	[G] Predicted N-acetylglucosaminyl transferase   
+	JAIEIFKM_01541	CDS	COG0346	16306	16722	+	[E] Lactoylglutathione lyase and related lyases 
+912
+	JAIEIFKM_01542	CDS	NA	16895	17167	-	NA
+913
+	JAIEIFKM_01543	CDS	COG4607	69	833	+	[P] ABC-type enterochelin transport system, periplasmic component
+	JAIEIFKM_01544	CDS	COG4606	997	1452	+	[P] ABC-type enterochelin transport system, permease component
+	JAIEIFKM_01545	CDS	COG4606	1424	1966	+	[P] ABC-type enterochelin transport system, permease component
+	JAIEIFKM_01546	CDS	COG4605	1956	2930	+	[P] ABC-type enterochelin transport system, permease component
+	JAIEIFKM_01547	CDS	ROG0917	2975	3601	+	NA
+914
+	JAIEIFKM_01548	CDS	COG4604	3685	4443	+	[P] ABC-type enterochelin transport system, ATPase component
+915
+	JAIEIFKM_01549	CDS	COG0347	4502	4840	-	[E] Nitrogen regulatory protein PII  
+916
+	JAIEIFKM_01550	CDS	COG0046	5304	9266	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+917
+	JAIEIFKM_01551	CDS	COG0491	9361	10119	+	[R] Zn-dependent hydrolases, including glyoxylases  
+918
+	JAIEIFKM_01552	CDS	COG3468	10426	13539	+	[MU] Type V secretory pathway, adhesin AidA
+	JAIEIFKM_01553	CDS	COG3468	13718	14899	+	[MU] Type V secretory pathway, adhesin AidA
+919
+	JAIEIFKM_01554	CDS	COG2239	15131	16585	+	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+920
+	JAIEIFKM_01555	tRNA	NA	95	170	+	NA
+921
+	JAIEIFKM_01556	CDS	COG0690	285	563	+	[U] Preprotein translocase subunit SecE  
+	JAIEIFKM_01557	CDS	COG0250	565	1101	+	[K] Transcription antiterminator    
+	JAIEIFKM_01558	CDS	COG0080	1202	1636	+	[J] Ribosomal protein L11   
+	JAIEIFKM_01559	CDS	COG0081	1636	2331	+	[J] Ribosomal protein L1   
+	JAIEIFKM_01560	CDS	COG0244	2561	3061	+	[J] Ribosomal protein L10   
+	JAIEIFKM_01561	CDS	COG0222	3119	3490	+	[J] Ribosomal protein L7/L12   
+	JAIEIFKM_01562	CDS	COG0085	3681	7859	+	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	JAIEIFKM_01563	CDS	COG0086	8016	12191	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+922
+	JAIEIFKM_01564	CDS	NA	12305	12430	-	NA
+923
+	JAIEIFKM_01565	CDS	NA	12483	12740	+	NA
+	JAIEIFKM_01566	CDS	ROG3350	12737	12886	+	NA
+924
+	JAIEIFKM_01567	CDS	COG0048	13065	13436	+	[J] Ribosomal protein S12   
+	JAIEIFKM_01568	CDS	COG0049	13554	14024	+	[J] Ribosomal protein S7   
+	JAIEIFKM_01569	CDS	COG0480	14043	16148	+	[J] Translation elongation factors (GTPases)  
+925
+	JAIEIFKM_01570	CDS	COG3039	54	290	+	[L] Transposase and inactivated derivatives, IS5 family
+926
+	JAIEIFKM_01571	tRNA	NA	486	575	-	NA
+	JAIEIFKM_01572	tRNA	NA	653	743	-	NA
+927
+	JAIEIFKM_01573	CDS	COG3022	826	1605	-	[S] Uncharacterized protein conserved in bacteria 
+928
+	JAIEIFKM_01574	CDS	COG0436	1768	2955	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+929
+	JAIEIFKM_01575	CDS	COG0756	3032	3484	-	[F] dUTPase     
+930
+	JAIEIFKM_01576	CDS	COG1296	3596	4108	+	[E] Predicted branched-chain amino acid permease (azaleucine
+931
+	JAIEIFKM_01577	CDS	COG4969	6043	6516	-	[NU] Tfp pilus assembly protein, major pilin
+	JAIEIFKM_01578	CDS	COG4726	6521	7114	-	[NU] Tfp pilus assembly protein PilX 
+	JAIEIFKM_01579	CDS	COG4966	7093	8046	-	[NU] Tfp pilus assembly protein PilW 
+	JAIEIFKM_01580	CDS	COG4967	8043	8696	-	[NU] Tfp pilus assembly protein PilV 
+	JAIEIFKM_01581	CDS	COG4970	8693	9361	-	[NU] Tfp pilus assembly protein FimT 
+932
+	JAIEIFKM_01582	CDS	COG0305	9663	11069	-	[L] Replicative DNA helicase   
+933
+	JAIEIFKM_01583	CDS	COG0605	11232	11819	+	[P] Superoxide dismutase    
+934
+	JAIEIFKM_01584	CDS	NA	12534	15740	-	NA
+935
+	JAIEIFKM_01585	CDS	NA	340	1374	+	NA
+936
+	JAIEIFKM_01586	CDS	COG2917	2329	2859	+	[D] Intracellular septation protein A  
+	JAIEIFKM_01587	CDS	COG2350	2862	3152	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01588	CDS	COG0271	3152	3430	+	[T] Stress-induced morphogen (activity unknown)  
+	JAIEIFKM_01589	CDS	COG0760	3479	4345	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+937
+	JAIEIFKM_01590	CDS	ROG5493	4416	5174	+	NA
+938
+	JAIEIFKM_01591	CDS	COG1490	5248	5739	+	[J] D-Tyr-tRNAtyr deacylase    
+	JAIEIFKM_01592	CDS	COG0042	5770	6780	+	[J] tRNA-dihydrouridine synthase    
+939
+	JAIEIFKM_01593	CDS	COG0008	6850	7737	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+940
+	JAIEIFKM_01594	CDS	COG0176	8198	9253	-	[G] Transaldolase     
+941
+	JAIEIFKM_01595	CDS	COG0794	9350	10324	+	[M] Predicted sugar phosphate isomerase involved in
+	JAIEIFKM_01596	CDS	COG1778	10542	11078	+	[R] Low specificity phosphatase (HAD superfamily) 
+	JAIEIFKM_01597	CDS	COG3117	11075	11656	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01598	CDS	COG1934	11637	12167	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01599	CDS	COG1137	12241	12975	+	[R] ABC-type (unclassified) transport system, ATPase component
+942
+	JAIEIFKM_01600	tRNA	NA	13166	13241	+	NA
+943
+	JAIEIFKM_01601	CDS	COG0744	13566	14267	-	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	JAIEIFKM_01602	CDS	COG0169	14270	15079	-	[E] Shikimate 5-dehydrogenase    
+944
+	JAIEIFKM_01603	CDS	COG0697	133	987	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+945
+	JAIEIFKM_01604	CDS	NA	1507	2739	+	NA
+946
+	JAIEIFKM_01605	CDS	COG0077	2817	3905	+	[E] Prephenate dehydratase    
+	JAIEIFKM_01606	CDS	COG1381	3936	4730	+	[L] Recombinational DNA repair protein (RecF pathway)
+	JAIEIFKM_01607	CDS	COG0854	4754	5482	+	[H] Pyridoxal phosphate biosynthesis protein  
+	JAIEIFKM_01608	CDS	ROG1324	5529	6308	+	NA
+	JAIEIFKM_01609	CDS	ROG1450	6318	7085	+	NA
+947
+	JAIEIFKM_01610	CDS	COG0736	7285	7662	+	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+948
+	JAIEIFKM_01611	CDS	COG1051	7744	8553	+	[F] ADP-ribose pyrophosphatase    
+	JAIEIFKM_01612	CDS	ROG0930	8546	8968	+	NA
+	JAIEIFKM_01613	CDS	COG0116	9017	10159	+	[L] Predicted N6-adenine-specific DNA methylase  
+949
+	JAIEIFKM_01614	CDS	COG3177	10460	11281	-	[S] Uncharacterized conserved protein   
+950
+	JAIEIFKM_01615	CDS	COG0860	11358	12608	-	[M] N-acetylmuramoyl-L-alanine amidase    
+	JAIEIFKM_01616	CDS	COG0802	12605	13066	-	[R] Predicted ATPase or kinase  
+951
+	JAIEIFKM_01617	CDS	NA	13261	14073	+	NA
+952
+	JAIEIFKM_01618	CDS	COG0855	280	2337	-	[P] Polyphosphate kinase    
+953
+	JAIEIFKM_01619	CDS	ROG6161	2506	2949	-	NA
+	JAIEIFKM_01620	CDS	COG2913	2956	3471	-	[J] Small protein A (tmRNA-binding)  
+954
+	JAIEIFKM_01621	CDS	COG0495	3732	6368	+	[J] Leucyl-tRNA synthetase    
+955
+	JAIEIFKM_01622	CDS	COG0338	6603	7415	+	[L] Site-specific DNA methylase   
+	JAIEIFKM_01623	CDS	COG0863	7408	8208	+	[L] DNA modification methylase   
+	JAIEIFKM_01624	CDS	NA	8213	8767	+	NA
+956
+	JAIEIFKM_01625	CDS	COG2944	9642	9953	-	[K] Predicted transcriptional regulator   
+	JAIEIFKM_01626	CDS	COG4737	10015	10317	-	[S] Uncharacterized protein conserved in bacteria 
+957
+	JAIEIFKM_01627	tRNA	NA	11133	11218	-	NA
+	JAIEIFKM_01628	CDS	COG1314	11232	11582	-	[U] Preprotein translocase subunit SecG  
+	JAIEIFKM_01629	CDS	COG0149	11589	12362	-	[G] Triosephosphate isomerase    
+958
+	JAIEIFKM_01630	CDS	COG1956	12546	13049	+	[T] GAF domain-containing protein   
+959
+	JAIEIFKM_01631	CDS	COG2518	13151	13807	+	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+960
+	JAIEIFKM_01632	CDS	NA	13886	14209	+	NA
+961
+	JAIEIFKM_01633	CDS	COG4607	54	311	-	[P] ABC-type enterochelin transport system, periplasmic component
+962
+	JAIEIFKM_01634	CDS	COG1629	1011	3176	-	[P] Outer membrane receptor proteins, mostly Fe
+963
+	JAIEIFKM_01635	CDS	COG0486	5160	6506	-	[R] Predicted GTPase    
+964
+	JAIEIFKM_01636	CDS	NA	6637	6792	+	NA
+	JAIEIFKM_01637	CDS	COG5346	6789	7220	+	[S] Predicted membrane protein   
+965
+	JAIEIFKM_01638	CDS	COG3468	7354	11724	+	[MU] Type V secretory pathway, adhesin AidA
+966
+	JAIEIFKM_01639	CDS	COG3039	12040	13152	-	[L] Transposase and inactivated derivatives, IS5 family
+967
+	JAIEIFKM_01640	CDS	NA	13214	13885	-	NA
+968
+	JAIEIFKM_01641	CDS	COG3038	328	732	+	[C] Cytochrome B561    
+969
+	JAIEIFKM_01642	CDS	COG0313	767	1642	-	[R] Predicted methyltransferases    
+970
+	JAIEIFKM_01643	CDS	COG0792	1688	2035	+	[L] Predicted endonuclease distantly related to archaeal
+	JAIEIFKM_01644	CDS	COG0279	2040	2633	+	[G] Phosphoheptose isomerase    
+	JAIEIFKM_01645	CDS	COG2823	2697	3305	+	[R] Predicted periplasmic or secreted lipoprotein 
+	JAIEIFKM_01646	CDS	NA	3313	3981	+	NA
+	JAIEIFKM_01647	CDS	COG0024	4021	4800	+	[J] Methionine aminopeptidase    
+971
+	JAIEIFKM_01648	CDS	ROG2700	4955	5254	+	NA
+972
+	JAIEIFKM_01649	CDS	ROG7884	5492	5866	+	NA
+	JAIEIFKM_01650	CDS	NA	5896	6042	+	NA
+973
+	JAIEIFKM_01651	CDS	COG0579	6053	7519	-	[R] Predicted dehydrogenase    
+974
+	JAIEIFKM_01652	CDS	COG1670	8056	8646	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	JAIEIFKM_01653	CDS	COG0212	8707	9288	-	[H] 5-formyltetrahydrofolate cyclo-ligase    
+975
+	JAIEIFKM_01654	CDS	ROG2210	9366	9599	+	NA
+976
+	JAIEIFKM_01655	CDS	COG0052	9772	10500	+	[J] Ribosomal protein S2   
+	JAIEIFKM_01656	CDS	COG0264	10629	11483	+	[J] Translation elongation factor Ts  
+	JAIEIFKM_01657	CDS	COG0528	11538	12446	+	[F] Uridylate kinase    
+977
+	JAIEIFKM_01658	CDS	NA	13085	14047	+	NA
+978
+	JAIEIFKM_01659	CDS	COG0708	1106	1876	-	[L] Exonuclease III    
+	JAIEIFKM_01660	CDS	COG0640	1936	2217	-	[K] Predicted transcriptional regulators   
+979
+	JAIEIFKM_01661	CDS	COG0157	2623	3504	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+980
+	JAIEIFKM_01662	CDS	COG4111	3580	4518	-	[R] Uncharacterized conserved protein   
+981
+	JAIEIFKM_01663	CDS	COG0379	4825	5937	+	[H] Quinolinate synthase    
+	JAIEIFKM_01664	CDS	COG0029	6143	7651	+	[H] Aspartate oxidase    
+982
+	JAIEIFKM_01665	CDS	COG0637	7829	8494	-	[R] Predicted phosphatase/phosphohexomutase    
+	JAIEIFKM_01666	CDS	COG1554	8507	10765	-	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	JAIEIFKM_01667	CDS	COG2017	10999	12009	-	[G] Galactose mutarotase and related enzymes 
+	JAIEIFKM_01668	CDS	ROG7174	12013	13368	-	NA
+983
+	JAIEIFKM_01669	CDS	NA	382	666	+	NA
+984
+	JAIEIFKM_01670	CDS	COG0220	791	1507	-	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+985
+	JAIEIFKM_01671	CDS	COG0790	1629	3032	-	[R] FOG: TPR repeat, SEL1 subfamily 
+986
+	JAIEIFKM_01672	CDS	COG0322	3306	5192	-	[L] Nuclease subunit of the excinuclease complex
+987
+	JAIEIFKM_01673	CDS	COG2217	5247	7409	-	[P] Cation transport ATPase   
+988
+	JAIEIFKM_01674	CDS	COG0492	7548	8498	+	[O] Thioredoxin reductase    
+989
+	JAIEIFKM_01675	CDS	COG0360	8654	9022	+	[J] Ribosomal protein S6   
+	JAIEIFKM_01676	CDS	COG0238	9332	9562	+	[J] Ribosomal protein S18   
+	JAIEIFKM_01677	CDS	COG0359	9579	10031	+	[J] Ribosomal protein L9   
+990
+	JAIEIFKM_01678	CDS	COG0730	10998	11804	-	[R] Predicted permeases    
+	JAIEIFKM_01679	CDS	COG1183	11805	12551	-	[I] Phosphatidylserine synthase    
+991
+	JAIEIFKM_01680	CDS	NA	68	277	+	NA
+992
+	JAIEIFKM_01681	CDS	COG0814	643	1884	-	[E] Amino acid permeases   
+993
+	JAIEIFKM_01682	CDS	COG2227	2048	2764	+	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+	JAIEIFKM_01683	CDS	COG2334	2801	3718	+	[R] Putative homoserine kinase type II (protein
+994
+	JAIEIFKM_01684	CDS	COG3265	4057	4575	-	[G] Gluconate kinase    
+	JAIEIFKM_01685	CDS	COG2610	4595	5980	-	[GE] H+/gluconate symporter and related permeases 
+995
+	JAIEIFKM_01686	CDS	COG1178	6373	7914	+	[P] ABC-type Fe3+ transport system, permease component
+	JAIEIFKM_01687	CDS	ROG1631	7943	8542	+	NA
+	JAIEIFKM_01688	CDS	COG1057	8539	9132	+	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	JAIEIFKM_01689	CDS	COG0799	9191	9577	+	[S] Uncharacterized homolog of plant Iojap protein
+	JAIEIFKM_01690	CDS	COG1576	9631	10101	+	[S] Uncharacterized conserved protein   
+996
+	JAIEIFKM_01691	CDS	COG2924	10174	10440	+	[CO] Fe-S cluster protector protein  
+997
+	JAIEIFKM_01692	CDS	COG0670	10597	11280	+	[R] Integral membrane protein, interacts with FtsH
+998
+	JAIEIFKM_01693	CDS	COG0669	11404	11916	+	[H] Phosphopantetheine adenylyltransferase    
+	JAIEIFKM_01694	CDS	COG0564	11942	12601	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+999
+	JAIEIFKM_01695	CDS	NA	237	485	-	NA
+1000
+	JAIEIFKM_01696	CDS	NA	802	1035	-	NA
+	JAIEIFKM_01697	CDS	COG0560	1040	1708	-	[E] Phosphoserine phosphatase    
+	JAIEIFKM_01698	CDS	ROG3842	1705	2373	-	NA
+1001
+	JAIEIFKM_01699	CDS	COG4178	2478	3029	-	[R] ABC-type uncharacterized transport system, permease and
+1002
+	JAIEIFKM_01700	CDS	NA	3272	3457	+	NA
+1003
+	JAIEIFKM_01701	CDS	ROG1633	3657	4556	-	NA
+1004
+	JAIEIFKM_01702	CDS	COG3093	4600	4851	+	[R] Plasmid maintenance system antidote protein 
+	JAIEIFKM_01703	CDS	NA	4853	6829	+	NA
+	JAIEIFKM_01704	CDS	COG2842	6865	7779	+	[R] Uncharacterized ATPase, putative transposase  
+1005
+	JAIEIFKM_01705	CDS	NA	7869	8135	+	NA
+	JAIEIFKM_01706	CDS	COG1608	8128	8247	+	[R] Predicted archaeal kinase   
+	JAIEIFKM_01707	CDS	NA	8244	8417	+	NA
+	JAIEIFKM_01708	CDS	COG2071	8410	8577	+	[R] Predicted glutamine amidotransferases   
+	JAIEIFKM_01709	CDS	NA	8562	8663	+	NA
+	JAIEIFKM_01710	CDS	COG4396	8687	9205	+	[R] Mu-like prophage host-nuclease inhibitor protein Gam
+1006
+	JAIEIFKM_01711	CDS	NA	9366	9581	-	NA
+	JAIEIFKM_01712	CDS	COG3561	9585	10193	-	[K] Phage anti-repressor protein   
+1007
+	JAIEIFKM_01713	CDS	NA	10325	10525	-	NA
+1008
+	JAIEIFKM_01714	CDS	ROG4158	10726	10911	-	NA
+1009
+	JAIEIFKM_01715	CDS	NA	11184	11351	-	NA
+1010
+	JAIEIFKM_01716	CDS	NA	11874	12065	+	NA
+	JAIEIFKM_01717	CDS	ROG5596	12062	12478	+	NA
+1011
+	JAIEIFKM_01718	CDS	COG1262	886	1641	-	[S] Uncharacterized conserved protein   
+1012
+	JAIEIFKM_01719	CDS	COG2132	1821	2450	-	[Q] Putative multicopper oxidases   
+	JAIEIFKM_01720	CDS	COG2132	2420	2980	-	[Q] Putative multicopper oxidases   
+1013
+	JAIEIFKM_01721	CDS	COG3256	3493	5748	+	[P] Nitric oxide reductase large subunit 
+1014
+	JAIEIFKM_01722	CDS	COG0386	5927	6460	+	[O] Glutathione peroxidase    
+1015
+	JAIEIFKM_01723	CDS	COG1619	6523	7707	-	[V] Uncharacterized proteins, homologs of microcin C7
+	JAIEIFKM_01724	CDS	COG0537	7747	8151	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+1016
+	JAIEIFKM_01725	CDS	COG0328	9517	9954	-	[L] Ribonuclease HI    
+1017
+	JAIEIFKM_01726	CDS	COG3615	10083	10937	+	[P] Uncharacterized protein/domain, possibly involved in tellurite
+1018
+	JAIEIFKM_01727	CDS	NA	10987	11793	-	NA
+1019
+	JAIEIFKM_01728	CDS	COG2217	478	1278	-	[P] Cation transport ATPase   
+1020
+	JAIEIFKM_01729	CDS	NA	1414	1917	-	NA
+1021
+	JAIEIFKM_01730	CDS	COG2999	2254	2895	-	[O] Glutaredoxin 2    
+1022
+	JAIEIFKM_01731	CDS	COG0317	3223	5436	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+1023
+	JAIEIFKM_01732	CDS	COG3155	5831	6286	-	[Q] Uncharacterized protein involved in an early
+1024
+	JAIEIFKM_01733	CDS	ROG3774	6680	8083	-	NA
+1025
+	JAIEIFKM_01734	CDS	COG1566	8152	9579	-	[V] Multidrug resistance efflux pump  
+1026
+	JAIEIFKM_01735	CDS	COG2244	9815	10168	+	[R] Membrane protein involved in the export
+	JAIEIFKM_01736	CDS	NA	10159	10671	+	NA
+1027
+	JAIEIFKM_01737	CDS	COG0308	197	2800	-	[E] Aminopeptidase N    
+1028
+	JAIEIFKM_01738	CDS	COG3298	2932	3726	-	[L] Predicted 3'-5' exonuclease related to the
+1029
+	JAIEIFKM_01739	CDS	COG1560	4476	5354	-	[M] Lauroyl/myristoyl acyltransferase    
+	JAIEIFKM_01740	CDS	COG0817	5395	5931	-	[L] Holliday junction resolvasome, endonuclease subunit 
+	JAIEIFKM_01741	CDS	COG2901	5934	6173	-	[KL] Factor for inversion stimulation Fis, transcriptional
+	JAIEIFKM_01742	CDS	COG0042	6203	7213	-	[J] tRNA-dihydrouridine synthase    
+1030
+	JAIEIFKM_01743	CDS	COG0513	7579	8952	+	[LKJ] Superfamily II DNA and RNA helicases
+1031
+	JAIEIFKM_01744	CDS	NA	9258	10322	+	NA
+1032
+	JAIEIFKM_01745	CDS	COG3547	141	1097	-	[L] Transposase and inactivated derivatives  
+1033
+	JAIEIFKM_01746	CDS	COG0138	1710	3290	-	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+1034
+	JAIEIFKM_01747	CDS	COG0038	3451	4674	-	[P] Chloride channel protein EriC  
+1035
+	JAIEIFKM_01748	CDS	COG0560	4738	5571	-	[E] Phosphoserine phosphatase    
+1036
+	JAIEIFKM_01749	CDS	COG3288	5861	7402	+	[C] NAD/NADP transhydrogenase alpha subunit  
+	JAIEIFKM_01750	CDS	COG3686	7406	7789	+	[S] Predicted membrane protein   
+1037
+	JAIEIFKM_01751	CDS	COG1282	7855	9240	+	[C] NAD/NADP transhydrogenase beta subunit  
+1038
+	JAIEIFKM_01752	CDS	NA	9448	9915	-	NA
+1039
+	JAIEIFKM_01753	CDS	ROG4471	686	919	-	NA
+1040
+	JAIEIFKM_01754	CDS	COG2906	1085	1285	-	[P] Bacterioferritin-associated ferredoxin    
+1041
+	JAIEIFKM_01755	CDS	COG4974	1457	2332	-	[L] Site-specific recombinase XerD   
+	JAIEIFKM_01756	CDS	COG1225	2384	2824	-	[O] Peroxiredoxin     
+1042
+	JAIEIFKM_01757	CDS	COG1686	3145	4083	+	[M] D-alanyl-D-alanine carboxypeptidase    
+1043
+	JAIEIFKM_01758	CDS	COG1923	4212	4505	+	[R] Uncharacterized host factor I protein 
+1044
+	JAIEIFKM_01759	CDS	NA	4590	5156	+	NA
+	JAIEIFKM_01760	CDS	COG3094	5210	5584	+	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01761	CDS	COG0801	5594	6088	+	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+1045
+	JAIEIFKM_01762	CDS	NA	6215	6694	-	NA
+1046
+	JAIEIFKM_01763	CDS	COG2226	6914	7651	-	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+	JAIEIFKM_01764	CDS	COG3536	7694	8062	-	[S] Uncharacterized protein conserved in bacteria 
+1047
+	JAIEIFKM_01765	CDS	NA	8182	9801	+	NA
+1048
+	JAIEIFKM_01766	CDS	ROG3350	243	1676	-	NA
+1049
+	JAIEIFKM_01767	CDS	COG3468	1951	3810	-	[MU] Type V secretory pathway, adhesin AidA
+1050
+	JAIEIFKM_01768	CDS	NA	5555	5800	-	NA
+1051
+	JAIEIFKM_01769	CDS	COG1981	5917	6342	+	[S] Predicted membrane protein   
+	JAIEIFKM_01770	CDS	COG2954	6354	6830	+	[S] Uncharacterized protein conserved in bacteria 
+1052
+	JAIEIFKM_01771	CDS	COG0262	7180	7668	-	[H] Dihydrofolate reductase    
+	JAIEIFKM_01772	CDS	COG0722	7736	8791	-	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+1053
+	JAIEIFKM_01773	CDS	NA	9000	9191	-	NA
+1054
+	JAIEIFKM_01774	CDS	NA	9458	9715	+	NA
+1055
+	JAIEIFKM_01775	CDS	COG2194	55	948	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+1056
+	JAIEIFKM_01776	CDS	ROG2184	1129	2256	-	NA
+1057
+	JAIEIFKM_01777	CDS	COG1643	2357	3748	-	[L] HrpA-like helicases    
+1058
+	JAIEIFKM_01778	CDS	COG0038	3903	5339	-	[P] Chloride channel protein EriC  
+1059
+	JAIEIFKM_01779	CDS	COG1364	5399	6619	-	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	JAIEIFKM_01780	CDS	COG1346	6686	7378	-	[M] Putative effector of murein hydrolase 
+	JAIEIFKM_01781	CDS	COG1380	7378	7722	-	[R] Putative effector of murein hydrolase LrgA
+1060
+	JAIEIFKM_01782	CDS	ROG2685	7867	8085	-	NA
+	JAIEIFKM_01783	CDS	COG0791	8104	8859	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+1061
+	JAIEIFKM_01784	CDS	NA	9104	9988	+	NA
+1062
+	JAIEIFKM_01785	CDS	COG2194	90	797	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+1063
+	JAIEIFKM_01786	CDS	COG1643	899	4096	+	[L] HrpA-like helicases    
+	JAIEIFKM_01787	CDS	ROG5978	4155	5762	+	NA
+	JAIEIFKM_01788	CDS	COG2425	5753	7213	+	[R] Uncharacterized protein containing a von Willebrand
+1064
+	JAIEIFKM_01789	CDS	COG3039	7561	8040	-	[L] Transposase and inactivated derivatives, IS5 family
+1065
+	JAIEIFKM_01790	CDS	ROG6185	8272	8484	+	NA
+1066
+	JAIEIFKM_01791	CDS	ROG0059	8596	8865	+	NA
+1067
+	JAIEIFKM_01792	CDS	NA	9026	9475	-	NA
+1068
+	JAIEIFKM_01793	CDS	COG3203	1564	2553	-	[M] Outer membrane protein (porin)  
+1069
+	JAIEIFKM_01794	CDS	COG2337	3798	4121	-	[T] Growth inhibitor    
+	JAIEIFKM_01795	CDS	COG2336	4109	4348	-	[T] Growth regulator    
+1070
+	JAIEIFKM_01796	CDS	COG0101	4471	5268	-	[J] Pseudouridylate synthase    
+1071
+	JAIEIFKM_01797	CDS	COG1451	6715	7407	-	[R] Predicted metal-dependent hydrolase   
+	JAIEIFKM_01798	CDS	COG0204	7404	8147	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	JAIEIFKM_01799	CDS	COG0241	8176	8739	-	[E] Histidinol phosphatase and related phosphatases 
+1072
+	JAIEIFKM_01800	CDS	COG0438	9015	9374	-	[M] Glycosyltransferase     
+1073
+	JAIEIFKM_01801	CDS	COG1391	352	3042	-	[OT] Glutamine synthetase adenylyltransferase   
+1074
+	JAIEIFKM_01802	CDS	ROG5505	3240	3452	-	NA
+1075
+	JAIEIFKM_01803	CDS	COG4304	3589	4062	-	[S] Uncharacterized protein conserved in bacteria 
+	JAIEIFKM_01804	CDS	NA	4115	4396	-	NA
+1076
+	JAIEIFKM_01805	CDS	NA	4483	4806	-	NA
+1077
+	JAIEIFKM_01806	CDS	COG0167	5140	6207	-	[F] Dihydroorotate dehydrogenase    
+1078
+	JAIEIFKM_01807	CDS	COG0236	6379	6615	+	[IQ] Acyl carrier protein   
+	JAIEIFKM_01808	CDS	COG0304	6771	8018	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+1079
+	JAIEIFKM_01809	CDS	NA	8260	9213	-	NA
+1080
+	JAIEIFKM_01810	CDS	COG1289	1384	3534	-	[S] Predicted membrane protein   
+1081
+	JAIEIFKM_01811	CDS	COG5008	3820	5046	-	[NU] Tfp pilus assembly protein, ATPase PilU
+	JAIEIFKM_01812	CDS	COG2805	5209	6252	-	[NU] Tfp pilus assembly protein, pilus retraction
+1082
+	JAIEIFKM_01813	CDS	COG0325	6372	7058	+	[R] Predicted enzyme with a TIM-barrel fold
+	JAIEIFKM_01814	CDS	NA	7058	7465	+	NA
+	JAIEIFKM_01815	CDS	COG0345	7514	8305	+	[E] Pyrroline-5-carboxylate reductase    
+1083
+	JAIEIFKM_01816	CDS	COG1734	8452	8868	+	[T] DnaK suppressor protein   
+1084
+	JAIEIFKM_01817	CDS	COG3676	606	1259	+	[L] Transposase and inactivated derivatives  
+1085
+	JAIEIFKM_01818	CDS	ROG1815	1330	1932	-	NA
+	JAIEIFKM_01819	CDS	COG0151	1966	3237	-	[F] Phosphoribosylamine-glycine ligase    
+1086
+	JAIEIFKM_01820	CDS	NA	3395	3712	+	NA
+1087
+	JAIEIFKM_01821	CDS	COG1739	3764	4375	-	[S] Uncharacterized conserved protein   
+1088
+	JAIEIFKM_01822	CDS	COG2025	4438	5373	-	[C] Electron transfer flavoprotein, alpha subunit 
+	JAIEIFKM_01823	CDS	COG2086	5384	6133	-	[C] Electron transfer flavoprotein, beta subunit 
+1089
+	JAIEIFKM_01824	CDS	COG0859	6359	7327	-	[M] ADP-heptose:LPS heptosyltransferase    
+	JAIEIFKM_01825	CDS	COG1335	7364	7999	-	[Q] Amidases related to nicotinamidase  
+1090
+	JAIEIFKM_01826	CDS	NA	8113	8793	+	NA
+1091
+	JAIEIFKM_01827	CDS	COG4255	54	1022	-	[S] Uncharacterized protein conserved in bacteria 
+1092
+	JAIEIFKM_01828	CDS	COG0739	1099	2391	+	[M] Membrane proteins related to metalloendopeptidases 
+1093
+	JAIEIFKM_01829	CDS	COG1738	3330	4016	-	[S] Uncharacterized conserved protein   
+	JAIEIFKM_01830	CDS	COG0780	4093	4566	-	[R] Enzyme related to GTP cyclohydrolase I
+1094
+	JAIEIFKM_01831	CDS	ROG4749	4829	5188	+	NA
+	JAIEIFKM_01832	CDS	COG1566	5232	6404	+	[V] Multidrug resistance efflux pump  
+	JAIEIFKM_01833	CDS	ROG0893	6428	7954	+	NA
+1095
+	JAIEIFKM_01834	CDS	COG0227	8204	8437	+	[J] Ribosomal protein L28   
+	JAIEIFKM_01835	CDS	COG0267	8469	8624	+	[J] Ribosomal protein L33   
+1096
+	JAIEIFKM_01836	CDS	COG4771	1072	3816	-	[P] Outer membrane receptor for ferrienterochelin and
+1097
+	JAIEIFKM_01837	CDS	NA	3903	6047	-	NA
+1098
+	JAIEIFKM_01838	CDS	COG0174	315	1733	+	[E] Glutamine synthetase    
+1099
+	JAIEIFKM_01839	CDS	NA	1889	3172	+	NA
+	JAIEIFKM_01840	CDS	COG2827	3169	3444	+	[L] Predicted endonuclease containing a URI domain
+1100
+	JAIEIFKM_01841	CDS	NA	3893	4603	+	NA
+	JAIEIFKM_01842	CDS	NA	4620	4895	+	NA
+1101
+	JAIEIFKM_01843	CDS	NA	4982	6115	-	NA
+1102
+	JAIEIFKM_01844	CDS	NA	6494	6775	-	NA
+1103
+	JAIEIFKM_01845	CDS	COG0253	548	1399	-	[E] Diaminopimelate epimerase    
+1104
+	JAIEIFKM_01846	CDS	NA	1537	1833	+	NA
+	JAIEIFKM_01847	CDS	COG2836	1847	2515	+	[S] Uncharacterized conserved protein   
+1105
+	JAIEIFKM_01848	CDS	COG1185	2588	4708	-	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+	JAIEIFKM_01849	CDS	COG0152	4945	5808	-	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+1106
+	JAIEIFKM_01850	CDS	NA	6007	6882	+	NA
+1107
+	JAIEIFKM_01851	CDS	COG0031	337	1269	+	[E] Cysteine synthase    
+1108
+	JAIEIFKM_01852	CDS	COG0697	1732	2637	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+1109
+	JAIEIFKM_01853	CDS	COG0681	3051	4070	-	[U] Signal peptidase I   
+	JAIEIFKM_01854	CDS	COG0481	4215	6008	-	[M] Membrane GTPase LepA   
+1110
+	JAIEIFKM_01855	CDS	COG0775	6150	6851	-	[F] Nucleoside phosphorylase    
+1111
+	JAIEIFKM_01856	CDS	NA	158	274	-	NA
+1112
+	JAIEIFKM_01857	CDS	COG2932	305	1024	+	[K] Predicted transcriptional regulator   
+	JAIEIFKM_01858	CDS	NA	1028	1216	+	NA
+1113
+	JAIEIFKM_01859	CDS	COG1190	1293	2804	-	[J] Lysyl-tRNA synthetase (class II)  
+1114
+	JAIEIFKM_01860	CDS	NA	2959	4212	-	NA
+1115
+	JAIEIFKM_01861	CDS	NA	4670	6466	+	NA
+1116
+	JAIEIFKM_01862	CDS	ROG1519	266	781	-	NA
+1117
+	JAIEIFKM_01863	CDS	COG2931	1075	1599	-	[Q] RTX toxins and related Ca2+-binding proteins
+	JAIEIFKM_01864	CDS	ROG4851	1601	2095	-	NA
+	JAIEIFKM_01865	CDS	COG2931	2137	2421	-	[Q] RTX toxins and related Ca2+-binding proteins
+1118
+	JAIEIFKM_01866	CDS	NA	2887	3108	-	NA
+1119
+	JAIEIFKM_01867	CDS	COG2274	4086	4337	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	JAIEIFKM_01868	CDS	COG3676	4316	4702	+	[L] Transposase and inactivated derivatives  
+1120
+	JAIEIFKM_01869	tRNA	NA	1901	1977	+	NA
+	JAIEIFKM_01870	tRNA	NA	1983	2058	+	NA
+1121
+	JAIEIFKM_01871	CDS	NA	4555	5163	-	NA
+1122
+	JAIEIFKM_01872	CDS	NA	1229	1387	-	NA
+1123
+	JAIEIFKM_01873	CDS	NA	1544	1963	-	NA
+	JAIEIFKM_01874	CDS	ROG6864	2021	2386	-	NA
+	JAIEIFKM_01875	CDS	NA	2368	2913	-	NA
+1124
+	JAIEIFKM_01876	CDS	NA	4224	4472	-	NA
+1125
+	JAIEIFKM_01877	CDS	ROG4749	574	933	+	NA
+1126
+	JAIEIFKM_01878	CDS	NA	1010	1222	+	NA
+1127
+	JAIEIFKM_01879	CDS	NA	1382	2164	+	NA
+	JAIEIFKM_01880	CDS	COG4443	2174	2380	+	[S] Uncharacterized protein conserved in bacteria 
+1128
+	JAIEIFKM_01881	CDS	NA	2621	2746	+	NA
+1129
+	JAIEIFKM_01882	CDS	NA	3642	3830	+	NA
+	JAIEIFKM_01883	CDS	NA	3833	4156	+	NA
+	JAIEIFKM_01884	CDS	COG1093	4194	4538	+	[J] Translation initiation factor 2, alpha subunit
+1130
+	JAIEIFKM_01885	CDS	NA	338	1042	+	NA
+1131
+	JAIEIFKM_01886	CDS	ROG4307	1841	2890	-	NA
+1132
+	JAIEIFKM_01887	CDS	NA	2973	4127	-	NA
+1133
+	JAIEIFKM_01888	CDS	COG1508	501	1352	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+1134
+	JAIEIFKM_01889	CDS	NA	1700	3214	+	NA
+1135
+	JAIEIFKM_01890	CDS	ROG7329	509	706	-	NA
+	JAIEIFKM_01891	CDS	ROG5769	703	969	-	NA
+	JAIEIFKM_01892	CDS	NA	981	1319	-	NA
+	JAIEIFKM_01893	CDS	NA	1316	1534	-	NA
+1136
+	JAIEIFKM_01894	CDS	COG3422	1547	1717	+	[S] Uncharacterized conserved protein   
+1137
+	JAIEIFKM_01895	CDS	ROG7758	1762	1944	-	NA
+	JAIEIFKM_01896	CDS	NA	1964	2383	-	NA
+	JAIEIFKM_01897	CDS	ROG6087	2355	2591	-	NA
+	JAIEIFKM_01898	CDS	NA	2594	2758	-	NA
+1138
+	JAIEIFKM_01899	CDS	NA	2964	3506	-	NA
+1139
+	JAIEIFKM_01900	CDS	NA	470	1216	+	NA
+1140
+	JAIEIFKM_01901	CDS	NA	2934	3227	-	NA
+1141
+	JAIEIFKM_01902	CDS	ROG7065	70	510	-	NA
+	JAIEIFKM_01903	CDS	NA	452	769	-	NA
+1142
+	JAIEIFKM_01904	CDS	NA	897	1175	-	NA
+	JAIEIFKM_01905	CDS	COG4214	1182	1400	-	[G] ABC-type xylose transport system, permease component
+1143
+	JAIEIFKM_01906	CDS	NA	1474	1671	-	NA
+	JAIEIFKM_01907	CDS	NA	1676	1966	-	NA
+	JAIEIFKM_01908	CDS	COG2946	2011	3354	-	[L] Putative phage replication protein RstA 
+1144
+	JAIEIFKM_01909	CDS	COG0477	132	1349	+	[GEPR] Permeases of the major facilitator superfamily
+	JAIEIFKM_01910	CDS	NA	1346	1477	+	NA
+1145
+	JAIEIFKM_01911	CDS	COG0438	1705	2829	+	[M] Glycosyltransferase     
+1146
+	JAIEIFKM_01912	CDS	COG0644	327	1988	+	[C] Dehydrogenases (flavoproteins)    
+1147
+	JAIEIFKM_01913	CDS	NA	2076	2570	-	NA
+1148
+	JAIEIFKM_01914	CDS	COG5295	158	1960	-	[UW] Autotransporter adhesin    
+1149
+	JAIEIFKM_01915	CDS	NA	2072	2632	-	NA
+			NA				NA
+			NA				NA
+1150
+	JAIEIFKM_01918	CDS	NA	67	498	-	NA
+	JAIEIFKM_01919	CDS	COG3210	514	1488	-	[U] Large exoproteins involved in heme utilization
+			NA				NA
+1151
+	JAIEIFKM_01921	CDS	NA	220	336	-	NA
+1152
+	JAIEIFKM_01922	CDS	NA	472	882	-	NA
+	JAIEIFKM_01923	CDS	NA	886	1353	-	NA
+			NA				NA
+1153
+	JAIEIFKM_01925	CDS	ROG5189	235	498	-	NA
+	JAIEIFKM_01926	CDS	NA	517	1149	-	NA
+			NA				NA
+			NA				NA
+1154
+	JAIEIFKM_01929	CDS	ROG3486	212	640	-	NA
+	JAIEIFKM_01930	CDS	COG4382	621	1055	-	[S] Mu-like prophage protein gp16  
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+1155
+	JAIEIFKM_01935	CDS	COG3039	106	444	+	[L] Transposase and inactivated derivatives, IS5 family
+1156
+	JAIEIFKM_01936	CDS	NA	508	987	-	NA
+1157
+	JAIEIFKM_01937	CDS	ROG5580	49	267	+	NA
+1158
+	JAIEIFKM_01938	CDS	NA	583	807	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
