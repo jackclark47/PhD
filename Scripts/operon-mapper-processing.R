@@ -93,7 +93,7 @@ gene_anno <- function(file, isolate){
   return()
 }
 
-gene_anno(formatted_file, '53930')
+#gene_anno(formatted_file, '53930')
 #Function to identify which contig of an open assembly contains the operon for the current iteration
 contig_finder <- function(file, gene_ID, isolate){
   gene_ID_number <- as.numeric(substr(gene_ID, start = nchar(gene_ID)-4, stop = nchar(gene_ID)))
@@ -117,13 +117,12 @@ contig_finder <- function(file, gene_ID, isolate){
   }
 }
 
-contig_finder(formatted_file, formatted_file$IdGene[i], '53948')
+#contig_finder(formatted_file, formatted_file$IdGene[i], '53948')
 
-test <- read.delim('~/Documents/PhD/PhD/operon_mapper_res/27509_operons/ORFs_coordinates_1658703', header = FALSE)
+#test <- read.delim('~/Documents/PhD/PhD/operon_mapper_res/27509_operons/ORFs_coordinates_1658703', header = FALSE)
 
+#isolate <- '53930'
 
-isolate <- '53930'
-isolate_list <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
 main <- function(isolate_list){
   write.xlsx(x = NA, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos.xlsx')
   for(isolate in isolate_list){
@@ -134,4 +133,5 @@ main <- function(isolate_list){
   }
 }
 
+isolate_list <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
 main(isolate_list)
