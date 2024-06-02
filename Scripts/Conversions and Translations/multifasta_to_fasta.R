@@ -19,10 +19,11 @@ main <- function(multifasta, outdir){
 #Function to extract the isolate id and locus tag from the names of each sequence
 truncate_ids <- function(seq_names){
   out <- c()
-  pattern = paste('(?<=', str_escape('+'), '[:space:])[:graph:]+', sep = '')
+  pattern <- paste('(?<=', str_escape('+'), '[:space:])[:graph:]+', sep = '')
+  isolate_pattern <- '[:alnum:]+(?=[:punct:])'
   for(name in seq_names){
     locustag <- str_extract(name, pattern)
-    isolate <- substr(name, start = 1, stop = 5)
+    isolate <- str_extract(name, isolate_pattern)
     newname <- paste(isolate, locustag, sep = '_')
     out <- c(out, newname)
   }
