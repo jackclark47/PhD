@@ -135,5 +135,3 @@ main <- function(isolate_list){
 }
 
 main(isolate_list)
-
-#Check 53930
