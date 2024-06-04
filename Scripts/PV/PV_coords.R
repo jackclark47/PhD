@@ -135,3 +135,4 @@ main <- function(PV_loci){
 }
 
 out <- main(PV_loci)
+write.xlsx(out, file = '~/Documents/PhD/PhD/PhasomeIt_data/test_coords.xlsx')
