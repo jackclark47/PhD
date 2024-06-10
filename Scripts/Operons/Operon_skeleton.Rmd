@@ -1,0 +1,129 @@
+---
+title: "Operon preprocessing"
+author: "Jack Clark"
+date: "2024-06-06"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy()
+```
+
+### Preprocessing the data
+
+#### Reading .xlsx files
+
+Often when looking at data we can't just dive straight into statistical comparisons and plotting information. In this case, where we're comparing multiple sets of data covering different aspects of the same thing (operons and expression data in the same genes, and later flanking region variation data in those genes too) its even more important to preprocess to make sure everything matches up and can be compared. This can involve reformatting, renaming data entries or column names, filtering data etc. This all falls under the umbrella of preprocessing.
+
+Lets load our libraries and the expression data for later - change the filepath for the expression data to the location on your own computer. An error in the pubmlst ids in the expression data means that there is a space at the end of many of the ids. Later, we will want to match ids in the operon data with the ids in the RNAseq data, and when checking if strings match, the extra space means R won't realise identical ids are the same e.g. 'NEIS2001' == 'NEIS2001&nbsp;' evaluates to FALSE. To correct this we can use a function from the stringr package called str_trim(), which removes spaces at the start and end of a string.
+
+```{r}
+library(openxlsx) #for manipulating .xlsx files
+library(stringr) #For additional string manipulation
+library(ggplot2) #For nice graphs
+library(ggpubr) #To display stats tests on ggplots
+
+#Load expression data
+rnaseq <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet = 8)[-1,]
+
+#Correct the id names
+rnaseq$`1717.genes` <- str_trim(rnaseq$`1717.genes`)
+```
+
+Now read in the operon data and save it as opdata. To begin with we'll just look at one isolate, 27509 (sheet 2). You can follow the same approach we used to load the expression data.
+
+```{r, eval=FALSE}
+opdata <- 
+```
+
+It's a good idea to view the structure, column names, cell entries etc of any data frame you load into R. While there are functions to display this output to the console (such as colnames(), dim() and head()), I tend to find it's more informative to open the data frame in a new window within RStudio. To do this you can click the name of the data frame in the Environment window.
+
+#### Operon number normalisation
+
+The last bit of preprocessing is to correct the operon numbering. Currently the operon numbers dont increase by 1 consistently. This is because the dataset originally had many more operons, but these were filtered out because they only contained 1 gene.
+
+Write a for loop that moves line by line through opdata. Try to do this without looking at the script I sent you last Tuesday. You'll need to fill in the two if statements and add a new value to new_operons. You'll then need to update the previous_operon object before the next iteration of the loop runs.
+
+```{r, eval=FALSE}
+
+new_operons <- c(1) #Stores the new operon numbers for each row
+previous_operon <- opdata$Operon[1] #Initialise previous operon as the value of the first entry in opdata$Operon
+
+#Construct the loop here
+for(i in 2:nrow(opdata)){
+  current_operon <- opdata$Operon[i]
+  #Check if the current operon number is the same as the previous. If so, add the last value of new_operons in to new_operons again
+  if( ){
+    new_operons <-
+  }
+  #if they're different, take the last value of new_operons, increase its value by one, and add it to the end of new_operons
+  if( ){
+    new_operons <- 
+  }
+  
+  #Update previous_operon here
+  
+}
+
+
+```
+
+Now that we have a vector containing all the new operon numbers, we need to replace the numbers in the opdata$Operon column with those in new_operons. Remember that individual colummns of a dataframe are just vectors of data. Because we have looped through every row in the dataframe we know that or new_operons object has the same number of elements as the Operon column. We can check this below to be sure. 
+
+```{r, eval=FALSE}
+length(new_operons) == length(opdata$Operon)
+#Should be TRUE!
+```
+
+As they are the same length, we know that we can replace each entry in the Operon column without missing any. The way you change an entire column at the same time is simply by assigning it a new value. If you assign the values of a new vector to an old one, R matches the indices in both, so the first entry in old_vector becomes the first entry in new_vector etc. This is why its important to check the lengths are the same, as R will just skip entries in the old_vector that have no corresponding entry in new_vector without throwing an error or warning message.
+
+```{r, eval=FALSE}
+opdata$Operon <- new_operons 
+```
+
+
+#### Initial statistics
+
+With the preprocessing done, we can begin looking at our data. First, write a few lines of code to obtain some basic information about the data:
+
+1. How many operons do we have?
+2. How many genes are contained in operons?
+3. What is the average number of genes per operon?
+4. How many genes does the rnaseq dataset contain?
+5. What proportion of genes in the rnaseq are operonic?
+
+```{r}
+#1.
+
+#2.
+
+#3.
+
+#4.
+
+#5.
+```
+
+
+#### Challenge
+
+See if you can make a function called operon_preprocessing() that performs these preprocessing steps. The function should take a single input, sheet_num, and perform the processing on the given sheet in the operon data .xlsx file. The function should print() the basic information above and return() the data frame containing the operon data.
+
+To take this further you can make a second function called main(), which takes opdata as its only argument and loops through every sheet except the first. Don't worry about returning anything from this function yet. This is just a practice of writing functions and using custom functions inside others.
+
+Remember you've already written nearly all the code for operon_preprocessing() already, and the extra code for main() will just be a loop that runs preprocessing once per sheet.
+
+```{r, eval=FALSE}
+preprocessing <- function(sheetnum){
+  
+}
+```
+
