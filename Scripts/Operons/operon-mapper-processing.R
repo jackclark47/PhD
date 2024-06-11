@@ -1,6 +1,8 @@
 #This script corrects the formatting of operon_mapper outputs, before annotating all hits with PUBMLST IDs
+library(dplyr)
+library(rBLAST)
 
-#Function to correct formatting and remove single gene operons
+#FunctiorBLAST#Function to correct formatting and remove single gene operons
 formatter <- function(file){
   removables <- c()
   #Add operon numbers to each row and identify rows containing only operon numbers
@@ -48,6 +50,7 @@ gene_anno <- function(file, isolate){
   #Create output dataframe
   out <- file
   out$pubmlst_id <- NA
+  out$contig <- NA
   
   genome_seq <- read.fasta(paste('~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/', isolate, '.fasta', sep = ''), as.string = TRUE)
   blast_db <- blast(db="~/Documents/PhD/PhD/N_meningitidis_loci/translations/BLAST_db/coding.fsa", type = 'blastp')
@@ -55,6 +58,7 @@ gene_anno <- function(file, isolate){
     
     #Identify the contig containing the operon
     contig_number <- contig_finder(file, file$IdGene[i], isolate)
+    out$contig[i] <- contig_number
     gene_start <- file$PosLeft[i]
     gene_end <- file$postRight[i]
     gene_sequence <- DNAStringSet(substr(genome_seq[contig_number], gene_start, gene_end))
@@ -82,11 +86,11 @@ gene_anno <- function(file, isolate){
   }
   
   #Write output to an xlsx with the name of the isolate
-  wb <- loadWorkbook('~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos.xlsx')
+  wb <- loadWorkbook('~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx')
   addWorksheet(wb, isolate)
   writeData(wb, sheet = isolate, out)
-  saveWorkbook(wb, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos.xlsx', overwrite = TRUE)
-  print(paste('Writing operons for isolate ', isolate, 'to operon_mapper_annos.xlsx', sep = ''))
+  saveWorkbook(wb, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx', overwrite = TRUE)
+  print(paste('Writing operons for isolate ', isolate, 'to operon_mapper_annos_contigs.xlsx', sep = ''))
   print('iteration finished')
   print('===============')
   print('===============')
@@ -124,7 +128,7 @@ contig_finder <- function(file, gene_ID, isolate){
 #isolate <- '53930'
 
 main <- function(isolate_list){
-  write.xlsx(x = NA, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos.xlsx')
+  write.xlsx(x = NA, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx')
   for(isolate in isolate_list){
     print(paste('Beginning iteration for isolate', isolate))
     file <- read.xlsx(paste('~/Documents/PhD/PhD/operon_mapper_res/', isolate, '_operons/list_of_operons_', isolate, '.xlsx', sep = ''))
