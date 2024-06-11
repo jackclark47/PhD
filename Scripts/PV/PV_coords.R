@@ -30,6 +30,32 @@ for(i in 1:length(PV_loci)){
 }
 missing
 
+#Also find loci for which there is a file for the sequence, but the sequence is empty in every isolate
+files <- list.files('~/Documents/PhD/PhD/PhasomeIt_data/PV_loci/PV_fastas')
+filesizes <- file.size(files)
+files <- cbind(files, filesizes)
+
+files <- as.data.frame(files)
+temp <- str_extract(files$files, '[:graph:]+(?=.fasta)')
+files$files <- str_extract(temp, '(?<=[:punct:])[:alnum:]+')
+#Order by id
+files <- files[order(files$files),]
+
+missingseq <- c()
+for(i in seq(1,length(files$files), by = 9)){
+  filesizes <- files$filesizes[i:(i+8)]
+  print(filesizes)
+  if(all(as.numeric(filesizes) < 30)){
+    print(files$files[i])
+    missingseq <- c(missingseq, files$files[i])
+  }
+  print('======')
+}
+missingseq
+
+filesizes <- c(1,2,3,4,5,6,7,8)
+all(filesizes < 7)
+x == TRUE
 missing
 #remove missing loci from PV_loci
 indices <- which(PV_loci %in% missing)
