@@ -8,14 +8,15 @@ library(gggenomes)
 MC58 <- read_gbk("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/MC58.gbff")
 MC58fas <- read.fasta("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/MC58.fasta", as.string = T)
 
+N222 <- read_gbk("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/Annotations/N222.2/N222.2.gbff")
+N222fas <- read.fasta("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/N222.2.fasta", as.string = T)
 
-
-get_seq <- function(gene){
-  start <- MC58$start[which(MC58$feat_id == gene)]
-  stop <- MC58$end[which(MC58$feat_id == gene)]
-  strand <- MC58$strand[which(MC58$feat_id == gene)]
-
-  seq <- substr(MC58fas, start = start, stop = stop)
+get_seq <- function(gene, gbk, fasta){
+  start <- gbk$start[which(gbk$feat_id == gene)]
+  stop <- gbk$end[which(gbk$feat_id == gene)]
+  strand <- gbk$strand[which(gbk$feat_id == gene)]
+  
+  seq <- substr(fasta, start = start, stop = stop)
   if(strand == '-'){
     seq <- reverseComplement(DNAString(seq))
   }
@@ -23,5 +24,12 @@ get_seq <- function(gene){
   return(as.character(seq))
 }
 
+
+'log2-fold expression change'
+
 gene <- 'gene-NMB0442'
-get_seq(gene)
+get_seq(gene, MC58, MC58fas)
+
+gene <- 'cds-N222_01730'
+get_seq(gene, N222, N222fas)
+get_seq
