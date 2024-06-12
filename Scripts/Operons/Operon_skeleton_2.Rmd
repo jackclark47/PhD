@@ -404,6 +404,7 @@ main <- function(sheetnums){
 ```
 
 Congratulations! We have now:
+
 * formatted opdata to make it more readable and easily iterated over
 * Added expression change data to opdata
 * Identified significantly differently expression genes and operons containing them within opdata
