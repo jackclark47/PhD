@@ -1831,7 +1831,10 @@ will tell us if an operon contains a significant gene. We can add new
 columns to R very simply by calling the dataframe, subsetting it by a
 column with the name we want, and assigning it some value, often NA for
 a new column e.g. my_data$new_column_name &lt;- NA. This creates a new
-column at the end of my_data full of NA values.</p>
+column at the end of my_data full of NA values. In this case we will
+assign the initial values as 0, because this represents a nonsignificant
+gene/operon and we simply change this assumed value to a 1 for any gene
+or operon we find is significant.</p>
 <p>Remember the format of the dataframe is that each gene in an operon
 has its own row, so there will be many cases where an individual gene is
 not significant, but the operon containing it has a significant gene.
@@ -1841,9 +1844,9 @@ having a 0 in their sig_gene column.</p>
 returns TRUE or FALSE. You’ll need an if statement using this and if it
 returns TRUE, save the operon number to sig_operons</p>
 <pre class="r"><code>#Add an empty column to opdata to store whether a given *gene* is significant, as this will allow us to plot later
-opdata$sig_gene &lt;- NA
+opdata$sig_gene &lt;- 0
 #Repeat but to store whether an *operon* contains at least one significant gene
-opdata$sig_operon &lt;- NA
+opdata$sig_operon &lt;- 0
 
 
 #Construct the for loop
@@ -1946,6 +1949,64 @@ significant gene and genes in operons lacking any sig hits.</li>
 </ol>
 <p>See if you can recreate the ggplot statement above to view the
 significant operons instead of the significant genes</p>
+<pre class="r"><code>#Plotting code here</code></pre>
+</div>
+<div id="automate-for-each-isolate" class="section level4">
+<h4>Automate for each isolate</h4>
+<p>We’ve got our process down, now we should make two new functions to
+automate the addition of expression data and the plotting we’re
+doing.</p>
+<p>First, make a function called find_sig_operons() that takes opdata as
+a parameter. The function should find the significant genes in the
+rnaseq dataset, add sig_gene and sig_operon columns to opdata and
+populate them with 0s and 1s, add expression data as another column,
+before finally returning opdata. Again you can reuse almost all the code
+from before</p>
+<pre class="r"><code>find_sig_operons(){
+  
+  
+}</code></pre>
+<p>Before we make our second function, lets add find_sig_operons() to
+our main function we made before. We will also move our write.xlsx()
+code outside of preprocessing() and directly into main() at the end of
+the loop. This allows us to more easily add things to opdata before
+writing the .xlsx and having to keep moving statements around.</p>
+<pre class="r"><code>main &lt;- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata &lt;- preprocessing(sheetnum)
+    opdata &lt;- find_sig_operons(opdata)
+    
+    write.xlsx(paste(&#39;your/file/path/operons_&#39;, sheetnum, &#39;.xlsx&#39;, sep=&#39;&#39;))
+  }
+}</code></pre>
+<p>Now make a function called sig_plots() which takes both opdata and
+sheetnum as parameters. Again you can reuse most of your code. However,
+when plots are made within a custom function, they are not printed to
+RStudios plot window unless you return() or print() them. This function
+will be run 8 times and thats quite a few plots to have to look at in
+the plot window and then manually save. To automate the saving of plots
+as pdf files, we can use the pdf() and dev.off() functions. pdf() comes
+before the function that creates the plot, and dev.off() comes straight
+after the plot is created. In our case that would be before/after the
+last plot_grid() function. dev.off() takes no arguments. pdf() takes a
+file name, which you will have to make generalised by using paste() and
+sheetnum, as well as width, and height, of the plot in inches. I
+recommend playing around with pdf() and dev.off() to save plots before
+making the function so you can see if they work for you.</p>
+<pre class="r"><code>sig_plots &lt;- function(){
+  
+}</code></pre>
+<p>With all that done, finally update main one more time.</p>
+<pre class="r"><code>main &lt;- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata &lt;- preprocessing(sheetnum)
+    opdata &lt;- find_sig_operons(opdata)
+    
+    ###Add the plot function here. Does it return anything? Does it need assigning to a variable?
+    
+    write.xlsx(paste(&#39;your/file/path/operons_&#39;, sheetnum, &#39;.xlsx&#39;, sep=&#39;&#39;))
+  }
+}</code></pre>
 </div>
 <div id="create-sig_opdata" class="section level4">
 <h4>Create sig_opdata</h4>
@@ -1996,11 +2057,19 @@ The last coordinate will be the last coordinate of the last gene in the
 operon. One approach is to loop not through every row, but through every
 operon, and each iteration will extract just the rows of opdata that
 have that operon number. This will use a which() statement to index
-opdata.</p>
+opdata. We also need to keep in mind which strand the sequence is on. If
+our operon is on the reverse strand, the first and last coordinates need
+to be reversed. Fortunately for us, strandedness is saved as a column in
+opdata</p>
 <pre class="r"><code>get_coordinates &lt;- function(operon_number, sig_opdata){
   
   #subset opdata to get all the rows that contain the operon number input to this function. You need to fill in the which and the columns you want to extract
   operon &lt;- sig_opdata[which(),]
+  
+  #Find the coordinates here. Think about how you might do this - a for loop isnt necessary here
+  
+  
+  #Swap the start and stop coordinates if the operon is on the reverse strand. 
   
   #Return a vector of the coordinates and contig number
   return(c(start, stop, contig))
@@ -2018,6 +2087,8 @@ handling DNA sequences. We will load those packages before writing this
 function.</p>
 <pre class="r"><code>#Load the seqinr package to read and write fasta files
 library(seqinr)
+#Load Biostrings to let us reverse complement sequences
+library(Biostrings)
 
 extract_seqs &lt;- function(start, stop, opnum, isolate){
   filepath &lt;- paste(&#39;path/to/isolate/fastas/&#39;, isolate, &#39;.fasta&#39;, sep=&#39;&#39;)
@@ -2026,6 +2097,10 @@ extract_seqs &lt;- function(start, stop, opnum, isolate){
   #Write some code to extract the sequence. read.fasta just loads a sequence in as a string so you can manipulate it with the usual functions
   operonseq &lt;- 
   
+    
+  #If our operon is on the reverse strand, we should reverse complement the sequence before saving it. See if you can find the function that does this (they often have intuitive names!)
+    
+    
     
   write.fasta(sequences = operonseq, names = paste(isolate, &#39;_operon_&#39;, opnum, &#39;:&#39;, start, &#39;-&#39;, stop, sep = &#39;&#39;))
 }</code></pre>
@@ -2040,6 +2115,50 @@ operon, and then writes the sequence to a fasta file</p>
   #You will need a for loop here to loop through each operon number. Then feed that operon number into get_coordinates, and use the output as input to extract_seqs
   
 }</code></pre>
+</div>
+<div id="update-main-again" class="section level4">
+<h4>Update main (again!)</h4>
+<p>We can put all of these functions into main again so that we can just
+run a single function and have it do all of this for us. We will be
+writing a lot of fasta files so we should think about where we save
+them. Its best to keep like files in the same place and away from other
+files that arent immediately related or likely to be used in the same
+operation. So we should keep our .fasta sequences in their own
+directory. You may have already done this but if you haven’t its worth
+doing so now before we start making hundreds/thousands of files! Make
+sure your file paths are all correct in the extract_seqs function.</p>
+<pre class="r"><code>main &lt;- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata &lt;- preprocessing(sheetnum)
+    opdata &lt;- find_sig_operons(opdata)
+    sig_plots(opdata)
+    
+    #We can write the excel file here before saving the operon sequences as the subsequent functions dont alter opdata
+    write.xlsx(paste(&#39;your/file/path/operons_&#39;, sheetnum, &#39;.xlsx&#39;, sep=&#39;&#39;))
+    
+    #Make sig_opdata here
+    #sig_opdata &lt;- 
+      
+    #Add the find_operons function here
+    
+  }
+}</code></pre>
+<p>Congratulations! We have now: * formatted opdata to make it more
+readable and easily iterated over * Added expression change data to
+opdata * Identified significantly differently expression genes and
+operons containing them within opdata * Made some initial plots
+comparing signficant genes/operons against their nonsignificant
+counterparts * Extracted the sequences of every operon for every isolate
+and saved them as fasta files</p>
+<p>In the next set of sessions we will investigate the conservation of
+operons across isolates using the BLAST. How we do this depends on the
+number of sequences we have, but more than likely we will need to
+approach this programmatically. We will discard any operons that arent
+present in more than a few isolates. We can then identify the variation
+in the flanking regions of the operons by finally incorporating our FR
+variation dataset.</p>
+<p>After that we will investigate expression within operons - checking
+if the genes of an operon correlate in their expression changes.</p>
 </div>
 </div>
 

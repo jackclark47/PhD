@@ -155,16 +155,16 @@ for (variable in vector) {
 
 ```
 
-Now that we have a list of significant loci, we can identify operons that contain at least one of them. Write another for loop that checks if an operon contains a locus in the sig_loci vector. This time, instead of saving operon numbers in a new vector, we'll be adding two new columns to opdata and entering values of 0 or 1 in each column to signify nonsignificant/significant. The first column, sig_gene will tell us if an individual gene is significant or not. The second column, sig_operon, will tell us if an operon contains a significant gene. We can add new columns to R very simply by calling the dataframe, subsetting it by a column with the name we want, and assigning it some value, often NA for a new column e.g. my_data$new_column_name <- NA. This creates a new column at the end of my_data full of NA values.
+Now that we have a list of significant loci, we can identify operons that contain at least one of them. Write another for loop that checks if an operon contains a locus in the sig_loci vector. This time, instead of saving operon numbers in a new vector, we'll be adding two new columns to opdata and entering values of 0 or 1 in each column to signify nonsignificant/significant. The first column, sig_gene will tell us if an individual gene is significant or not. The second column, sig_operon, will tell us if an operon contains a significant gene. We can add new columns to R very simply by calling the dataframe, subsetting it by a column with the name we want, and assigning it some value, often NA for a new column e.g. my_data$new_column_name <- NA. This creates a new column at the end of my_data full of NA values. In this case we will assign the initial values as 0, because this represents a nonsignificant gene/operon and we simply change this assumed value to a 1 for any gene or operon we find is significant.
 
 Remember the format of the dataframe is that each gene in an operon has its own row, so there will be many cases where an individual gene is not significant, but the operon containing it has a significant gene. These cases should still contain a 1 in their sig_operon column despite having a 0 in their sig_gene column.
 
 Hint: x %in% y checks if object x is contained in vector y and returns TRUE or FALSE. You'll need an if statement using this and if it returns TRUE, save the operon number to sig_operons
 ```{r, eval=FALSE}
 #Add an empty column to opdata to store whether a given *gene* is significant, as this will allow us to plot later
-opdata$sig_gene <- NA
+opdata$sig_gene <- 0
 #Repeat but to store whether an *operon* contains at least one significant gene
-opdata$sig_operon <- NA
+opdata$sig_operon <- 0
 
 
 #Construct the for loop
@@ -193,8 +193,6 @@ Now lets add expression data to the opdata object to allow easier plotting. Agai
 We using a function called which() to do this. which() takes a conditional statement, just like those you've been using inside if() statements, and returns the indices of every element in a vector that the statement is TRUE for. 
 
 e.g. which(c(10,20,30,30) == 30) will return c(3, 4) because the elements of the vector c(10,20,30,30) which equal 30 are in positions 3 and 4. Remember that we can use the position of an element to extract it from a vector by indexing. so if we then run c(10,20,30,30)[c(3,4)] we will return the values 30 and 40. This can be written in one line by running c(10,20,30,30)[which(c(10,20,30,30) == 30)], because the indices returned by the which() function are immediately passed into the indexing brackets to extract the datapoints we want.
-
-
 
 ```{r, eval=FALSE}
 #Add a column called log_exp to opdata, with NA as the initial values
@@ -246,6 +244,60 @@ As we haven't assigned the output of ggplot() to an object, the plot is immediat
 See if you can recreate the ggplot statement above to view the significant operons instead of the significant genes
 ```{r, eval=FALSE}
 
+#Plotting code here
+
+```
+
+#### Automate for each isolate
+
+We've got our process down, now we should make two new functions to automate the addition of expression data and the plotting we're doing.
+
+First, make a function called find_sig_operons() that takes opdata as a parameter. The function should find the significant genes in the rnaseq dataset, add sig_gene and sig_operon columns to opdata and populate them with 0s and 1s, add expression data as another column, before finally returning opdata. Again you can reuse almost all the code from before
+
+```{r, eval=FALSE}
+find_sig_operons(){
+  
+  
+}
+
+
+```
+
+Before we make our second function, lets add find_sig_operons() to our main function we made before. We will also move our write.xlsx() code outside of preprocessing() and directly into main() at the end of the loop. This allows us to more easily add things to opdata before writing the .xlsx and having to keep moving statements around.
+
+```{r,eval=FALSE}
+main <- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata <- preprocessing(sheetnum)
+    opdata <- find_sig_operons(opdata)
+    
+    write.xlsx(paste('your/file/path/operons_', sheetnum, '.xlsx', sep=''))
+  }
+}
+```
+
+Now make a function called sig_plots() which takes both opdata and sheetnum as parameters. Again you can reuse most of your code. However, when plots are made within a custom function, they are not printed to RStudios plot window unless you return() or print() them. This function will be run 8 times and thats quite a few plots to have to look at in the plot window and then manually save. To automate the saving of plots as pdf files, we can use the pdf() and dev.off() functions. pdf() comes before the function that creates the plot, and dev.off() comes straight after the plot is created. In our case that would be before/after the last plot_grid() function. dev.off() takes no arguments. pdf() takes a file name, which you will have to make generalised by using paste() and sheetnum, as well as width, and height, of the plot in inches. I recommend playing around with pdf() and dev.off() to save plots before making the function so you can see if they work for you.
+
+```{r,eval=FALSE}
+sig_plots <- function(){
+  
+}
+```
+
+
+With all that done, finally update main one more time.
+
+```{r, eval=FALSE}
+main <- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata <- preprocessing(sheetnum)
+    opdata <- find_sig_operons(opdata)
+    
+    ###Add the plot function here. Does it return anything? Does it need assigning to a variable?
+    
+    write.xlsx(paste('your/file/path/operons_', sheetnum, '.xlsx', sep=''))
+  }
+}
 ```
 
 #### Create sig_opdata
@@ -260,6 +312,7 @@ Save the output in an object called sig_opdata.
 
 ```
 
+
 ### Extracting operon DNA sequences
 
 With all of this done, we should move on to some more involved analysis. We have done the above steps for one isolate and returned a data frame. We need to check if the operons identified in this isolate are conserved in the other isolates. We can use BLAST to align a query sequence against a subject sequence. In this case we will want to align the sequence of each operon with the whole genome of each isolate. We currently do not have the DNA sequences of the operons so we will need to get them. What we do have is the whole genome of each isolate, and the coordinates of each operon. As there are many operons and many isolates to go through, it makes sense to break this task up in to chunks by using functions.
@@ -268,13 +321,18 @@ First we will make a function that moves through opdata to find the coordinates 
 
 #### Find coordinates of an operon
 
-To make a function that obtains the coordinates and contig of a given operon, we will need to loop through opdata. The first coordinate of the operon will be the first coordinate of the first gene in a given operon. The last coordinate will be the last coordinate of the last gene in the operon. One approach is to loop not through every row, but through every operon, and each iteration will extract just the rows of opdata that have that operon number. This will use a which() statement to index opdata.
+To make a function that obtains the coordinates and contig of a given operon, we will need to loop through opdata. The first coordinate of the operon will be the first coordinate of the first gene in a given operon. The last coordinate will be the last coordinate of the last gene in the operon. One approach is to loop not through every row, but through every operon, and each iteration will extract just the rows of opdata that have that operon number. This will use a which() statement to index opdata. We also need to keep in mind which strand the sequence is on. If our operon is on the reverse strand, the first and last coordinates need to be reversed. Fortunately for us, strandedness is saved as a column in opdata
 
 ```{r, eval=FALSE}
 get_coordinates <- function(operon_number, sig_opdata){
   
   #subset opdata to get all the rows that contain the operon number input to this function. You need to fill in the which and the columns you want to extract
   operon <- sig_opdata[which(),]
+  
+  #Find the coordinates here. Think about how you might do this - a for loop isnt necessary here
+  
+  
+  #Swap the start and stop coordinates if the operon is on the reverse strand. 
   
   #Return a vector of the coordinates and contig number
   return(c(start, stop, contig))
@@ -289,6 +347,8 @@ Now we can make a function that takes a pair of coordinates and the contig numbe
 
 #Load the seqinr package to read and write fasta files
 library(seqinr)
+#Load Biostrings to let us reverse complement sequences
+library(Biostrings)
 
 extract_seqs <- function(start, stop, opnum, isolate){
   filepath <- paste('path/to/isolate/fastas/', isolate, '.fasta', sep='')
@@ -297,6 +357,10 @@ extract_seqs <- function(start, stop, opnum, isolate){
   #Write some code to extract the sequence. read.fasta just loads a sequence in as a string so you can manipulate it with the usual functions
   operonseq <- 
   
+    
+  #If our operon is on the reverse strand, we should reverse complement the sequence before saving it. See if you can find the function that does this (they often have intuitive names!)
+    
+    
     
   write.fasta(sequences = operonseq, names = paste(isolate, '_operon_', opnum, ':', start, '-', stop, sep = ''))
 }
@@ -314,3 +378,38 @@ find_operons(isolate, sig_opdata){
 }
 ```
 
+
+
+#### Update main (again!)
+
+We can put all of these functions into main again so that we can just run a single function and have it do all of this for us. We will be writing a lot of fasta files so we should think about where we save them. Its best to keep like files in the same place and away from other files that arent immediately related or likely to be used in the same operation. So we should keep our .fasta sequences in their own directory. You may have already done this but if you haven't its worth doing so now before we start making hundreds/thousands of files! Make sure your file paths are all correct in the extract_seqs function.
+
+```{r, eval=FALSE}
+main <- function(sheetnums){
+  for(sheetnum in sheetnums){
+    opdata <- preprocessing(sheetnum)
+    opdata <- find_sig_operons(opdata)
+    sig_plots(opdata)
+    
+    #We can write the excel file here before saving the operon sequences as the subsequent functions dont alter opdata
+    write.xlsx(paste('your/file/path/operons_', sheetnum, '.xlsx', sep=''))
+    
+    #Make sig_opdata here
+    #sig_opdata <- 
+      
+    #Add the find_operons function here
+    
+  }
+}
+```
+
+Congratulations! We have now:
+* formatted opdata to make it more readable and easily iterated over
+* Added expression change data to opdata
+* Identified significantly differently expression genes and operons containing them within opdata
+* Made some initial plots comparing signficant genes/operons against their nonsignificant counterparts
+* Extracted the sequences of every operon for every isolate and saved them as fasta files
+
+In the next set of sessions we will investigate the conservation of operons across isolates using the BLAST. How we do this depends on the number of sequences we have, but more than likely we will need to approach this programmatically. We will discard any operons that arent present in more than a few isolates. We can then identify the variation in the flanking regions of the operons by finally incorporating our FR variation dataset. 
+
+After that we will investigate expression within operons - checking if the genes of an operon correlate in their expression changes.
