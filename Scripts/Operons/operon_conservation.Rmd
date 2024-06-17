@@ -1,0 +1,25 @@
+---
+title: "Operon_conservation"
+author: "Jack Clark"
+date: "2024-06-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Last time we reformatted our data, performed some preliminary analysis, and obtained the sequences of each significant operon in each isolate. What we need to do now is get a master spreadsheet of each operon with the following format:
+
+Operon number |  27509   |  27553   | 28262
+------------- |  -----   |  -----   | -----
+      1       |    5     |    4     |  4
+      2       |    2     |    2     |  2
+      3       |    2     |    2     |  2
+      4       |    4     |    4     |  3
+
+
+```{r}
+
+```
+
