@@ -4,7 +4,7 @@ author: "Jack Clark"
 date: "2024-06-14"
 output: html_document
 ---
-
+just set high coverage and id, find the corresponding operon numebr in the database and see if they both have the same genes and same number of them 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -18,6 +18,126 @@ Operon number |  27509   |  27553   | 28262
       3       |    2     |    2     |  2
       4       |    4     |    4     |  3
 
+The isolate name columns will be the number of genes that isolate contains for that operon. By doing this we can get the same operon numbers for each operon across the isolates (currently operon 1 in 27553 is not the same as operon 1 in 53930). We will also add columns for Exp(MAX/MIN), qval, up_igr, down_igr, a list of gene names, coordinates in each isolate, and any other potentially useful information we think of along the way.
+
+But before we can get to all of that there we need to finish our graphing. Last week we made two plots for each isolate - change in expression vs sig_gene and change in expression vs sig_operon. We can also plot sig_operon vs the change in expression averaged over all the genes in that operon. To do this we will need to loop over each operon and take the mean expression for it. We can just add mean_exp as a column to our dataframe
+
+
+```{r}
+#Load in opdata (not sig_opdata) using read.xlsx
+
+
+
+#Add a new column to opdata
+opdata$mean_exp_change <- NA
+
+#Loop over each operon, find the mean change in expression from the existing column and add the result to each row of that operon
+
+
+
+
+#Now plot mean_exp_change against sig_operon. In this case, as we are plotting averaged expression over entire operons, 
+#we only want one row for each operon to be included in our plot, as adding more will bias any stats tests we run 
+#by artificially increasing our sample size. You'll need to use unique() to remove duplicates during the plotting
+
+#Copy your ggplot code from before here - if you want, try to get all three plots side by side in the same figure.  
+
+
+
+```
+
+With that done, the next step for us is to check the conservation of each operon. We will just use sig_opdata for this as we aren't too interested in nonsignificant operons and as there's so many, including them will have a noticeable increase in the time it takes our computers to run the BLAST searches. The first step for us here is to combine all the operon fasta files you made last week for a given isolate into one single fasta file, sometimes referred to as a multifasta. Then we can make databases of each multifasta file to run our BLAST queries against. We will use isolate 53930 as the reference isolate because it is one of the two isolates used to make the hybrid genome I mentioned last week (N222.1.2).
+
+Lets write some code to convert individual fasta files to multifastas. You'll want to make sure all the fasta files for a given isolate are located in separate directories. The simplest layout for this would be something like:
+
+fasta_files/
+|
+|---27509/
+|
+|---27553/
+
+and so on.
+```{r}
+###Here we will convert your individual fasta files to multifastas assuming that directory structure is present on your computer
+
+#Function to take all the files in a given directory and combine them
+multifasta <- function(filepath){
+  #Get a list of the full paths to every file in the current folder
+  files <- list.files(filepath, full.names = TRUE)
+  #Read every file and assign to a list
+  seqs <- lapply(files, readDNAStringSet)
+  #run c() on each element of the list, combining them to a single DNAStringSet object
+  seqs <- do.call(c, seqs)
+  #Write the sequence - feel free to make the filename iterable (maybe include a vector of isolate names in the loop and add them as an argument to this function?)
+  writeXStringSet(seqs, paste(filepath, '/test.fasta', sep =''))
+}
+
+#Enter the path to your equivalent of fasta_files/ 
+dirpath = ''
+
+#Loop through every directory and combine the files
+for(dir in list.dirs(dirpath, recursive=FALSE)){
+  multifasta(dir)
+}
+```
+
+
+Now we can make blast databases out of each multifasta. It might be an idea to put all the multifastas in their own directory somewhere so all the blast dbs are in one place. You will want to make a loop to go through each file and run makeblastdb() on it
+
+```{r}
+#Set to the location of the multifastas
+filepath = ''
+#Get a list of each file name
+multifastas <- list.files(filepath,full.names= TRUE)
+
+#Make blast databases of each file using a for loop. The function needed is makeblastdb() You need to input each file to it and specify the type of database you want
+
+```
+
+Thats all the preliminary work done - lets move on to actually running some BLAST queries. 
+
+The first thing we should do is run a practice BLAST search to see what the output looks like.
+
+```{r}
+#Load one of the databases using the path to it
+db <- blast(db = '', type = 'blastn')
+#Obtain an operon sequence to read in 
+operons <- readDNAStringSet()
+opseq <- operons[1]
+
+predict(db, opseq, type = 'blastn') 
+```
+
+
+Hopefully there is a match and you get an output. Take note of the columns outputted. We're most interested in the sseqid, pident, length, and e-value. If we were running BLAST against the full isolate genome then we'd be interested in sstart and send as well to get the operon coordinates in that genome.
+
+We can use the pident, length and e-value to filter hits; the sstart and send to get coordinates of each operon in each isolate; and sseqid to get the operon name we saved it as when writing operons to fasta files last week. We may need to redo that step to give the operons more descriptive names - the most useful name would probably be something like isolateid_operonnumber. 
+
+So thats how predict() works and what its output looks like, now we need to think about how to process these results, how to save them and what format they should take. 
+
+I think one way we can try is to initialise our master data frame using the 53930 data, and then fill in the relevant columns as we blast each 53930 operon against the other isolates. We can then look at the name of the BLAST hit and find its appropriate entry on the right sheet of opdata and copy the data across. 
+
+So lets make that dataframe now. As it should be our ultimate output, lets just call it out. We want a column for opnum, pubmlst id list, number of genes per isolate, coords in all 8 isolates, expression, upstream variation and down variation. We can add more later but for now that gets us 21 columns 
+
+```{r}
+#This sigopdata should be the sheet for 53930. We want every row but not all the columns
+#Just the opnum, pubmlst id, sig_gene, exp and coords 
+
+out <- as.data.frame(matrix(data = na, nrow = nrow(sigopdata), ncol=21))
+colnames(out) <- c('opnum', 'pubmlst_ids', 'ngenes_27509', 'ngenes_27553', 'ngenes_28262', 'ngenes_28269', 'ngenes_28287', 'ngenes_53930', 'ngenes_53948', 'ngenes_53951', 'coords_27509', 'coords_27553', 'coords_28262', 'coords_28269', 'coords_28287', 'coords_53930', 'coords_53948', 'coords_53951', 'log2_exp(MAX/MIN)', 'up_igr', 'down_igr')
+
+#Now lets add the 53930 data to out. 
+
+
+```
+
+How can we break the BLAST searching and results processing into manaegable coding chunks?
+
+1. Run a BLAST search for a given operon, find the entry for the top hit in opdata and copy the data to our master data frame
+2. Using function 1., loop through every operon of 53930 and blast them against the database of a given isolate
+3. Using function 2, repeat for every other isolate.
+
+Functions 2 and 3 will be relatively straightforward loops. The real meat of this is in function 1, so lets jump in.
 
 ```{r}
 
