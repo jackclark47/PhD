@@ -2,14 +2,34 @@
 title: "Operon_conservation"
 author: "Jack Clark"
 date: "2024-06-14"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    toc_float: TRUE
 ---
-just set high coverage and id, find the corresponding operon numebr in the database and see if they both have the same genes and same number of them 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Last time we reformatted our data, performed some preliminary analysis, and obtained the sequences of each significant operon in each isolate. What we need to do now is get a master spreadsheet of each operon with the following format:
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy()
+```
+
+```{r, eval=FALSE}
+#Load libraries
+library(ggplot2)
+library(stringr)
+library(rBLAST)
+library(Biostrings)
+
+```
+
+
+### Introduction
+
+Last time we reformatted our data, performed some preliminary analysis, and obtained the sequences of each significant operon in each isolate. What we need to do now is check the conservation of each isolate using BLAST. We will store our results in a master spreadsheet with one row per operon with the following format:
 
 Operon number |  27509   |  27553   | 28262
 ------------- |  -----   |  -----   | -----
@@ -20,10 +40,12 @@ Operon number |  27509   |  27553   | 28262
 
 The isolate name columns will be the number of genes that isolate contains for that operon. By doing this we can get the same operon numbers for each operon across the isolates (currently operon 1 in 27553 is not the same as operon 1 in 53930). We will also add columns for Exp(MAX/MIN), qval, up_igr, down_igr, a list of gene names, coordinates in each isolate, and any other potentially useful information we think of along the way.
 
-But before we can get to all of that there we need to finish our graphing. Last week we made two plots for each isolate - change in expression vs sig_gene and change in expression vs sig_operon. We can also plot sig_operon vs the change in expression averaged over all the genes in that operon. To do this we will need to loop over each operon and take the mean expression for it. We can just add mean_exp as a column to our dataframe
+### Finishing up last week
+
+But before we can get to all of that there we need to finish our graphing. Last week we made two plots for each isolate - change in expression vs sig_gene and change in expression vs sig_operon. We can also plot sig_operon vs the change in expression averaged over all the genes in that operon. To do this we will need to loop over each operon and take the mean expression for it. We can then just add mean_exp as a column to our dataframe.
 
 
-```{r}
+```{r, eval=FALSE}
 #Load in opdata (not sig_opdata) using read.xlsx
 
 
@@ -46,18 +68,21 @@ opdata$mean_exp_change <- NA
 
 ```
 
+
+### Operon conservation analysis
+
+#### Making multiFASTAs 
+
 With that done, the next step for us is to check the conservation of each operon. We will just use sig_opdata for this as we aren't too interested in nonsignificant operons and as there's so many, including them will have a noticeable increase in the time it takes our computers to run the BLAST searches. The first step for us here is to combine all the operon fasta files you made last week for a given isolate into one single fasta file, sometimes referred to as a multifasta. Then we can make databases of each multifasta file to run our BLAST queries against. We will use isolate 53930 as the reference isolate because it is one of the two isolates used to make the hybrid genome I mentioned last week (N222.1.2).
 
 Lets write some code to convert individual fasta files to multifastas. You'll want to make sure all the fasta files for a given isolate are located in separate directories. The simplest layout for this would be something like:
 
-fasta_files/
-|
-|---27509/
-|
-|---27553/
+file/path/fasta_files/  
+file/path/fasta_files/27509/  
+file/path/fasta_files/27553/  
 
 and so on.
-```{r}
+```{r, eval=FALSE}
 ###Here we will convert your individual fasta files to multifastas assuming that directory structure is present on your computer
 
 #Function to take all the files in a given directory and combine them
@@ -81,10 +106,11 @@ for(dir in list.dirs(dirpath, recursive=FALSE)){
 }
 ```
 
+#### Make blast databases
 
-Now we can make blast databases out of each multifasta. It might be an idea to put all the multifastas in their own directory somewhere so all the blast dbs are in one place. You will want to make a loop to go through each file and run makeblastdb() on it
+Now we can make blast databases out of each multifasta. It might be an idea to put all the multifastas in their own directory somewhere so all the blast dbs are in one place. You will want to make a loop to go through each file and run makeblastdb() on it.
 
-```{r}
+```{r, eval=FALSE}
 #Set to the location of the multifastas
 filepath = ''
 #Get a list of each file name
@@ -96,9 +122,11 @@ multifastas <- list.files(filepath,full.names= TRUE)
 
 Thats all the preliminary work done - lets move on to actually running some BLAST queries. 
 
+#### Run a test query
+
 The first thing we should do is run a practice BLAST search to see what the output looks like.
 
-```{r}
+```{r, eval=FALSE}
 #Load one of the databases using the path to it
 db <- blast(db = '', type = 'blastn')
 #Obtain an operon sequence to read in 
@@ -111,35 +139,171 @@ predict(db, opseq, type = 'blastn')
 
 Hopefully there is a match and you get an output. Take note of the columns outputted. We're most interested in the sseqid, pident, length, and e-value. If we were running BLAST against the full isolate genome then we'd be interested in sstart and send as well to get the operon coordinates in that genome.
 
-We can use the pident, length and e-value to filter hits; the sstart and send to get coordinates of each operon in each isolate; and sseqid to get the operon name we saved it as when writing operons to fasta files last week. We may need to redo that step to give the operons more descriptive names - the most useful name would probably be something like isolateid_operonnumber. 
+We can use the pident, length and e-value to filter hits and sseqid to get the operon name we saved it as when writing operons to fasta files last week. We may need to redo that step to give the operons more descriptive names - the most useful name would probably be something like isolateid_operonnumber. 
+
+#### Initialise the master dataframe
 
 So thats how predict() works and what its output looks like, now we need to think about how to process these results, how to save them and what format they should take. 
 
 I think one way we can try is to initialise our master data frame using the 53930 data, and then fill in the relevant columns as we blast each 53930 operon against the other isolates. We can then look at the name of the BLAST hit and find its appropriate entry on the right sheet of opdata and copy the data across. 
 
-So lets make that dataframe now. As it should be our ultimate output, lets just call it out. We want a column for opnum, pubmlst id list, number of genes per isolate, coords in all 8 isolates, expression, upstream variation and down variation. We can add more later but for now that gets us 21 columns 
+So lets make that dataframe now. As it should be our ultimate output, lets just call it out. We want a column for opnum, pubmlst id list, number of genes per isolate, coords in all 8 isolates, expression, qval, upstream variation and down variation. We can add more later but for now that gets us 22 columns.
 
-```{r}
+```{r, eval=FALSE}
 #This sigopdata should be the sheet for 53930. We want every row but not all the columns
 #Just the opnum, pubmlst id, sig_gene, exp and coords 
 
-out <- as.data.frame(matrix(data = na, nrow = nrow(sigopdata), ncol=21))
-colnames(out) <- c('opnum', 'pubmlst_ids', 'ngenes_27509', 'ngenes_27553', 'ngenes_28262', 'ngenes_28269', 'ngenes_28287', 'ngenes_53930', 'ngenes_53948', 'ngenes_53951', 'coords_27509', 'coords_27553', 'coords_28262', 'coords_28269', 'coords_28287', 'coords_53930', 'coords_53948', 'coords_53951', 'log2_exp(MAX/MIN)', 'up_igr', 'down_igr')
+#Read in sigopdata for 53930
 
-#Now lets add the 53930 data to out. 
 
+#Initialise out and set column names
+out <- as.data.frame(matrix(data = NA, nrow = nrow(sigopdata), ncol=22))
+colnames(out) <- c('opnum', 'pubmlst_ids', 'ngenes_27509', 'ngenes_27553', 'ngenes_28262', 'ngenes_28269', 'ngenes_28287', 'ngenes_53930', 'ngenes_53948', 'ngenes_53951', 'coords_27509', 'coords_27553', 'coords_28262', 'coords_28269', 'coords_28287', 'coords_53930', 'coords_53948', 'coords_53951', 'log2_exp(MAX/MIN)', 'q_val', 'up_igr', 'down_igr')
+
+###Now lets add the 53930 data to out. We want one row in out for each operon so need to collapse the opdata rows
+for(i in 1:length(unique(sig_opdata$opnum))){
+  #Get all rows with the current operon number, i.
+  operon <- sig_opdata[which(sig_opdata$opnum == i),]
+  
+  #out$opnum is just i thanks to how we define it in the loop
+  out$opnum[i] <- i
+  
+  #ngenes_53930 is column 8 and will just be the number of rows in operon
+  out$ngenes_53930 <- nrow(operon)
+  
+  #pubmlst ids is trickier - we need to combine the ids on multiple rows
+  ids <- operon$pubmlst_ids
+  ids <- paste(ids, collapse=';')
+  out$pubmlst_ids[i] <- ids
+  
+  #coords is also less simple, we need to combine the start and stop coords as well as the contig
+  #Lets format it like: contig:start-stop
+  contig <- operon$contig[1]
+  start <- operon$start[1] #Take first start coord
+  stop <- operon$stop[nrow(operon)] #take last stop coord
+  #join them all up in our format
+  coords <- paste(contig, ':', start, '-', stop, sep='')
+  out$coords_53930[i] <- coords
+  
+  #log2_exp(MAX/MIN) is similar to pubmlst ids
+  exp <- operon$exp
+  exp <- paste(exp, collapse=';')
+  out$`log2_exp(MAX/MIN)`[i] <- exp
+  
+  #qvals are the same
+  qvals <- operon$q_values
+  qvals <- paste(qvals, collapse=';')
+  out$q_val[i] <- qvals
+}
 
 ```
 
-How can we break the BLAST searching and results processing into manaegable coding chunks?
+That gets us the all the most important data for 53930 operons, and also gets the main expression data for for each gene in each operon, which we only need to do once, as its the same across all isolates. We will add the igr information later.
 
-1. Run a BLAST search for a given operon, find the entry for the top hit in opdata and copy the data to our master data frame
-2. Using function 1., loop through every operon of 53930 and blast them against the database of a given isolate
-3. Using function 2, repeat for every other isolate.
+#### blast
 
-Functions 2 and 3 will be relatively straightforward loops. The real meat of this is in function 1, so lets jump in.
+How can we break the BLAST searching and results processing into manageable coding chunks?
 
-```{r}
+1. A function to format rows for an operon in sigopdata and copy them to our master dataframe
+2. Run a BLAST search for a given operon, find the entry for the top hit in opdata and find the relevant rows of sigopdata
+3. Using function 2., loop through every operon of 53930 and blast them against the database of a given isolate
+4. Using function 3., repeat for every other isolate.
+
+##### op_format
+
+Functions 3 and 4 will be relatively straightforward loops. The real meat of this is in function 2. We want to run a BLAST search for a given operon against specific isolate and then find the entry for the top BLAST hit in sig_opdata for that isolate and find the rows containing it. The row information is then entered into function 1 for formatting and copying into out. So function 1 needs to take as input some row numbers, sig_opdata, out, and the row of out to copy the data to. It may also be useful to give it the isolate name, or perhaps the iteration of the loop, but thats always something we can go back and change if we need to depending on the other functions. Fortunately, we've already done some of this formatting in the previous step when adding the 53930 data to out. See if you can use the previous code to make this function. There will be some minor changes - for example, the above code goes through every operon, while we want this function to just take the rownums of one operon and format just those, copying them into the correct row of out. 
+
+```{r, eval=FALSE}
+#Define our function
+op_format <- function(rownums, sig_opdata, out, out_row){
+  
+  
+  #Return out so that it stays updata and can be iterated over with each loop in the higher functions we will make soon
+  return(out)
+}
+```
+
+##### op_blast
+Given our description above, function 2 will need to take sig_opdata and the current operon, and then also take out and out_row to pass that information to op_format. We also need the filename of the operon that we'll BLAST, as well as the blast database. We'll load the blast database in function 3, as we'll use the same one for every iteration until function 4 loops to a new isolate. This will save us processing time having to load in a database only 7 times (one per isolate except 53930) instead of thousands of times (7 isolates * ~ 400 operons).
+
+Using the earlier BLAST example, see if you can load in the given operon sequence as a DNAStringSet and run a BLAST query against blastdb. The full results should be assigned to an object called res. We will want to take only the top hit forward, and check if that hit has a good E score and coverage and id with our query sequence. If so, we should take the operon number from its name and pass that information to op_format. Unfortunately, rblast doesnt give us a coverage value - we just get given the length of the matching region, so we have to calculate coverage ourselves. You can do this by dividing the length of the result by the length of the query and getting a percentage. 
+
+I think initially we should set our filters to be:
+
+* id: >= 75%
+* coverage: >= 85%
+* E score: < 0.00001
+
+Why these arbitrary values?
+
+E score is a measure of how many matches of similar quality to the current match would you expect to have obtained by chance. It is dependent on the size of your database and the length of your query sequence. Our databases are very small and the sequences quite long so the odds of any long match being contained in the database are extremely small. We also expect our sequences to be in the database so ultimately its not super relevant, but we should be fairly stringent with our E value cutoff just so we dont get fragments of alignments showing up in our results.
+
+Coverage - we want our coverage value fairly high because we want to make sure the entire operon is conserved, allowing for minor deletions/insertions or large changes in sequence cutting off our alignment.
+
+ID - We dont know how similar the operons are, although we know the isolates are closely related so wouldnt expect many sequence changes. 75% feels like a reasonable figure that ensures quite a close match whilst allowing for substitutions, contig breaks near the ends of the operon, insertions or deletions etc. 
+
+We can always look at our outputs at the end of this process and try changing these cutoffs if we have lots of missing entries. Once we get a hit we will need to extract the operon number from it - this depends on the format we used to save our file names. The way we do that is by using what are known as regular expressions - these are strings which match patterns in larger strings and can be used to more precisely manipulate text. for example, the regular expression '[:alnum:]' just matches with the first alphanumeric character in a search string. '[:alnum:]+' searches for any string with at least one alphanumeric character. We'll go through this together when you get to that point as they can get quite complex and, at least for me, were rather intimidating when first coming across them. 
+
+```{r, eval=FALSE}
+op_blast <- function(opnum, sig_opdata, out, out_row, blastdb, filename){
+  
+}
+
+```
+
+##### all_op_blast
+
+Function 3 will loop through every operon of 53930 and blast it against a given isolate, so it will need to take sig_opdata for a given isolate
+
+```{r, eval=FALSE}
+all_op_blast <- function(sig_opdata){
+  
+}
+```
+
+##### main
+
+Finally we can just loop through every isolate and return write out to a new file
+
+```{r, eval=FALSE}
+main <- function(){
+  isolates <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951') #still include 53950 as it makes it easier to select the right columns in our dataframe
+  #Just include an if statement to skip the current iteration of the loop if the isolate is 53930
+  
+  #Loop through isolates here, load the sig_opdata for the current one and pass that input to all_op_blast
+  
+  
+  
+  #Write out to a file
+
+}
+```
+
+Now you can run main() and see if you get any errors. I would expect that for the first run, there will be quite a few. We havent yet accounted for cases where our BLAST search fails to return any matches, or for potential NA values obtained from other means. There could also be typos in the code, differences in column names, file names not matching what we think they should, etc. But we can go back and improve our code bit by bit to solve any error messages. This code will likely take quite some time to run due to the volume of blast searches. If a blast search takes 3 seconds, and we have 400 sequences times 7 isolate databases, thats 2800 searches each taking 3 seconds, so 8400 seconds, which is 140 minutes. I would recommend running this overnight or over lunch, depending on what time you get to this point. 
+
+
+Now we've filled out most of the data in out, we should open it in excel and check if it looks like how we'd expect. We should check the formatting, that each column contains what we think it should and in the format it should, and that each row seems right. 
+
+We should look for any differences in the number of genes for a given operon/row, as that could indicate something wrong with our code, especially if its common, or (hopefully more likely) that some isolates are missing certain genes or that they werent detected by the operon prediction software. We could potentially go in and manually investigate and change these. 
+
+
+### Add flanking variation data
+
+We havent yet incorporated the variation data in any of our operon work thus far, so lets finally change that here and finish filling the last two columns of out. 
+
+To do this we will need to get the first and last genes in the operon and find the upstream and downstream variation, respectively, for them in the fr variation dataset. We can then add that info to the dataframe and then we should, hopefully, be finally ready to try and correlate expression with variation in the operons.
+
+For now, lets assume the first id in pubmlst_ids is the upstream, and the last is the downstream, and just get instances where the first genes are the same in all isolates for that operon, and likewise for the last genes.
+
+```{r, eval=FALSE}
+#Read in igr data
+
+
+#Loop through each row of out, extract the first and last id and find the row for those ids in the igr data
+
+
+
+
 
 ```
 
