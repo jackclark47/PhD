@@ -86,10 +86,10 @@ gene_anno <- function(file, isolate){
   }
   
   #Write output to an xlsx with the name of the isolate
-  wb <- loadWorkbook('~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx')
+  wb <- loadWorkbook('~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigstest.xlsx')
   addWorksheet(wb, isolate)
   writeData(wb, sheet = isolate, out)
-  saveWorkbook(wb, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx', overwrite = TRUE)
+  saveWorkbook(wb, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigstest.xlsx', overwrite = TRUE)
   print(paste('Writing operons for isolate ', isolate, 'to operon_mapper_annos_contigs.xlsx', sep = ''))
   print('iteration finished')
   print('===============')
@@ -128,7 +128,7 @@ contig_finder <- function(file, gene_ID, isolate){
 #isolate <- '53930'
 
 main <- function(isolate_list){
-  write.xlsx(x = NA, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigs.xlsx')
+  write.xlsx(x = NA, file = '~/Documents/PhD/PhD/operon_mapper_res/operon_mapper_annos_contigstest.xlsx')
   for(isolate in isolate_list){
     print(paste('Beginning iteration for isolate', isolate))
     file <- read.xlsx(paste('~/Documents/PhD/PhD/operon_mapper_res/', isolate, '_operons/list_of_operons_', isolate, '.xlsx', sep = ''))
