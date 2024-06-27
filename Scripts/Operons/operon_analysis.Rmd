@@ -1,0 +1,193 @@
+---
+title: "Operon_analysis"
+author: "Jack Clark"
+date: "2024-06-25"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy()
+```
+
+We're finally in a position to analyse the dataset! Within the broader study, we have identified a number of genes which were significant in an rnaseq experiment. Of these, we've identified which ones have igr variation and which do not.
+
+One of the major aims of our study is to characterise this dataset and identify potential causes of significant changes in gene expression. We have previously identified the significant genes in the rnaseq dataset and identified which of those contain igr variation and which do not. For genes that do contain igr variation we are thinking that that variation may be the cause of the significant difference in gene expression, but for genes with no igr variation we need to find some other explanation for why they show a significant expression difference. 
+
+Remember that our isolates were all grown in the same environment so any differences in expression should be caused by genetic changes. Some potential explanations for why a gene may be signficant but not have igr variation are that it may have coding variation; be phase variable; be regulated by a regulator that has genetic variation; or be in an operon. 
+
+So our goal with this operon datset is to get an idea of how many genes are contained in operons and how many rna significant genes are in the operon data, (we've done this!), and then see how many operons have igr variation that could be causing the significant change - if we observe this then we might conclude that all the genes in that operon are being influenced by igr variation, and this is especially useful if a middle gene of the operon is significant and has no igr variation.
+
+
+Lets load in our main spreadsheet with which we'll be doing analysis, as well as sigopdata for 53930
+
+```{r, eval=FALSE}
+#Load libraries for the script
+library(openxlsx)
+library(ggplot2)
+library(ggsignif)
+
+#Load data
+opdata_53930
+op_summary
+```
+
+I think the first thing we should do is try to split the operons into a number of categories. 
+
+* Operons with igr variation
+* Operons without igr variation
+* 2 gene operons
+* 3-5 gene operons
+* 6+ gene operons
+* Operons with only 1 significant gene
+* Operons with 2 significant genes
+* Operons with 3 or more significant genes
+
+These categories aren't mutually exclusive and are looking at three different things - igr variation, operon length, number of significant genes. That information will help us break down the dataset and characterise it. We can then take operons with all significant genes and see what the biological function of the genes within the operon are. Another interesting thing we might want to look at are the really long operons - I noticed a handful containing 11 or 12 genes, which is very long and thus potentially worth taking a look at. 
+
+### Data completeness
+
+Before we get on to that, lets try and look at how many of our operons are missing at least one bit of igr variation, and what proportion of the operons contain the same number of genes in every isolate, as those are perhaps the most comparable.
+
+```{r,eval=FALSE}
+#Initialise an object to store the operon numbers of operons missing one or more igrs 
+
+#Loop through each row in the data and check to see if at least one of the igr columns is NA for that row. add the operon number to the igr missing object if so
+
+
+
+
+#Initialise a new object to store the names of operons where all ngene columns are the same
+
+#Loop through each row again, but this time check for operons where every n_genes column is the same
+#I would get the ngenes number for 53930 and check all the others equal that
+
+
+
+```
+
+How many significant operons do we have in total?
+
+How many are missing at least 1 igr?
+
+How many contain the same number of genes in every isolate?
+
+
+### Grouping
+
+Now lets categorise our operons. Once we do this we can look to see how many are contained in each category and potentially move outside RStudio and begin researching individual operons and genes.
+
+Lets begin by finding operons that do or do not contain igr variation
+
+```{r, eval=FALSE}
+#Initialise three variables that store the operon numbers of operons that contain up, down or no igr variation
+up_variable
+down_variable
+non_variable
+
+#Loop through each row of the table and identify operons containing igr variation based on the numbers in their igr column being different
+
+#up and down variable should not be mutually exclusive groups
+
+
+
+
+```
+
+How many non variable operons are there?
+
+How many operons have variation in their downstream igr?
+
+How many have variation in their upstream igr?
+
+
+Now lets split the operons based on the number of genes they contain. We should have a few variables here:
+* 2 gene operons
+* 3-5 gene operons
+* 6+ gene operons
+* Ambiguous operons - where ngenes isnt consistent and would put the operon in more than one category
+
+To do this you could loop through each row of the dataframe. For each row, get a vector of the number of genes per isolate and check if they all fall within the same category, minus the NAs. If they do then assign the appropriate category, if they dont, assign them to the ambiguous group - these ones we maybe have to double check manually to see if we can define a group; identify a mistake in the operon calling tool etc.
+
+You could check if each ngene column fits in a category e.g. 3-5 genes, like so:
+all(na.omit(operon) %in% c(3,4,5))
+where operon is a vector of ngene columns.
+
+To get a vector of the columns you need to index the data frame to obtain a single row and just the columns of interest and then run unlist(as.vector(x)) on that subset.
+ 
+```{r, eval = FALSE}
+#Initialise 4 variables to store the categories - these will take the operon numbers
+
+#Loop through each row and obtain a vector of n_genes for the current row
+
+
+#Multiple if statements, to check for each category. If an operon belongs to none of the 3 categories, assign it to the ambiguous group
+
+
+```
+
+How large is each category? Depending on the sizes of each we may adjust the boundaries of each group.
+
+
+Lets group the dataset by numbers of significant genes. We dont have information on which genes are significant in our summary dataframe, but we do have that information in the 53930 opdata, so we'll have to get an operon number in the summary data, find the rows in sigopdata that match that operon number, then count how many 1s are in the sig_gene column of those rows. Depending on the answer we can then assign the operon to a category:
+
+* 1 sig gene, 2 gene operon
+* 1 sig gene, 3-5 gene operon
+* 1 sig gene, 6+ gene operon
+* 2 sig genes, 2 gene operon
+* 2 sig genes, 3-5 gene operon
+* 2 sig genes, 6+ gene operon
+* 3+ sig genes, 3-5 gene operon
+* 3+ sig genes, 6+ gene operon
+
+Depending on the sizes of each group we may combine some e.g. all the 1 sig genes, but lets stick with this for now
+
+```{r, eval=FALSE}
+#Loop through each row once more
+
+  #Get the operon number
+
+  #Find rows in opdata that contain this operon number. Extract the sig_gene column only
+
+  #Count how many 1s are in the sig_gene column
+
+  #Check which group this operon number belongs to, 2 gene, 6+ etc. and assign to a combined group based on that and its sig gene count
+
+
+
+```
+
+
+How many genes are in each category? Do you think we should combine some?
+
+Finally, how many sig genes are contained in operons with igr variation? You'll need to write some code for this, indexing sigopdata based on the presence of their operon numbers in the igr_operons vector and counting the number of 1s in the sig_genes column. 
+
+
+### Identify and investigate interesting operons
+
+This may well be the end of the bulk of our programming and what remains is to investigate the most interesting operons by looking at their functions and the expression values of each locus in the operon and how they change with the isolate. if they correlate then thats really good e.g. if in operon 110 isolate 27509 consistently has the highest expression in all genes of the operon. Its unlikely we'll see many if any cases where exactly that is true, but we should be trying to find cases close to that ideal scenario. 
+
+How do we choose interesting operons? We do this using the categories we've just made. One purpose of these categories is to characterise the dataset, but another use of them is to find interesting operons. Operons with many signficant genes are potentially interesting, so we can look at the operons in the 2 sig genes, 2 gene operon, and both 3+ gene categories as a first priority. Operons with igr variation are also interesting. We are hoping that the number of operons without igr variation is as small as possible but its unlikely to be the case. 
+
+How do we investigate interesting operons after choosing them? sigopdata has a COG category column describing predicted functions of the genes in each operon. We can look at those COG categories and the funcitons they describe and think about the potential relevance of that function to the biological context of our study - these isolates were being carried by people, so are any of the functions potentially relevant to infection or disease? Just looking at the functions in general is really useful but picking out particularly relevant functions is extra good. We want to find cases where there are significant changes in expression driven by igr variation in genes of importance to disease, and just characterise which genes are seeing variation in a short time frame of carriage in a small number of hosts. We might expect to see among our variable genes loci encoding outer membrane proteins, where variability is important for things like immune evasion, for example. 
+
+To check the correlation of expression across isolates for a locus you'll need to look at the rnaseq dataset and note any correlation you see. Do the genes of an operon match up in their expression? do most of the genes have the highest expression in a particular isolate?
+
+
+
+To go back to some programming - one thing we can do is plot the average logfold changes in expression for each operon just like we did last week, but instead of grouping by sig_operon=1 or sig_operon=0, we will take just the sig_operons and group them by igr variation or no igr variation. We can then do the same but split the igr variation category into 3 more groups - up, down, both. 
+
+```{r}
+#You can copy over a lot of the mean_opdata graphing code here
+```
+
+
+
+
