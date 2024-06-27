@@ -27,9 +27,9 @@ get_seq <- function(gene, gbk, fasta){
 x <- as.character(2)
  'log2-fold expression change'
 
-gene <- 'gene-NMB0383'
+gene <- 'gene-NMB1374'
 get_seq(gene, MC58, MC58fas)
 
-gene <- 'cds-N222_01730'
+gene <- 'cds-N222_00206'
 get_seq(gene, N222, N222fas)
 
