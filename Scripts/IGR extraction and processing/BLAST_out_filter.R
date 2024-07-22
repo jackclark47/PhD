@@ -7,9 +7,6 @@ library(seqinr)
 #setwd to the file containing BLAST outputs
 setwd("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/BLAST_sequences/reference_allele_seqs/BLAST_out/")
 
-#PV ids 
-PV_genes <- c("NEIS", "NEIS", "NEIS")
-
 #First step is to get a list of loci that had no hits and delete the files for them to make future loops run faster. 
 #Keep a list of removed loci
 removables <- vector(length = length(table(file.size(list.files()))[1])) #Initialise vector of removables of length equal to the number of files of size 0
