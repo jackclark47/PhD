@@ -31,12 +31,13 @@ summarise <- function(locus, PV, rna){
   rnadata <- as.vector(unlist(as.numeric(as.vector(rnadata[,c(1,2,4,3,6,5,7,8)]))))
   summary <- cbind(PVdata, rnadata)
   rownames(summary) <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
-  print(locus)
+
   summary <- as.data.frame(summary)
   summary <- summary[order(summary$PVdata),]
+  
   colnames(summary) <- c('pv_tract', 'expression')
   return(summary)
 }
 
-summarise('NEIS0363', PV, Exp)
+summarise('NEIS1750', PV, Exp)
 
