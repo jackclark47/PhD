@@ -6,7 +6,7 @@ library(openxlsx)
 coding_var <- read.xlsx("~/Downloads/all8_all_loci_genome_comparator.xlsx", sheet = 2, colNames = TRUE)
 #2217 loci total
 nrow(coding_var)/2217 * 100 #38.0% of all loci have coding region variation
-
+nrow(coding_var)
 
 #Load FR variable genes from FR data
 FR_var <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 3)

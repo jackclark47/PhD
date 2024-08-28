@@ -11,15 +11,15 @@ library(openxlsx)
 library(ggpubr)
 library(dplyr)
 library(stringr)
-setwd("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data")
+setwd("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data")
 
 #Read in data
-log2hits <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8) #Change this depending on if you want log(EXP/MIN > 2 (sheet 10), include reads < 50 (sheet 9), or all loci (sheet 8))
-noVar <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 2)
-upVar <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 6)
-downVar <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 5)
-lowVar <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 4)
-highVar <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 7)
+log2hits <- read.xlsx("~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8) #Change this depending on if you want log(EXP/MIN > 2 (sheet 10), include reads < 50 (sheet 9), or all loci (sheet 8))
+noVar <- read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 2)
+upVar <- read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 6)
+downVar <- read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 5)
+lowVar <- read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 4)
+highVar <- read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx", sheet = 7)
 
 #noVar, loci with no IGR variation
 #upVar, loci with variation only in their upstream IGR
@@ -160,8 +160,12 @@ length(nomatch) #120 significant rna hits had no igr variation or were not conta
 nloci <- 2272 #390 or 2272
 #How many loci are variable in at least one IGR?
 #How many aren't variable at all?
-RNA_loci <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8)[-c(1),]
-RNA_loci <- log2hits #enable if using only significant rnaseq loci
+RNA_loci <- read.xlsx("~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8)[-c(1),]
+for(i in 1:length(RNA_loci$`1717.genes`)){
+  RNA_loci$`1717.genes`[i] <- str_trim(RNA_loci$`1717.genes`[i])
+}
+
+#RNA_loci <- log2hits #enable if using only significant rnaseq loci
 Varcount = 0 #Initialise counts of each type of locus for the full dataset, not just significant hits
 noVarcount = 0
 NAcount = 0 
@@ -268,6 +272,7 @@ wilcox.test((plotdata$log2fold.change[plotdata$VarGroup == 'lowVar']), plotdata$
 #Optionally remove 'NoMatch
 
 ###
+table(plotdata$VarGroup)
 
 
 mycomparisons <- list(c("downVar", "NoVar"), c("highVar", "NoVar"), c("lowVar", "NoVar"), c("upVar", "NoVar"),  c("highVar", "downVar"))
