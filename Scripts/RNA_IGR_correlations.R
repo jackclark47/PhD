@@ -277,7 +277,7 @@ table(plotdata$VarGroup)
 
 mycomparisons <- list(c("downVar", "NoVar"), c("highVar", "NoVar"), c("lowVar", "NoVar"), c("upVar", "NoVar"),  c("highVar", "downVar"))
 #Make plot
-ggplot(plotdata, aes(x = VarGroup, y = log2fold.change, color = VarGroup)) +
+ggplot(na.omit(plotdata), aes(x = VarGroup, y = log2fold.change, color = VarGroup)) +
   geom_boxplot(outlier.shape = NA) +
   stat_summary(fun.y=mean, geom='point', shape = 0, size = 1,  color = 'black') +
   geom_jitter(shape = 16, size = 1.2, position=position_jitter(0.2)) +
@@ -295,6 +295,8 @@ ggplot(plotdata[!is.na(plotdata$Var),], aes(x = Var, y = log2fold.change, color 
   theme(axis.text = element_text(size=15), axis.title = element_text(size = 20),
         legend.text = element_text(size=15), legend.title = element_text(size = 15))
 
+wilcox.test((plotdata$log2fold.change[plotdata$Var == 'Var']), (plotdata$log2fold.change[plotdata$Var == 'NoVar']))
+wilcox.test((plotdata$log2fold.change[plotdata$VarGroup == 'downVar']), plotdata$log2fold.change[plotdata$VarGroup == 'lowVar']) #NS
 
 #####Get the same plots with any logfold change, not just logfold change > 1
 
