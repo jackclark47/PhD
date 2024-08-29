@@ -1,7 +1,7 @@
 #Read in the datasets
-Exp <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet=8)
-novar <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx', sheet = 2)
-var <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx', sheet = 3)
+Exp <- read.xlsx('~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet=8)
+novar <- read.xlsx('~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx', sheet = 2)
+var <- read.xlsx('~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx', sheet = 3)
 PV <- read.xlsx('~/Documents/PhD/PhD/PhasomeIt_data/phasomeit_out_RNAcheck.xlsx', sheet = 5)
 opdata <- read.xlsx('~/Documents/PhD/PhD/operon_mapper_res/opdata.xlsx', sheet = 6)
 op_summary <- read.xlsx('~/Documents/PhD/PhD/operon_mapper_res/operon_summary.xlsx')
@@ -100,3 +100,10 @@ nrow(opdata)
 operonic_degs <- opdata[which(opdata$pubmlst_id %in% degs$`1717.genes`),]
 nrow(operonic_degs)
 nrow(operonic_degs[which(operonic_degs$pubmlst_id %in% novar$Locus),])
+
+
+
+
+#Get info for VarGroups
+
+
