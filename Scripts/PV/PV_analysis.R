@@ -8,7 +8,7 @@
 PV <- read.xlsx("~/Documents/PhD/PhD/PhasomeIt_data/phasomeit_out_RNAcheck.xlsx",sheet = 5)[1:54,c(1:4, 18:28,31:39)]
 
 #Load expression data
-Exp <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx",sheet = 8)[-c(1),]
+Exp <- read.xlsx("~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx",sheet = 8)[-c(1),]
 #Remove whitespaces in locus names in the rna dataset
 for(i in 1:length(Exp$`1717.genes`)){
   Exp$`1717.genes`[i] <- str_trim(Exp$`1717.genes`[i])
@@ -76,31 +76,22 @@ for(i in 1:nrow(PV_coding)){
   out_coding$Name[i] <- PV_coding$Name[i]
   out_coding$Function[i] <- PV_coding$Likely.Function[i]
 
+
   Exp_data <- Exp[which(Exp$`1717.genes` == PV_coding$PubMLST_id[i]),c(15:22)]
   colnames(Exp_data) <- c('27509', '27553', '28269', '28262', '53930', '28287', '53948', '53951')
-  PV_data <- PV_coding[i, 17:24]
+  PV_data <- PV_coding[i, 16:23]
   colnames(PV_data) <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
   combined_data <- rbind(PV_data, Exp_data)
   combined_data <- as.data.frame(t(combined_data))
   colnames(combined_data) <- c('state', 'expression')
+  
+  print(PV_coding$PubMLST_id[i])
+  print(combined_data)
 
   #Convert ON/OFF to a numeric 1 or 0
-  for(j in 1:nrow(combined_data)){
-    if(is.na(combined_data$state[j])){
-      next
-    }
-    if(combined_data$state[j] == 'ON'){
-      combined_data$state[j] <- 1
-      next
-    }
-    if(combined_data$state[j] == 'OFF'){
-      combined_data$state[j] <- 0
-      next
-    }
-    if(combined_data$state[j] != 'ON' && combined_data$state[j] != 'OFF'){
-      combined_data$state[j] <- NA
-    }
-  }
+  combined_data[which(combined_data$state == 'ON'), 1] <- 1 
+  combined_data[which(combined_data$state == 'OFF'), 1] <- 0
+  combined_data[which(!(combined_data$state %in% c(1, 0))), 1] <- NA
 
   #Skip genes where all coding loci are the same
   if(length(unique(na.omit(combined_data$state))) == 1){
@@ -109,10 +100,9 @@ for(i in 1:nrow(PV_coding)){
     next
   }
   
-  #Otherwise, run a wilcox test on combined_data, ensuring both columns are numeric
+  #Otherwise, run a t test on combined_data, ensuring both columns are numeric
   combined_data$state <- as.numeric(combined_data$state)
   combined_data$expression <- as.numeric(combined_data$expression)
-  out_wilcox_test$p.value <- NA
   try(out_wilcox_test <- t.test(combined_data$expression~combined_data$state))
 
   normality <- (shapiro.test(x=as.numeric(combined_data$expression)))
@@ -140,11 +130,12 @@ for(i in 1:nrow(PV_coding)){
     ggsignif::geom_signif(comparisons = list(c('0','1')), test = 't.test')
   print(p)
   dev.off()
+  out_wilcox_test$p.value <- NA
 }
 
 absent #7 (6 unique) genes are missing from rnaseq
-no_change #14 genes (13 unique) are in the same state in every isolate containing the tract
-success #11 have a change in state
+no_change #11 genes (10 unique) are in the same state in every isolate containing the tract
+success #14 have a change in state
 
 no_change <- c()
 for(i in 1:nrow(PV_coding)){
@@ -165,20 +156,10 @@ for(i in 1:nrow(PV_coding)){
 length(unique(no_change))
 length(unique(PV_IGR$PubMLST_id))
 
-# 
-# i=7
-# PV_coding$PubMLST_id[i]
-# Exp[which(Exp$`1717.genes` == 'NEIS0213'),15:22]
-# 
-# summary(lm(expression ~ state, data = x))
-# combined_data[1,c(1:7)] <- 1
-# combined_data[1,c(7:8)] <- 0
-# x <- as.data.frame(t(combined_data))
-# x$state <- as.numeric(x$state)
-# x$expression <- as.numeric(x$expression)
-# colnames(x) <- c('state', 'expression')
-# 
-# i=1
+
+
+
+
 #For IGR tracts, perform linear regression
 out_IGR <- as.data.frame(matrix(data = NA, nrow = nrow(PV_IGR), ncol = 9))
 colnames(out_IGR) <- c('ID', 'Name', 'Function', 'PV_location', 'Status', 'Radj', 'Pval', 'MAX/MIN', 'qval')
@@ -242,9 +223,9 @@ for(i in 1:nrow(PV_IGR)){
   dev.off()
 }
 
-absent #3 entries missing from rnaseq data
-no_change #6 entries with the same trct length
-success #12 entries (11 unique) with a change
+absent #0 entries missing from rnaseq data
+no_change #7 entries with the same trct length
+success #14 entries (13 unique) with a change
 
 
 #from lm i need Radj and p value
@@ -332,9 +313,37 @@ degs <- PV[which(PV$PubMLST_id %in% PV_rna_degs$`1717.genes`),]
 
 
 
+#try out different stats tests
+locus <- 'NEIS0568'
+pglE <- PV_coding[which(PV_coding$PubMLST_id == locus),16:23]
+pglE_exp <- Exp[which(Exp$`1717.genes` == locus),15:22]
+
+colnames(pglE_exp) <- c('27509', '27553', '28269', '28262', '53930', '28287', '53948', '53951')
+
+colnames(pglE) <- c('27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
+combined_pglE <- rbind(pglE, pglE_exp)
+combined_pglE <- as.data.frame(t(combined_pglE))
+colnames(combined_pglE) <- c('state', 'expression')
+
+combined_pglE
+pglE
+pglE_exp
+
+combined_pglE[which(combined_pglE$state == 'ON'),1] <- 1
+combined_pglE[which(combined_pglE$state == 'OFF'),1] <- 0
+
+combined_pglE$state <- as.numeric(combined_pglE$state)
+combined_pglE$expression <- as.numeric(combined_pglE$expression)
+
+out_t_test <- t.test(combined_pglE$expression~combined_pglE$state)
+out_t_test
+normality <- (shapiro.test(x=as.numeric(combined_pglE$expression)))
+normality
+
+
 ###For each PV igr gene check if significantly different isolates have different igr repeats 
 #Remake rna dataframe and sort to have just our columns of interest
-rna <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8)
+rna <- read.xlsx("~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 8)
 
 #Only columns needed are the gene names in NMB and NEIS, their products, expression values, and pairwise qvalues
 rna <- rna[, c(8:10,12, 15:22, 101:156) ]
