@@ -1,9 +1,10 @@
 #function that makes a short summary table of PV and expression data for a given locus
-
+library(openxlsx)
+library(stringr)
 #Load PV data
 PV <- read.xlsx('~/Documents/PhD/PhD/PhasomeIt_data/phasomeit_out_RNAcheck.xlsx', sheet = 5)
 #Load RNA data
-Exp <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet=8)[-1,]
+Exp <- read.xlsx('~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet=8)[-1,]
 
 #Preprocess
 PV <- PV[which(!is.na(PV$PubMLST_id)),]
@@ -39,5 +40,5 @@ summarise <- function(locus, PV, rna){
   return(summary)
 }
 
-summarise('NEIS1750', PV, Exp)
+summarise('NEIS0568', PV, Exp)
 
