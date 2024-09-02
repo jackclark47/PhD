@@ -161,6 +161,9 @@ for(i in 1:nrow(df)){
     df$significant[i] <- 1
   }
   
+  if(df$RNAseq[i] == 0){
+    df$significant[i] <- NA
+  }
 }
 
 table(df$significant)  
