@@ -294,7 +294,7 @@ sig_opdata<-sig_opdata[which(sig_opdata$sig_operon==1),]
 
 #Initialise out and set column names
 
-out <- as.data.frame(matrix(data = NA, nrow = nrow(sig_opdata), ncol=22))
+out <- as.data.frame(matrix(data = NA, nrow = nrow(opdata), ncol=22))
 
 colnames(out) <- c('Operon', 'pubmlst_id', 'ngenes_27509', 'ngenes_27553', 'ngenes_28262', 'ngenes_28269', 'ngenes_28287', 'ngenes_53930', 'ngenes_53948', 'ngenes_53951', 'coords_27509', 'coords_27553', 'coords_28262', 'coords_28269', 'coords_28287', 'coords_53930', 'coords_53948', 'coords_53951', 'log2_exp(MAX/MIN)', 'q_val', 'up_igr', 'down_igr')
 
@@ -307,7 +307,7 @@ colnames(out) <- c('Operon', 'pubmlst_id', 'ngenes_27509', 'ngenes_27553', 'ngen
 for(i in 1:nrow(out)){
   
   #Get all rows with the current operon number, i.
-  operon <- sig_opdata[which(sig_opdata$Operon== i),]
+  operon <- opdata[which(opdata$Operon== i),]
   
   #out$opnum is just i thanks to how we define it in the loop
   out$Operon[i] <- i
@@ -453,7 +453,7 @@ main_blast <- function(filepath, out){
   return(out)
 }
 
-out <- main_blast('~/Documents/PhD/PhD/operon_mapper_res/only_sigop_data.xlsx', out)
+out <- main_blast('~/Documents/PhD/PhD/operon_mapper_res/opdata.xlsx', out)
 igr<-read.xlsx("~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/Correct/igrs_all.xlsx", sheet = 1)
 
 for (i in 1:nrow(out)) {
@@ -476,7 +476,7 @@ for (i in 1:nrow(out)) {
   }
   
 }
-write.xlsx(out,"~/Documents/PhD/PhD/operon_mapper_res/operon_summary.xlsx")
+write.xlsx(out,"~/Documents/PhD/PhD/operon_mapper_res/all_operon_summary.xlsx")
 
 
 #Load libraries for the script
@@ -486,8 +486,8 @@ library(ggsignif)
 library(openxlsx)
 library(stringr)
 #Load data
-opdata_53930<-read.xlsx("~/Documents/PhD/PhD/operon_mapper_res/only_sigop_data.xlsx", sheet = 6)
-op_summary<-read.xlsx("~/Documents/PhD/PhD/operon_mapper_res/operon_summary.xlsx")
+opdata_53930<-read.xlsx("~/Documents/PhD/PhD/operon_mapper_res/opdata.xlsx", sheet = 6)
+op_summary<-read.xlsx("~/Documents/PhD/PhD/operon_mapper_res/all_operon_summary.xlsx")
 
 
 #Initialise an object to store the operon numbers of operons missing one or more igrs 
@@ -671,10 +671,10 @@ mean_opdata<-function(op_summary,isolate,opdata_53930){
     op_summary$mean_exp_change[which(op_summary$Operon==i)] <- avg
   }
   op_summary<-op_summary[which(!is.na(op_summary$igr)),]
-  return(op_summary)
+
   ###Need to remove duplicate rows of an operon.
   
-  pdf(paste("~/Documents/PhD/PhD/operon_mapper_res/Figures/graph", isolate,".pdf",sep = ""))
+  pdf(paste("~/Documents/PhD/PhD/operon_mapper_res/Figures/all_operons_graph", isolate,".pdf",sep = ""))
   mean_graph<-ggplot(op_summary, aes(x=as.factor(igr), y=(as.numeric(mean_exp_change)), color = igr)) +
     geom_violin(trim = FALSE) +
     geom_boxplot(width=0.1) +
@@ -684,6 +684,8 @@ mean_opdata<-function(op_summary,isolate,opdata_53930){
   
   print(mean_graph)
   dev.off()
+  
+  return(op_summary)
 }
 
 op_summary_graphing <- mean_opdata(op_summary, 'igr_graph', opdata_53930)
