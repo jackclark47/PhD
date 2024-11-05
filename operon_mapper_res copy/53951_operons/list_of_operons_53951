@@ -1,0 +1,3086 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	IBGMHGLI_01898	CDS	COG2027	198	1724	-	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+2
+	IBGMHGLI_01899	CDS	NA	1772	2338	+	NA
+3
+	IBGMHGLI_01900	CDS	NA	322	603	+	NA
+4
+	IBGMHGLI_01901	CDS	NA	982	2115	+	NA
+			NA				NA
+5
+	IBGMHGLI_01903	CDS	COG4969	140	460	+	[NU] Tfp pilus assembly protein, major pilin
+	IBGMHGLI_01904	CDS	COG4969	652	990	+	[NU] Tfp pilus assembly protein, major pilin
+6
+	IBGMHGLI_01905	CDS	NA	1335	1556	-	NA
+			NA				NA
+			NA				NA
+7
+	IBGMHGLI_01908	CDS	COG4969	605	976	-	[NU] Tfp pilus assembly protein, major pilin
+	IBGMHGLI_01909	CDS	COG4969	1135	1584	-	[NU] Tfp pilus assembly protein, major pilin
+			NA				NA
+8
+	IBGMHGLI_01911	CDS	NA	56	487	-	NA
+	IBGMHGLI_01912	CDS	COG3210	503	1477	-	[U] Large exoproteins involved in heme utilization
+9
+	IBGMHGLI_00645	CDS	ROG1544	647	1081	+	NA
+10
+	IBGMHGLI_00646	CDS	COG1012	1129	2472	-	[C] NAD-dependent aldehyde dehydrogenases   
+	IBGMHGLI_00647	CDS	COG2095	2477	3130	-	[U] Multiple antibiotic transporter   
+11
+	IBGMHGLI_00648	CDS	COG0721	3281	3571	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	IBGMHGLI_00649	CDS	COG0154	3634	5079	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	IBGMHGLI_00650	CDS	COG2990	5076	6008	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00651	CDS	COG0064	6051	7481	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+12
+	IBGMHGLI_00652	CDS	COG0543	7573	8583	+	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+13
+	IBGMHGLI_00653	CDS	COG0259	8712	9344	-	[H] Pyridoxamine-phosphate oxidase    
+14
+	IBGMHGLI_00654	CDS	COG1187	9575	10624	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+15
+	IBGMHGLI_00655	CDS	COG0477	10693	12234	-	[GEPR] Permeases of the major facilitator superfamily
+16
+	IBGMHGLI_00656	CDS	COG1570	12845	14200	-	[L] Exonuclease VII, large subunit  
+17
+	IBGMHGLI_00657	CDS	COG0171	14427	15218	+	[H] NAD synthase    
+18
+	IBGMHGLI_00658	CDS	COG2846	15288	15761	-	[D] Regulator of cell morphogenesis and NO
+19
+	IBGMHGLI_00659	CDS	COG0526	16063	16395	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+20
+	IBGMHGLI_00660	CDS	COG1092	16448	17395	-	[R] Predicted SAM-dependent methyltransferases   
+21
+	IBGMHGLI_00661	CDS	COG0513	17724	19112	+	[LKJ] Superfamily II DNA and RNA helicases
+22
+	IBGMHGLI_00662	CDS	ROG2194	19601	20155	-	NA
+23
+	IBGMHGLI_00663	CDS	NA	20240	20740	-	NA
+24
+	IBGMHGLI_00664	CDS	COG4992	21144	22337	+	[E] Ornithine/acetylornithine aminotransferase    
+25
+	IBGMHGLI_00665	CDS	COG1219	22402	23646	-	[O] ATP-dependent protease Clp, ATPase subunit 
+26
+	IBGMHGLI_00666	CDS	COG0858	23836	24207	+	[J] Ribosome-binding factor A   
+	IBGMHGLI_00667	CDS	COG0130	24219	25163	+	[J] Pseudouridine synthase    
+27
+	IBGMHGLI_00668	CDS	COG2189	25380	25835	+	[L] Adenine specific DNA methylase Mod 
+	IBGMHGLI_00669	CDS	COG2189	26173	27546	+	[L] Adenine specific DNA methylase Mod 
+	IBGMHGLI_00670	CDS	COG3421	27536	30316	+	[S] Uncharacterized protein conserved in bacteria 
+28
+	IBGMHGLI_00671	CDS	COG1304	30460	31632	-	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+29
+	IBGMHGLI_00672	CDS	COG1959	31923	32369	+	[K] Predicted transcriptional regulator   
+	IBGMHGLI_00673	CDS	COG1104	32398	33612	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+30
+	IBGMHGLI_00674	CDS	NA	33679	33807	+	NA
+31
+	IBGMHGLI_00675	CDS	COG0822	33873	34259	+	[C] NifU homolog involved in Fe-S cluster
+	IBGMHGLI_00676	CDS	COG0316	34346	34666	+	[S] Uncharacterized conserved protein   
+32
+	IBGMHGLI_00677	CDS	COG3036	34626	34847	-	[S] Uncharacterized protein conserved in bacteria 
+33
+	IBGMHGLI_00678	CDS	COG1076	34929	35429	+	[O] DnaJ-domain-containing proteins 1   
+	IBGMHGLI_00679	CDS	COG0188	35527	38277	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+34
+	IBGMHGLI_01913	CDS	NA	223	855	+	NA
+	IBGMHGLI_01914	CDS	ROG5189	874	1137	+	NA
+35
+	IBGMHGLI_01915	CDS	NA	1432	1668	-	NA
+36
+	IBGMHGLI_01916	CDS	NA	106	1275	+	NA
+	IBGMHGLI_01917	CDS	COG1210	1323	1535	+	[M] UDP-glucose pyrophosphorylase    
+37
+	IBGMHGLI_01918	CDS	NA	209	325	-	NA
+38
+	IBGMHGLI_01919	CDS	NA	461	871	-	NA
+	IBGMHGLI_01920	CDS	NA	875	1342	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+39
+	IBGMHGLI_00680	CDS	NA	458	736	+	NA
+40
+	IBGMHGLI_00681	CDS	NA	1019	1477	+	NA
+41
+	IBGMHGLI_00682	CDS	COG2274	1689	1970	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+42
+	IBGMHGLI_00683	CDS	COG1295	1991	3247	-	[S] Predicted membrane protein   
+43
+	IBGMHGLI_00684	CDS	COG0603	3762	4421	+	[R] Predicted PP-loop superfamily ATPase  
+	IBGMHGLI_00685	CDS	ROG0407	4449	4967	+	NA
+	IBGMHGLI_00686	CDS	COG0720	4974	5396	+	[H] 6-pyruvoyl-tetrahydropterin synthase    
+44
+	IBGMHGLI_00687	CDS	NA	5505	5861	+	NA
+45
+	IBGMHGLI_00688	CDS	COG3759	6111	6482	+	[S] Predicted membrane protein   
+	IBGMHGLI_00689	CDS	COG0602	6479	7117	+	[O] Organic radical activating enzymes  
+46
+	IBGMHGLI_00690	tRNA	NA	7452	7528	-	NA
+47
+	IBGMHGLI_00691	CDS	COG1472	7609	8694	-	[G] Beta-glucosidase-related glycosidases    
+	IBGMHGLI_00692	CDS	COG1757	8751	10442	-	[C] Na+/H+ antiporter    
+	IBGMHGLI_00693	CDS	COG0265	10473	11972	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+48
+	IBGMHGLI_00694	CDS	COG0177	12110	12739	-	[L] Predicted EndoIII-related endonuclease   
+	IBGMHGLI_00695	CDS	COG1238	12785	13198	-	[S] Predicted membrane protein   
+49
+	IBGMHGLI_00696	CDS	COG0738	13788	15011	+	[G] Fucose permease    
+50
+	IBGMHGLI_00697	CDS	COG1757	15302	16681	+	[C] Na+/H+ antiporter    
+51
+	IBGMHGLI_00698	CDS	COG4535	16810	17634	-	[P] Putative Mg2+ and Co2+ transporter CorC
+	IBGMHGLI_00699	CDS	COG0319	17636	18151	-	[R] Predicted metal-dependent hydrolase   
+52
+	IBGMHGLI_00700	CDS	COG0181	18270	19205	+	[H] Porphobilinogen deaminase    
+53
+	IBGMHGLI_00701	CDS	COG1448	19609	20802	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+54
+	IBGMHGLI_00702	CDS	ROG5235	20884	21381	-	NA
+55
+	IBGMHGLI_00703	CDS	COG4391	21497	21700	+	[S] Uncharacterized protein conserved in bacteria 
+56
+	IBGMHGLI_00704	CDS	COG1620	21868	23454	-	[C] L-lactate permease    
+57
+	IBGMHGLI_00705	CDS	COG2908	23710	24444	-	[S] Uncharacterized protein conserved in bacteria 
+58
+	IBGMHGLI_00706	CDS	COG1196	24694	28179	+	[D] Chromosome segregation ATPases   
+59
+	IBGMHGLI_00707	CDS	COG1064	28530	29576	-	[R] Zn-dependent alcohol dehydrogenases   
+60
+	IBGMHGLI_00708	CDS	COG4968	29859	30248	-	[NU] Tfp pilus assembly protein PilE 
+61
+	IBGMHGLI_00709	CDS	COG0845	30474	31652	+	[M] Membrane-fusion protein    
+	IBGMHGLI_00710	CDS	COG0577	31718	33652	+	[V] ABC-type antimicrobial peptide transport system, permease
+62
+	IBGMHGLI_00711	CDS	COG1651	34065	34847	-	[O] Protein-disulfide isomerase    
+63
+	IBGMHGLI_00712	CDS	COG1198	34986	37175	+	[L] Primosomal protein N' (replication factor Y)
+64
+	IBGMHGLI_00713	CDS	NA	37221	38294	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+65
+	IBGMHGLI_00714	CDS	COG1846	552	914	-	[K] Transcriptional regulators    
+66
+	IBGMHGLI_00715	CDS	COG2084	1192	2061	-	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+67
+	IBGMHGLI_00716	CDS	COG0131	2156	3073	-	[E] Imidazoleglycerol-phosphate dehydratase    
+	IBGMHGLI_00717	CDS	COG0079	3070	4167	-	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	IBGMHGLI_00718	CDS	COG0141	4213	5502	-	[E] Histidinol dehydrogenase    
+	IBGMHGLI_00719	CDS	COG3680	5499	6398	-	[S] Uncharacterized protein conserved in bacteria 
+68
+	IBGMHGLI_00720	CDS	COG0040	6502	7155	-	[E] ATP phosphoribosyltransferase    
+69
+	IBGMHGLI_00721	CDS	COG1999	7234	7887	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+70
+	IBGMHGLI_00722	tRNA	NA	8163	8247	+	NA
+71
+	IBGMHGLI_00723	CDS	COG0028	8956	10683	+	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+	IBGMHGLI_00724	CDS	COG0440	10694	11185	+	[E] Acetolactate synthase, small (regulatory) subunit 
+72
+	IBGMHGLI_00725	CDS	COG1359	11252	11545	+	[S] Uncharacterized conserved protein   
+73
+	IBGMHGLI_00726	CDS	COG0059	11625	12638	+	[EH] Ketol-acid reductoisomerase    
+74
+	IBGMHGLI_00727	CDS	COG0078	12862	13857	-	[E] Ornithine carbamoyltransferase    
+75
+	IBGMHGLI_00728	CDS	COG1049	13999	16584	-	[C] Aconitase B    
+76
+	IBGMHGLI_00729	CDS	COG0795	16894	17964	-	[R] Predicted permeases    
+	IBGMHGLI_00730	CDS	COG0795	17961	19076	-	[R] Predicted permeases    
+77
+	IBGMHGLI_00731	CDS	COG0260	19246	20652	+	[E] Leucyl aminopeptidase    
+	IBGMHGLI_00732	CDS	COG2927	20715	21155	+	[L] DNA polymerase III, chi subunit 
+78
+	IBGMHGLI_00733	CDS	COG0545	21414	22220	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+	IBGMHGLI_00734	CDS	COG0299	22231	22953	+	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	IBGMHGLI_00735	CDS	ROG1438	22972	23640	+	NA
+79
+	IBGMHGLI_00736	CDS	COG1765	23758	24180	+	[O] Predicted redox protein, regulator of disulfide
+80
+	IBGMHGLI_00737	CDS	COG1802	24749	25465	+	[K] Transcriptional regulators    
+81
+	IBGMHGLI_00738	CDS	COG2431	25614	26516	+	[S] Predicted membrane protein   
+	IBGMHGLI_00739	CDS	COG1349	26559	27332	+	[KG] Transcriptional regulators of sugar metabolism 
+82
+	IBGMHGLI_00740	CDS	COG0008	27411	29132	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+83
+	IBGMHGLI_00741	CDS	COG0189	29225	30181	+	[HJ] Glutathione synthase/Ribosomal protein S6 modification enzyme
+84
+	IBGMHGLI_00742	CDS	COG0818	30493	30876	+	[M] Diacylglycerol kinase    
+85
+	IBGMHGLI_00743	CDS	COG2847	31169	31642	+	[S] Uncharacterized protein conserved in bacteria 
+86
+	IBGMHGLI_00744	CDS	COG0482	31768	32871	+	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+87
+	IBGMHGLI_00745	CDS	COG0318	32942	34612	+	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+88
+	IBGMHGLI_00746	CDS	COG0504	34724	36358	+	[F] CTP synthase (UTP-ammonia lyase)  
+89
+	IBGMHGLI_00747	CDS	COG3039	36607	36891	+	[L] Transposase and inactivated derivatives, IS5 family
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+90
+	IBGMHGLI_00748	CDS	COG3306	334	1176	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	IBGMHGLI_00749	CDS	NA	1218	1313	-	NA
+	IBGMHGLI_00750	CDS	COG3306	1325	2152	-	[M] Glycosyltransferase involved in LPS biosynthesis 
+	IBGMHGLI_00751	CDS	COG1215	2194	3240	-	[M] Glycosyltransferases, probably involved in cell wall
+	IBGMHGLI_00752	CDS	COG0751	3257	5320	-	[J] Glycyl-tRNA synthetase, beta subunit  
+	IBGMHGLI_00753	CDS	COG3171	5341	5751	-	[S] Uncharacterized protein conserved in bacteria 
+91
+	IBGMHGLI_00754	CDS	COG0752	5828	6733	-	[J] Glycyl-tRNA synthetase, alpha subunit  
+92
+	IBGMHGLI_00755	CDS	COG0355	7138	7560	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	IBGMHGLI_00756	CDS	COG0055	7571	8968	-	[C] F0F1-type ATP synthase, beta subunit 
+	IBGMHGLI_00757	CDS	COG0224	9006	9881	-	[C] F0F1-type ATP synthase, gamma subunit 
+	IBGMHGLI_00758	CDS	COG0056	9906	11453	-	[C] F0F1-type ATP synthase, alpha subunit 
+	IBGMHGLI_00759	CDS	COG0712	11464	11997	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	IBGMHGLI_00760	CDS	COG0711	12002	12472	-	[C] F0F1-type ATP synthase, subunit b 
+	IBGMHGLI_00761	CDS	COG0636	12543	12779	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	IBGMHGLI_00762	CDS	COG0356	12836	13702	-	[C] F0F1-type ATP synthase, subunit a 
+	IBGMHGLI_00763	CDS	COG3312	13692	14045	-	[C] F0F1-type ATP synthase, subunit I 
+93
+	IBGMHGLI_00764	CDS	COG2913	14413	14751	-	[J] Small protein A (tmRNA-binding)  
+94
+	IBGMHGLI_00765	CDS	COG1475	14887	15747	-	[K] Predicted transcriptional regulators   
+95
+	IBGMHGLI_00766	CDS	COG0163	15905	16474	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+96
+	IBGMHGLI_00767	CDS	COG1464	16536	17399	-	[P] ABC-type metal ion transport system, periplasmic
+	IBGMHGLI_00768	CDS	COG2011	17558	18244	-	[P] ABC-type metal ion transport system, permease
+	IBGMHGLI_00769	CDS	COG1135	18246	18983	-	[P] ABC-type metal ion transport system, ATPase
+97
+	IBGMHGLI_00770	CDS	COG0741	19514	21361	+	[M] Soluble lytic murein transglycosylase and related
+98
+	IBGMHGLI_00771	CDS	COG0828	21650	21862	+	[J] Ribosomal protein S21   
+	IBGMHGLI_00772	CDS	COG1610	21994	22440	+	[S] Uncharacterized conserved protein   
+99
+	IBGMHGLI_00773	CDS	COG2969	22639	23031	-	[R] Stringent starvation protein B  
+	IBGMHGLI_00774	CDS	COG0625	23103	23708	-	[O] Glutathione S-transferase    
+100
+	IBGMHGLI_00775	CDS	COG1807	23825	25486	-	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+101
+	IBGMHGLI_00776	CDS	COG4300	25632	26261	-	[P] Predicted permease, cadmium resistance protein 
+102
+	IBGMHGLI_00777	CDS	COG0254	26577	26792	-	[J] Ribosomal protein L31   
+103
+	IBGMHGLI_00778	CDS	COG1208	27030	27410	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+104
+	IBGMHGLI_00779	CDS	COG1999	27627	28115	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+	IBGMHGLI_00780	CDS	COG0824	28112	28495	-	[R] Predicted thioesterase    
+	IBGMHGLI_00781	CDS	ROG5664	28495	28857	-	NA
+105
+	IBGMHGLI_00782	CDS	COG2853	28982	29809	-	[M] Surface lipoprotein    
+	IBGMHGLI_00783	CDS	COG3113	29806	30084	-	[R] Predicted NTP binding protein (contains STAS
+	IBGMHGLI_00784	CDS	COG2854	30135	30725	-	[Q] ABC-type transport system involved in resistance
+	IBGMHGLI_00785	CDS	COG1463	30762	31256	-	[Q] ABC-type transport system involved in resistance
+	IBGMHGLI_00786	CDS	COG0767	31307	32083	-	[Q] ABC-type transport system involved in resistance
+	IBGMHGLI_00787	CDS	COG1127	32131	32931	-	[Q] ABC-type transport system involved in resistance
+106
+	IBGMHGLI_00788	CDS	COG2207	33104	34021	+	[K] AraC-type DNA-binding domain-containing proteins  
+107
+	IBGMHGLI_00789	CDS	NA	34230	34619	+	NA
+108
+	IBGMHGLI_00790	CDS	NA	34863	36305	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+109
+	IBGMHGLI_00791	CDS	COG0443	141	2069	-	[O] Molecular chaperone    
+110
+	IBGMHGLI_00792	CDS	NA	2277	2549	-	NA
+111
+	IBGMHGLI_00793	CDS	COG2932	2737	3423	+	[K] Predicted transcriptional regulator   
+112
+	IBGMHGLI_00794	CDS	COG0316	3555	3893	+	[S] Uncharacterized conserved protein   
+113
+	IBGMHGLI_00795	CDS	NA	4053	4517	+	NA
+	IBGMHGLI_00796	CDS	COG0661	4552	6063	+	[R] Predicted unusual protein kinase  
+114
+	IBGMHGLI_00797	CDS	COG1045	6420	7238	-	[E] Serine acetyltransferase    
+115
+	IBGMHGLI_00798	CDS	COG0576	7422	8000	+	[O] Molecular chaperone GrpE (heat shock protein)
+116
+	IBGMHGLI_00799	CDS	COG2991	8277	8492	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00800	CDS	COG1477	8518	9573	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	IBGMHGLI_00801	CDS	COG2871	9726	10943	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF 
+	IBGMHGLI_00802	CDS	COG2209	10957	11550	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE 
+	IBGMHGLI_00803	CDS	COG1347	11554	12180	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD 
+	IBGMHGLI_00804	CDS	COG2869	12180	12956	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC 
+	IBGMHGLI_00805	CDS	COG1805	12949	14181	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB 
+	IBGMHGLI_00806	CDS	COG1726	14184	15527	-	[C] Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA 
+117
+	IBGMHGLI_00807	CDS	COG1055	15875	17296	-	[P] Na+/H+ antiporter NhaD and related arsenite
+118
+	IBGMHGLI_00808	CDS	COG2832	17654	18013	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00809	CDS	COG3310	18010	18606	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00810	CDS	COG1522	18662	19144	-	[K] Transcriptional regulators    
+119
+	IBGMHGLI_00811	CDS	COG0404	19656	20756	+	[E] Glycine cleavage system T protein (aminomethyltransferase)
+	IBGMHGLI_00812	CDS	COG0509	20917	21303	+	[E] Glycine cleavage system H protein (lipoate-binding)
+120
+	IBGMHGLI_00813	CDS	COG0373	21450	22697	+	[H] Glutamyl-tRNA reductase    
+121
+	IBGMHGLI_00814	CDS	COG3901	23025	23546	+	[K] Regulator of nitric oxide reductase transcription
+	IBGMHGLI_00815	CDS	COG3420	23615	24634	+	[P] Nitrous oxidase accessory protein  
+	IBGMHGLI_00816	CDS	COG1131	24692	25312	+	[V] ABC-type multidrug transport system, ATPase component
+122
+	IBGMHGLI_00817	CDS	COG4314	25529	26023	+	[C] Predicted lipoprotein involved in nitrous oxide
+123
+	IBGMHGLI_00818	CDS	COG0644	26111	27772	-	[C] Dehydrogenases (flavoproteins)    
+124
+	IBGMHGLI_00819	CDS	COG3271	27902	28444	-	[R] Predicted double-glycine peptidase   
+125
+	IBGMHGLI_00820	CDS	COG3676	29742	30128	-	[L] Transposase and inactivated derivatives  
+	IBGMHGLI_00821	CDS	COG2274	30107	30358	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+126
+	IBGMHGLI_00822	CDS	NA	31336	31557	+	NA
+127
+	IBGMHGLI_00823	CDS	COG2931	32023	32307	+	[Q] RTX toxins and related Ca2+-binding proteins
+	IBGMHGLI_00824	CDS	ROG4851	32349	32843	+	NA
+	IBGMHGLI_00825	CDS	COG2931	32845	33369	+	[Q] RTX toxins and related Ca2+-binding proteins
+128
+	IBGMHGLI_00826	CDS	ROG1519	33663	34178	+	NA
+			NA				NA
+			NA				NA
+129
+	IBGMHGLI_00827	CDS	COG0765	614	1360	-	[E] ABC-type amino acid transport system, permease
+130
+	IBGMHGLI_00828	CDS	COG1525	1539	2210	-	[L] Micrococcal nuclease (thermonuclease) homologs  
+131
+	IBGMHGLI_00829	CDS	COG0120	2279	2950	-	[G] Ribose 5-phosphate isomerase   
+	IBGMHGLI_00830	CDS	COG0245	3027	3509	-	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+	IBGMHGLI_00831	CDS	COG1211	3541	4230	-	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+	IBGMHGLI_00832	CDS	COG0847	4227	4988	-	[L] DNA polymerase III, epsilon subunit and
+132
+	IBGMHGLI_00833	CDS	ROG1295	5119	6429	-	NA
+	IBGMHGLI_00834	CDS	COG3197	6419	6604	-	[P] Uncharacterized protein, possibly involved in nitrogen
+	IBGMHGLI_00835	CDS	NA	6604	6903	-	NA
+133
+	IBGMHGLI_00836	CDS	COG0282	7254	8450	+	[C] Acetate kinase    
+134
+	IBGMHGLI_00837	CDS	COG4232	9086	10891	-	[OC] Thiol:disulfide interchange protein   
+135
+	IBGMHGLI_00838	CDS	ROG0139	11018	11488	+	NA
+136
+	IBGMHGLI_00839	CDS	COG1562	11559	12371	-	[I] Phytoene/squalene synthetase    
+137
+	IBGMHGLI_00840	CDS	COG1047	12458	12940	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+138
+	IBGMHGLI_00841	CDS	COG4851	13413	13679	+	[R] Protein involved in sex pheromone biosynthesis
+139
+	IBGMHGLI_00842	CDS	COG0277	13789	15156	+	[C] FAD/FMN-containing dehydrogenases    
+140
+	IBGMHGLI_00843	CDS	COG3468	15337	17280	-	[MU] Type V secretory pathway, adhesin AidA
+	IBGMHGLI_00844	CDS	NA	17270	17365	-	NA
+141
+	IBGMHGLI_00845	CDS	COG0691	17738	18184	-	[O] tmRNA-binding protein    
+142
+	IBGMHGLI_00846	CDS	COG0859	18239	19249	-	[M] ADP-heptose:LPS heptosyltransferase    
+143
+	IBGMHGLI_00847	tRNA	NA	19380	19455	-	NA
+144
+	IBGMHGLI_00848	CDS	COG0350	19646	20398	-	[L] Methylated DNA-protein cysteine methyltransferase  
+145
+	IBGMHGLI_00849	CDS	COG1881	20709	21233	+	[R] Phospholipid-binding protein    
+146
+	IBGMHGLI_00850	CDS	COG0624	21973	23118	-	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+147
+	IBGMHGLI_00851	CDS	ROG8476	23232	23852	-	NA
+	IBGMHGLI_00852	CDS	ROG1082	23886	24395	-	NA
+148
+	IBGMHGLI_00853	CDS	COG3241	24490	25041	-	[C] Azurin     
+149
+	IBGMHGLI_00854	CDS	ROG1178	25322	25744	-	NA
+150
+	IBGMHGLI_00855	CDS	COG0653	25875	28625	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	IBGMHGLI_00856	CDS	COG0358	28769	30541	+	[L] DNA primase (bacterial type)  
+	IBGMHGLI_00857	CDS	COG0568	30728	32656	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+151
+	IBGMHGLI_00858	CDS	COG3039	32803	33708	+	[L] Transposase and inactivated derivatives, IS5 family
+152
+	IBGMHGLI_00859	CDS	COG0505	595	1728	+	[EF] Carbamoylphosphate synthase small subunit  
+	IBGMHGLI_00860	CDS	COG0346	1774	1911	+	[E] Lactoylglutathione lyase and related lyases 
+153
+	IBGMHGLI_00861	CDS	COG2852	2472	2861	+	[S] Uncharacterized protein conserved in bacteria 
+154
+	IBGMHGLI_00862	CDS	COG4915	3709	4320	+	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+	IBGMHGLI_00863	CDS	COG0458	4360	7575	+	[EF] Carbamoylphosphate synthase large subunit (split gene
+155
+	IBGMHGLI_00864	CDS	COG0583	7803	8702	-	[K] Transcriptional regulator    
+156
+	IBGMHGLI_00865	CDS	COG2249	8941	9519	+	[R] Putative NADPH-quinone reductase (modulator of drug
+157
+	IBGMHGLI_00866	CDS	COG0809	9993	11033	-	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+158
+	IBGMHGLI_00867	CDS	COG0511	11389	11841	+	[I] Biotin carboxyl carrier protein  
+	IBGMHGLI_00868	CDS	COG0439	11955	13316	+	[I] Biotin carboxylase    
+159
+	IBGMHGLI_00869	CDS	COG2264	13577	14464	+	[J] Ribosomal protein L11 methylase  
+	IBGMHGLI_00870	CDS	COG1949	14482	15045	+	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+	IBGMHGLI_00871	CDS	ROG1617	15056	15328	+	NA
+160
+	IBGMHGLI_00872	CDS	COG0001	15544	16827	-	[H] Glutamate-1-semialdehyde aminotransferase    
+161
+	IBGMHGLI_00873	CDS	ROG3741	16891	17274	-	NA
+162
+	IBGMHGLI_00874	CDS	COG0621	17660	18988	+	[J] 2-methylthioadenine synthetase    
+163
+	IBGMHGLI_00875	CDS	COG1154	19073	20986	-	[HI] Deoxyxylulose-5-phosphate synthase    
+164
+	IBGMHGLI_00876	CDS	COG4973	21071	21988	-	[L] Site-specific recombinase XerC   
+165
+	IBGMHGLI_00877	CDS	COG0191	22182	23246	+	[G] Fructose/tagatose bisphosphate aldolase   
+166
+	IBGMHGLI_00878	CDS	ROG6301	23404	24225	+	NA
+167
+	IBGMHGLI_00879	CDS	COG1214	24364	25041	+	[O] Inactive homolog of metal-dependent proteases, putative
+	IBGMHGLI_00880	CDS	COG0456	25038	25478	+	[R] Acetyltransferases     
+	IBGMHGLI_00881	CDS	COG1573	25472	26209	+	[L] Uracil-DNA glycosylase    
+	IBGMHGLI_00882	CDS	COG0461	26271	26912	+	[F] Orotate phosphoribosyltransferase    
+168
+	IBGMHGLI_00883	CDS	ROG0195	26986	27420	+	NA
+	IBGMHGLI_00884	CDS	COG0548	27417	28727	+	[E] Acetylglutamate kinase    
+169
+	IBGMHGLI_00885	CDS	COG1505	28823	30838	+	[E] Serine proteases of the peptidase family
+170
+	IBGMHGLI_00886	CDS	COG2207	30952	31908	-	[K] AraC-type DNA-binding domain-containing proteins  
+171
+	IBGMHGLI_00887	CDS	NA	32144	33109	+	NA
+172
+	IBGMHGLI_00888	CDS	COG0004	775	2079	+	[P] Ammonia permease    
+173
+	IBGMHGLI_00889	CDS	COG0665	2324	3619	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+	IBGMHGLI_00890	CDS	COG1177	3745	4632	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	IBGMHGLI_00891	CDS	COG1176	4632	5597	-	[E] ABC-type spermidine/putrescine transport system, permease component
+	IBGMHGLI_00892	CDS	COG3842	5613	6737	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+174
+	IBGMHGLI_00893	CDS	COG0184	7119	7388	-	[J] Ribosomal protein S15P/S13E   
+175
+	IBGMHGLI_00894	CDS	COG0341	7611	8546	-	[U] Preprotein translocase subunit SecF  
+	IBGMHGLI_00895	CDS	COG0342	8550	10403	-	[U] Preprotein translocase subunit SecD  
+	IBGMHGLI_00896	CDS	COG1862	10615	10881	-	[U] Preprotein translocase subunit YajC  
+176
+	IBGMHGLI_00897	CDS	COG0123	10961	12118	+	[BQ] Deacetylases, including yeast histone deacetylase and
+177
+	IBGMHGLI_00898	CDS	COG1063	12481	13545	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+178
+	IBGMHGLI_00899	CDS	COG0140	13686	14009	+	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+	IBGMHGLI_00900	CDS	COG0537	14081	14404	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	IBGMHGLI_00901	CDS	COG1826	14451	14654	+	[U] Sec-independent protein secretion pathway components 
+	IBGMHGLI_00902	CDS	COG1826	14658	15344	+	[U] Sec-independent protein secretion pathway components 
+	IBGMHGLI_00903	CDS	COG0805	15358	16128	+	[U] Sec-independent protein secretion pathway component TatC
+179
+	IBGMHGLI_00904	CDS	COG0424	16181	16786	+	[D] Nucleotide-binding protein implicated in inhibition of
+	IBGMHGLI_00905	CDS	COG3308	16802	17155	+	[S] Predicted membrane protein   
+	IBGMHGLI_00906	CDS	COG3307	17145	18959	+	[M] Lipid A core - O-antigen ligase
+180
+	IBGMHGLI_00907	CDS	COG0745	19149	19826	+	[TK] Response regulators consisting of a CheY-like
+	IBGMHGLI_00908	CDS	COG2205	19839	21245	+	[T] Osmosensitive K+ channel histidine kinase 
+181
+	IBGMHGLI_00909	CDS	COG1042	21363	23789	+	[C] Acyl-CoA synthetase (NDP forming)  
+	IBGMHGLI_00910	CDS	COG0228	23834	24079	+	[J] Ribosomal protein S16   
+	IBGMHGLI_00911	CDS	COG0806	24095	24604	+	[J] RimM protein, required for 16S rRNA
+	IBGMHGLI_00912	CDS	COG0336	24604	25353	+	[J] tRNA-(guanine-N1)-methyltransferase     
+	IBGMHGLI_00913	CDS	COG0335	25369	25734	+	[J] Ribosomal protein L19   
+182
+	IBGMHGLI_00914	CDS	COG1121	26025	26780	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	IBGMHGLI_00915	CDS	COG1108	26815	27690	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	IBGMHGLI_00916	CDS	COG0803	27767	28681	+	[P] ABC-type metal ion transport system, periplasmic
+183
+	IBGMHGLI_00917	CDS	COG2931	28961	32269	-	[Q] RTX toxins and related Ca2+-binding proteins
+	IBGMHGLI_00918	CDS	NA	32286	32888	-	NA
+184
+	IBGMHGLI_01942	tRNA	NA	95	170	+	NA
+	IBGMHGLI_01943	tRNA	NA	192	267	+	NA
+185
+	IBGMHGLI_00919	CDS	COG0654	125	1309	-	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+186
+	IBGMHGLI_00920	CDS	COG0211	1697	1969	-	[J] Ribosomal protein L27   
+	IBGMHGLI_00921	CDS	COG0261	1994	2302	-	[J] Ribosomal protein L21   
+187
+	IBGMHGLI_00922	CDS	COG0142	2526	3500	+	[H] Geranylgeranyl pyrophosphate synthase   
+	IBGMHGLI_00923	CDS	COG2707	3505	3951	+	[S] Predicted membrane protein   
+	IBGMHGLI_00924	tRNA	NA	3971	4042	+	NA
+188
+	IBGMHGLI_00925	CDS	COG2804	4441	6117	+	[NU] Type II secretory pathway, ATPase PulE/Tfp
+189
+	IBGMHGLI_00926	CDS	COG3024	6202	6411	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00927	CDS	COG0237	6404	7036	-	[H] Dephospho-CoA kinase    
+	IBGMHGLI_00928	CDS	COG1989	7038	7898	-	[NOU] Type II secretory pathway, prepilin signal
+	IBGMHGLI_00929	CDS	COG1459	7972	9204	-	[NU] Type II secretory pathway, component PulF
+190
+	IBGMHGLI_00930	CDS	COG0166	9714	11357	+	[G] Glucose-6-phosphate isomerase    
+191
+	IBGMHGLI_00931	CDS	COG2171	11524	12345	+	[E] Tetrahydrodipicolinate N-succinyltransferase    
+192
+	IBGMHGLI_00932	CDS	COG0623	12500	13285	+	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+193
+	IBGMHGLI_00933	CDS	COG0115	13470	14468	-	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+194
+	IBGMHGLI_00934	CDS	COG5416	14778	15092	+	[S] Uncharacterized integral membrane protein  
+	IBGMHGLI_00935	CDS	COG2956	15103	16272	+	[G] Predicted N-acetylglucosaminyl transferase   
+	IBGMHGLI_00936	CDS	COG0346	16297	16713	+	[E] Lactoylglutathione lyase and related lyases 
+195
+	IBGMHGLI_00937	CDS	COG3170	16886	19651	-	[NU] Tfp pilus assembly protein FimV 
+196
+	IBGMHGLI_00938	CDS	COG2917	19890	20420	+	[D] Intracellular septation protein A  
+	IBGMHGLI_00939	CDS	COG2350	20423	20713	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00940	CDS	COG0271	20713	20991	+	[T] Stress-induced morphogen (activity unknown)  
+	IBGMHGLI_00941	CDS	COG0760	21040	21906	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+197
+	IBGMHGLI_00942	CDS	ROG5493	21977	22735	+	NA
+198
+	IBGMHGLI_00943	CDS	COG1490	22809	23300	+	[J] D-Tyr-tRNAtyr deacylase    
+	IBGMHGLI_00944	CDS	COG0042	23331	24341	+	[J] tRNA-dihydrouridine synthase    
+199
+	IBGMHGLI_00945	CDS	COG0008	24411	25298	-	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+200
+	IBGMHGLI_00946	CDS	COG0176	25759	26814	-	[G] Transaldolase     
+201
+	IBGMHGLI_00947	CDS	COG0794	26911	27885	+	[M] Predicted sugar phosphate isomerase involved in
+	IBGMHGLI_00948	CDS	COG1778	28103	28639	+	[R] Low specificity phosphatase (HAD superfamily) 
+	IBGMHGLI_00949	CDS	COG3117	28636	29217	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00950	CDS	COG1934	29198	29728	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00951	CDS	COG1137	29802	30536	+	[R] ABC-type (unclassified) transport system, ATPase component
+202
+	IBGMHGLI_00952	tRNA	NA	30727	30802	+	NA
+203
+	IBGMHGLI_00953	CDS	COG0744	31127	31828	-	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+	IBGMHGLI_00954	CDS	COG0169	31831	32640	-	[E] Shikimate 5-dehydrogenase    
+204
+	IBGMHGLI_00955	CDS	COG1773	1416	1586	-	[C] Rubredoxin     
+205
+	IBGMHGLI_00956	CDS	COG1960	2060	3151	-	[I] Acyl-CoA dehydrogenases    
+206
+	IBGMHGLI_00957	CDS	COG2128	3285	3833	-	[S] Uncharacterized conserved protein   
+207
+	IBGMHGLI_00958	CDS	ROG0608	3988	4359	-	NA
+208
+	IBGMHGLI_00959	CDS	COG0277	4654	6345	-	[C] FAD/FMN-containing dehydrogenases    
+209
+	IBGMHGLI_00960	CDS	COG0247	6870	10703	+	[C] Fe-S oxidoreductase    
+210
+	IBGMHGLI_00961	CDS	COG0042	10780	11781	+	[J] tRNA-dihydrouridine synthase    
+211
+	IBGMHGLI_00962	CDS	ROG0799	11843	12025	-	NA
+212
+	IBGMHGLI_00963	CDS	COG3039	12212	13171	+	[L] Transposase and inactivated derivatives, IS5 family
+213
+	IBGMHGLI_00964	CDS	COG1476	13402	13614	-	[K] Predicted transcriptional regulators   
+	IBGMHGLI_00965	CDS	NA	13626	13907	-	NA
+	IBGMHGLI_00966	CDS	ROG0535	13954	14157	-	NA
+214
+	IBGMHGLI_00967	CDS	COG0582	14237	14809	-	[L] Integrase     
+215
+	IBGMHGLI_00968	CDS	ROG3037	15121	15996	-	NA
+	IBGMHGLI_00969	CDS	COG3177	16041	16331	-	[S] Uncharacterized conserved protein   
+216
+	IBGMHGLI_00970	CDS	COG1476	16636	17013	+	[K] Predicted transcriptional regulators   
+	IBGMHGLI_00971	CDS	NA	17042	17287	+	NA
+217
+	IBGMHGLI_00972	CDS	NA	17521	18489	+	NA
+	IBGMHGLI_00973	CDS	COG0306	18486	18968	+	[P] Phosphate/sulphate permeases    
+218
+	IBGMHGLI_00974	CDS	COG3926	19058	19561	+	[R] Putative secretion activating protein  
+219
+	IBGMHGLI_00975	CDS	ROG6087	19670	20002	+	NA
+	IBGMHGLI_00976	CDS	NA	19999	20409	+	NA
+	IBGMHGLI_00977	CDS	COG2801	20414	21163	+	[L] Transposase and inactivated derivatives  
+220
+	IBGMHGLI_00979	CDS	COG2840	21905	22510	-	[S] Uncharacterized protein conserved in bacteria 
+221
+	IBGMHGLI_00980	CDS	NA	22901	23095	-	NA
+	IBGMHGLI_00981	CDS	COG1613	23092	24147	-	[P] ABC-type sulfate transport system, periplasmic component
+222
+	IBGMHGLI_00982	CDS	COG0454	24253	24735	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	IBGMHGLI_00983	CDS	COG0026	24782	25918	-	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+	IBGMHGLI_00984	CDS	ROG7587	25915	26460	-	NA
+	IBGMHGLI_00985	CDS	COG0147	26457	27932	-	[EH] Anthranilate/para-aminobenzoate synthases component I  
+223
+	IBGMHGLI_00986	CDS	NA	28044	28409	-	NA
+	IBGMHGLI_00987	CDS	COG0488	28430	30340	-	[R] ATPase components of ABC transporters with
+	IBGMHGLI_00988	CDS	COG0586	30359	31003	-	[S] Uncharacterized membrane-associated protein   
+224
+	IBGMHGLI_00989	CDS	NA	31167	31985	-	NA
+225
+	IBGMHGLI_00001	CDS	ROG0823	312	1505	-	NA
+	IBGMHGLI_00002	CDS	COG2845	1502	2485	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00003	CDS	COG1696	2496	3932	-	[M] Predicted membrane protein involved in D-alanine
+226
+	IBGMHGLI_00004	CDS	COG2608	4561	4773	+	[P] Copper chaperone    
+227
+	IBGMHGLI_00005	CDS	COG4797	4921	6504	+	[R] Predicted regulatory domain of a methyltransferase
+228
+	IBGMHGLI_00006	CDS	NA	6586	7683	+	NA
+229
+	IBGMHGLI_00007	CDS	COG1929	7797	8912	+	[G] Glycerate kinase    
+230
+	IBGMHGLI_00008	CDS	COG0394	9037	9492	+	[T] Protein-tyrosine-phosphatase     
+	IBGMHGLI_00009	CDS	COG0735	9563	10039	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	IBGMHGLI_00010	CDS	COG0523	10027	10953	+	[R] Putative GTPases (G3E family)  
+	IBGMHGLI_00011	CDS	COG0652	11018	11572	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+231
+	IBGMHGLI_00012	CDS	COG0037	11811	12770	-	[D] Predicted ATPase of the PP-loop superfamily
+232
+	IBGMHGLI_00013	CDS	COG0354	12863	13729	-	[R] Predicted aminomethyltransferase related to GcvT 
+	IBGMHGLI_00014	CDS	COG0251	13761	14123	-	[J] Putative translation initiation inhibitor, yjgF family
+233
+	IBGMHGLI_00015	CDS	COG2606	14198	14677	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_00016	CDS	COG3671	14699	15421	+	[S] Predicted membrane protein   
+	IBGMHGLI_00017	CDS	ROG3253	15423	16298	+	NA
+234
+	IBGMHGLI_00018	CDS	COG1027	16370	17767	-	[E] Aspartate ammonia-lyase    
+235
+	IBGMHGLI_00019	CDS	COG2353	18197	18760	-	[S] Uncharacterized conserved protein   
+236
+	IBGMHGLI_00020	CDS	COG0473	18923	19993	-	[CE] Isocitrate/isopropylmalate dehydrogenase    
+	IBGMHGLI_00021	CDS	NA	20027	20758	-	NA
+	IBGMHGLI_00022	CDS	COG0270	20774	22045	-	[L] Site-specific DNA methylase   
+237
+	IBGMHGLI_00023	CDS	COG0066	22214	22975	-	[E] 3-isopropylmalate dehydratase small subunit  
+	IBGMHGLI_00024	CDS	ROG7969	22917	23171	-	NA
+238
+	IBGMHGLI_00025	CDS	COG0065	23268	24677	-	[E] 3-isopropylmalate dehydratase large subunit  
+239
+	IBGMHGLI_00026	CDS	ROG0062	24937	26286	+	NA
+240
+	IBGMHGLI_00027	CDS	COG2003	26409	27086	+	[L] DNA repair proteins   
+241
+	IBGMHGLI_00028	CDS	COG1636	27159	27884	+	[S] Uncharacterized protein conserved in bacteria 
+242
+	IBGMHGLI_00029	CDS	ROG4973	28037	29317	+	NA
+	IBGMHGLI_00030	CDS	COG2262	29322	30500	+	[R] GTPases     
+	IBGMHGLI_00031	CDS	COG2217	30497	32968	+	[P] Cation transport ATPase   
+243
+	IBGMHGLI_00032	CDS	COG0543	33739	34515	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+244
+	IBGMHGLI_00033	CDS	ROG3520	34703	35485	-	NA
+	IBGMHGLI_00034	CDS	COG0498	35544	36953	-	[E] Threonine synthase    
+245
+	IBGMHGLI_00035	CDS	ROG6903	37026	37397	-	NA
+246
+	IBGMHGLI_00036	CDS	ROG2138	37649	39118	-	NA
+247
+	IBGMHGLI_00037	CDS	COG0583	39374	40288	+	[K] Transcriptional regulator    
+248
+	IBGMHGLI_00038	CDS	ROG2552	40560	41252	-	NA
+249
+	IBGMHGLI_00039	CDS	NA	41277	41498	+	NA
+250
+	IBGMHGLI_00040	CDS	COG2256	42071	43381	+	[L] ATPase related to the helicase subunit
+251
+	IBGMHGLI_00041	CDS	COG0610	43495	46500	+	[V] Type I site-specific restriction-modification system, R
+	IBGMHGLI_00042	CDS	COG0732	46627	47820	+	[V] Restriction endonuclease S subunits  
+	IBGMHGLI_00043	CDS	COG0286	47868	49469	+	[V] Type I restriction-modification system methyltransferase subunit
+252
+	IBGMHGLI_00044	CDS	COG0108	49777	51114	-	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+253
+	IBGMHGLI_00045	CDS	NA	51336	51992	-	NA
+	IBGMHGLI_00046	CDS	COG0463	51989	52351	-	[M] Glycosyltransferases involved in cell wall biogenesis
+254
+	IBGMHGLI_00047	CDS	COG0807	52672	53265	-	[H] GTP cyclohydrolase II   
+	IBGMHGLI_00048	CDS	NA	53258	53932	-	NA
+255
+	IBGMHGLI_00049	tRNA	NA	54086	54170	+	NA
+256
+	IBGMHGLI_00050	CDS	COG0150	54690	55724	+	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+257
+	IBGMHGLI_00051	CDS	COG2197	56198	56854	-	[TK] Response regulator containing a CheY-like receiver
+	IBGMHGLI_00052	CDS	COG3850	56851	58623	-	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+258
+	IBGMHGLI_00053	CDS	COG0746	58865	59443	+	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+259
+	IBGMHGLI_00054	CDS	COG0307	59519	60223	+	[H] Riboflavin synthase alpha chain  
+	IBGMHGLI_00055	CDS	COG2607	60231	61094	+	[R] Predicted ATPase (AAA+ superfamily)  
+260
+	IBGMHGLI_00056	CDS	COG3678	61107	61541	-	[UNTP] P pilus assembly/Cpx signaling pathway, periplasmic
+261
+	IBGMHGLI_00057	CDS	COG0036	61852	62580	+	[G] Pentose-5-phosphate-3-epimerase     
+262
+	IBGMHGLI_00058	CDS	COG2255	62603	63634	-	[L] Holliday junction resolvasome, helicase subunit 
+263
+	IBGMHGLI_00059	CDS	NA	63716	64024	-	NA
+264
+	IBGMHGLI_00060	CDS	COG0617	64247	65500	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+	IBGMHGLI_00061	CDS	COG0488	65572	67200	-	[R] ATPase components of ABC transporters with
+265
+	IBGMHGLI_00062	CDS	COG1393	67350	67724	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	IBGMHGLI_00063	CDS	COG0760	67784	69322	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	IBGMHGLI_00064	CDS	COG0353	69389	70006	+	[L] Recombinational DNA repair protein (RecF pathway)
+266
+	IBGMHGLI_00065	CDS	NA	70062	70340	-	NA
+267
+	IBGMHGLI_00066	CDS	COG4591	70545	71792	+	[M] ABC-type transport system, involved in lipoprotein
+	IBGMHGLI_00067	CDS	COG4181	71785	72480	+	[Q] Predicted ABC-type transport system involved in
+268
+	IBGMHGLI_00068	CDS	COG0507	72548	74293	+	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+269
+	IBGMHGLI_00069	CDS	COG2264	74365	75468	-	[J] Ribosomal protein L11 methylase  
+270
+	IBGMHGLI_00070	CDS	COG0466	75719	78181	+	[O] ATP-dependent Lon protease, bacterial type 
+	IBGMHGLI_00071	CDS	COG0776	78363	78632	+	[L] Bacterial nucleoid DNA-binding protein  
+271
+	IBGMHGLI_00072	CDS	NA	78691	79125	-	NA
+	IBGMHGLI_00073	CDS	COG0460	79118	80425	-	[E] Homoserine dehydrogenase    
+272
+	IBGMHGLI_00074	CDS	COG3737	80598	80993	+	[S] Uncharacterized conserved protein   
+273
+	IBGMHGLI_00075	CDS	COG0488	81070	82992	+	[R] ATPase components of ABC transporters with
+274
+	IBGMHGLI_00076	CDS	ROG0867	83458	83973	+	NA
+275
+	IBGMHGLI_00077	CDS	COG0692	84481	85140	-	[L] Uracil DNA glycosylase   
+276
+	IBGMHGLI_00078	CDS	ROG1281	85221	85628	+	NA
+	IBGMHGLI_00079	CDS	COG0330	85643	86590	+	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+277
+	IBGMHGLI_00080	CDS	COG0628	86787	87857	-	[R] Predicted permease    
+278
+	IBGMHGLI_00081	CDS	COG2921	88042	88317	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_00082	CDS	COG0321	88319	88942	+	[H] Lipoate-protein ligase B   
+	IBGMHGLI_00083	CDS	COG0320	88935	89918	+	[H] Lipoate synthase    
+279
+	IBGMHGLI_00084	CDS	COG2193	90382	90846	+	[P] Bacterioferritin (cytochrome b1)   
+	IBGMHGLI_00085	CDS	COG2193	90874	91347	+	[P] Bacterioferritin (cytochrome b1)   
+280
+	IBGMHGLI_00086	CDS	COG1396	91671	91991	+	[K] Predicted transcriptional regulators   
+	IBGMHGLI_00087	CDS	COG2844	92040	94598	+	[O] UTP:GlnB (protein PII) uridylyltransferase  
+281
+	IBGMHGLI_00088	CDS	COG0516	94739	96202	+	[F] IMP dehydrogenase/GMP reductase   
+282
+	IBGMHGLI_00089	CDS	COG0557	96541	98916	-	[K] Exoribonuclease R    
+283
+	IBGMHGLI_00090	tRNA	NA	99005	99091	+	NA
+	IBGMHGLI_00091	tRNA	NA	99127	99213	+	NA
+	IBGMHGLI_00092	tRNA	NA	99252	99342	+	NA
+284
+	IBGMHGLI_00093	CDS	COG1217	99907	101718	-	[T] Predicted membrane GTPase involved in stress
+285
+	IBGMHGLI_00094	CDS	COG0063	101988	102878	-	[G] Predicted sugar kinase   
+286
+	IBGMHGLI_00095	CDS	COG3658	102943	103599	+	[C] Cytochrome b    
+287
+	IBGMHGLI_00096	CDS	COG0007	104049	105500	+	[H] Uroporphyrinogen-III methylase    
+	IBGMHGLI_00097	CDS	COG0175	105511	106251	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	IBGMHGLI_00098	CDS	COG0175	106285	106497	+	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	IBGMHGLI_00099	CDS	COG2895	106536	107822	+	[P] GTPases - Sulfate adenylate transferase subunit
+	IBGMHGLI_00100	CDS	COG0369	107819	109633	+	[P] Sulfite reductase, alpha subunit (flavoprotein) 
+	IBGMHGLI_00101	CDS	COG0155	109660	111429	+	[P] Sulfite reductase, beta subunit (hemoprotein) 
+288
+	IBGMHGLI_00102	CDS	COG0129	111601	113460	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+289
+	IBGMHGLI_00103	CDS	COG2843	114106	114672	+	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+290
+	IBGMHGLI_00104	CDS	COG0502	114819	115871	-	[H] Biotin synthase and related enzymes 
+291
+	IBGMHGLI_00105	CDS	COG0773	116078	117454	-	[M] UDP-N-acetylmuramate-alanine ligase    
+	IBGMHGLI_00106	CDS	ROG0685	117516	117821	-	NA
+	IBGMHGLI_00107	CDS	NA	117833	118198	-	NA
+292
+	IBGMHGLI_00108	CDS	NA	118447	118644	-	NA
+	IBGMHGLI_00109	CDS	COG0566	118654	119439	-	[J] rRNA methylases    
+	IBGMHGLI_00110	CDS	COG0037	119490	120800	-	[D] Predicted ATPase of the PP-loop superfamily
+	IBGMHGLI_00111	CDS	COG0825	120868	121827	-	[I] Acetyl-CoA carboxylase alpha subunit  
+293
+	IBGMHGLI_00112	CDS	COG1188	122038	122439	+	[J] Ribosome-associated heat shock protein implicated in
+294
+	IBGMHGLI_00113	CDS	COG2975	122507	122704	-	[S] Uncharacterized protein conserved in bacteria 
+295
+	IBGMHGLI_00114	CDS	NA	122917	123504	+	NA
+296
+	IBGMHGLI_00115	CDS	COG0633	123791	124132	-	[C] Ferredoxin     
+	IBGMHGLI_00116	CDS	COG3779	124188	124946	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00117	CDS	ROG4368	124985	125632	-	NA
+297
+	IBGMHGLI_00118	CDS	COG0443	125708	127570	-	[O] Molecular chaperone    
+298
+	IBGMHGLI_00119	CDS	COG1562	127741	128613	+	[I] Phytoene/squalene synthetase    
+299
+	IBGMHGLI_00120	CDS	NA	128775	128903	+	NA
+300
+	IBGMHGLI_00121	CDS	COG2907	129011	130324	+	[R] Predicted NAD/FAD-binding protein   
+301
+	IBGMHGLI_00122	CDS	COG3967	130408	131127	+	[M] Short-chain dehydrogenase involved in D-alanine esterification
+302
+	IBGMHGLI_00123	CDS	COG1462	131292	131963	+	[M] Uncharacterized protein involved in formation of
+	IBGMHGLI_00124	CDS	COG4259	131973	132341	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00125	CDS	COG4380	132338	132985	+	[S] Uncharacterized protein conserved in bacteria 
+303
+	IBGMHGLI_00126	CDS	COG4178	133427	133771	+	[R] ABC-type uncharacterized transport system, permease and
+	IBGMHGLI_00127	CDS	COG4178	133737	134669	+	[R] ABC-type uncharacterized transport system, permease and
+304
+	IBGMHGLI_00128	CDS	NA	134779	134988	-	NA
+	IBGMHGLI_00129	CDS	NA	134985	135281	-	NA
+	IBGMHGLI_00130	CDS	ROG5293	135260	135865	-	NA
+305
+	IBGMHGLI_00131	CDS	COG2929	135945	136232	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00132	CDS	COG3514	136204	136506	+	[S] Uncharacterized protein conserved in bacteria 
+306
+	IBGMHGLI_00133	CDS	NA	137264	139240	-	NA
+	IBGMHGLI_00134	CDS	COG3778	139251	139811	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00135	CDS	COG3299	139808	140419	-	[S] Uncharacterized homolog of phage Mu protein
+	IBGMHGLI_00136	CDS	COG3299	140419	140862	-	[S] Uncharacterized homolog of phage Mu protein
+	IBGMHGLI_00137	CDS	COG4381	140876	141223	-	[S] Mu-like prophage protein gp46  
+	IBGMHGLI_00138	CDS	COG4384	141323	141991	-	[S] Mu-like prophage protein gp45  
+	IBGMHGLI_00139	CDS	COG4379	141988	143133	-	[R] Mu-like prophage tail protein gpP 
+	IBGMHGLI_00140	CDS	COG4228	143123	144454	-	[R] Mu-like prophage DNA circulation protein 
+	IBGMHGLI_00141	CDS	NA	144454	146625	-	NA
+307
+	IBGMHGLI_00142	CDS	ROG7602	146780	147304	+	NA
+308
+	IBGMHGLI_00143	CDS	NA	147406	147675	-	NA
+	IBGMHGLI_00144	CDS	NA	147615	147980	-	NA
+	IBGMHGLI_00145	CDS	ROG6530	147984	148361	-	NA
+309
+	IBGMHGLI_00146	CDS	COG4386	148426	149835	-	[R] Mu-like prophage tail sheath protein gpL
+	IBGMHGLI_00147	CDS	NA	149838	150035	-	NA
+	IBGMHGLI_00148	CDS	COG5003	150032	150682	-	[R] Mu-like prophage protein gp37  
+	IBGMHGLI_00149	CDS	COG4387	150672	151094	-	[S] Mu-like prophage protein gp36  
+	IBGMHGLI_00150	CDS	ROG7158	151094	151492	-	NA
+310
+	IBGMHGLI_00151	CDS	COG4397	151557	152465	-	[R] Mu-like prophage major head subunit gpT
+	IBGMHGLI_00152	CDS	COG4388	152465	153526	-	[R] Mu-like prophage I protein  
+311
+	IBGMHGLI_00153	CDS	COG5005	153757	154173	-	[R] Mu-like prophage protein gpG  
+	IBGMHGLI_00154	CDS	COG2369	154301	155626	-	[S] Uncharacterized protein, homolog of phage Mu
+	IBGMHGLI_00155	CDS	COG4383	155613	157181	-	[S] Mu-like prophage protein gp29  
+	IBGMHGLI_00156	CDS	ROG3592	157181	158803	-	NA
+312
+	IBGMHGLI_00157	CDS	NA	158815	159327	+	NA
+313
+	IBGMHGLI_00990	CDS	NA	533	784	+	NA
+314
+	IBGMHGLI_00991	CDS	NA	1152	1511	-	NA
+315
+	IBGMHGLI_00992	CDS	COG2834	1732	2187	-	[M] Outer membrane lipoprotein-sorting protein  
+	IBGMHGLI_00993	CDS	NA	2168	2797	-	NA
+316
+	IBGMHGLI_00994	CDS	NA	2931	3248	-	NA
+	IBGMHGLI_00995	CDS	NA	3251	4519	-	NA
+	IBGMHGLI_00996	CDS	NA	4523	5464	-	NA
+317
+	IBGMHGLI_00997	CDS	COG2377	5583	6683	-	[O] Predicted molecular chaperone distantly related to
+318
+	IBGMHGLI_00998	CDS	COG0306	7008	8582	+	[P] Phosphate/sulphate permeases    
+319
+	IBGMHGLI_00999	CDS	COG0635	8935	10356	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+320
+	IBGMHGLI_01000	CDS	COG0664	10561	11295	+	[T] cAMP-binding proteins - catabolite gene activator
+321
+	IBGMHGLI_01001	CDS	COG0583	11408	12358	-	[K] Transcriptional regulator    
+322
+	IBGMHGLI_01002	CDS	COG2885	12722	13450	+	[M] Outer membrane protein and related peptidoglycan-associated
+323
+	IBGMHGLI_01003	CDS	COG0611	14307	15263	+	[H] Thiamine monophosphate kinase   
+	IBGMHGLI_01004	CDS	COG1267	15256	15741	+	[I] Phosphatidylglycerophosphatase A and related proteins 
+324
+	IBGMHGLI_01005	CDS	COG0488	15801	17477	-	[R] ATPase components of ABC transporters with
+325
+	IBGMHGLI_01006	CDS	ROG7174	17864	19219	+	NA
+	IBGMHGLI_01007	CDS	COG2017	19223	20233	+	[G] Galactose mutarotase and related enzymes 
+	IBGMHGLI_01008	CDS	COG1554	20467	22725	+	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	IBGMHGLI_01009	CDS	COG0637	22738	23403	+	[R] Predicted phosphatase/phosphohexomutase    
+326
+	IBGMHGLI_01010	CDS	COG0029	23581	25089	-	[H] Aspartate oxidase    
+	IBGMHGLI_01011	CDS	COG0379	25295	26407	-	[H] Quinolinate synthase    
+327
+	IBGMHGLI_01012	CDS	COG4111	26714	27652	+	[R] Uncharacterized conserved protein   
+328
+	IBGMHGLI_01013	CDS	COG0157	27728	28609	+	[H] Nicotinate-nucleotide pyrophosphorylase    
+329
+	IBGMHGLI_01014	CDS	COG0640	29015	29296	+	[K] Predicted transcriptional regulators   
+	IBGMHGLI_01015	CDS	COG0708	29356	30126	+	[L] Exonuclease III    
+330
+	IBGMHGLI_01016	CDS	COG0536	443	1597	+	[R] Predicted GTPase    
+331
+	IBGMHGLI_01017	CDS	ROG4307	1680	2729	+	NA
+	IBGMHGLI_01018	CDS	COG0215	2739	4838	+	[J] Cysteinyl-tRNA synthetase    
+332
+	IBGMHGLI_01019	CDS	COG0708	5009	5788	+	[L] Exonuclease III    
+	IBGMHGLI_01020	CDS	COG1215	5775	6119	+	[M] Glycosyltransferases, probably involved in cell wall
+	IBGMHGLI_01021	CDS	COG3545	6129	6659	+	[R] Predicted esterase of the alpha/beta hydrolase
+333
+	IBGMHGLI_01022	CDS	COG0136	6752	7867	-	[E] Aspartate-semialdehyde dehydrogenase    
+334
+	IBGMHGLI_01023	CDS	COG1714	8044	8625	+	[S] Predicted membrane protein/domain   
+335
+	IBGMHGLI_01024	CDS	COG0190	8687	9541	-	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+336
+	IBGMHGLI_01025	tRNA	NA	9764	9841	+	NA
+	IBGMHGLI_01026	tRNA	NA	9866	9942	+	NA
+	IBGMHGLI_01027	tRNA	NA	9970	10045	+	NA
+337
+	IBGMHGLI_01028	CDS	COG2870	10181	10687	+	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	IBGMHGLI_01029	CDS	COG0340	10684	12462	+	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+338
+	IBGMHGLI_01030	CDS	ROG1248	12575	13399	+	NA
+339
+	IBGMHGLI_01031	CDS	COG2022	14162	14950	-	[H] Uncharacterized enzyme of thiazole biosynthesis 
+	IBGMHGLI_01032	CDS	COG2104	15164	15358	-	[H] Sulfur transfer protein involved in thiamine
+	IBGMHGLI_01033	CDS	COG0352	15780	16397	-	[H] Thiamine monophosphate synthase   
+	IBGMHGLI_01034	CDS	COG3380	16418	17518	-	[R] Predicted NAD/FAD-dependent oxidoreductase   
+	IBGMHGLI_01035	CDS	COG1457	17515	18741	-	[F] Purine-cytosine permease and related proteins 
+340
+	IBGMHGLI_01036	CDS	COG0312	19139	20623	+	[R] Predicted Zn-dependent proteases and their inactivated
+341
+	IBGMHGLI_01037	CDS	COG2890	20688	21959	+	[J] Methylase of polypeptide chain release factors
+342
+	IBGMHGLI_01038	CDS	COG2056	22045	23433	+	[R] Predicted permease    
+	IBGMHGLI_01039	CDS	COG2900	23434	23658	+	[S] Uncharacterized protein conserved in bacteria 
+343
+	IBGMHGLI_01040	CDS	COG0476	24058	24951	-	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+344
+	IBGMHGLI_01041	CDS	COG2352	24994	27696	+	[C] Phosphoenolpyruvate carboxylase    
+345
+	IBGMHGLI_01042	CDS	COG0240	27819	28808	+	[C] Glycerol-3-phosphate dehydrogenase    
+	IBGMHGLI_01043	CDS	ROG1660	28863	29192	+	NA
+	IBGMHGLI_01044	CDS	COG3027	29203	29508	+	[S] Uncharacterized protein conserved in bacteria 
+346
+	IBGMHGLI_01045	CDS	COG0102	29871	30302	+	[J] Ribosomal protein L13   
+	IBGMHGLI_01046	CDS	COG0103	30312	30704	+	[J] Ribosomal protein S9   
+347
+	IBGMHGLI_01047	CDS	COG0597	232	822	+	[MU] Lipoprotein signal peptidase   
+	IBGMHGLI_01048	CDS	COG0761	851	1819	+	[IM] Penicillin tolerance protein   
+348
+	IBGMHGLI_01049	CDS	COG0546	1906	2463	-	[R] Predicted phosphatases    
+349
+	IBGMHGLI_01050	CDS	COG3039	2567	3574	-	[L] Transposase and inactivated derivatives, IS5 family
+350
+	IBGMHGLI_01051	CDS	NA	3752	3856	+	NA
+351
+	IBGMHGLI_01052	CDS	COG3512	5169	5477	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01053	CDS	COG1518	5488	6402	-	[L] Uncharacterized protein predicted to be involved
+	IBGMHGLI_01054	CDS	COG3513	6468	9716	-	[S] Uncharacterized protein conserved in bacteria 
+352
+	IBGMHGLI_01055	CDS	COG0587	9994	13428	-	[L] DNA polymerase III, alpha subunit 
+353
+	IBGMHGLI_01056	CDS	COG2501	13741	14199	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01057	CDS	NA	14177	14380	+	NA
+354
+	IBGMHGLI_01058	CDS	COG0613	14826	15662	+	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+355
+	IBGMHGLI_01059	CDS	COG3977	15714	17006	-	[E] Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase  
+	IBGMHGLI_01060	CDS	COG1086	17062	18972	-	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+	IBGMHGLI_01061	CDS	COG0399	19020	20225	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+356
+	IBGMHGLI_01062	CDS	NA	20424	20618	-	NA
+	IBGMHGLI_01063	CDS	COG1011	20666	21352	-	[R] Predicted hydrolase (HAD superfamily)  
+	IBGMHGLI_01064	CDS	COG2148	21339	22916	-	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	IBGMHGLI_01065	CDS	ROG0532	22909	23322	-	NA
+	IBGMHGLI_01066	CDS	ROG0532	23282	24121	-	NA
+	IBGMHGLI_01067	CDS	COG0438	24141	25214	-	[M] Glycosyltransferase     
+	IBGMHGLI_01068	CDS	COG2244	25211	26629	-	[R] Membrane protein involved in the export
+357
+	IBGMHGLI_01069	CDS	COG0117	26824	27933	-	[H] Pyrimidine deaminase    
+	IBGMHGLI_01070	CDS	COG1327	27966	28430	-	[K] Predicted transcriptional regulator, consists of a
+	IBGMHGLI_01071	CDS	COG0121	28459	29301	-	[R] Predicted glutamine amidotransferase   
+358
+	IBGMHGLI_01072	tRNA	NA	2	77	-	NA
+359
+	IBGMHGLI_01073	CDS	COG0558	157	720	-	[I] Phosphatidylglycerophosphate synthase    
+360
+	IBGMHGLI_01074	CDS	NA	947	1249	-	NA
+361
+	IBGMHGLI_01075	CDS	COG0599	1581	1916	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+362
+	IBGMHGLI_01076	CDS	COG2207	2045	2950	+	[K] AraC-type DNA-binding domain-containing proteins  
+363
+	IBGMHGLI_01077	CDS	NA	3012	3500	-	NA
+364
+	IBGMHGLI_01078	CDS	COG0697	3686	4549	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+365
+	IBGMHGLI_01079	CDS	COG0687	4590	5720	-	[E] Spermidine/putrescine-binding periplasmic protein   
+366
+	IBGMHGLI_01080	CDS	COG0013	5892	8555	+	[J] Alanyl-tRNA synthetase    
+	IBGMHGLI_01081	CDS	ROG7666	8617	9348	+	NA
+367
+	IBGMHGLI_01082	CDS	COG1002	9655	10548	+	[V] Type II restriction enzyme, methylase subunits
+	IBGMHGLI_01083	CDS	COG1002	10672	12654	+	[V] Type II restriction enzyme, methylase subunits
+368
+	IBGMHGLI_01084	CDS	COG0588	13467	14150	-	[G] Phosphoglycerate mutase 1   
+369
+	IBGMHGLI_01085	CDS	COG0188	14452	16749	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	IBGMHGLI_01086	CDS	ROG6755	16769	18286	+	NA
+	IBGMHGLI_01087	CDS	COG2204	18338	18805	+	[T] Response regulator containing CheY-like receiver, AAA-type
+370
+	IBGMHGLI_01088	CDS	ROG2973	18909	19661	+	NA
+371
+	IBGMHGLI_01089	CDS	ROG0736	20978	21184	-	NA
+372
+	IBGMHGLI_01090	CDS	COG0626	21279	22448	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+373
+	IBGMHGLI_01091	CDS	NA	22747	23508	-	NA
+374
+	IBGMHGLI_01092	CDS	ROG2396	23608	23859	+	NA
+	IBGMHGLI_01093	CDS	COG0834	23911	24717	+	[ET] ABC-type amino acid transport/signal transduction systems,
+375
+	IBGMHGLI_01094	CDS	COG1951	25024	26547	+	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+376
+	IBGMHGLI_01095	CDS	COG0569	26645	28057	+	[P] K+ transport systems, NAD-binding component 
+377
+	IBGMHGLI_01096	CDS	NA	164	472	-	NA
+	IBGMHGLI_01097	CDS	COG0776	456	758	-	[L] Bacterial nucleoid DNA-binding protein  
+	IBGMHGLI_01098	CDS	COG0072	832	3195	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	IBGMHGLI_01099	CDS	COG1419	3231	3749	-	[N] Flagellar GTP-binding protein   
+	IBGMHGLI_01100	CDS	ROG4307	3756	4820	-	NA
+378
+	IBGMHGLI_01101	CDS	COG0016	4997	6055	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+	IBGMHGLI_01102	CDS	COG0292	6335	6694	-	[J] Ribosomal protein L20   
+	IBGMHGLI_01103	CDS	COG0291	6707	6904	-	[J] Ribosomal protein L35   
+	IBGMHGLI_01104	CDS	COG0290	7051	7455	-	[J] Translation initiation factor 3 (IF-3) 
+	IBGMHGLI_01105	CDS	COG0441	7590	9503	-	[J] Threonyl-tRNA synthetase    
+	IBGMHGLI_01106	tRNA	NA	9557	9633	-	NA
+379
+	IBGMHGLI_01107	CDS	COG0343	9812	10927	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+	IBGMHGLI_01108	CDS	COG0276	10937	12019	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	IBGMHGLI_01109	CDS	COG2010	12211	12612	+	[C] Cytochrome c, mono- and diheme variants
+380
+	IBGMHGLI_01110	CDS	COG3263	12675	12965	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+	IBGMHGLI_01111	CDS	COG3263	13118	13438	-	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+381
+	IBGMHGLI_01112	CDS	NA	13621	13920	-	NA
+382
+	IBGMHGLI_01113	CDS	COG2354	13974	14360	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01114	CDS	COG0815	14393	15967	+	[M] Apolipoprotein N-acyltransferase    
+383
+	IBGMHGLI_01115	CDS	COG0568	16231	17094	+	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+384
+	IBGMHGLI_01116	CDS	COG1561	17578	18462	+	[S] Uncharacterized stress-induced protein   
+385
+	IBGMHGLI_01117	CDS	COG1714	18546	19112	-	[S] Predicted membrane protein/domain   
+	IBGMHGLI_01118	CDS	COG0392	19137	19556	-	[S] Predicted integral membrane protein  
+386
+	IBGMHGLI_01119	CDS	COG1466	19677	20675	-	[L] DNA polymerase III, delta subunit 
+	IBGMHGLI_01120	CDS	COG2980	20677	21156	-	[M] Rare lipoprotein B   
+	IBGMHGLI_01121	CDS	COG1496	21208	21987	-	[S] Uncharacterized conserved protein   
+387
+	IBGMHGLI_01122	CDS	NA	22286	22477	+	NA
+388
+	IBGMHGLI_01123	CDS	COG0385	22554	23501	+	[R] Predicted Na+-dependent transporter   
+389
+	IBGMHGLI_01124	CDS	COG0564	23654	24778	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+390
+	IBGMHGLI_01125	CDS	COG4105	24810	25580	+	[R] DNA uptake lipoprotein   
+391
+	IBGMHGLI_01126	CDS	NA	25638	27920	-	NA
+392
+	IBGMHGLI_01127	CDS	NA	435	683	+	NA
+393
+	IBGMHGLI_01128	CDS	NA	1994	2539	+	NA
+	IBGMHGLI_01129	CDS	ROG6864	2521	2886	+	NA
+	IBGMHGLI_01130	CDS	NA	2944	3363	+	NA
+394
+	IBGMHGLI_01131	CDS	NA	3520	3678	+	NA
+395
+	IBGMHGLI_01132	CDS	COG3271	4684	5337	+	[R] Predicted double-glycine peptidase   
+396
+	IBGMHGLI_01133	CDS	COG0124	5463	6758	+	[J] Histidyl-tRNA synthetase    
+	IBGMHGLI_01134	CDS	COG2976	6759	7388	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01135	CDS	COG1160	7389	8999	+	[R] Predicted GTPases    
+	IBGMHGLI_01136	CDS	COG2974	9030	9929	+	[L] DNA recombination-dependent growth factor C 
+	IBGMHGLI_01137	CDS	COG4642	9981	10397	+	[S] Uncharacterized protein conserved in bacteria 
+397
+	IBGMHGLI_01138	CDS	COG0717	10463	11029	+	[F] Deoxycytidine deaminase    
+398
+	IBGMHGLI_01139	CDS	COG3471	11093	11797	-	[S] Predicted periplasmic/secreted protein   
+399
+	IBGMHGLI_01140	CDS	COG0438	12166	13188	+	[M] Glycosyltransferase     
+400
+	IBGMHGLI_01141	CDS	COG1702	13327	14280	+	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+401
+	IBGMHGLI_01142	CDS	COG2960	14391	14714	-	[S] Uncharacterized protein conserved in bacteria 
+402
+	IBGMHGLI_01143	CDS	COG0617	14887	16248	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+403
+	IBGMHGLI_01144	CDS	COG0608	16603	18303	-	[L] Single-stranded DNA-specific exonuclease   
+404
+	IBGMHGLI_01145	CDS	NA	18372	19088	-	NA
+	IBGMHGLI_01146	CDS	COG3028	19135	19641	-	[S] Uncharacterized protein conserved in bacteria 
+405
+	IBGMHGLI_01147	CDS	COG0312	19795	21126	+	[R] Predicted Zn-dependent proteases and their inactivated
+406
+	IBGMHGLI_01148	CDS	COG1278	21423	21626	-	[K] Cold shock proteins   
+407
+	IBGMHGLI_01149	CDS	COG2127	21833	22171	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01150	CDS	COG0542	22173	24464	+	[O] ATPases with chaperone activity, ATP-binding subunit
+408
+	IBGMHGLI_01151	CDS	COG0610	24504	27602	-	[V] Type I site-specific restriction-modification system, R
+	IBGMHGLI_01152	CDS	COG0732	27681	28049	-	[V] Restriction endonuclease S subunits  
+409
+	IBGMHGLI_01153	CDS	COG1943	661	1035	+	[L] Transposase and inactivated derivatives  
+410
+	IBGMHGLI_01154	CDS	COG0741	2182	2805	+	[M] Soluble lytic murein transglycosylase and related
+411
+	IBGMHGLI_01155	CDS	ROG2472	2913	4298	+	NA
+	IBGMHGLI_01156	CDS	COG0629	4302	4826	+	[L] Single-stranded DNA-binding protein   
+412
+	IBGMHGLI_01157	CDS	COG0697	5351	6274	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+413
+	IBGMHGLI_01158	CDS	COG0114	6339	7727	-	[C] Fumarase     
+	IBGMHGLI_01159	CDS	COG0021	7868	9847	-	[G] Transketolase     
+414
+	IBGMHGLI_01160	CDS	COG0348	10375	11871	+	[C] Polyferredoxin     
+	IBGMHGLI_01161	CDS	COG3198	11874	12422	+	[S] Uncharacterized protein conserved in bacteria 
+415
+	IBGMHGLI_01162	CDS	COG2070	12764	13939	-	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+416
+	IBGMHGLI_01163	tRNA	NA	14499	14573	-	NA
+	IBGMHGLI_01164	tRNA	NA	14591	14667	-	NA
+417
+	IBGMHGLI_01165	CDS	COG0847	14785	16170	+	[L] DNA polymerase III, epsilon subunit and
+418
+	IBGMHGLI_01166	CDS	COG0543	16380	17159	-	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+419
+	IBGMHGLI_01167	CDS	COG4773	17433	19292	+	[P] Outer membrane receptor for ferric coprogen
+	IBGMHGLI_01168	CDS	COG4773	19328	20521	+	[P] Outer membrane receptor for ferric coprogen
+420
+	IBGMHGLI_01169	CDS	COG0389	20665	21723	+	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+421
+	IBGMHGLI_01170	CDS	COG0210	21791	23806	-	[L] Superfamily I DNA and RNA helicases
+	IBGMHGLI_01171	CDS	COG0710	23826	24590	-	[E] 3-dehydroquinate dehydratase    
+422
+	IBGMHGLI_01172	CDS	NA	24844	25890	+	NA
+423
+	IBGMHGLI_01173	CDS	COG3637	124	813	+	[M] Opacity protein and related surface antigens
+424
+	IBGMHGLI_01174	CDS	COG0778	1014	1571	-	[C] Nitroreductase     
+425
+	IBGMHGLI_01175	CDS	COG2194	1647	3281	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+426
+	IBGMHGLI_01176	CDS	COG1932	3559	4665	-	[HE] Phosphoserine aminotransferase    
+427
+	IBGMHGLI_01177	CDS	COG0779	5030	5461	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01178	CDS	COG0195	5489	6991	+	[K] Transcription elongation factor   
+	IBGMHGLI_01179	CDS	COG0532	7004	9892	+	[J] Translation initiation factor 2 (IF-2; GTPase)
+428
+	IBGMHGLI_01180	CDS	ROG0645	10103	11497	-	NA
+429
+	IBGMHGLI_01181	CDS	ROG1033	11571	12911	-	NA
+430
+	IBGMHGLI_01182	CDS	COG1272	13054	13680	+	[R] Predicted membrane protein, hemolysin III homolog
+431
+	IBGMHGLI_01183	CDS	COG1115	13744	15162	-	[E] Na+/alanine symporter    
+432
+	IBGMHGLI_01184	CDS	COG0217	15489	16217	+	[S] Uncharacterized conserved protein   
+433
+	IBGMHGLI_01185	CDS	COG1495	16276	16764	-	[O] Disulfide bond formation protein DsbB 
+434
+	IBGMHGLI_01186	CDS	NA	16794	17006	+	NA
+435
+	IBGMHGLI_01187	CDS	COG1522	17523	17987	-	[K] Transcriptional regulators    
+436
+	IBGMHGLI_01188	CDS	COG0787	18312	19370	+	[M] Alanine racemase    
+437
+	IBGMHGLI_01189	CDS	COG2848	19434	20789	-	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01190	CDS	COG3830	20804	21076	-	[T] ACT domain-containing protein   
+438
+	IBGMHGLI_01191	CDS	COG2849	21202	21939	-	[S] Uncharacterized protein conserved in bacteria 
+439
+	IBGMHGLI_01192	CDS	COG2890	22220	23131	-	[J] Methylase of polypeptide chain release factors
+440
+	IBGMHGLI_01193	CDS	COG2346	23264	23857	+	[R] Truncated hemoglobins    
+441
+	IBGMHGLI_01194	CDS	NA	23969	24589	+	NA
+442
+	IBGMHGLI_01195	CDS	COG3039	911	1570	-	[L] Transposase and inactivated derivatives, IS5 family
+443
+	IBGMHGLI_01196	CDS	COG0112	1698	2948	-	[E] Glycine/serine hydroxymethyltransferase    
+444
+	IBGMHGLI_01197	CDS	COG0405	3429	5204	-	[E] Gamma-glutamyltransferase     
+445
+	IBGMHGLI_01198	CDS	COG2841	5978	6196	+	[S] Uncharacterized protein conserved in bacteria 
+446
+	IBGMHGLI_01199	CDS	COG0158	6355	7329	-	[G] Fructose-1,6-bisphosphatase     
+447
+	IBGMHGLI_01200	CDS	COG2961	7724	8569	-	[R] Protein involved in catabolism of external
+448
+	IBGMHGLI_01201	CDS	COG0344	8646	9248	-	[S] Predicted membrane protein   
+449
+	IBGMHGLI_01202	CDS	COG1539	9304	9660	+	[H] Dihydroneopterin aldolase    
+	IBGMHGLI_01203	CDS	COG0494	9694	10230	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+450
+	IBGMHGLI_01204	CDS	COG0239	10886	11245	-	[D] Integral membrane protein possibly involved in
+	IBGMHGLI_01205	CDS	COG3235	11274	11954	-	[S] Predicted membrane protein   
+451
+	IBGMHGLI_01206	CDS	COG1674	12119	15151	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+452
+	IBGMHGLI_01207	CDS	COG0014	15376	16638	-	[E] Gamma-glutamyl phosphate reductase   
+	IBGMHGLI_01208	CDS	COG0263	16651	17760	-	[E] Glutamate 5-kinase    
+453
+	IBGMHGLI_01209	CDS	COG0119	18006	19799	+	[E] Isopropylmalate/homocitrate/citramalate synthases    
+454
+	IBGMHGLI_01210	CDS	COG3318	19999	20661	+	[R] Predicted metal-binding protein related to the
+455
+	IBGMHGLI_01211	CDS	COG0682	20744	21595	-	[M] Prolipoprotein diacylglyceryltransferase    
+456
+	IBGMHGLI_01212	CDS	COG2866	21666	22796	-	[E] Predicted carboxypeptidase    
+457
+	IBGMHGLI_01213	CDS	NA	22966	23862	+	NA
+458
+	IBGMHGLI_01214	CDS	COG0545	325	654	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 1 
+459
+	IBGMHGLI_01215	CDS	COG3205	732	950	-	[S] Predicted membrane protein   
+460
+	IBGMHGLI_01216	CDS	COG1052	1072	2025	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+461
+	IBGMHGLI_01217	CDS	COG0143	2100	4157	-	[J] Methionyl-tRNA synthetase    
+	IBGMHGLI_01218	CDS	COG0449	4272	6110	-	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+462
+	IBGMHGLI_01219	CDS	ROG1231	6392	6910	+	NA
+463
+	IBGMHGLI_01220	CDS	COG2821	7328	8653	-	[M] Membrane-bound lytic murein transglycosylase  
+464
+	IBGMHGLI_01221	CDS	COG0672	8865	9704	+	[P] High-affinity Fe2+/Pb2+ permease   
+	IBGMHGLI_01222	CDS	COG2822	9701	10867	+	[P] Predicted periplasmic lipoprotein involved in iron
+	IBGMHGLI_01223	CDS	COG2837	11131	12396	+	[P] Predicted iron-dependent peroxidase   
+465
+	IBGMHGLI_01224	CDS	COG2824	12468	12797	-	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+	IBGMHGLI_01225	CDS	COG1207	12874	14289	-	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+	IBGMHGLI_01226	CDS	COG4851	14299	14571	-	[R] Protein involved in sex pheromone biosynthesis
+	IBGMHGLI_01227	CDS	COG1011	14547	15278	-	[R] Predicted hydrolase (HAD superfamily)  
+466
+	IBGMHGLI_01228	CDS	COG4143	15337	16338	+	[H] ABC-type thiamine transport system, periplasmic component
+467
+	IBGMHGLI_01229	CDS	COG0668	16432	17280	+	[M] Small-conductance mechanosensitive channel   
+	IBGMHGLI_01230	CDS	COG1546	17306	17791	+	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+468
+	IBGMHGLI_01231	CDS	COG0229	17893	19461	-	[O] Conserved domain frequently associated with peptide
+469
+	IBGMHGLI_01232	CDS	COG0552	19607	20872	+	[U] Signal recognition particle GTPase  
+470
+	IBGMHGLI_01233	CDS	NA	21633	21875	-	NA
+471
+	IBGMHGLI_01234	CDS	NA	22017	22586	-	NA
+472
+	IBGMHGLI_00158	CDS	NA	124	321	+	NA
+473
+	IBGMHGLI_00159	tRNA	NA	448	524	-	NA
+	IBGMHGLI_00160	tRNA	NA	557	632	-	NA
+474
+	IBGMHGLI_00161	CDS	COG0475	702	2678	-	[P] Kef-type K+ transport systems, membrane components
+475
+	IBGMHGLI_00162	CDS	COG2878	2827	3666	+	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+476
+	IBGMHGLI_00163	CDS	COG0057	3867	4898	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+477
+	IBGMHGLI_00164	CDS	COG2360	5152	5877	-	[O] Leu/Phe-tRNA-protein transferase    
+	IBGMHGLI_00165	CDS	COG0735	5947	6573	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+478
+	IBGMHGLI_00166	CDS	COG2913	6600	6977	+	[J] Small protein A (tmRNA-binding)  
+	IBGMHGLI_00167	CDS	COG0289	6987	7796	+	[E] Dihydrodipicolinate reductase    
+479
+	IBGMHGLI_00168	CDS	NA	8060	8470	-	NA
+480
+	IBGMHGLI_00169	CDS	COG0763	8725	9897	-	[M] Lipid A disaccharide synthetase  
+481
+	IBGMHGLI_00170	CDS	COG0564	9945	10937	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+482
+	IBGMHGLI_00171	CDS	COG1530	11432	14188	+	[J] Ribonucleases G and E  
+483
+	IBGMHGLI_00172	CDS	COG1995	15231	16223	-	[H] Pyridoxal phosphate biosynthesis protein  
+484
+	IBGMHGLI_00173	CDS	COG1115	16383	17810	+	[E] Na+/alanine symporter    
+485
+	IBGMHGLI_00174	CDS	COG0445	18135	20030	+	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+	IBGMHGLI_00175	CDS	COG0164	20098	20682	+	[L] Ribonuclease HII    
+486
+	IBGMHGLI_00176	CDS	COG1192	21355	22128	-	[D] ATPases involved in chromosome partitioning 
+	IBGMHGLI_00177	CDS	COG0357	22227	22850	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+487
+	IBGMHGLI_00178	CDS	ROG1318	22946	23248	-	NA
+	IBGMHGLI_00179	CDS	NA	23224	23418	-	NA
+488
+	IBGMHGLI_00180	tRNA	NA	23525	23600	+	NA
+489
+	IBGMHGLI_00181	CDS	COG1289	23674	24801	+	[S] Predicted membrane protein   
+490
+	IBGMHGLI_00182	CDS	COG0233	24981	25538	+	[J] Ribosome recycling factor   
+	IBGMHGLI_00183	CDS	COG0020	25594	26340	+	[I] Undecaprenyl pyrophosphate synthase   
+	IBGMHGLI_00184	CDS	COG0575	26343	27140	+	[I] CDP-diglyceride synthetase    
+	IBGMHGLI_00185	CDS	COG0743	27145	28380	+	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+	IBGMHGLI_00186	CDS	COG0750	28415	29755	+	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	IBGMHGLI_00187	CDS	COG4775	29812	32205	+	[M] Outer membrane protein/protective antigen OMA87 
+	IBGMHGLI_00188	CDS	COG2825	32271	32771	+	[M] Outer membrane protein   
+	IBGMHGLI_00189	CDS	COG1044	32804	33850	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	IBGMHGLI_00190	CDS	COG0764	33884	34333	+	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+491
+	IBGMHGLI_00191	CDS	ROG0283	34498	35220	+	NA
+	IBGMHGLI_00192	CDS	COG1043	35263	36039	+	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+492
+	IBGMHGLI_00193	CDS	COG1115	36396	37787	+	[E] Na+/alanine symporter    
+493
+	IBGMHGLI_00194	CDS	COG0665	37866	39122	+	[E] Glycine/D-amino acid oxidases (deaminating)  
+494
+	IBGMHGLI_00195	CDS	COG0428	39303	40112	+	[P] Predicted divalent heavy-metal cations transporter 
+495
+	IBGMHGLI_00196	CDS	COG0525	40209	43046	+	[J] Valyl-tRNA synthetase    
+496
+	IBGMHGLI_00197	CDS	COG0583	43376	44296	-	[K] Transcriptional regulator    
+	IBGMHGLI_00198	CDS	COG0851	44300	44563	-	[D] Septum formation topological specificity factor 
+	IBGMHGLI_00199	CDS	COG2894	44567	45382	-	[D] Septum formation inhibitor-activating ATPase  
+	IBGMHGLI_00200	CDS	COG0850	45411	46124	-	[D] Septum formation inhibitor   
+	IBGMHGLI_00201	CDS	NA	46165	46320	-	NA
+	IBGMHGLI_00202	CDS	COG0203	46271	46639	-	[J] Ribosomal protein L17   
+	IBGMHGLI_00203	CDS	COG0202	46663	47649	-	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	IBGMHGLI_00204	CDS	COG0522	47675	48295	-	[J] Ribosomal protein S4 and related proteins
+	IBGMHGLI_00205	CDS	COG0099	48730	49092	-	[J] Ribosomal protein S13   
+	IBGMHGLI_00206	CDS	COG0361	49292	49510	-	[J] Translation initiation factor 1 (IF-1) 
+	IBGMHGLI_00207	CDS	COG0201	49515	50639	-	[U] Preprotein translocase subunit SecY  
+497
+	IBGMHGLI_00208	CDS	NA	51064	51231	-	NA
+	IBGMHGLI_00209	CDS	COG1841	51273	51458	-	[J] Ribosomal protein L30/L7E   
+	IBGMHGLI_00210	CDS	COG0098	51451	51969	-	[J] Ribosomal protein S5   
+	IBGMHGLI_00211	CDS	COG0256	51988	52341	-	[J] Ribosomal protein L18   
+	IBGMHGLI_00212	CDS	COG0097	52355	52888	-	[J] Ribosomal protein L6P/L9E   
+	IBGMHGLI_00213	CDS	COG0096	52902	53294	-	[J] Ribosomal protein S8   
+	IBGMHGLI_00214	CDS	COG0199	53310	53615	-	[J] Ribosomal protein S14   
+	IBGMHGLI_00215	CDS	COG0094	53618	54157	-	[J] Ribosomal protein L5   
+	IBGMHGLI_00216	CDS	COG0198	54167	54490	-	[J] Ribosomal protein L24   
+	IBGMHGLI_00217	CDS	COG0093	54502	54870	-	[J] Ribosomal protein L14   
+	IBGMHGLI_00218	CDS	COG0186	55092	55355	-	[J] Ribosomal protein S17   
+	IBGMHGLI_00219	CDS	COG0255	55355	55546	-	[J] Ribosomal protein L29   
+498
+	IBGMHGLI_00220	CDS	NA	55549	56016	+	NA
+499
+	IBGMHGLI_00221	CDS	COG0092	55946	56638	-	[J] Ribosomal protein S3   
+	IBGMHGLI_00222	CDS	COG0091	56648	56977	-	[J] Ribosomal protein L22   
+	IBGMHGLI_00223	CDS	COG0185	56986	57264	-	[J] Ribosomal protein S19   
+	IBGMHGLI_00224	CDS	COG0090	57271	58104	-	[J] Ribosomal protein L2   
+	IBGMHGLI_00225	CDS	COG0089	58110	58424	-	[J] Ribosomal protein L23   
+	IBGMHGLI_00226	CDS	COG0088	58421	59041	-	[J] Ribosomal protein L4   
+	IBGMHGLI_00227	CDS	COG0087	59041	59685	-	[J] Ribosomal protein L3   
+500
+	IBGMHGLI_00228	CDS	COG3039	59871	60164	-	[L] Transposase and inactivated derivatives, IS5 family
+501
+	IBGMHGLI_00229	CDS	COG0051	60374	60685	-	[J] Ribosomal protein S10   
+	IBGMHGLI_00230	CDS	COG0050	60703	61887	-	[J] GTPases - translation elongation factors 
+	IBGMHGLI_00231	CDS	COG0480	61975	64080	-	[J] Translation elongation factors (GTPases)  
+	IBGMHGLI_00232	CDS	COG0049	64099	64569	-	[J] Ribosomal protein S7   
+	IBGMHGLI_00233	CDS	COG0048	64687	65058	-	[J] Ribosomal protein S12   
+502
+	IBGMHGLI_00234	CDS	ROG3350	65237	65386	-	NA
+	IBGMHGLI_00235	CDS	NA	65383	65640	-	NA
+503
+	IBGMHGLI_00236	CDS	NA	65693	65818	+	NA
+504
+	IBGMHGLI_00237	CDS	COG0086	65932	70107	-	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+	IBGMHGLI_00238	CDS	COG0085	70264	74442	-	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	IBGMHGLI_00239	CDS	COG0222	74633	75004	-	[J] Ribosomal protein L7/L12   
+	IBGMHGLI_00240	CDS	COG0244	75062	75562	-	[J] Ribosomal protein L10   
+	IBGMHGLI_00241	CDS	COG0081	75792	76487	-	[J] Ribosomal protein L1   
+	IBGMHGLI_00242	CDS	COG0080	76487	76921	-	[J] Ribosomal protein L11   
+	IBGMHGLI_00243	CDS	COG0250	77022	77558	-	[K] Transcription antiterminator    
+	IBGMHGLI_00244	CDS	COG0690	77560	77838	-	[U] Preprotein translocase subunit SecE  
+505
+	IBGMHGLI_00245	tRNA	NA	77953	78028	-	NA
+	IBGMHGLI_00246	CDS	COG0050	78035	79219	-	[J] GTPases - translation elongation factors 
+	IBGMHGLI_00247	tRNA	NA	79268	79342	-	NA
+	IBGMHGLI_00248	tRNA	NA	79352	79425	-	NA
+	IBGMHGLI_00249	tRNA	NA	79456	79539	-	NA
+506
+	IBGMHGLI_00250	CDS	COG1145	79636	79887	-	[C] Ferredoxin     
+507
+	IBGMHGLI_00251	CDS	COG0742	80010	80579	-	[L] N6-adenine-specific methylase    
+508
+	IBGMHGLI_00252	CDS	COG2932	80668	81045	-	[K] Predicted transcriptional regulator   
+509
+	IBGMHGLI_00253	CDS	NA	81164	81715	+	NA
+	IBGMHGLI_00254	CDS	NA	81735	82430	+	NA
+510
+	IBGMHGLI_00255	CDS	COG0550	82503	84809	-	[L] Topoisomerase IA    
+511
+	IBGMHGLI_00256	CDS	COG2922	84888	85349	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00257	CDS	COG0758	85375	86562	-	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+512
+	IBGMHGLI_00258	CDS	COG2204	86653	87930	-	[T] Response regulator containing CheY-like receiver, AAA-type
+	IBGMHGLI_00259	CDS	COG5000	87923	90043	-	[T] Signal transduction histidine kinase involved in
+	IBGMHGLI_00260	CDS	ROG0119	90043	90642	-	NA
+	IBGMHGLI_00261	CDS	COG0144	90608	91867	-	[J] tRNA and rRNA cytosine-C5-methylases  
+	IBGMHGLI_00262	CDS	COG0223	91946	92872	-	[J] Methionyl-tRNA formyltransferase    
+	IBGMHGLI_00263	CDS	COG0242	92959	93462	-	[J] N-formylmethionyl-tRNA deformylase    
+513
+	IBGMHGLI_00264	CDS	COG1652	93646	94863	+	[S] Uncharacterized protein containing LysM domain 
+514
+	IBGMHGLI_00265	CDS	COG4094	94926	95585	-	[S] Predicted membrane protein   
+515
+	IBGMHGLI_00266	CDS	COG1781	95656	96114	-	[F] Aspartate carbamoyltransferase, regulatory subunit  
+	IBGMHGLI_00267	CDS	COG0540	96124	97044	-	[F] Aspartate carbamoyltransferase, catalytic chain  
+516
+	IBGMHGLI_00268	CDS	COG0454	97282	98124	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	IBGMHGLI_00269	CDS	NA	98121	98279	+	NA
+517
+	IBGMHGLI_00270	CDS	ROG2021	98406	99080	+	NA
+518
+	IBGMHGLI_00271	CDS	COG3271	99688	100077	+	[R] Predicted double-glycine peptidase   
+519
+	IBGMHGLI_00272	CDS	NA	100354	100872	-	NA
+520
+	IBGMHGLI_01235	CDS	COG0110	82	717	-	[R] Acetyltransferase (isoleucine patch superfamily)  
+521
+	IBGMHGLI_01236	CDS	ROG6398	783	3896	-	NA
+522
+	IBGMHGLI_01237	CDS	COG2089	4048	5097	-	[M] Sialic acid synthase   
+	IBGMHGLI_01238	CDS	COG1083	5098	5784	-	[M] CMP-N-acetylneuraminic acid synthetase   
+	IBGMHGLI_01239	CDS	ROG3014	5788	6708	-	NA
+523
+	IBGMHGLI_01240	CDS	COG1596	7056	8231	+	[M] Periplasmic protein involved in polysaccharide export
+	IBGMHGLI_01241	CDS	COG3524	8246	9409	+	[M] Capsule polysaccharide export protein  
+	IBGMHGLI_01242	CDS	COG1682	9409	10206	+	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+	IBGMHGLI_01243	CDS	COG1134	10203	10853	+	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+524
+	IBGMHGLI_01244	CDS	COG2183	10918	13191	+	[K] Transcriptional accessory protein   
+	IBGMHGLI_01245	CDS	COG0270	13222	14052	+	[L] Site-specific DNA methylase   
+	IBGMHGLI_01246	CDS	COG3392	14217	14561	+	[L] Adenine-specific DNA methylase   
+	IBGMHGLI_01247	CDS	COG1087	14619	15260	+	[M] UDP-glucose 4-epimerase    
+	IBGMHGLI_01248	CDS	COG1088	15261	16301	+	[M] dTDP-D-glucose 4,6-dehydratase    
+	IBGMHGLI_01249	CDS	COG1209	16407	17273	+	[M] dTDP-glucose pyrophosphorylase    
+	IBGMHGLI_01250	CDS	COG1898	17312	17884	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+525
+	IBGMHGLI_01251	CDS	COG1297	17927	19945	-	[S] Predicted membrane protein   
+526
+	IBGMHGLI_01252	CDS	NA	20141	21262	-	NA
+527
+	IBGMHGLI_01253	CDS	NA	628	1056	-	NA
+528
+	IBGMHGLI_01254	CDS	NA	1133	1576	-	NA
+	IBGMHGLI_01255	CDS	ROG0367	1619	2488	-	NA
+529
+	IBGMHGLI_01256	CDS	COG0564	2652	3575	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+530
+	IBGMHGLI_01257	CDS	COG2945	3653	4336	-	[R] Predicted hydrolase of the alpha/beta superfamily
+	IBGMHGLI_01258	CDS	COG0421	4349	5140	-	[E] Spermidine synthase    
+531
+	IBGMHGLI_01259	tRNA	NA	5306	5381	+	NA
+532
+	IBGMHGLI_01260	CDS	COG0413	5523	6314	+	[H] Ketopantoate hydroxymethyltransferase    
+	IBGMHGLI_01261	CDS	COG0414	6437	7273	+	[H] Panthothenate synthetase    
+533
+	IBGMHGLI_01262	CDS	COG0457	7438	9276	+	[R] FOG: TPR repeat   
+	IBGMHGLI_01263	CDS	COG3017	9416	9997	+	[M] Outer membrane lipoprotein involved in outer
+	IBGMHGLI_01264	CDS	COG1947	10007	10852	+	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+	IBGMHGLI_01265	tRNA	NA	10860	10935	+	NA
+	IBGMHGLI_01266	tRNA	NA	10944	11019	+	NA
+	IBGMHGLI_01267	tRNA	NA	11028	11103	+	NA
+	IBGMHGLI_01268	tRNA	NA	11112	11187	+	NA
+534
+	IBGMHGLI_01269	CDS	COG0462	11355	12338	+	[FE] Phosphoribosylpyrophosphate synthetase    
+	IBGMHGLI_01270	CDS	COG1825	12405	12977	+	[J] Ribosomal protein L25 (general stress protein
+535
+	IBGMHGLI_01271	CDS	COG1686	13102	14271	-	[M] D-alanyl-D-alanine carboxypeptidase    
+536
+	IBGMHGLI_01272	CDS	COG1171	14419	15945	+	[E] Threonine dehydratase    
+537
+	IBGMHGLI_01273	CDS	COG1118	16002	17075	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	IBGMHGLI_01274	CDS	COG4208	17072	17932	-	[P] ABC-type sulfate transport system, permease component
+	IBGMHGLI_01275	CDS	COG0555	18184	19020	-	[O] ABC-type sulfate transport system, permease component
+538
+	IBGMHGLI_01276	CDS	NA	19310	19642	+	NA
+539
+	IBGMHGLI_01277	CDS	NA	19974	20483	+	NA
+540
+	IBGMHGLI_01278	tRNA	NA	508	583	-	NA
+541
+	IBGMHGLI_01279	CDS	COG2018	676	1035	-	[R] Uncharacterized distant relative of homeotic protein
+	IBGMHGLI_01280	CDS	NA	1058	1702	-	NA
+	IBGMHGLI_01281	CDS	COG2229	1704	2240	-	[R] Predicted GTPase    
+	IBGMHGLI_01282	CDS	NA	2252	3349	-	NA
+	IBGMHGLI_01283	CDS	NA	3352	4788	-	NA
+542
+	IBGMHGLI_01284	CDS	COG0500	5008	5790	-	[QR] SAM-dependent methyltransferases    
+	IBGMHGLI_01285	CDS	COG2830	5778	6425	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01286	CDS	COG0156	6435	7577	-	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+543
+	IBGMHGLI_01287	CDS	COG1376	7842	8876	+	[S] Uncharacterized protein conserved in bacteria 
+544
+	IBGMHGLI_01288	CDS	COG0471	9083	10549	-	[P] Di- and tricarboxylate transporters  
+545
+	IBGMHGLI_01289	CDS	COG0010	10747	11670	-	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+	IBGMHGLI_01290	CDS	COG1166	11769	13661	-	[E] Arginine decarboxylase (spermidine biosynthesis)  
+546
+	IBGMHGLI_01291	CDS	ROG6169	13828	14112	-	NA
+547
+	IBGMHGLI_01292	CDS	COG0173	14263	16071	-	[J] Aspartyl-tRNA synthetase    
+548
+	IBGMHGLI_01293	CDS	COG2928	16129	16830	-	[S] Uncharacterized conserved protein   
+549
+	IBGMHGLI_01294	CDS	COG2829	16973	18052	-	[M] Outer membrane phospholipase A  
+550
+	IBGMHGLI_01295	CDS	COG0268	18282	18545	-	[J] Ribosomal protein S20   
+551
+	IBGMHGLI_01296	CDS	NA	18848	19990	+	NA
+552
+	IBGMHGLI_01297	CDS	COG0774	921	1844	+	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+553
+	IBGMHGLI_01298	CDS	COG0362	2784	4232	+	[G] 6-phosphogluconate dehydrogenase    
+554
+	IBGMHGLI_01299	CDS	COG1519	4295	5566	+	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+	IBGMHGLI_01300	CDS	COG3399	5607	6056	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01301	CDS	COG0861	6089	7063	+	[P] Membrane protein TerC, possibly involved in
+555
+	IBGMHGLI_01302	tRNA	NA	7132	7207	+	NA
+556
+	IBGMHGLI_01303	CDS	COG0766	7427	8680	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	IBGMHGLI_01304	CDS	COG0126	8761	9939	+	[G] 3-phosphoglycerate kinase    
+557
+	IBGMHGLI_01305	CDS	COG5007	10006	10254	-	[K] Predicted transcriptional regulator, BolA superfamily 
+558
+	IBGMHGLI_01306	CDS	COG2177	10344	11261	-	[D] Cell division protein   
+	IBGMHGLI_01307	CDS	COG2884	11258	11908	-	[D] Predicted ATPase involved in cell division
+559
+	IBGMHGLI_01308	CDS	COG0526	12104	12586	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+560
+	IBGMHGLI_01309	CDS	COG1393	12710	13063	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	IBGMHGLI_01310	CDS	COG1434	13060	13716	+	[S] Uncharacterized conserved protein   
+561
+	IBGMHGLI_01311	CDS	COG0008	13832	15226	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	IBGMHGLI_01312	CDS	COG1196	15247	15642	+	[D] Chromosome segregation ATPases   
+	IBGMHGLI_01313	CDS	COG0454	15646	16137	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+562
+	IBGMHGLI_01314	CDS	COG0249	16260	18854	-	[L] Mismatch repair ATPase (MutS family) 
+563
+	IBGMHGLI_01315	CDS	NA	19298	20302	+	NA
+564
+	IBGMHGLI_01316	CDS	COG4968	196	645	+	[NU] Tfp pilus assembly protein PilE 
+565
+	IBGMHGLI_01317	CDS	ROG0059	806	1075	-	NA
+566
+	IBGMHGLI_01318	CDS	ROG6185	1187	1399	-	NA
+567
+	IBGMHGLI_01319	CDS	COG3039	1631	2110	+	[L] Transposase and inactivated derivatives, IS5 family
+568
+	IBGMHGLI_01320	CDS	COG2425	2458	3918	-	[R] Uncharacterized protein containing a von Willebrand
+	IBGMHGLI_01321	CDS	ROG5978	3909	5516	-	NA
+	IBGMHGLI_01322	CDS	COG1643	5575	8772	-	[L] HrpA-like helicases    
+569
+	IBGMHGLI_01323	CDS	COG2194	8874	10448	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+570
+	IBGMHGLI_01324	CDS	ROG2184	10629	11756	-	NA
+571
+	IBGMHGLI_01325	CDS	COG1643	11857	13248	-	[L] HrpA-like helicases    
+572
+	IBGMHGLI_01326	CDS	COG0038	13403	14839	-	[P] Chloride channel protein EriC  
+573
+	IBGMHGLI_01327	CDS	COG1364	14899	16119	-	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	IBGMHGLI_01328	CDS	COG1346	16186	16878	-	[M] Putative effector of murein hydrolase 
+	IBGMHGLI_01329	CDS	COG1380	16878	17222	-	[R] Putative effector of murein hydrolase LrgA
+574
+	IBGMHGLI_01330	CDS	ROG2685	17367	17585	-	NA
+	IBGMHGLI_01331	CDS	COG0791	17604	18359	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+575
+	IBGMHGLI_01332	CDS	NA	18604	19488	+	NA
+576
+	IBGMHGLI_01333	CDS	COG0192	377	1546	-	[H] S-adenosylmethionine synthetase    
+577
+	IBGMHGLI_01334	CDS	COG1560	1892	2788	+	[M] Lauroyl/myristoyl acyltransferase    
+578
+	IBGMHGLI_01335	CDS	COG0533	2832	3896	-	[O] Metal-dependent proteases with possible chaperone activity
+579
+	IBGMHGLI_01336	CDS	COG0755	4013	5200	-	[O] ABC-type transport system involved in cytochrome
+	IBGMHGLI_01337	CDS	COG1333	5193	7208	-	[O] ResB protein required for cytochrome c
+580
+	IBGMHGLI_01338	CDS	COG2863	7422	8045	-	[C] Cytochrome c553    
+581
+	IBGMHGLI_01339	CDS	COG0218	8251	8880	+	[R] Predicted GTPase    
+582
+	IBGMHGLI_01340	CDS	COG5009	9001	11397	-	[M] Membrane carboxypeptidase/penicillin-binding protein   
+583
+	IBGMHGLI_01341	CDS	COG4972	11549	12664	+	[NU] Tfp pilus assembly protein, ATPase PilM
+	IBGMHGLI_01342	CDS	COG3166	12667	13266	+	[NU] Tfp pilus assembly protein PilN 
+	IBGMHGLI_01343	CDS	COG3167	13267	13914	+	[NU] Tfp pilus assembly protein PilO 
+	IBGMHGLI_01344	CDS	COG3168	13932	14477	+	[NU] Tfp pilus assembly protein PilP 
+	IBGMHGLI_01345	CDS	COG4796	14496	16781	+	[U] Type II secretory pathway, component HofQ
+584
+	IBGMHGLI_01346	CDS	COG0703	17959	18471	+	[E] Shikimate kinase    
+	IBGMHGLI_01347	CDS	COG0337	18551	19630	+	[E] 3-dehydroquinate synthetase    
+585
+	IBGMHGLI_01348	CDS	NA	468	725	-	NA
+586
+	IBGMHGLI_01349	CDS	NA	992	1183	+	NA
+587
+	IBGMHGLI_01350	CDS	COG0722	1392	2447	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+	IBGMHGLI_01351	CDS	COG0262	2515	3003	+	[H] Dihydrofolate reductase    
+588
+	IBGMHGLI_01352	CDS	COG2954	3353	3829	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01353	CDS	COG1981	3841	4266	-	[S] Predicted membrane protein   
+589
+	IBGMHGLI_01354	CDS	NA	4383	4628	+	NA
+590
+	IBGMHGLI_01355	CDS	COG3468	6337	8196	+	[MU] Type V secretory pathway, adhesin AidA
+591
+	IBGMHGLI_01356	CDS	ROG3350	8471	9904	+	NA
+592
+	IBGMHGLI_01357	CDS	COG4255	10105	11073	-	[S] Uncharacterized protein conserved in bacteria 
+593
+	IBGMHGLI_01358	CDS	COG0739	11150	12442	+	[M] Membrane proteins related to metalloendopeptidases 
+594
+	IBGMHGLI_01359	CDS	COG1738	13381	14067	-	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01360	CDS	COG0780	14144	14617	-	[R] Enzyme related to GTP cyclohydrolase I
+595
+	IBGMHGLI_01361	CDS	ROG4749	14880	15239	+	NA
+	IBGMHGLI_01362	CDS	COG1566	15283	16455	+	[V] Multidrug resistance efflux pump  
+	IBGMHGLI_01363	CDS	ROG0893	16479	18005	+	NA
+596
+	IBGMHGLI_01364	CDS	COG0227	18255	18488	+	[J] Ribosomal protein L28   
+	IBGMHGLI_01365	CDS	COG0267	18520	18675	+	[J] Ribosomal protein L33   
+597
+	IBGMHGLI_01366	CDS	COG2357	350	1618	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01367	CDS	COG0556	1664	3763	-	[L] Helicase subunit of the DNA excision
+598
+	IBGMHGLI_01368	CDS	COG0793	4020	5504	-	[M] Periplasmic protease    
+	IBGMHGLI_01369	CDS	COG4942	5631	7421	-	[D] Membrane-bound metallopeptidase    
+599
+	IBGMHGLI_01370	CDS	COG3045	7749	8309	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01371	CDS	COG1678	8311	8859	+	[K] Putative transcriptional regulator   
+	IBGMHGLI_01372	CDS	COG0816	8852	9307	+	[L] Predicted endonuclease involved in recombination (possible
+600
+	IBGMHGLI_01373	CDS	COG0179	9317	9973	-	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+601
+	IBGMHGLI_01374	CDS	COG0442	10036	11748	-	[J] Prolyl-tRNA synthetase    
+602
+	IBGMHGLI_01375	CDS	COG2609	12442	15105	+	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+	IBGMHGLI_01376	CDS	COG0508	15255	16838	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	IBGMHGLI_01377	CDS	COG1249	16915	18702	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+603
+	IBGMHGLI_01378	CDS	COG0592	319	1422	-	[L] DNA polymerase sliding clamp subunit (PCNA
+	IBGMHGLI_01379	CDS	COG0593	1657	3213	-	[L] ATPase involved in DNA replication initiation
+604
+	IBGMHGLI_01380	CDS	ROG4984	3505	3639	+	NA
+	IBGMHGLI_01381	CDS	COG0594	3642	4007	+	[J] RNase P protein component  
+	IBGMHGLI_01382	CDS	COG0759	4072	4293	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01383	CDS	COG0706	4465	6102	+	[U] Preprotein translocase subunit YidC  
+605
+	IBGMHGLI_01384	CDS	COG0313	6183	6896	-	[R] Predicted methyltransferases    
+606
+	IBGMHGLI_01385	CDS	COG0424	6955	7545	-	[D] Nucleotide-binding protein implicated in inhibition of
+607
+	IBGMHGLI_01386	CDS	COG1399	7693	8196	+	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+	IBGMHGLI_01387	CDS	COG0333	8230	8409	+	[J] Ribosomal protein L32   
+608
+	IBGMHGLI_01388	CDS	COG2236	8584	9111	+	[R] Predicted phosphoribosyltransferases    
+609
+	IBGMHGLI_01389	CDS	COG0416	9199	10254	+	[I] Fatty acid/phospholipid biosynthesis enzyme  
+610
+	IBGMHGLI_01390	CDS	NA	10454	10648	+	NA
+	IBGMHGLI_01391	CDS	NA	10675	11091	+	NA
+	IBGMHGLI_01392	CDS	NA	11111	11314	+	NA
+	IBGMHGLI_01393	CDS	COG0332	11341	12303	+	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	IBGMHGLI_01394	CDS	COG3326	12350	12721	+	[S] Predicted membrane protein   
+	IBGMHGLI_01395	CDS	COG0331	12747	13673	+	[I] (acyl-carrier-protein) S-malonyltransferase    
+	IBGMHGLI_01396	CDS	COG1132	13812	15677	+	[V] ABC-type multidrug transport system, ATPase and
+	IBGMHGLI_01397	CDS	COG0519	15777	17342	+	[F] GMP synthase, PP-ATPase domain/subunit  
+	IBGMHGLI_01398	CDS	COG1028	17404	18150	+	[IQR] Dehydrogenases with different specificities (related to
+611
+	IBGMHGLI_01399	CDS	NA	18492	18647	-	NA
+612
+	IBGMHGLI_01400	CDS	COG0718	1322	1657	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01401	CDS	COG2812	1737	3860	-	[L] DNA polymerase III, gamma/tau subunits 
+	IBGMHGLI_01402	CDS	COG0323	3955	5931	-	[L] DNA mismatch repair enzyme (predicted ATPase)
+613
+	IBGMHGLI_01403	CDS	ROG0681	6074	6259	+	NA
+	IBGMHGLI_01404	CDS	COG4122	6270	6938	+	[R] Predicted O-methyltransferase    
+	IBGMHGLI_01405	CDS	COG1729	6938	7654	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01406	CDS	COG0041	7702	8187	+	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+614
+	IBGMHGLI_01407	CDS	COG1139	8370	9824	-	[C] Uncharacterized conserved protein containing a ferredoxin-like
+	IBGMHGLI_01408	CDS	COG1556	9821	10522	-	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01409	CDS	COG0247	10519	11298	-	[C] Fe-S oxidoreductase    
+615
+	IBGMHGLI_01410	CDS	COG0477	11480	12988	+	[GEPR] Permeases of the major facilitator superfamily
+	IBGMHGLI_01411	CDS	COG1502	13049	14626	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+616
+	IBGMHGLI_01412	CDS	COG0791	14834	15367	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+617
+	IBGMHGLI_01413	CDS	COG0128	15410	16711	-	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+618
+	IBGMHGLI_01414	CDS	NA	17103	17579	+	NA
+619
+	IBGMHGLI_00273	CDS	COG3039	416	811	-	[L] Transposase and inactivated derivatives, IS5 family
+620
+	IBGMHGLI_00274	CDS	COG1158	1687	2946	-	[K] Transcription termination factor   
+	IBGMHGLI_00275	CDS	COG0574	3166	5550	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+621
+	IBGMHGLI_00276	CDS	COG1806	5962	6783	+	[S] Uncharacterized protein conserved in bacteria 
+622
+	IBGMHGLI_00277	CDS	COG0546	7022	7684	-	[R] Predicted phosphatases    
+623
+	IBGMHGLI_00278	CDS	COG1230	7745	8710	-	[P] Co/Zn/Cd efflux system component  
+	IBGMHGLI_00279	CDS	COG2833	8756	9583	-	[S] Uncharacterized protein conserved in bacteria 
+624
+	IBGMHGLI_00280	CDS	COG2834	10013	10636	+	[M] Outer membrane lipoprotein-sorting protein  
+625
+	IBGMHGLI_00281	CDS	COG0687	10909	12045	+	[E] Spermidine/putrescine-binding periplasmic protein   
+626
+	IBGMHGLI_00282	CDS	COG0463	12177	12488	+	[M] Glycosyltransferases involved in cell wall biogenesis
+627
+	IBGMHGLI_00283	CDS	NA	12619	13254	+	NA
+	IBGMHGLI_00284	CDS	COG0663	13295	13825	+	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+628
+	IBGMHGLI_00285	CDS	COG4108	14200	15795	-	[J] Peptide chain release factor RF-3 
+629
+	IBGMHGLI_00286	CDS	COG0139	15902	16297	-	[E] Phosphoribosyl-AMP cyclohydrolase    
+	IBGMHGLI_00287	CDS	COG0107	16328	17095	-	[E] Imidazoleglycerol-phosphate synthase    
+	IBGMHGLI_00288	CDS	COG0106	17108	17845	-	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+	IBGMHGLI_00289	CDS	COG0118	17878	18516	-	[E] Glutamine amidotransferase    
+	IBGMHGLI_00290	CDS	COG0280	18647	20149	-	[C] Phosphotransacetylase     
+630
+	IBGMHGLI_00291	CDS	COG1118	20334	21392	-	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+	IBGMHGLI_00292	CDS	COG1178	21413	22942	-	[P] ABC-type Fe3+ transport system, permease component
+	IBGMHGLI_00293	CDS	COG1840	22998	23993	-	[P] ABC-type Fe3+ transport system, periplasmic component
+631
+	IBGMHGLI_00294	CDS	ROG5235	24245	24715	-	NA
+	IBGMHGLI_00295	CDS	COG0165	24773	26149	-	[E] Argininosuccinate lyase    
+	IBGMHGLI_00296	CDS	COG1210	26168	27037	-	[M] UDP-glucose pyrophosphorylase    
+	IBGMHGLI_00297	CDS	COG0127	27065	27664	-	[F] Xanthosine triphosphate pyrophosphatase   
+	IBGMHGLI_00298	CDS	ROG2059	27657	27890	-	NA
+632
+	IBGMHGLI_00299	CDS	COG0221	27998	28531	-	[C] Inorganic pyrophosphatase    
+	IBGMHGLI_00300	CDS	COG1051	28633	29091	-	[F] ADP-ribose pyrophosphatase    
+633
+	IBGMHGLI_00301	tRNA	NA	29302	29378	+	NA
+634
+	IBGMHGLI_00302	CDS	ROG1168	29691	31583	+	NA
+	IBGMHGLI_00303	CDS	NA	31610	32029	+	NA
+635
+	IBGMHGLI_00304	CDS	NA	32187	32429	+	NA
+636
+	IBGMHGLI_00305	CDS	NA	32755	33144	+	NA
+637
+	IBGMHGLI_00306	CDS	NA	33365	33763	+	NA
+638
+	IBGMHGLI_00307	CDS	NA	33864	34253	+	NA
+639
+	IBGMHGLI_00308	CDS	NA	34401	34790	+	NA
+640
+	IBGMHGLI_00309	CDS	COG0168	34831	36288	-	[P] Trk-type K+ transport systems, membrane components
+	IBGMHGLI_00310	CDS	ROG0146	36303	37133	-	NA
+641
+	IBGMHGLI_00311	CDS	COG0251	37211	37600	-	[J] Putative translation initiation inhibitor, yjgF family
+642
+	IBGMHGLI_00312	CDS	COG3637	37736	38260	-	[M] Opacity protein and related surface antigens
+643
+	IBGMHGLI_00313	CDS	COG0635	38845	40020	-	[H] Coproporphyrinogen III oxidase and related Fe-S
+	IBGMHGLI_00314	CDS	COG0272	40077	42602	-	[L] NAD-dependent DNA ligase (contains BRCT domain
+644
+	IBGMHGLI_00315	CDS	ROG0612	42750	44036	-	NA
+645
+	IBGMHGLI_00316	CDS	COG3023	44230	44802	-	[V] Negative regulator of beta-lactamase expression 
+646
+	IBGMHGLI_00317	CDS	COG1559	44886	45881	+	[R] Predicted periplasmic solute-binding protein  
+	IBGMHGLI_00318	CDS	COG0125	45941	46561	+	[F] Thymidylate kinase    
+647
+	IBGMHGLI_00319	CDS	COG0281	46783	48063	+	[C] Malic enzyme    
+648
+	IBGMHGLI_00320	CDS	COG1663	48610	49644	+	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+649
+	IBGMHGLI_00321	CDS	COG3184	49844	50431	+	[S] Uncharacterized protein conserved in bacteria 
+650
+	IBGMHGLI_00322	CDS	COG2835	50500	50682	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_00323	CDS	COG1212	50679	51440	+	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+	IBGMHGLI_00324	CDS	ROG1448	51463	51864	+	NA
+	IBGMHGLI_00325	CDS	NA	51819	52082	+	NA
+651
+	IBGMHGLI_00326	tRNA	NA	52239	52331	+	NA
+652
+	IBGMHGLI_00327	CDS	COG0159	52634	53419	+	[E] Tryptophan synthase alpha chain  
+	IBGMHGLI_00328	CDS	COG0777	53456	54328	+	[I] Acetyl-CoA carboxylase beta subunit  
+653
+	IBGMHGLI_00329	CDS	ROG0846	54388	54999	-	NA
+654
+	IBGMHGLI_00330	CDS	COG0425	55108	55332	+	[O] Predicted redox protein, regulator of disulfide
+655
+	IBGMHGLI_00331	CDS	COG0418	55695	56729	+	[F] Dihydroorotase     
+656
+	IBGMHGLI_00332	CDS	COG0781	57095	57520	-	[K] Transcription termination factor   
+	IBGMHGLI_00333	CDS	COG0054	57598	58074	-	[H] Riboflavin synthase beta-chain   
+	IBGMHGLI_00334	CDS	COG4859	58122	58445	-	[S] Uncharacterized protein conserved in bacteria 
+657
+	IBGMHGLI_00335	CDS	COG0571	58612	59331	+	[K] dsRNA-specific ribonuclease    
+	IBGMHGLI_00336	CDS	COG1159	59289	60302	+	[R] GTPase     
+658
+	IBGMHGLI_00337	CDS	COG0135	61007	61633	-	[E] Phosphoribosylanthranilate isomerase    
+	IBGMHGLI_00338	CDS	COG0782	61692	62183	-	[K] Transcription elongation factor   
+	IBGMHGLI_00339	CDS	COG0034	62283	63827	-	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	IBGMHGLI_00340	CDS	COG1286	64035	64532	-	[R] Uncharacterized membrane protein, required for colicin
+	IBGMHGLI_00341	CDS	ROG2101	64525	65523	-	NA
+	IBGMHGLI_00342	CDS	COG0285	65536	66810	-	[H] Folylpolyglutamate synthase    
+	IBGMHGLI_00343	CDS	ROG5135	66841	67287	-	NA
+	IBGMHGLI_00344	CDS	ROG5664	67292	67651	-	NA
+659
+	IBGMHGLI_00345	CDS	COG1126	67724	68473	-	[E] ABC-type polar amino acid transport system,
+660
+	IBGMHGLI_00346	CDS	COG0030	68625	69404	-	[J] Dimethyladenosine transferase (rRNA methylation)  
+661
+	IBGMHGLI_00347	CDS	COG3663	69601	70290	+	[L] G:T/U mismatch-specific DNA glycosylase  
+662
+	IBGMHGLI_00348	CDS	COG0133	70373	71575	+	[E] Tryptophan synthase beta chain  
+663
+	IBGMHGLI_00349	CDS	NA	71754	76406	-	NA
+664
+	IBGMHGLI_01415	CDS	COG2911	429	4598	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01416	CDS	COG0729	4653	6500	-	[M] Outer membrane protein   
+665
+	IBGMHGLI_01417	CDS	COG3633	7029	8258	+	[E] Na+/serine symporter    
+666
+	IBGMHGLI_01418	CDS	NA	8370	9650	+	NA
+667
+	IBGMHGLI_01419	CDS	ROG4687	9725	9940	-	NA
+668
+	IBGMHGLI_01420	CDS	NA	10185	10334	-	NA
+669
+	IBGMHGLI_01421	CDS	COG0137	10409	11752	-	[E] Argininosuccinate synthase    
+670
+	IBGMHGLI_01422	CDS	COG1058	11877	12677	+	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+	IBGMHGLI_01423	CDS	COG0616	12717	13703	+	[OU] Periplasmic serine proteases (ClpP class) 
+671
+	IBGMHGLI_01424	CDS	NA	15206	15562	-	NA
+672
+	IBGMHGLI_01425	CDS	NA	16608	17060	-	NA
+673
+	IBGMHGLI_01426	CDS	NA	17418	17735	-	NA
+674
+	IBGMHGLI_01427	CDS	NA	17753	17926	+	NA
+675
+	IBGMHGLI_01428	CDS	COG1309	300	932	+	[K] Transcriptional regulator    
+676
+	IBGMHGLI_01429	CDS	NA	1211	1423	-	NA
+677
+	IBGMHGLI_01430	CDS	COG2978	1757	3325	+	[H] Putative p-aminobenzoyl-glutamate transporter   
+678
+	IBGMHGLI_01431	CDS	COG1330	3393	6602	-	[L] Exonuclease V gamma subunit  
+679
+	IBGMHGLI_01432	CDS	COG3182	6704	8113	-	[S] Uncharacterized iron-regulated membrane protein  
+680
+	IBGMHGLI_01433	CDS	COG2010	8549	9646	-	[C] Cytochrome c, mono- and diheme variants
+	IBGMHGLI_01434	CDS	COG4736	9670	9840	-	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	IBGMHGLI_01435	CDS	COG2993	9845	10456	-	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	IBGMHGLI_01436	CDS	COG3278	10483	11916	-	[O] Cbb3-type cytochrome oxidase, subunit 1 
+681
+	IBGMHGLI_01437	CDS	COG3975	12243	13991	+	[R] Predicted protease with the C-terminal PDZ
+682
+	IBGMHGLI_01438	CDS	COG3453	14056	14484	+	[S] Uncharacterized protein conserved in bacteria 
+683
+	IBGMHGLI_01439	CDS	COG0848	15171	15605	-	[U] Biopolymer transport protein   
+	IBGMHGLI_01440	CDS	COG0811	15626	16288	-	[U] Biopolymer transport proteins   
+	IBGMHGLI_01441	CDS	COG0810	16354	17196	-	[M] Periplasmic protein TonB, links inner and
+684
+	IBGMHGLI_01442	CDS	NA	17451	18089	+	NA
+685
+	IBGMHGLI_01443	CDS	COG1210	78	785	+	[M] UDP-glucose pyrophosphorylase    
+	IBGMHGLI_01444	CDS	COG1087	868	1884	+	[M] UDP-glucose 4-epimerase    
+	IBGMHGLI_01445	CDS	COG1088	1980	3041	+	[M] dTDP-D-glucose 4,6-dehydratase    
+	IBGMHGLI_01446	CDS	COG1209	3254	4129	+	[M] dTDP-glucose pyrophosphorylase    
+	IBGMHGLI_01447	CDS	COG1898	4184	4723	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+686
+	IBGMHGLI_01448	CDS	COG3563	4885	6933	+	[M] Capsule polysaccharide export protein  
+	IBGMHGLI_01449	CDS	COG3562	7070	8329	+	[M] Capsule polysaccharide export protein  
+687
+	IBGMHGLI_01450	CDS	COG0790	8696	10102	+	[R] FOG: TPR repeat, SEL1 subfamily 
+688
+	IBGMHGLI_01451	CDS	COG0786	10320	11534	+	[E] Na+/glutamate symporter    
+689
+	IBGMHGLI_01452	CDS	COG2032	11633	12649	+	[P] Cu/Zn superoxide dismutase   
+	IBGMHGLI_01453	CDS	COG1513	12660	12857	+	[P] Cyanate lyase    
+690
+	IBGMHGLI_01454	CDS	NA	13381	13674	+	NA
+691
+	IBGMHGLI_01455	CDS	COG2067	14041	15441	-	[I] Long-chain fatty acid transport protein 
+692
+	IBGMHGLI_01456	CDS	NA	15749	17221	-	NA
+693
+	IBGMHGLI_01457	CDS	COG3039	3	341	+	[L] Transposase and inactivated derivatives, IS5 family
+694
+	IBGMHGLI_01458	CDS	COG2239	671	2125	-	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+695
+	IBGMHGLI_01459	CDS	COG3468	2357	3538	-	[MU] Type V secretory pathway, adhesin AidA
+	IBGMHGLI_01460	CDS	COG3468	3717	6830	-	[MU] Type V secretory pathway, adhesin AidA
+696
+	IBGMHGLI_01461	CDS	COG0491	7137	7895	-	[R] Zn-dependent hydrolases, including glyoxylases  
+697
+	IBGMHGLI_01462	CDS	COG0046	7990	11952	-	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+698
+	IBGMHGLI_01463	CDS	COG0347	12416	12754	+	[E] Nitrogen regulatory protein PII  
+699
+	IBGMHGLI_01464	CDS	COG4604	12813	13571	-	[P] ABC-type enterochelin transport system, ATPase component
+700
+	IBGMHGLI_01465	CDS	ROG0917	13655	14281	-	NA
+	IBGMHGLI_01466	CDS	COG4605	14326	15300	-	[P] ABC-type enterochelin transport system, permease component
+	IBGMHGLI_01467	CDS	COG4606	15290	15832	-	[P] ABC-type enterochelin transport system, permease component
+	IBGMHGLI_01468	CDS	COG4606	15804	16259	-	[P] ABC-type enterochelin transport system, permease component
+	IBGMHGLI_01469	CDS	COG4607	16423	17187	-	[P] ABC-type enterochelin transport system, periplasmic component
+701
+	IBGMHGLI_01470	CDS	COG0060	288	3077	-	[J] Isoleucyl-tRNA synthetase    
+	IBGMHGLI_01471	CDS	COG0196	3218	4138	-	[H] FAD synthase    
+702
+	IBGMHGLI_01472	CDS	COG0162	4437	5732	-	[J] Tyrosyl-tRNA synthetase    
+703
+	IBGMHGLI_01473	CDS	COG1835	5795	7663	-	[I] Predicted acyltransferases    
+704
+	IBGMHGLI_01474	CDS	COG0012	8030	9121	-	[J] Predicted GTPase, probable translation factor 
+705
+	IBGMHGLI_01475	CDS	COG2759	9234	10910	-	[F] Formyltetrahydrofolate synthetase    
+706
+	IBGMHGLI_01476	CDS	COG2510	11085	11516	+	[S] Predicted membrane protein   
+707
+	IBGMHGLI_01477	CDS	COG1208	11747	12442	-	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+	IBGMHGLI_01478	CDS	COG1853	12460	12960	-	[R] Conserved protein/domain typically associated with flavoprotein
+	IBGMHGLI_01479	CDS	COG1846	13075	13515	-	[K] Transcriptional regulators    
+708
+	IBGMHGLI_01480	CDS	COG0526	13858	14367	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+709
+	IBGMHGLI_01481	tRNA	NA	14446	14521	-	NA
+710
+	IBGMHGLI_01482	CDS	NA	14684	15811	+	NA
+711
+	IBGMHGLI_01483	CDS	ROG3350	820	1551	+	NA
+712
+	IBGMHGLI_01484	CDS	COG0248	1668	3176	+	[FP] Exopolyphosphatase     
+713
+	IBGMHGLI_01485	CDS	ROG8404	3385	3729	-	NA
+714
+	IBGMHGLI_01486	CDS	NA	4048	4389	-	NA
+	IBGMHGLI_01487	CDS	COG0180	4395	5405	-	[J] Tryptophanyl-tRNA synthetase    
+715
+	IBGMHGLI_01488	CDS	COG0542	5666	8245	+	[O] ATPases with chaperone activity, ATP-binding subunit
+716
+	IBGMHGLI_01489	CDS	COG0436	8332	9546	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+717
+	IBGMHGLI_01490	CDS	COG1942	9635	9844	-	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+718
+	IBGMHGLI_01491	CDS	COG5266	10189	10995	+	[P] ABC-type Co2+ transport system, periplasmic component
+719
+	IBGMHGLI_01492	CDS	COG0334	11053	12318	-	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+720
+	IBGMHGLI_01493	CDS	COG0546	12725	13432	+	[R] Predicted phosphatases    
+721
+	IBGMHGLI_01494	CDS	COG2137	13522	13950	+	[R] Uncharacterized protein conserved in bacteria 
+722
+	IBGMHGLI_01495	CDS	NA	14024	14185	+	NA
+723
+	IBGMHGLI_01496	CDS	COG1607	14338	14820	+	[I] Acyl-CoA hydrolase    
+724
+	IBGMHGLI_01497	CDS	NA	15027	16034	-	NA
+725
+	IBGMHGLI_01498	CDS	COG1451	505	1197	-	[R] Predicted metal-dependent hydrolase   
+	IBGMHGLI_01499	CDS	COG0204	1194	1937	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	IBGMHGLI_01500	CDS	COG0241	1966	2529	-	[E] Histidinol phosphatase and related phosphatases 
+726
+	IBGMHGLI_01501	CDS	COG0438	2805	3860	-	[M] Glycosyltransferase     
+727
+	IBGMHGLI_01502	CDS	COG0814	4010	5251	-	[E] Amino acid permeases   
+728
+	IBGMHGLI_01503	CDS	COG2227	5415	6131	+	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+	IBGMHGLI_01504	CDS	COG2334	6168	7085	+	[R] Putative homoserine kinase type II (protein
+729
+	IBGMHGLI_01505	CDS	COG3265	7424	7942	-	[G] Gluconate kinase    
+	IBGMHGLI_01506	CDS	COG2610	7962	9347	-	[GE] H+/gluconate symporter and related permeases 
+730
+	IBGMHGLI_01507	CDS	COG1178	9740	11281	+	[P] ABC-type Fe3+ transport system, permease component
+	IBGMHGLI_01508	CDS	ROG1631	11310	11909	+	NA
+	IBGMHGLI_01509	CDS	COG1057	11906	12499	+	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	IBGMHGLI_01510	CDS	COG0799	12558	12944	+	[S] Uncharacterized homolog of plant Iojap protein
+	IBGMHGLI_01511	CDS	COG1576	12998	13468	+	[S] Uncharacterized conserved protein   
+731
+	IBGMHGLI_01512	CDS	COG2924	13541	13807	+	[CO] Fe-S cluster protector protein  
+732
+	IBGMHGLI_01513	CDS	COG0670	13964	14647	+	[R] Integral membrane protein, interacts with FtsH
+733
+	IBGMHGLI_01514	CDS	COG0669	14771	15283	+	[H] Phosphopantetheine adenylyltransferase    
+	IBGMHGLI_01515	CDS	COG0564	15309	15968	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+734
+	IBGMHGLI_01516	CDS	COG0697	989	1843	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+735
+	IBGMHGLI_01517	CDS	NA	2363	3595	+	NA
+736
+	IBGMHGLI_01518	CDS	COG0077	3673	4761	+	[E] Prephenate dehydratase    
+	IBGMHGLI_01519	CDS	COG1381	4792	5586	+	[L] Recombinational DNA repair protein (RecF pathway)
+	IBGMHGLI_01520	CDS	COG0854	5610	6338	+	[H] Pyridoxal phosphate biosynthesis protein  
+	IBGMHGLI_01521	CDS	ROG1324	6385	7164	+	NA
+	IBGMHGLI_01522	CDS	ROG1450	7174	7941	+	NA
+737
+	IBGMHGLI_01523	CDS	COG0736	8141	8518	+	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+738
+	IBGMHGLI_01524	CDS	COG1051	8600	9409	+	[F] ADP-ribose pyrophosphatase    
+	IBGMHGLI_01525	CDS	ROG0930	9402	9824	+	NA
+	IBGMHGLI_01526	CDS	COG0116	9873	11015	+	[L] Predicted N6-adenine-specific DNA methylase  
+739
+	IBGMHGLI_01527	CDS	COG3177	11316	12137	-	[S] Uncharacterized conserved protein   
+740
+	IBGMHGLI_01528	CDS	COG0860	12214	13464	-	[M] N-acetylmuramoyl-L-alanine amidase    
+	IBGMHGLI_01529	CDS	COG0802	13461	13922	-	[R] Predicted ATPase or kinase  
+741
+	IBGMHGLI_01530	CDS	NA	14117	14929	+	NA
+742
+	IBGMHGLI_01531	CDS	COG0855	270	2327	-	[P] Polyphosphate kinase    
+743
+	IBGMHGLI_01532	CDS	ROG6161	2496	2939	-	NA
+	IBGMHGLI_01533	CDS	COG2913	2946	3461	-	[J] Small protein A (tmRNA-binding)  
+744
+	IBGMHGLI_01534	CDS	COG0495	3722	6358	+	[J] Leucyl-tRNA synthetase    
+745
+	IBGMHGLI_01535	CDS	COG0338	6593	7405	+	[L] Site-specific DNA methylase   
+	IBGMHGLI_01536	CDS	COG0863	7398	8198	+	[L] DNA modification methylase   
+	IBGMHGLI_01537	CDS	NA	8203	8757	+	NA
+746
+	IBGMHGLI_01538	CDS	COG2944	9632	9943	-	[K] Predicted transcriptional regulator   
+	IBGMHGLI_01539	CDS	COG4737	10005	10307	-	[S] Uncharacterized protein conserved in bacteria 
+747
+	IBGMHGLI_01540	tRNA	NA	11123	11208	-	NA
+	IBGMHGLI_01541	CDS	COG1314	11222	11572	-	[U] Preprotein translocase subunit SecG  
+	IBGMHGLI_01542	CDS	COG0149	11579	12352	-	[G] Triosephosphate isomerase    
+748
+	IBGMHGLI_01543	CDS	COG1956	12536	13039	+	[T] GAF domain-containing protein   
+749
+	IBGMHGLI_01544	CDS	COG2518	13141	13797	+	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+750
+	IBGMHGLI_01545	CDS	NA	13876	14199	+	NA
+751
+	IBGMHGLI_01546	CDS	COG2032	477	1037	-	[P] Cu/Zn superoxide dismutase   
+752
+	IBGMHGLI_01547	CDS	NA	1193	1291	-	NA
+753
+	IBGMHGLI_01548	CDS	COG1194	1454	2494	-	[L] A/G-specific DNA glycosylase   
+754
+	IBGMHGLI_01549	CDS	COG1063	2657	2839	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+	IBGMHGLI_01550	CDS	COG1063	2997	3602	+	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+755
+	IBGMHGLI_01551	CDS	COG0800	3859	4497	-	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+	IBGMHGLI_01552	CDS	COG0129	4678	6513	-	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+756
+	IBGMHGLI_01553	CDS	COG0364	7029	8474	+	[G] Glucose-6-phosphate 1-dehydrogenase    
+	IBGMHGLI_01554	CDS	COG0363	8754	9449	+	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+	IBGMHGLI_01555	CDS	COG0837	9430	10416	+	[G] Glucokinase     
+	IBGMHGLI_01556	CDS	COG1737	10466	11314	+	[K] Transcriptional regulators    
+	IBGMHGLI_01557	CDS	COG0166	11435	13081	+	[G] Glucose-6-phosphate isomerase    
+757
+	IBGMHGLI_01558	CDS	ROG2573	13224	13646	+	NA
+758
+	IBGMHGLI_00350	CDS	COG1091	253	1128	-	[M] dTDP-4-dehydrorhamnose reductase    
+759
+	IBGMHGLI_00351	CDS	COG0152	1327	2190	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	IBGMHGLI_00352	CDS	COG1185	2427	4547	+	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+760
+	IBGMHGLI_00353	CDS	COG2836	4620	5288	-	[S] Uncharacterized conserved protein   
+	IBGMHGLI_00354	CDS	NA	5302	5598	-	NA
+761
+	IBGMHGLI_00355	CDS	COG0253	5736	6587	+	[E] Diaminopimelate epimerase    
+	IBGMHGLI_00356	CDS	ROG1809	6584	7189	+	NA
+762
+	IBGMHGLI_00357	CDS	COG0031	7383	8315	+	[E] Cysteine synthase    
+763
+	IBGMHGLI_00358	CDS	COG0697	8778	9683	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+764
+	IBGMHGLI_00359	CDS	COG0681	10097	11116	-	[U] Signal peptidase I   
+	IBGMHGLI_00360	CDS	COG0481	11261	13054	-	[M] Membrane GTPase LepA   
+765
+	IBGMHGLI_00361	CDS	COG0775	13196	13897	-	[F] Nucleoside phosphorylase    
+766
+	IBGMHGLI_00362	CDS	COG5008	14065	15195	+	[NU] Tfp pilus assembly protein, ATPase PilU
+	IBGMHGLI_00363	CDS	COG2812	15229	16206	+	[L] DNA polymerase III, gamma/tau subunits 
+	IBGMHGLI_00364	CDS	COG3215	16210	16560	+	[NU] Tfp pilus assembly protein PilZ 
+	IBGMHGLI_00365	CDS	COG0084	16565	17344	+	[L] Mg-dependent DNase    
+767
+	IBGMHGLI_00366	CDS	COG0278	17685	17996	+	[O] Glutaredoxin-related protein    
+	IBGMHGLI_00367	CDS	NA	17996	18112	+	NA
+	IBGMHGLI_00368	CDS	COG0035	18102	18728	+	[F] Uracil phosphoribosyltransferase    
+	IBGMHGLI_00369	CDS	COG4390	18751	19071	+	[S] Uncharacterized protein conserved in bacteria 
+768
+	IBGMHGLI_00370	CDS	ROG6427	19322	19741	+	NA
+	IBGMHGLI_00371	CDS	COG1587	19762	20523	+	[H] Uroporphyrinogen-III synthase    
+	IBGMHGLI_00372	CDS	COG2959	20538	21872	+	[H] Uncharacterized enzyme of heme biosynthesis 
+	IBGMHGLI_00373	CDS	COG3071	21869	23086	+	[H] Uncharacterized enzyme of heme biosynthesis 
+769
+	IBGMHGLI_00374	CDS	COG0407	23161	24225	+	[H] Uroporphyrinogen-III decarboxylase    
+	IBGMHGLI_00375	CDS	COG1066	24403	25782	+	[O] Predicted ATP-dependent serine protease  
+770
+	IBGMHGLI_00376	CDS	COG3439	26058	26537	-	[S] Uncharacterized conserved protein   
+771
+	IBGMHGLI_00377	CDS	COG0607	26662	27021	-	[P] Rhodanese-related sulfurtransferase    
+	IBGMHGLI_00378	CDS	COG1074	27060	30674	-	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+772
+	IBGMHGLI_00379	CDS	COG2837	30907	31995	-	[P] Predicted iron-dependent peroxidase   
+773
+	IBGMHGLI_00380	CDS	COG0834	32103	32927	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	IBGMHGLI_00381	CDS	COG0765	32917	33633	+	[E] ABC-type amino acid transport system, permease
+	IBGMHGLI_00382	CDS	COG1126	33643	34398	+	[E] ABC-type polar amino acid transport system,
+774
+	IBGMHGLI_00383	CDS	COG1109	34418	35800	-	[G] Phosphomannomutase     
+775
+	IBGMHGLI_00384	CDS	COG0652	35967	36476	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+776
+	IBGMHGLI_00385	CDS	COG0471	36595	38010	-	[P] Di- and tricarboxylate transporters  
+777
+	IBGMHGLI_00386	CDS	ROG5597	38241	38603	-	NA
+	IBGMHGLI_00387	CDS	NA	38600	38806	-	NA
+	IBGMHGLI_00388	CDS	COG0193	38867	39445	-	[J] Peptidyl-tRNA hydrolase    
+	IBGMHGLI_00389	CDS	COG2914	39498	39776	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00390	CDS	COG2867	39769	40206	-	[I] Oligoketide cyclase/lipid transport protein  
+778
+	IBGMHGLI_00391	CDS	COG0465	40421	42388	-	[O] ATP-dependent Zn proteases   
+	IBGMHGLI_00392	CDS	COG0293	42452	43072	-	[J] 23S rRNA methylase   
+779
+	IBGMHGLI_00393	CDS	COG1534	43182	43466	+	[J] Predicted RNA-binding protein containing KH domain,
+780
+	IBGMHGLI_00394	CDS	COG0113	43649	44650	+	[H] Delta-aminolevulinic acid dehydratase   
+781
+	IBGMHGLI_00395	CDS	COG0626	44713	45870	-	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+782
+	IBGMHGLI_00396	CDS	COG1469	46062	46835	+	[S] Uncharacterized conserved protein   
+783
+	IBGMHGLI_00397	CDS	COG0778	47035	47700	+	[C] Nitroreductase     
+784
+	IBGMHGLI_00398	CDS	COG1187	47755	48513	-	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+	IBGMHGLI_00399	CDS	COG0061	48538	49428	-	[G] Predicted sugar kinase   
+	IBGMHGLI_00400	CDS	COG3165	49448	50014	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00401	CDS	COG0451	50074	50841	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	IBGMHGLI_00402	CDS	COG1309	50896	51540	-	[K] Transcriptional regulator    
+	IBGMHGLI_00403	CDS	COG0812	51558	52598	-	[M] UDP-N-acetylmuramate dehydrogenase    
+785
+	IBGMHGLI_00404	CDS	COG0534	52777	54156	-	[V] Na+-driven multidrug efflux pump  
+786
+	IBGMHGLI_00405	CDS	COG3705	54491	55642	+	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+	IBGMHGLI_00406	CDS	COG0104	55746	57044	+	[F] Adenylosuccinate synthase    
+787
+	IBGMHGLI_00407	CDS	ROG7813	59037	59429	+	NA
+788
+	IBGMHGLI_00408	CDS	ROG4167	59543	60103	+	NA
+789
+	IBGMHGLI_00409	CDS	COG0501	60404	61243	-	[O] Zn-dependent protease with chaperone function 
+790
+	IBGMHGLI_00410	CDS	COG0563	61458	62105	+	[F] Adenylate kinase and related kinases 
+791
+	IBGMHGLI_00411	CDS	COG0284	62631	63371	+	[F] Orotidine-5'-phosphate decarboxylase    
+792
+	IBGMHGLI_00412	CDS	COG2870	63426	64397	+	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	IBGMHGLI_00413	CDS	COG0270	64434	65669	+	[L] Site-specific DNA methylase   
+	IBGMHGLI_00414	CDS	COG3440	65671	66702	+	[V] Predicted restriction endonuclease   
+793
+	IBGMHGLI_00415	CDS	COG0451	66831	67835	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	IBGMHGLI_00416	CDS	COG0286	67908	69452	+	[V] Type I restriction-modification system methyltransferase subunit
+	IBGMHGLI_00417	CDS	COG3943	69449	70459	+	[R] Virulence protein    
+	IBGMHGLI_00418	CDS	COG0732	70625	71221	+	[V] Restriction endonuclease S subunits  
+794
+	IBGMHGLI_01559	CDS	ROG5596	149	565	-	NA
+	IBGMHGLI_01560	CDS	NA	562	753	-	NA
+795
+	IBGMHGLI_01561	CDS	NA	1276	1443	+	NA
+796
+	IBGMHGLI_01562	CDS	ROG4158	1716	1901	+	NA
+797
+	IBGMHGLI_01563	CDS	NA	2102	2302	+	NA
+798
+	IBGMHGLI_01564	CDS	COG3561	2434	3042	+	[K] Phage anti-repressor protein   
+	IBGMHGLI_01565	CDS	NA	3046	3261	+	NA
+799
+	IBGMHGLI_01566	CDS	COG4396	3422	3940	-	[R] Mu-like prophage host-nuclease inhibitor protein Gam
+	IBGMHGLI_01567	CDS	NA	3964	4065	-	NA
+	IBGMHGLI_01568	CDS	COG2071	4050	4217	-	[R] Predicted glutamine amidotransferases   
+	IBGMHGLI_01569	CDS	NA	4210	4383	-	NA
+	IBGMHGLI_01570	CDS	COG1608	4380	4499	-	[R] Predicted archaeal kinase   
+	IBGMHGLI_01571	CDS	NA	4492	4758	-	NA
+800
+	IBGMHGLI_01572	CDS	COG2842	4848	5762	-	[R] Uncharacterized ATPase, putative transposase  
+	IBGMHGLI_01573	CDS	NA	5798	7774	-	NA
+	IBGMHGLI_01574	CDS	COG3093	7776	8027	-	[R] Plasmid maintenance system antidote protein 
+801
+	IBGMHGLI_01575	CDS	ROG1633	8071	8970	+	NA
+802
+	IBGMHGLI_01576	CDS	NA	9170	9355	-	NA
+803
+	IBGMHGLI_01577	CDS	COG4178	9598	10149	+	[R] ABC-type uncharacterized transport system, permease and
+804
+	IBGMHGLI_01578	CDS	ROG3842	10254	10922	+	NA
+	IBGMHGLI_01579	CDS	COG0560	10919	11587	+	[E] Phosphoserine phosphatase    
+805
+	IBGMHGLI_01580	CDS	NA	12142	12390	+	NA
+806
+	IBGMHGLI_01581	CDS	COG3039	43	381	+	[L] Transposase and inactivated derivatives, IS5 family
+807
+	IBGMHGLI_01582	CDS	COG0583	712	1641	-	[K] Transcriptional regulator    
+808
+	IBGMHGLI_01583	CDS	COG0327	1772	2521	+	[S] Uncharacterized conserved protein   
+809
+	IBGMHGLI_01584	CDS	COG0723	2644	3225	+	[C] Rieske Fe-S protein   
+	IBGMHGLI_01585	CDS	COG1290	3244	4593	+	[C] Cytochrome b subunit of the bc
+	IBGMHGLI_01586	CDS	COG2857	4608	5396	+	[C] Cytochrome c1    
+810
+	IBGMHGLI_01587	CDS	COG1322	5735	7519	+	[S] Uncharacterized protein conserved in bacteria 
+811
+	IBGMHGLI_01588	CDS	COG0491	7726	8358	-	[R] Zn-dependent hydrolases, including glyoxylases  
+812
+	IBGMHGLI_01589	CDS	COG1793	8450	9274	+	[L] ATP-dependent DNA ligase   
+813
+	IBGMHGLI_01590	CDS	COG0634	9343	9906	+	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+814
+	IBGMHGLI_01591	CDS	COG2893	9987	10424	+	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+	IBGMHGLI_01592	CDS	COG1925	10493	10762	+	[G] Phosphotransferase system, HPr-related proteins  
+	IBGMHGLI_01593	CDS	COG1080	10762	12537	+	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+815
+	IBGMHGLI_01594	CDS	COG1477	18	416	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	IBGMHGLI_01595	CDS	COG3540	397	678	-	[P] Phosphodiesterase/alkaline phosphatase D   
+	IBGMHGLI_01596	CDS	COG0207	687	1481	-	[F] Thymidylate synthase    
+816
+	IBGMHGLI_01597	CDS	COG0334	1865	3199	+	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+817
+	IBGMHGLI_01598	CDS	NA	3347	3715	+	NA
+	IBGMHGLI_01599	CDS	NA	3759	4016	+	NA
+818
+	IBGMHGLI_01600	CDS	COG2186	4202	4981	-	[K] Transcriptional regulators    
+819
+	IBGMHGLI_01601	CDS	COG1620	5588	5815	+	[C] L-lactate permease    
+820
+	IBGMHGLI_01602	CDS	COG1538	6183	7586	-	[MU] Outer membrane protein   
+	IBGMHGLI_01603	CDS	COG0841	7641	10844	-	[V] Cation/multidrug efflux pump   
+	IBGMHGLI_01604	CDS	COG0845	10856	12094	-	[M] Membrane-fusion protein    
+821
+	IBGMHGLI_01605	CDS	COG1093	536	880	-	[J] Translation initiation factor 2, alpha subunit
+	IBGMHGLI_01606	CDS	NA	918	1241	-	NA
+	IBGMHGLI_01607	CDS	NA	1244	1432	-	NA
+822
+	IBGMHGLI_01608	CDS	NA	1943	2314	-	NA
+	IBGMHGLI_01609	CDS	NA	2328	2453	-	NA
+823
+	IBGMHGLI_01610	CDS	COG4443	2694	2900	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01611	CDS	NA	2910	3692	-	NA
+824
+	IBGMHGLI_01612	CDS	NA	3852	4064	-	NA
+825
+	IBGMHGLI_01613	CDS	ROG4749	4141	4500	-	NA
+	IBGMHGLI_01614	CDS	NA	4505	6001	-	NA
+	IBGMHGLI_01615	CDS	NA	6041	7003	-	NA
+826
+	IBGMHGLI_01616	CDS	COG0528	7642	8550	-	[F] Uridylate kinase    
+	IBGMHGLI_01617	CDS	COG0264	8605	9459	-	[J] Translation elongation factor Ts  
+	IBGMHGLI_01618	CDS	COG0052	9588	10316	-	[J] Ribosomal protein S2   
+827
+	IBGMHGLI_01619	CDS	ROG2210	10489	10722	-	NA
+828
+	IBGMHGLI_01620	CDS	COG0212	10800	11381	+	[H] 5-formyltetrahydrofolate cyclo-ligase    
+	IBGMHGLI_01621	CDS	COG1670	11442	12032	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+829
+	IBGMHGLI_01622	tRNA	NA	216	290	-	NA
+	IBGMHGLI_01623	tRNA	NA	308	384	-	NA
+830
+	IBGMHGLI_01624	CDS	COG0497	494	2167	-	[L] ATPase involved in DNA repair 
+831
+	IBGMHGLI_01625	CDS	COG1386	2351	2953	-	[K] Predicted transcriptional regulator containing the HTH
+	IBGMHGLI_01626	CDS	COG1161	3054	3995	-	[R] Predicted GTPases    
+832
+	IBGMHGLI_01627	CDS	COG1660	4076	4930	-	[R] Predicted P-loop-containing kinase   
+	IBGMHGLI_01628	CDS	COG1493	4911	5873	-	[T] Serine kinase of the HPr protein,
+	IBGMHGLI_01629	CDS	COG1762	5875	6324	-	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+833
+	IBGMHGLI_01630	CDS	COG0382	6509	7399	-	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+	IBGMHGLI_01631	CDS	COG3161	7429	7914	-	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+834
+	IBGMHGLI_01632	CDS	NA	8362	8805	-	NA
+835
+	IBGMHGLI_01633	CDS	COG0132	9406	10053	-	[H] Dethiobiotin synthetase    
+	IBGMHGLI_01634	CDS	COG0161	10050	11351	-	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+836
+	IBGMHGLI_01635	CDS	NA	11565	11804	-	NA
+837
+	IBGMHGLI_01636	CDS	COG1262	310	1065	-	[S] Uncharacterized conserved protein   
+838
+	IBGMHGLI_01637	CDS	COG2132	1245	1874	-	[Q] Putative multicopper oxidases   
+	IBGMHGLI_01638	CDS	COG2132	1844	2404	-	[Q] Putative multicopper oxidases   
+839
+	IBGMHGLI_01639	CDS	COG3256	2917	5172	+	[P] Nitric oxide reductase large subunit 
+840
+	IBGMHGLI_01640	CDS	COG0386	5351	5884	+	[O] Glutathione peroxidase    
+841
+	IBGMHGLI_01641	CDS	COG1619	5947	7131	-	[V] Uncharacterized proteins, homologs of microcin C7
+	IBGMHGLI_01642	CDS	COG0537	7171	7575	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+842
+	IBGMHGLI_01643	CDS	COG0328	8941	9378	-	[L] Ribonuclease HI    
+843
+	IBGMHGLI_01644	CDS	COG3615	9507	10361	+	[P] Uncharacterized protein/domain, possibly involved in tellurite
+844
+	IBGMHGLI_01645	CDS	NA	10411	11217	-	NA
+845
+	IBGMHGLI_01646	CDS	COG0234	267	557	+	[O] Co-chaperonin GroES (HSP10)   
+	IBGMHGLI_01647	CDS	COG0459	650	2284	+	[O] Chaperonin GroEL (HSP60 family)  
+846
+	IBGMHGLI_01648	CDS	COG4206	2892	5318	-	[H] Outer membrane cobalamin receptor protein 
+	IBGMHGLI_01649	CDS	ROG5488	5346	6425	-	NA
+847
+	IBGMHGLI_01650	CDS	ROG3350	7333	8850	+	NA
+848
+	IBGMHGLI_01651	CDS	NA	8909	10789	-	NA
+849
+	IBGMHGLI_01652	CDS	COG1629	145	2310	-	[P] Outer membrane receptor proteins, mostly Fe
+850
+	IBGMHGLI_01653	CDS	COG0486	4295	5641	-	[R] Predicted GTPase    
+851
+	IBGMHGLI_01654	CDS	NA	5772	5927	+	NA
+	IBGMHGLI_01655	CDS	COG5346	5924	6355	+	[S] Predicted membrane protein   
+852
+	IBGMHGLI_01656	CDS	COG3468	6489	10859	+	[MU] Type V secretory pathway, adhesin AidA
+853
+	IBGMHGLI_01657	CDS	COG0527	468	1685	-	[E] Aspartokinases     
+854
+	IBGMHGLI_01658	CDS	COG0689	1887	2615	-	[J] RNase PH    
+855
+	IBGMHGLI_01659	CDS	COG0589	2697	3161	-	[T] Universal stress protein UspA and related
+856
+	IBGMHGLI_01660	CDS	COG1179	3378	4154	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+857
+	IBGMHGLI_01661	CDS	NA	4292	4819	+	NA
+858
+	IBGMHGLI_01662	CDS	COG1354	4990	5844	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01663	CDS	COG1488	5885	7093	+	[H] Nicotinic acid phosphoribosyltransferase   
+	IBGMHGLI_01664	CDS	COG0018	7185	8903	+	[J] Arginyl-tRNA synthetase    
+859
+	IBGMHGLI_01665	CDS	COG1368	9430	10848	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+860
+	IBGMHGLI_01666	CDS	COG0644	290	1354	-	[C] Dehydrogenases (flavoproteins)    
+861
+	IBGMHGLI_01667	CDS	COG0513	1660	3033	-	[LKJ] Superfamily II DNA and RNA helicases
+862
+	IBGMHGLI_01668	CDS	COG0042	3399	4409	+	[J] tRNA-dihydrouridine synthase    
+	IBGMHGLI_01669	CDS	COG2901	4439	4678	+	[KL] Factor for inversion stimulation Fis, transcriptional
+	IBGMHGLI_01670	CDS	COG0817	4681	5217	+	[L] Holliday junction resolvasome, endonuclease subunit 
+	IBGMHGLI_01671	CDS	COG1560	5258	6136	+	[M] Lauroyl/myristoyl acyltransferase    
+863
+	IBGMHGLI_01672	CDS	COG3298	6886	7680	+	[L] Predicted 3'-5' exonuclease related to the
+864
+	IBGMHGLI_01673	CDS	COG0308	7812	10415	+	[E] Aminopeptidase N    
+865
+	IBGMHGLI_00419	CDS	COG0318	135	1688	+	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+866
+	IBGMHGLI_00420	CDS	COG1292	1779	3806	-	[M] Choline-glycine betaine transporter   
+867
+	IBGMHGLI_00421	CDS	COG4389	4095	6101	+	[L] Site-specific recombinase    
+868
+	IBGMHGLI_00422	CDS	COG2951	6514	7623	-	[M] Membrane-bound lytic murein transglycosylase B 
+869
+	IBGMHGLI_00423	CDS	ROG4768	7824	9251	-	NA
+870
+	IBGMHGLI_00424	CDS	COG1197	9436	13548	+	[LK] Transcription-repair coupling factor (superfamily II helicase)
+	IBGMHGLI_00425	CDS	COG0853	13697	14080	+	[H] Aspartate 1-decarboxylase    
+	IBGMHGLI_00426	CDS	COG2877	14102	14944	+	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	IBGMHGLI_00427	CDS	ROG0291	14959	15399	+	NA
+	IBGMHGLI_00428	CDS	COG0148	15447	16733	+	[G] Enolase     
+	IBGMHGLI_00429	CDS	COG2919	16747	17025	+	[D] Septum formation initiator   
+871
+	IBGMHGLI_00430	CDS	COG0633	17066	17356	-	[C] Ferredoxin     
+872
+	IBGMHGLI_00431	CDS	COG0208	17554	18708	-	[F] Ribonucleotide reductase, beta subunit  
+	IBGMHGLI_00432	CDS	ROG2400	18748	19935	-	NA
+	IBGMHGLI_00433	CDS	COG0270	19932	20942	-	[L] Site-specific DNA methylase   
+	IBGMHGLI_00434	CDS	COG0209	21000	23279	-	[F] Ribonucleotide reductase, alpha subunit  
+873
+	IBGMHGLI_00435	CDS	COG4430	23793	24119	+	[S] Uncharacterized protein conserved in bacteria 
+874
+	IBGMHGLI_00436	CDS	COG0204	24431	25198	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	IBGMHGLI_00437	CDS	COG0266	25286	26113	-	[L] Formamidopyrimidine-DNA glycosylase    
+	IBGMHGLI_00438	CDS	COG0500	26165	26830	-	[QR] SAM-dependent methyltransferases    
+875
+	IBGMHGLI_00439	CDS	COG1388	27009	28985	+	[M] FOG: LysM repeat   
+876
+	IBGMHGLI_00440	CDS	COG1187	29053	29745	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+877
+	IBGMHGLI_00441	CDS	COG0733	30599	31690	+	[R] Na+-dependent transporters of the SNF family
+878
+	IBGMHGLI_00442	CDS	COG0283	31934	32590	+	[F] Cytidylate kinase    
+	IBGMHGLI_00443	CDS	COG0539	32745	34430	+	[J] Ribosomal protein S1   
+	IBGMHGLI_00444	CDS	COG0776	34441	34755	+	[L] Bacterial nucleoid DNA-binding protein  
+879
+	IBGMHGLI_00445	CDS	COG0789	35106	35513	-	[K] Predicted transcriptional regulators   
+880
+	IBGMHGLI_00446	CDS	COG1062	35820	36956	+	[C] Zn-dependent alcohol dehydrogenases, class III 
+	IBGMHGLI_00447	CDS	COG0627	36965	37792	+	[R] Predicted esterase    
+881
+	IBGMHGLI_00448	CDS	COG1485	38183	39334	+	[R] Predicted ATPase    
+882
+	IBGMHGLI_00449	CDS	COG0105	39393	39818	+	[F] Nucleoside diphosphate kinase   
+	IBGMHGLI_00450	CDS	COG0820	39962	41056	+	[R] Predicted Fe-S-cluster redox enzyme  
+	IBGMHGLI_00451	CDS	COG3063	41059	41820	+	[NU] Tfp pilus assembly protein PilF 
+	IBGMHGLI_00452	CDS	COG0821	41836	43101	+	[I] Enzyme involved in the deoxyxylulose pathway
+883
+	IBGMHGLI_00453	CDS	COG0740	43158	43772	-	[OU] Protease subunit of ATP-dependent Clp proteases
+	IBGMHGLI_00454	CDS	COG0544	43868	45178	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+884
+	IBGMHGLI_00455	CDS	COG1674	45387	47825	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+885
+	IBGMHGLI_00456	CDS	COG2233	48024	49259	+	[F] Xanthine/uracil permeases    
+886
+	IBGMHGLI_00457	CDS	ROG7899	49311	49793	-	NA
+887
+	IBGMHGLI_00458	CDS	COG1183	50376	51122	+	[I] Phosphatidylserine synthase    
+	IBGMHGLI_00459	CDS	COG0730	51123	51929	+	[R] Predicted permeases    
+888
+	IBGMHGLI_00460	CDS	COG0359	52896	53348	-	[J] Ribosomal protein L9   
+	IBGMHGLI_00461	CDS	COG0238	53365	53595	-	[J] Ribosomal protein S18   
+	IBGMHGLI_00462	CDS	COG0360	53905	54273	-	[J] Ribosomal protein S6   
+889
+	IBGMHGLI_00463	CDS	COG0492	54429	55379	-	[O] Thioredoxin reductase    
+890
+	IBGMHGLI_00464	CDS	COG2217	55518	57680	+	[P] Cation transport ATPase   
+891
+	IBGMHGLI_00465	CDS	COG0322	57735	59621	+	[L] Nuclease subunit of the excinuclease complex
+892
+	IBGMHGLI_00466	CDS	COG0790	59895	61298	+	[R] FOG: TPR repeat, SEL1 subfamily 
+893
+	IBGMHGLI_00467	CDS	NA	61420	62136	+	NA
+894
+	IBGMHGLI_01674	CDS	COG0665	402	2021	-	[E] Glycine/D-amino acid oxidases (deaminating)  
+895
+	IBGMHGLI_01675	CDS	COG3536	2141	2509	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01676	CDS	COG2226	2552	3289	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+896
+	IBGMHGLI_01677	CDS	NA	3509	3988	+	NA
+897
+	IBGMHGLI_01678	CDS	COG0801	4115	4609	-	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	IBGMHGLI_01679	CDS	COG3094	4619	4993	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01680	CDS	NA	5047	5613	-	NA
+898
+	IBGMHGLI_01681	CDS	COG1923	5698	5991	-	[R] Uncharacterized host factor I protein 
+899
+	IBGMHGLI_01682	CDS	COG1686	6120	7058	-	[M] D-alanyl-D-alanine carboxypeptidase    
+900
+	IBGMHGLI_01683	CDS	COG1225	7379	7819	+	[O] Peroxiredoxin     
+	IBGMHGLI_01684	CDS	COG4974	7871	8746	+	[L] Site-specific recombinase XerD   
+901
+	IBGMHGLI_01685	CDS	COG2906	8918	9118	+	[P] Bacterioferritin-associated ferredoxin    
+902
+	IBGMHGLI_01686	CDS	ROG4471	9284	9517	+	NA
+903
+	IBGMHGLI_01687	CDS	COG0496	114	860	-	[R] Predicted acid phosphatase   
+	IBGMHGLI_01688	CDS	COG0861	877	2433	-	[P] Membrane protein TerC, possibly involved in
+904
+	IBGMHGLI_01689	CDS	ROG2479	2801	3589	-	NA
+905
+	IBGMHGLI_01690	CDS	COG1012	3698	5131	-	[C] NAD-dependent aldehyde dehydrogenases   
+906
+	IBGMHGLI_01691	CDS	NA	5786	6166	-	NA
+907
+	IBGMHGLI_01692	CDS	COG1966	6642	8723	+	[T] Carbon starvation protein, predicted membrane protein
+	IBGMHGLI_01693	CDS	COG2879	8713	8907	+	[S] Uncharacterized small protein   
+908
+	IBGMHGLI_01694	CDS	NA	9103	9294	-	NA
+909
+	IBGMHGLI_01695	CDS	NA	9423	9983	+	NA
+910
+	IBGMHGLI_01696	CDS	ROG5118	363	785	-	NA
+911
+	IBGMHGLI_01697	CDS	COG1595	1220	1807	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	IBGMHGLI_01698	CDS	COG3219	1829	2575	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01699	CDS	COG3220	2565	3407	-	[S] Uncharacterized protein conserved in bacteria 
+912
+	IBGMHGLI_01700	CDS	COG3767	3523	3831	-	[S] Uncharacterized low-complexity protein   
+913
+	IBGMHGLI_01701	CDS	COG2259	3905	4354	-	[S] Predicted membrane protein   
+914
+	IBGMHGLI_01702	CDS	COG1752	4696	5589	+	[R] Predicted esterase of the alpha-beta hydrolase
+915
+	IBGMHGLI_01703	CDS	COG1186	5692	6795	+	[J] Protein chain release factor B 
+916
+	IBGMHGLI_01704	CDS	NA	6688	7284	-	NA
+917
+	IBGMHGLI_01705	CDS	NA	7705	9162	-	NA
+918
+	IBGMHGLI_01706	CDS	COG2249	465	932	+	[R] Putative NADPH-quinone reductase (modulator of drug
+919
+	IBGMHGLI_01707	CDS	COG1282	1140	2525	-	[C] NAD/NADP transhydrogenase beta subunit  
+920
+	IBGMHGLI_01708	CDS	COG3686	2591	2974	-	[S] Predicted membrane protein   
+	IBGMHGLI_01709	CDS	COG3288	2978	4519	-	[C] NAD/NADP transhydrogenase alpha subunit  
+921
+	IBGMHGLI_01710	CDS	COG0560	4809	5642	+	[E] Phosphoserine phosphatase    
+922
+	IBGMHGLI_01711	CDS	COG0038	5706	6929	+	[P] Chloride channel protein EriC  
+923
+	IBGMHGLI_01712	CDS	COG0138	7090	8670	+	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+924
+	IBGMHGLI_01713	CDS	NA	9286	9777	-	NA
+925
+	IBGMHGLI_01714	CDS	COG1391	353	3043	-	[OT] Glutamine synthetase adenylyltransferase   
+926
+	IBGMHGLI_01715	CDS	ROG5505	3241	3453	-	NA
+927
+	IBGMHGLI_01716	CDS	COG4304	3590	4063	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01717	CDS	NA	4116	4397	-	NA
+928
+	IBGMHGLI_01718	CDS	NA	4484	4807	-	NA
+929
+	IBGMHGLI_01719	CDS	COG0167	5141	6148	-	[F] Dihydroorotate dehydrogenase    
+930
+	IBGMHGLI_01720	CDS	COG0236	6380	6616	+	[IQ] Acyl carrier protein   
+	IBGMHGLI_01721	CDS	COG0304	6772	8019	+	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+931
+	IBGMHGLI_01722	CDS	NA	8261	9214	-	NA
+932
+	IBGMHGLI_01723	CDS	COG1629	380	2491	-	[P] Outer membrane receptor proteins, mostly Fe
+933
+	IBGMHGLI_01724	CDS	COG3560	2677	3282	-	[R] Predicted oxidoreductase related to nitroreductase 
+	IBGMHGLI_01725	CDS	COG2259	3331	3729	-	[S] Predicted membrane protein   
+934
+	IBGMHGLI_01726	CDS	COG0583	3837	4748	+	[K] Transcriptional regulator    
+	IBGMHGLI_01727	CDS	COG0415	4738	6039	+	[L] Deoxyribodipyrimidine photolyase    
+935
+	IBGMHGLI_01728	CDS	NA	6102	6488	+	NA
+	IBGMHGLI_01729	CDS	COG1199	6538	8688	+	[KL] Rad3-related DNA helicases   
+	IBGMHGLI_01730	CDS	COG2979	8724	9338	+	[S] Uncharacterized protein conserved in bacteria 
+936
+	IBGMHGLI_01731	CDS	COG0144	146	1402	-	[J] tRNA and rRNA cytosine-C5-methylases  
+937
+	IBGMHGLI_01732	CDS	NA	1750	2091	-	NA
+938
+	IBGMHGLI_01733	CDS	COG3782	2294	3151	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01734	CDS	COG0565	3212	4027	-	[J] rRNA methylase    
+939
+	IBGMHGLI_01735	CDS	NA	4091	4261	+	NA
+	IBGMHGLI_01736	CDS	COG0483	4271	5056	+	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+940
+	IBGMHGLI_01737	CDS	COG1629	5326	6870	+	[P] Outer membrane receptor proteins, mostly Fe
+	IBGMHGLI_01738	CDS	COG1629	6951	7421	+	[P] Outer membrane receptor proteins, mostly Fe
+941
+	IBGMHGLI_01739	CDS	COG5339	7545	9095	+	[S] Uncharacterized protein conserved in bacteria 
+942
+	IBGMHGLI_01740	CDS	COG1289	696	2846	-	[S] Predicted membrane protein   
+943
+	IBGMHGLI_01741	CDS	COG5008	3132	4358	-	[NU] Tfp pilus assembly protein, ATPase PilU
+	IBGMHGLI_01742	CDS	COG2805	4521	5564	-	[NU] Tfp pilus assembly protein, pilus retraction
+944
+	IBGMHGLI_01743	CDS	COG0325	5684	6370	+	[R] Predicted enzyme with a TIM-barrel fold
+	IBGMHGLI_01744	CDS	NA	6370	6777	+	NA
+	IBGMHGLI_01745	CDS	COG0345	6826	7617	+	[E] Pyrroline-5-carboxylate reductase    
+945
+	IBGMHGLI_01746	CDS	COG1734	7764	8180	+	[T] DnaK suppressor protein   
+946
+	IBGMHGLI_01747	CDS	COG1200	163	2205	-	[LK] RecG-like helicase    
+947
+	IBGMHGLI_01748	CDS	COG1952	2291	2734	-	[U] Preprotein translocase subunit SecB  
+	IBGMHGLI_01749	CDS	COG0695	2755	3012	-	[O] Glutaredoxin and related proteins  
+948
+	IBGMHGLI_01750	CDS	COG1530	3225	4718	+	[J] Ribonucleases G and E  
+949
+	IBGMHGLI_01751	CDS	COG2205	4753	6042	-	[T] Osmosensitive K+ channel histidine kinase 
+	IBGMHGLI_01752	CDS	COG0745	6042	6173	-	[TK] Response regulators consisting of a CheY-like
+950
+	IBGMHGLI_01753	CDS	COG2851	6394	7707	-	[C] H+/citrate symporter    
+951
+	IBGMHGLI_01754	CDS	COG0579	441	1907	+	[R] Predicted dehydrogenase    
+952
+	IBGMHGLI_01755	CDS	NA	1918	2064	-	NA
+	IBGMHGLI_01756	CDS	ROG7884	2094	2468	-	NA
+953
+	IBGMHGLI_01757	CDS	ROG2700	2706	3005	-	NA
+954
+	IBGMHGLI_01758	CDS	COG0024	3160	3939	-	[J] Methionine aminopeptidase    
+	IBGMHGLI_01759	CDS	NA	3979	4647	-	NA
+	IBGMHGLI_01760	CDS	COG2823	4655	5263	-	[R] Predicted periplasmic or secreted lipoprotein 
+	IBGMHGLI_01761	CDS	COG0279	5327	5920	-	[G] Phosphoheptose isomerase    
+	IBGMHGLI_01762	CDS	COG0792	5925	6272	-	[L] Predicted endonuclease distantly related to archaeal
+955
+	IBGMHGLI_01763	CDS	COG0313	6318	7193	+	[R] Predicted methyltransferases    
+956
+	IBGMHGLI_01764	CDS	NA	7228	7632	-	NA
+957
+	IBGMHGLI_00468	CDS	COG0760	1086	2237	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+	IBGMHGLI_00469	CDS	COG1452	2342	4750	-	[M] Organic solvent tolerance protein OstA 
+958
+	IBGMHGLI_00470	CDS	COG3178	4820	5824	+	[R] Predicted phosphotransferase related to Ser/Thr protein
+959
+	IBGMHGLI_00471	CDS	COG1651	5881	6579	-	[O] Protein-disulfide isomerase    
+960
+	IBGMHGLI_00472	CDS	COG0728	6797	8335	+	[R] Uncharacterized membrane protein, putative virulence factor
+961
+	IBGMHGLI_00473	CDS	COG0429	8468	9424	+	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+	IBGMHGLI_00474	CDS	COG0134	9473	10255	+	[E] Indole-3-glycerol phosphate synthase   
+962
+	IBGMHGLI_00475	CDS	COG0514	10320	12620	+	[L] Superfamily II DNA helicase  
+963
+	IBGMHGLI_00476	CDS	ROG6744	12763	13188	-	NA
+964
+	IBGMHGLI_00477	CDS	NA	13633	13740	+	NA
+965
+	IBGMHGLI_00478	CDS	COG0500	13976	14764	-	[QR] SAM-dependent methyltransferases    
+	IBGMHGLI_00479	CDS	COG0596	14766	15602	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+966
+	IBGMHGLI_00480	CDS	COG1040	15673	16233	+	[R] Predicted amidophosphoribosyltransferases    
+967
+	IBGMHGLI_00481	CDS	COG0219	16298	16762	+	[J] Predicted rRNA methylase (SpoU class) 
+968
+	IBGMHGLI_00482	CDS	COG0797	16892	17611	+	[M] Lipoproteins     
+	IBGMHGLI_00483	CDS	COG3212	17673	17999	+	[S] Predicted membrane protein   
+969
+	IBGMHGLI_00484	CDS	COG0632	18081	18665	+	[L] Holliday junction resolvasome, DNA-binding subunit 
+	IBGMHGLI_00485	CDS	NA	18665	18802	+	NA
+	IBGMHGLI_00486	CDS	COG1132	18828	20684	+	[V] ABC-type multidrug transport system, ATPase and
+	IBGMHGLI_00487	CDS	COG1162	20689	21612	+	[R] Predicted GTPases    
+970
+	IBGMHGLI_00488	CDS	COG1722	21859	22083	+	[L] Exonuclease VII small subunit  
+	IBGMHGLI_00489	CDS	COG0142	22067	22963	+	[H] Geranylgeranyl pyrophosphate synthase   
+971
+	IBGMHGLI_00490	CDS	ROG0831	23072	23371	-	NA
+972
+	IBGMHGLI_00491	CDS	COG1007	23483	24928	-	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+	IBGMHGLI_00492	CDS	COG1008	24938	26434	-	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+973
+	IBGMHGLI_00493	CDS	COG3886	26544	27707	-	[L] Predicted HKD family nuclease  
+974
+	IBGMHGLI_00494	CDS	COG1009	27891	29915	-	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+	IBGMHGLI_00495	CDS	COG0679	29916	30788	-	[R] Predicted permeases    
+975
+	IBGMHGLI_00496	CDS	COG0713	31083	31388	-	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+	IBGMHGLI_00497	CDS	COG0839	31385	32056	-	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+	IBGMHGLI_00498	CDS	COG1143	32068	32547	-	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+	IBGMHGLI_00499	CDS	COG1005	32628	33704	-	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+	IBGMHGLI_00500	CDS	COG1034	33707	35968	-	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+976
+	IBGMHGLI_00501	CDS	NA	36258	36695	-	NA
+	IBGMHGLI_00502	CDS	COG1894	36695	37996	-	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	IBGMHGLI_00503	CDS	COG1905	38386	38859	-	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+	IBGMHGLI_00504	CDS	COG0649	38859	40115	-	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+	IBGMHGLI_00505	CDS	COG0852	40105	40698	-	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+	IBGMHGLI_00506	CDS	COG0377	40711	41193	-	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+	IBGMHGLI_00507	CDS	COG0838	41184	41540	-	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+977
+	IBGMHGLI_00508	CDS	COG0421	42002	43486	-	[E] Spermidine synthase    
+	IBGMHGLI_00509	CDS	ROG3165	43476	44096	-	NA
+978
+	IBGMHGLI_00510	CDS	ROG4749	44724	45083	+	NA
+979
+	IBGMHGLI_00511	CDS	ROG4729	45612	46151	-	NA
+980
+	IBGMHGLI_00512	CDS	COG0210	46508	48715	-	[L] Superfamily I DNA and RNA helicases
+981
+	IBGMHGLI_00513	CDS	COG2049	48899	49546	+	[E] Allophanate hydrolase subunit 1  
+	IBGMHGLI_00514	CDS	COG1984	49543	50472	+	[E] Allophanate hydrolase subunit 2  
+	IBGMHGLI_00515	CDS	COG1540	50459	51196	+	[R] Uncharacterized proteins, homologs of lactam utilization
+982
+	IBGMHGLI_00516	CDS	NA	51325	52518	+	NA
+983
+	IBGMHGLI_00517	CDS	COG1451	52626	53318	+	[R] Predicted metal-dependent hydrolase   
+984
+	IBGMHGLI_01765	CDS	COG0749	184	2976	-	[L] DNA polymerase I - 3'-5' exonuclease
+	IBGMHGLI_01766	CDS	COG1854	3122	3628	-	[T] LuxS protein involved in autoinducer AI2
+	IBGMHGLI_01767	CDS	COG4316	3650	4069	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_01768	CDS	COG1965	4102	4425	-	[P] Protein implicated in iron transport, frataxin
+985
+	IBGMHGLI_01769	CDS	COG5567	4496	4666	+	[N] Predicted small periplasmic lipoprotein  
+	IBGMHGLI_01770	CDS	COG0019	4677	5921	+	[E] Diaminopimelate decarboxylase    
+986
+	IBGMHGLI_01771	CDS	NA	5957	6049	-	NA
+	IBGMHGLI_01772	CDS	COG0733	6046	7581	-	[R] Na+-dependent transporters of the SNF family
+987
+	IBGMHGLI_01773	CDS	ROG1815	155	757	-	NA
+	IBGMHGLI_01774	CDS	COG0151	791	2062	-	[F] Phosphoribosylamine-glycine ligase    
+988
+	IBGMHGLI_01775	CDS	NA	2220	2537	+	NA
+989
+	IBGMHGLI_01776	CDS	COG1739	2589	3200	-	[S] Uncharacterized conserved protein   
+990
+	IBGMHGLI_01777	CDS	COG2025	3263	4198	-	[C] Electron transfer flavoprotein, alpha subunit 
+	IBGMHGLI_01778	CDS	COG2086	4209	4958	-	[C] Electron transfer flavoprotein, beta subunit 
+991
+	IBGMHGLI_01779	CDS	COG0859	5184	6152	-	[M] ADP-heptose:LPS heptosyltransferase    
+	IBGMHGLI_01780	CDS	COG1335	6189	6824	-	[Q] Amidases related to nicotinamidase  
+992
+	IBGMHGLI_01781	CDS	NA	6938	7618	+	NA
+993
+	IBGMHGLI_01782	CDS	COG1760	291	1676	-	[E] L-serine deaminase    
+994
+	IBGMHGLI_01783	CDS	COG0187	1773	4163	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+995
+	IBGMHGLI_01784	CDS	COG0668	4433	5305	+	[M] Small-conductance mechanosensitive channel   
+996
+	IBGMHGLI_01785	CDS	NA	5393	7429	+	NA
+997
+	IBGMHGLI_01786	CDS	COG0306	596	763	+	[P] Phosphate/sulphate permeases    
+998
+	IBGMHGLI_01787	CDS	COG2274	862	1110	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	IBGMHGLI_01788	CDS	COG2831	1171	2913	+	[U] Hemolysin activation/secretion protein   
+999
+	IBGMHGLI_01789	CDS	NA	3146	3307	-	NA
+1000
+	IBGMHGLI_01790	CDS	NA	6471	6812	-	NA
+1001
+	IBGMHGLI_01791	CDS	COG0605	181	768	-	[P] Superoxide dismutase    
+1002
+	IBGMHGLI_01792	CDS	COG0305	931	2337	+	[L] Replicative DNA helicase   
+1003
+	IBGMHGLI_01793	CDS	COG4970	2639	3307	+	[NU] Tfp pilus assembly protein FimT 
+	IBGMHGLI_01794	CDS	COG4967	3304	3957	+	[NU] Tfp pilus assembly protein PilV 
+	IBGMHGLI_01795	CDS	COG4966	3954	4907	+	[NU] Tfp pilus assembly protein PilW 
+	IBGMHGLI_01796	CDS	COG4726	4886	5479	+	[NU] Tfp pilus assembly protein PilX 
+	IBGMHGLI_01797	CDS	COG4969	5484	5957	+	[NU] Tfp pilus assembly protein, major pilin
+1004
+	IBGMHGLI_01798	CDS	COG1835	145	2013	-	[I] Predicted acyltransferases    
+	IBGMHGLI_01799	CDS	COG0015	2094	3464	-	[F] Adenylosuccinate lyase    
+	IBGMHGLI_01800	CDS	COG1611	3536	4168	-	[R] Predicted Rossmann fold nucleotide-binding protein 
+1005
+	IBGMHGLI_01801	CDS	NA	4477	6357	+	NA
+1006
+	IBGMHGLI_01802	CDS	NA	147	263	-	NA
+1007
+	IBGMHGLI_01803	CDS	COG2932	294	1013	+	[K] Predicted transcriptional regulator   
+	IBGMHGLI_01804	CDS	NA	1017	1205	+	NA
+1008
+	IBGMHGLI_01805	CDS	COG1190	1282	2793	-	[J] Lysyl-tRNA synthetase (class II)  
+1009
+	IBGMHGLI_01806	CDS	NA	2948	4201	-	NA
+1010
+	IBGMHGLI_01807	CDS	NA	4659	6455	+	NA
+1011
+	IBGMHGLI_01808	CDS	COG2838	179	2404	-	[C] Monomeric isocitrate dehydrogenase   
+1012
+	IBGMHGLI_01809	CDS	NA	2838	3953	+	NA
+1013
+	IBGMHGLI_01810	CDS	COG3909	4117	4575	-	[C] Cytochrome c556    
+1014
+	IBGMHGLI_01811	CDS	COG4221	4694	5515	+	[R] Short-chain alcohol dehydrogenase of unknown specificity
+1015
+	IBGMHGLI_01812	CDS	NA	5566	6012	-	NA
+1016
+	IBGMHGLI_01813	tRNA	NA	1901	1977	+	NA
+	IBGMHGLI_01814	tRNA	NA	1983	2058	+	NA
+1017
+	IBGMHGLI_01815	CDS	NA	4555	5163	-	NA
+1018
+	IBGMHGLI_01816	CDS	NA	507	2639	+	NA
+1019
+	IBGMHGLI_01817	CDS	NA	2726	5470	+	NA
+1020
+	IBGMHGLI_00518	CDS	COG4230	223	3828	-	[C] Delta 1-pyrroline-5-carboxylate dehydrogenase   
+1021
+	IBGMHGLI_00519	CDS	COG0591	4079	5605	-	[ER] Na+/proline symporter    
+1022
+	IBGMHGLI_00520	CDS	COG2960	6089	6409	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00521	CDS	COG0606	6423	7919	+	[O] Predicted ATPase with chaperone activity 
+1023
+	IBGMHGLI_00522	CDS	COG3087	8025	8888	+	[D] Cell division protein   
+	IBGMHGLI_00523	CDS	COG1651	8891	9535	+	[O] Protein-disulfide isomerase    
+	IBGMHGLI_00524	CDS	COG1968	9568	10389	+	[V] Uncharacterized bacitracin resistance protein  
+1024
+	IBGMHGLI_00525	tRNA	NA	10671	10746	-	NA
+	IBGMHGLI_00526	tRNA	NA	10754	10830	-	NA
+1025
+	IBGMHGLI_00527	CDS	COG1565	10962	12110	-	[S] Uncharacterized conserved protein   
+1026
+	IBGMHGLI_00528	CDS	COG2001	12458	12913	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00529	CDS	COG0275	12910	13896	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	IBGMHGLI_00530	CDS	COG3116	13893	14156	+	[D] Cell division protein   
+	IBGMHGLI_00531	CDS	COG0768	14217	15962	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	IBGMHGLI_00532	CDS	COG0769	15987	17465	+	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	IBGMHGLI_00533	CDS	COG2194	17488	19134	+	[R] Predicted membrane-associated, metal-dependent hydrolase  
+1027
+	IBGMHGLI_00534	CDS	COG0770	19259	20617	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	IBGMHGLI_00535	CDS	NA	20620	20796	+	NA
+1028
+	IBGMHGLI_00536	CDS	COG0472	21043	22125	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+1029
+	IBGMHGLI_00537	CDS	COG0790	22240	22512	+	[R] FOG: TPR repeat, SEL1 subfamily 
+1030
+	IBGMHGLI_00538	CDS	COG0771	22602	23939	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	IBGMHGLI_00539	CDS	COG0772	24065	25390	+	[D] Bacterial cell division membrane protein 
+	IBGMHGLI_00540	CDS	COG0707	25394	26461	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	IBGMHGLI_00541	CDS	COG0773	26616	28025	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	IBGMHGLI_00542	CDS	COG1181	28139	29053	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	IBGMHGLI_00543	CDS	COG1589	29043	29771	+	[M] Cell division septal protein  
+	IBGMHGLI_00544	CDS	COG0849	29857	31101	+	[D] Actin-like ATPase involved in cell division
+	IBGMHGLI_00545	CDS	COG0206	31220	32398	+	[D] Cell division GTPase   
+1031
+	IBGMHGLI_00546	CDS	COG2252	32537	33847	+	[R] Permeases     
+1032
+	IBGMHGLI_00547	CDS	COG2513	34473	35348	+	[G] PEP phosphonomutase and related enzymes 
+	IBGMHGLI_00548	CDS	COG0372	35434	36588	+	[C] Citrate synthase    
+1033
+	IBGMHGLI_00549	CDS	COG0730	36749	37537	+	[R] Predicted permeases    
+1034
+	IBGMHGLI_00550	CDS	COG1048	37615	40221	+	[C] Aconitase A    
+1035
+	IBGMHGLI_00551	CDS	COG2828	41024	42193	+	[S] Uncharacterized protein conserved in bacteria 
+1036
+	IBGMHGLI_00552	CDS	COG0282	42607	43806	+	[C] Acetate kinase    
+1037
+	IBGMHGLI_00553	CDS	COG0009	44164	44784	+	[J] Putative translation factor (SUA5)  
+1038
+	IBGMHGLI_00554	CDS	COG1959	44911	45354	-	[K] Predicted transcriptional regulator   
+1039
+	IBGMHGLI_00555	CDS	ROG1736	45528	45896	+	NA
+	IBGMHGLI_00556	CDS	COG3213	45941	47095	+	[P] Uncharacterized protein involved in response to
+1040
+	IBGMHGLI_00557	CDS	COG0287	47152	48024	-	[E] Prephenate dehydrogenase    
+1041
+	IBGMHGLI_00558	CDS	NA	48109	48921	+	NA
+1042
+	IBGMHGLI_01818	CDS	COG0317	261	2474	-	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+1043
+	IBGMHGLI_01819	CDS	COG2999	2802	3443	+	[O] Glutaredoxin 2    
+1044
+	IBGMHGLI_01820	CDS	NA	3780	4283	+	NA
+1045
+	IBGMHGLI_01821	CDS	NA	4419	5219	+	NA
+1046
+	IBGMHGLI_01822	CDS	NA	260	2506	+	NA
+	IBGMHGLI_01823	CDS	COG4771	2503	5334	+	[P] Outer membrane receptor for ferrienterochelin and
+1047
+	IBGMHGLI_01824	CDS	COG0002	1161	2204	-	[E] Acetylglutamate semialdehyde dehydrogenase   
+	IBGMHGLI_01825	CDS	NA	2201	2494	-	NA
+1048
+	IBGMHGLI_01826	CDS	COG2850	2748	3902	+	[S] Uncharacterized conserved protein   
+	IBGMHGLI_01827	CDS	NA	3911	4138	+	NA
+1049
+	IBGMHGLI_01828	CDS	ROG5024	4167	4412	-	NA
+1050
+	IBGMHGLI_01829	CDS	ROG0722	4545	5171	+	NA
+	IBGMHGLI_01830	CDS	NA	5123	5323	+	NA
+1051
+	IBGMHGLI_01831	CDS	COG0422	575	2476	-	[H] Thiamine biosynthesis protein ThiC  
+1052
+	IBGMHGLI_01832	tRNA	NA	2816	2892	+	NA
+1053
+	IBGMHGLI_01833	CDS	NA	3021	3896	+	NA
+	IBGMHGLI_01834	CDS	COG3842	3905	4843	+	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+1054
+	IBGMHGLI_01835	CDS	ROG7329	509	706	-	NA
+	IBGMHGLI_01836	CDS	ROG5769	703	969	-	NA
+	IBGMHGLI_01837	CDS	NA	981	1319	-	NA
+	IBGMHGLI_01838	CDS	NA	1316	1534	-	NA
+1055
+	IBGMHGLI_01839	CDS	COG3422	1547	1717	+	[S] Uncharacterized conserved protein   
+1056
+	IBGMHGLI_01840	CDS	ROG7758	1762	1944	-	NA
+	IBGMHGLI_01841	CDS	NA	1964	2383	-	NA
+	IBGMHGLI_01842	CDS	ROG6087	2355	2591	-	NA
+	IBGMHGLI_01843	CDS	NA	2594	2758	-	NA
+1057
+	IBGMHGLI_01844	CDS	NA	2964	3506	-	NA
+1058
+	IBGMHGLI_01845	CDS	ROG3486	3814	4242	-	NA
+	IBGMHGLI_01846	CDS	COG4382	4223	4657	-	[S] Mu-like prophage protein gp16  
+1059
+	IBGMHGLI_01847	CDS	COG1432	99	641	+	[S] Uncharacterized conserved protein   
+1060
+	IBGMHGLI_01848	CDS	COG1651	812	1507	+	[O] Protein-disulfide isomerase    
+1061
+	IBGMHGLI_01849	CDS	COG0541	1838	3208	-	[U] Signal recognition particle GTPase  
+1062
+	IBGMHGLI_01850	CDS	NA	3429	4235	+	NA
+1063
+	IBGMHGLI_01851	CDS	COG3039	43	381	+	[L] Transposase and inactivated derivatives, IS5 family
+1064
+	IBGMHGLI_01852	tRNA	NA	577	666	-	NA
+	IBGMHGLI_01853	tRNA	NA	744	834	-	NA
+1065
+	IBGMHGLI_01854	CDS	COG3022	917	1696	-	[S] Uncharacterized protein conserved in bacteria 
+1066
+	IBGMHGLI_01855	CDS	COG0436	1859	3046	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+1067
+	IBGMHGLI_01856	CDS	COG0756	3123	3575	-	[F] dUTPase     
+1068
+	IBGMHGLI_01857	CDS	NA	3687	4199	+	NA
+1069
+	IBGMHGLI_01858	CDS	ROG3774	241	1626	-	NA
+1070
+	IBGMHGLI_01859	CDS	COG1566	1713	3140	-	[V] Multidrug resistance efflux pump  
+1071
+	IBGMHGLI_01860	CDS	COG2244	3376	3729	+	[R] Membrane protein involved in the export
+	IBGMHGLI_01861	CDS	NA	3720	4232	+	NA
+1072
+	IBGMHGLI_01862	CDS	COG1404	332	3193	-	[O] Subtilisin-like serine proteases   
+	IBGMHGLI_01863	CDS	ROG3132	3190	3540	-	NA
+1073
+	IBGMHGLI_01864	CDS	COG0174	307	1725	+	[E] Glutamine synthetase    
+1074
+	IBGMHGLI_01865	CDS	NA	1881	3164	+	NA
+	IBGMHGLI_01866	CDS	COG2827	3161	3436	+	[L] Predicted endonuclease containing a URI domain
+1075
+	IBGMHGLI_00559	CDS	COG0733	191	1528	-	[R] Na+-dependent transporters of the SNF family
+1076
+	IBGMHGLI_00560	CDS	COG0438	1915	2979	-	[M] Glycosyltransferase     
+	IBGMHGLI_00561	CDS	COG1215	2980	3738	-	[M] Glycosyltransferases, probably involved in cell wall
+1077
+	IBGMHGLI_00562	tRNA	NA	3813	3888	-	NA
+	IBGMHGLI_00563	CDS	COG0304	3942	5078	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	IBGMHGLI_00564	CDS	COG3676	5023	5619	-	[L] Transposase and inactivated derivatives  
+1078
+	IBGMHGLI_00565	CDS	ROG0199	5813	6235	+	NA
+1079
+	IBGMHGLI_00566	CDS	COG4648	6533	6967	+	[S] Predicted membrane protein   
+	IBGMHGLI_00567	CDS	COG4899	6974	7489	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00568	CDS	COG0043	7509	8987	+	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+1080
+	IBGMHGLI_00569	CDS	COG2982	9052	11166	-	[M] Uncharacterized protein involved in outer membrane
+1081
+	IBGMHGLI_00570	CDS	COG2876	11257	12150	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+1082
+	IBGMHGLI_00571	CDS	COG0294	12290	13144	+	[H] Dihydropteroate synthase and related enzymes 
+	IBGMHGLI_00572	CDS	COG1109	13274	14608	+	[G] Phosphomannomutase     
+1083
+	IBGMHGLI_00573	CDS	COG0586	14797	15480	+	[S] Uncharacterized membrane-associated protein   
+1084
+	IBGMHGLI_00574	CDS	COG0252	15547	16539	+	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	IBGMHGLI_00575	CDS	COG0084	16547	17317	+	[L] Mg-dependent DNase    
+	IBGMHGLI_00576	CDS	COG0216	17421	18497	+	[J] Protein chain release factor A 
+1085
+	IBGMHGLI_00577	CDS	COG1052	18622	19620	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+1086
+	IBGMHGLI_00578	CDS	COG0172	19698	20993	-	[J] Seryl-tRNA synthetase    
+1087
+	IBGMHGLI_00579	CDS	COG0494	21075	21683	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	IBGMHGLI_00580	CDS	COG0187	21750	23735	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+1088
+	IBGMHGLI_00581	CDS	NA	23809	24213	-	NA
+1089
+	IBGMHGLI_00582	CDS	COG0082	24305	25405	-	[E] Chorismate synthase    
+1090
+	IBGMHGLI_00583	CDS	COG2265	25548	26636	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	IBGMHGLI_00584	CDS	COG1448	26657	27850	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+1091
+	IBGMHGLI_00585	tRNA	NA	27915	27990	-	NA
+1092
+	IBGMHGLI_00586	CDS	COG3245	28275	29114	+	[C] Cytochrome c5    
+1093
+	IBGMHGLI_00587	CDS	COG1003	29580	32432	-	[E] Glycine cleavage system protein P (pyridoxal-binding),
+	IBGMHGLI_00588	CDS	NA	32463	32822	-	NA
+1094
+	IBGMHGLI_00589	CDS	COG2755	33097	33720	-	[E] Lysophospholipase L1 and related esterases 
+	IBGMHGLI_00590	CDS	COG2818	33728	34279	-	[L] 3-methyladenine DNA glycosylase   
+	IBGMHGLI_00591	CDS	COG3009	34283	34801	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00592	CDS	COG3008	34801	36462	-	[R] Paraquat-inducible protein B   
+	IBGMHGLI_00593	CDS	COG2995	36455	37915	-	[S] Uncharacterized paraquat-inducible protein A  
+1095
+	IBGMHGLI_00594	CDS	COG3230	38253	38882	+	[P] Heme oxygenase    
+1096
+	IBGMHGLI_00595	CDS	NA	39076	39684	+	NA
+1097
+	IBGMHGLI_00596	CDS	ROG2025	40215	40691	-	NA
+1098
+	IBGMHGLI_00597	CDS	COG0826	40825	42180	-	[O] Collagenase and related proteases  
+1099
+	IBGMHGLI_00598	CDS	COG0561	42505	43293	+	[R] Predicted hydrolases of the HAD superfamily
+1100
+	IBGMHGLI_00599	CDS	COG0503	43339	43905	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+1101
+	IBGMHGLI_00600	CDS	COG0194	44066	44683	+	[F] Guanylate kinase    
+	IBGMHGLI_00601	CDS	COG1758	44742	44948	+	[K] DNA-directed RNA polymerase, subunit K/omega 
+	IBGMHGLI_00602	CDS	COG0317	45041	47197	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+1102
+	IBGMHGLI_00603	CDS	NA	47264	48448	-	NA
+1103
+	IBGMHGLI_01867	CDS	COG2946	109	1452	+	[L] Putative phage replication protein RstA 
+	IBGMHGLI_01868	CDS	NA	1497	1787	+	NA
+	IBGMHGLI_01869	CDS	NA	1792	1989	+	NA
+1104
+	IBGMHGLI_01870	CDS	COG4214	2063	2281	+	[G] ABC-type xylose transport system, permease component
+	IBGMHGLI_01871	CDS	NA	2288	2566	+	NA
+1105
+	IBGMHGLI_01872	CDS	NA	2694	3011	+	NA
+	IBGMHGLI_01873	CDS	ROG7065	2953	3393	+	NA
+1106
+	IBGMHGLI_01874	CDS	COG1508	209	1060	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+1107
+	IBGMHGLI_01875	CDS	NA	1408	2922	+	NA
+			NA				NA
+1108
+	IBGMHGLI_01877	CDS	COG3039	43	381	+	[L] Transposase and inactivated derivatives, IS5 family
+1109
+	IBGMHGLI_01878	CDS	COG3012	849	1124	+	[S] Uncharacterized protein conserved in bacteria 
+1110
+	IBGMHGLI_01879	CDS	COG0483	1343	2137	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+1111
+	IBGMHGLI_01880	CDS	NA	2346	3071	+	NA
+1112
+	IBGMHGLI_01881	tRNA	NA	97	170	+	NA
+	IBGMHGLI_01882	tRNA	NA	273	362	+	NA
+	IBGMHGLI_01883	CDS	COG0616	418	1518	+	[OU] Periplasmic serine proteases (ClpP class) 
+1113
+	IBGMHGLI_01884	CDS	ROG8102	1569	2030	-	NA
+	IBGMHGLI_01885	CDS	ROG8102	2252	2539	-	NA
+1114
+	IBGMHGLI_01886	CDS	COG3039	2804	3142	-	[L] Transposase and inactivated derivatives, IS5 family
+1115
+	IBGMHGLI_01887	CDS	COG0477	123	1340	+	[GEPR] Permeases of the major facilitator superfamily
+	IBGMHGLI_01888	CDS	NA	1337	1468	+	NA
+1116
+	IBGMHGLI_01889	CDS	COG0438	1696	2820	+	[M] Glycosyltransferase     
+1117
+	IBGMHGLI_01890	CDS	COG0101	963	1760	+	[J] Pseudouridylate synthase    
+1118
+	IBGMHGLI_01891	CDS	COG2336	1883	2122	+	[T] Growth regulator    
+	IBGMHGLI_01892	CDS	COG2337	2110	2433	+	[T] Growth inhibitor    
+1119
+	IBGMHGLI_01893	CDS	ROG1609	204	527	+	NA
+1120
+	IBGMHGLI_01894	CDS	NA	641	2818	+	NA
+1121
+	IBGMHGLI_01895	CDS	NA	72	632	+	NA
+1122
+	IBGMHGLI_01896	CDS	NA	744	2546	+	NA
+			NA				NA
+1123
+	IBGMHGLI_00604	CDS	COG0596	459	1391	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+1124
+	IBGMHGLI_00605	CDS	COG3317	1450	2577	-	[M] Uncharacterized lipoprotein    
+	IBGMHGLI_00606	CDS	COG0329	2655	3530	-	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+1125
+	IBGMHGLI_00607	CDS	COG2233	3920	5299	+	[F] Xanthine/uracil permeases    
+1126
+	IBGMHGLI_00608	CDS	COG0566	5361	6113	-	[J] rRNA methylases    
+1127
+	IBGMHGLI_00609	CDS	COG2839	6179	6667	-	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00610	CDS	COG0590	6672	7391	-	[FJ] Cytosine/adenosine deaminases    
+	IBGMHGLI_00611	CDS	COG0324	7395	8336	-	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+1128
+	IBGMHGLI_00612	CDS	NA	8690	8968	+	NA
+	IBGMHGLI_00613	CDS	COG4394	8981	10138	+	[S] Uncharacterized protein conserved in bacteria 
+	IBGMHGLI_00614	CDS	COG0231	10181	10741	+	[J] Translation elongation factor P (EF-P)/translation initiation
+1129
+	IBGMHGLI_00615	CDS	ROG0077	10791	11627	-	NA
+1130
+	IBGMHGLI_00616	CDS	COG0500	11744	12325	-	[QR] SAM-dependent methyltransferases    
+	IBGMHGLI_00617	CDS	COG2021	12322	13461	-	[E] Homoserine acetyltransferase    
+1131
+	IBGMHGLI_00618	CDS	COG0053	13611	13811	+	[P] Predicted Co/Zn/Cd cation transporters  
+1132
+	IBGMHGLI_00619	CDS	COG0257	14023	14148	-	[J] Ribosomal protein L36   
+	IBGMHGLI_00620	CDS	COG0254	14148	14423	-	[J] Ribosomal protein L31   
+1133
+	IBGMHGLI_00621	CDS	COG0685	14623	15501	+	[E] 5,10-methylenetetrahydrofolate reductase    
+	IBGMHGLI_00622	CDS	COG0620	15639	17915	+	[E] Methionine synthase II (cobalamin-independent)  
+1134
+	IBGMHGLI_00623	CDS	COG0678	18194	18931	+	[O] Peroxiredoxin     
+1135
+	IBGMHGLI_00624	CDS	COG1249	19114	20583	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+	IBGMHGLI_00625	CDS	COG2009	20862	21239	+	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	IBGMHGLI_00626	CDS	COG2142	21233	21574	+	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+	IBGMHGLI_00627	CDS	COG1053	21577	23340	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	IBGMHGLI_00628	CDS	COG0479	23461	24168	+	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+	IBGMHGLI_00629	CDS	COG2938	24172	24420	+	[S] Uncharacterized conserved protein   
+1136
+	IBGMHGLI_00630	CDS	COG0372	24532	25815	+	[C] Citrate synthase    
+	IBGMHGLI_00631	CDS	COG0567	26020	28848	+	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+	IBGMHGLI_00632	CDS	COG0508	28948	30129	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+	IBGMHGLI_00633	CDS	COG1249	30494	31927	+	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+1137
+	IBGMHGLI_00634	CDS	ROG6018	32022	32309	+	NA
+1138
+	IBGMHGLI_00635	CDS	COG0045	32408	33574	+	[C] Succinyl-CoA synthetase, beta subunit  
+	IBGMHGLI_00636	CDS	COG0074	33585	34475	+	[C] Succinyl-CoA synthetase, alpha subunit  
+1139
+	IBGMHGLI_00637	CDS	COG1943	34571	35038	-	[L] Transposase and inactivated derivatives  
+1140
+	IBGMHGLI_00638	CDS	COG0270	35439	36641	-	[L] Site-specific DNA methylase   
+	IBGMHGLI_00639	CDS	COG3183	36654	37838	-	[V] Predicted restriction endonuclease   
+	IBGMHGLI_00640	CDS	COG0178	37880	40729	-	[L] Excinuclease ATPase subunit   
+1141
+	IBGMHGLI_00641	CDS	COG0688	40884	41681	+	[I] Phosphatidylserine decarboxylase    
+1142
+	IBGMHGLI_00642	CDS	COG1629	42904	45180	-	[P] Outer membrane receptor proteins, mostly Fe
+1143
+	IBGMHGLI_00643	CDS	COG0512	45602	46192	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+	IBGMHGLI_00644	CDS	COG0547	46255	47313	+	[E] Anthranilate phosphoribosyltransferase    
