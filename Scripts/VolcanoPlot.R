@@ -5,7 +5,7 @@ library(ggplot2)
 library(EnhancedVolcano)
 
 #Read in rna dataset
-rna <- read.xlsx("~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx", sheet = 6, rowNames = T)[2:2272,c(8, 12:154)]
+rna <- read.xlsx("~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-04092024.xlsx", sheet = 6, rowNames = T)[2:2272,c(8, 12:154)]
 
 res = rna[,1:3]
 colnames(res) <- c("Locus", "qval", "log2 fold change")
