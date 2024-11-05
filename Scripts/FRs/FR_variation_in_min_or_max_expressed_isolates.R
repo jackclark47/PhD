@@ -1,7 +1,7 @@
 #script to check if the isolate with FR variation is the one with lowest expression.
 library(openxlsx)
 #load data
-fr <- read.xlsx('~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/igr_new_11012024.xlsx', sheet = 1)
+fr <- read.xlsx('~/Documents/PhD/RNA_IGR/Isolate_Igr_Data/Correct/igrs_all.xlsx', sheet = 1)
 rna <- read.xlsx('~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-04092024.xlsx', sheet = 8)
 
 #remove whitespace in rna
@@ -134,7 +134,7 @@ i53930 <- main(9,19, fr, rna)
 i53948 <- main(10,21, fr, rna)
 i53951 <- main(11,22, fr, rna)
 
-out <- cbind(i27509, i27553$value, i28262$value, i28269$value, i28287$value, i53951$value)
-out$`53930` <- 0
+out <- cbind(i27509, i27553$value, i28262$value, i28269$value, i28287$value, i53930$value)
 out$`53948` <- 0
-colnames(out) <- c('category', '27509', '27553', '28262', '28269', '28287', '53951', '53930', '53948')
+out$`53951` <- 0
+colnames(out) <- c('category', '27509', '27553', '28262', '28269', '28287', '53930', '53948', '53951')
