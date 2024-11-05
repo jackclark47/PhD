@@ -10,13 +10,11 @@ library(Biostrings)
 library(rBLAST)
 library(seqinr)
 #Read in the annotated .gbk. read_gbk converts the file to a .gff3 and reads it in that format
-isolate <- read_gbk("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/N222.2.gbk")
-isolateseq <- read.fasta("~/Documents/PhD/PhD/RNA_IGR/Isolate_fastas/N222.2.fasta", as.string = TRUE)
+isolate <- read_gbk("~/Documents/PhD/RNA_IGR/Isolate_fastas/N222.2.gbk")
+isolateseq <- read.fasta("~/Documents/PhD/RNA_IGR/Isolate_fastas/N222.2.fasta", as.string = TRUE)
 
 table(isolate$type)
 #First issue is the annotated file does not have NEIS codes, just a numeric order and the protein sequence.
-
-
 #Load blast database
 blast_db <- blast(db="~/Documents/PhD/PhD/N_meningitidis_loci/translations/BLAST_db/coding.fsa", type = 'blastp')
 
@@ -51,8 +49,8 @@ for(i in 2:nrow(isolate)){
   out$id[i] <- pub_id
   out$COG[i] <- COG_class
   
-  
 }
+
 out
 out2 <- out
 out <- out2
@@ -62,31 +60,31 @@ length(out$COG)
 length(unique(out$COG))
 
 #Now process the COG tables downloaded from ncbi to make one table of all cogs
-A <- read.csv("~/Downloads/COG/cog_A.tsv" , sep = '\t')
-B <- read.csv("~/Downloads/COG/cog_B.tsv" , sep = '\t')
-C <- read.csv("~/Downloads/COG/cog_C.tsv" , sep = '\t')
-D <- read.csv("~/Downloads/COG/cog_D.tsv" , sep = '\t')
-E <- read.csv("~/Downloads/COG/cog_E.tsv" , sep = '\t')
-f <- read.csv("~/Downloads/COG/cog_F.tsv" , sep = '\t')
-G <- read.csv("~/Downloads/COG/cog_G.tsv" , sep = '\t')
-H <- read.csv("~/Downloads/COG/cog_H.tsv" , sep = '\t')
-I <- read.csv("~/Downloads/COG/cog_I.tsv" , sep = '\t')
-J <- read.csv("~/Downloads/COG/cog_J.tsv" , sep = '\t')
-K <- read.csv("~/Downloads/COG/cog_K.tsv" , sep = '\t')
-L <- read.csv("~/Downloads/COG/cog_L.tsv" , sep = '\t')
-M <- read.csv("~/Downloads/COG/cog_M.tsv" , sep = '\t')
-N <- read.csv("~/Downloads/COG/cog_N.tsv" , sep = '\t')
-O <- read.csv("~/Downloads/COG/cog_O.tsv" , sep = '\t')
-P <- read.csv("~/Downloads/COG/cog_P.tsv" , sep = '\t')
-Q <- read.csv("~/Downloads/COG/cog_Q.tsv" , sep = '\t')
-R <- read.csv("~/Downloads/COG/cog_R.tsv" , sep = '\t')
-S <- read.csv("~/Downloads/COG/cog_S.tsv" , sep = '\t')
-t <- read.csv("~/Downloads/COG/cog_T.tsv" , sep = '\t')
-U <- read.csv("~/Downloads/COG/cog_U.tsv" , sep = '\t')
-V <- read.csv("~/Downloads/COG/cog_V.tsv" , sep = '\t')
-W <- read.csv("~/Downloads/COG/cog_W.tsv" , sep = '\t')
-X <- read.csv("~/Downloads/COG/cog_X.tsv" , sep = '\t')
-Z <- read.csv("~/Downloads/COG/cog_Z.tsv" , sep = '\t')
+A <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_A.tsv" , sep = '\t')
+B <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_B.tsv" , sep = '\t')
+C <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_C.tsv" , sep = '\t')
+D <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_D.tsv" , sep = '\t')
+E <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_E.tsv" , sep = '\t')
+f <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_F.tsv" , sep = '\t')
+G <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_G.tsv" , sep = '\t')
+H <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_H.tsv" , sep = '\t')
+I <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_I.tsv" , sep = '\t')
+J <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_J.tsv" , sep = '\t')
+K <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_K.tsv" , sep = '\t')
+L <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_L.tsv" , sep = '\t')
+M <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_M.tsv" , sep = '\t')
+N <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_N.tsv" , sep = '\t')
+O <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_O.tsv" , sep = '\t')
+P <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_P.tsv" , sep = '\t')
+Q <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_Q.tsv" , sep = '\t')
+R <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_R.tsv" , sep = '\t')
+S <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_S.tsv" , sep = '\t')
+t <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_T.tsv" , sep = '\t')
+U <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_U.tsv" , sep = '\t')
+V <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_V.tsv" , sep = '\t')
+W <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_W.tsv" , sep = '\t')
+X <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_X.tsv" , sep = '\t')
+Z <- read.csv("~/Documents/PhD/PhD/Functional_analysis/COG/cog_Z.tsv" , sep = '\t')
 
 COGs <- rbind(A, B, C, D, E, f, G, H, I, J, K, L, M, N, O, P, Q, R, S, t, U, V, W, X, Z)
 
@@ -118,9 +116,9 @@ length(out$COG)
 
 
 #How often does each COG class appear? Get a table of Class and number of appearances
-write.xlsx(table(out$category), file = '~/Downloads/COG/COGs_whole_genome.xlsx')
+write.xlsx(table(out$category), file = '~/Documents/PhD/PhD/Functional_analysis/COG/COGs_whole_genome.xlsx')
 #Now look at how the COGs are distributed throughout the rna dataset log2() > 1, >2 and the whole set
-rna <- read.xlsx('~/Documents/PhD/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-16082022.xlsx', sheet = 9)[, c(8,9,14)]
+rna <- read.xlsx('~/Documents/PhD/RNA_IGR/11-7_run_5_transcripts-cdb-04092024.xlsx', sheet = 8)[, c(8,9,14)]
 #Remove whitespaces in locus names in the rna dataset
 for(i in 1:length(rna$`1717.genes`)){
   rna$`1717.genes`[i] <- str_trim(rna$`1717.genes`[i])
@@ -147,12 +145,12 @@ for(i in 1:nrow(out)){
 
 #get a table of those with log(EXP/MIN >= 1)
 out_1 <- out[which(out$log2_exp_change >=1) ,]
-write.xlsx(table(out_1$category), file = '~/Downloads/COG/COGs_above_1.xlsx')
+write.xlsx(table(out_1$category), file = '~/Documents/PhD/PhD/Functional_analysis/COG/COGs_above_1.xlsx')
 
 
 #and a table of those with >= 2
 out_2 <- out[which(out$log2_exp_change >=2), ]
-write.xlsx(table(out_2$category), file = '~/Downloads/COG/COGs_above_2.xlsx')
+write.xlsx(table(out_2$category), file = '~/Documents/PhD/PhD/Functional_analysis/COG/COGs_above_2.xlsx')
 
 #stats tests for testing significantly distributions of COG categories
 
