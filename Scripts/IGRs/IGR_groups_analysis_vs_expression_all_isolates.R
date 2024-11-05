@@ -85,6 +85,9 @@ for(i in 1:nrow(var_plotdata)){
 }
 var_plotdata <- var_plotdata[-removable,]
 
+operon <- read.xlsx('~/Documents/PhD/PhD/operon_mapper_res/opdata.xlsx')
+operon <- operon$pubmlst_id
+var_plotdata <- var_plotdata[which(!(var_plotdata$Locus %in% operon)),]
 #plot by vargroup
 var_plotdata$log2fold.change %<>% as.numeric()
 vargroup_plotdata$log2fold.change %<>% as.numeric()
